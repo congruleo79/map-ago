@@ -390,7 +390,10 @@
 
 .finish-list__link {
   display: inline-block;
+  max-width: 100%;
   margin-top: 0.55rem;
+  overflow-wrap: anywhere;
+  word-break: break-word;
   text-decoration-color: rgba(236, 243, 242, 0.3);
   text-underline-offset: 0.18em;
 }

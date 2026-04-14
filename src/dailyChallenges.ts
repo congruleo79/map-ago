@@ -65,13 +65,13 @@ const dailyChallenges: Record<string, LocationTarget[]> = {
   ],
   "2026-04-15": [
     {
-      name: "Athens",
-      region: "Greece",
-      text: "On April 15, 1896, the closing ceremony of the first modern Olympic Games was held in Athens. The city became the symbolic starting point for the revived international Olympic movement.",
-      link: "https://en.wikipedia.org/wiki/1896_Summer_Olympics",
-      source: "https://www.wikidata.org/wiki/Q1524",
-      views: 71778,
-      coordinates: { lat: 37.98416666666667, lng: 23.728055555555557 },
+      name: "Boston",
+      region: "United States",
+      text: "On April 15, 2013, the Boston Marathon bombing turned Boston into the center of a major domestic terror attack and the days-long manhunt that followed. The attack permanently linked the city to one of the most consequential acts of violence in recent American public life.",
+      link: "https://en.wikipedia.org/wiki/Boston_Marathon_bombing",
+      source: "https://www.wikidata.org/wiki/Q100",
+      views: 122805,
+      coordinates: { lat: 42.360277777777775, lng: -71.05777777777777 },
     },
     {
       name: "Bari",
@@ -130,13 +130,13 @@ const dailyChallenges: Record<string, LocationTarget[]> = {
       coordinates: { lat: -24.788333333333, lng: -65.410555555556 },
     },
     {
-      name: "Kotka",
-      region: "Finland",
-      text: "On April 16, 1878, the Senate of the Grand Duchy of Finland issued the declaration establishing the city of Kotka. The date marks the formal beginning of this major Finnish port city.",
-      link: "https://en.wikipedia.org/wiki/Kotka",
-      source: "https://www.wikidata.org/wiki/Q192155",
-      views: 2129,
-      coordinates: { lat: 60.466666666667, lng: 26.945833333333 },
+      name: "Blacksburg",
+      region: "United States",
+      text: "On April 16, 2007, the Virginia Tech shooting made Blacksburg the site of the deadliest school shooting in U.S. history. The town became the center of a tragedy that reshaped national debates over campus safety and gun violence.",
+      link: "https://en.wikipedia.org/wiki/Virginia_Tech_shooting",
+      source: "https://www.wikidata.org/wiki/Q285816",
+      views: 7184,
+      coordinates: { lat: 37.23, lng: -80.41777777777777 },
     },
     {
       name: "Athens",
@@ -148,13 +148,13 @@ const dailyChallenges: Record<string, LocationTarget[]> = {
       coordinates: { lat: 37.98416666666667, lng: 23.728055555555557 },
     },
     {
-      name: "Malta",
+      name: "Valletta",
       region: "Malta",
       text: "On April 16, 1942, King George VI awarded the George Cross to Malta in recognition of the island's collective wartime bravery. The decoration became one of the defining symbols of Malta's experience in World War II.",
       link: "https://en.wikipedia.org/wiki/Award_of_the_George_Cross_to_Malta",
       source: "https://www.wikidata.org/wiki/Q233",
       views: 185957,
-      coordinates: { lat: 35.88333333333333, lng: 14.5 },
+      coordinates: { lat: 35.898333, lng: 14.5125 },
     },
   ],
   "2026-04-17": [
@@ -301,10 +301,7 @@ const dailyChallenges: Record<string, LocationTarget[]> = {
 }
 
 const sortedDailyChallenges: Record<string, LocationTarget[]> = Object.fromEntries(
-  Object.entries(dailyChallenges).map(([dateKey, targets]) => [
-    dateKey,
-    [...targets].sort((left, right) => (right.views ?? 0) - (left.views ?? 0)),
-  ]),
+  Object.entries(dailyChallenges).map(([dateKey, targets]) => [dateKey, [...targets].sort((left, right) => (right.views ?? 0) - (left.views ?? 0))]),
 )
 
 export function getLocalDateKey(date: Date) {

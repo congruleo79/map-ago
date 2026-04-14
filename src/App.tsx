@@ -15,14 +15,84 @@ type RoundResult = {
   points: number
 }
 
+type StoredRoundResult = {
+  guess: LatLngLiteral
+  distanceKm: number
+  points: number
+}
+
+type StoredCompletedGame = {
+  version: 1
+  dateKey: string
+  results: StoredRoundResult[]
+}
+
 const earthHalfCircumferenceKm = Math.PI * 6371
 const perfectToleranceKm = 10
 const mapAttribution = "&copy; Esri, Maxar, Earthstar Geographics, and the GIS User Community"
 const defaultCenter: [number, number] = [18, 11]
 const defaultZoom = 2
 const worldOffsets = [-360, 0, 360]
+const completedGameStorageKeyPrefix = "mapago:completed-game:"
 const guessPinIcon = createPinIcon("map-pin map-pin--guess")
 const targetPinIcon = createPinIcon("map-pin map-pin--target")
+
+function getCompletedGameStorageKey(dateKey: string) {
+  return `${completedGameStorageKeyPrefix}${dateKey}`
+}
+
+function isStoredRoundResult(value: unknown): value is StoredRoundResult {
+  if (!value || typeof value !== "object") {
+    return false
+  }
+
+  const candidate = value as Partial<StoredRoundResult>
+
+  return (
+    !!candidate.guess &&
+    typeof candidate.guess.lat === "number" &&
+    Number.isFinite(candidate.guess.lat) &&
+    typeof candidate.guess.lng === "number" &&
+    Number.isFinite(candidate.guess.lng) &&
+    typeof candidate.distanceKm === "number" &&
+    Number.isFinite(candidate.distanceKm) &&
+    typeof candidate.points === "number" &&
+    Number.isFinite(candidate.points)
+  )
+}
+
+function loadCompletedGameResults(dateKey: string, targets: LocationTarget[]) {
+  if (typeof window === "undefined") {
+    return null
+  }
+
+  try {
+    const storedValue = window.localStorage.getItem(getCompletedGameStorageKey(dateKey))
+
+    if (!storedValue) {
+      return null
+    }
+
+    const parsedValue = JSON.parse(storedValue) as Partial<StoredCompletedGame>
+
+    if (parsedValue.version !== 1 || parsedValue.dateKey !== dateKey || !Array.isArray(parsedValue.results) || parsedValue.results.length !== targets.length) {
+      return null
+    }
+
+    if (!parsedValue.results.every(isStoredRoundResult)) {
+      return null
+    }
+
+    return parsedValue.results.map((result, index) => ({
+      target: targets[index],
+      guess: result.guess,
+      distanceKm: result.distanceKm,
+      points: result.points,
+    }))
+  } catch {
+    return null
+  }
+}
 
 function toRadians(value: number) {
   return (value * Math.PI) / 180
@@ -169,8 +239,48 @@ function getFinalScoreMood(totalPoints: number, maxPoints: number) {
   }
 }
 
+function formatShareDate(dateKey: string) {
+  const [year, month, day] = dateKey.split("-").map(Number)
+
+  return new Intl.DateTimeFormat("en-US", {
+    month: "long",
+    day: "numeric",
+    year: "numeric",
+  }).format(new Date(year, month - 1, day))
+}
+
+function getOverrideDateFromUrl() {
+  if (typeof window === "undefined") {
+    return null
+  }
+
+  const overrideDate = new URLSearchParams(window.location.search).get("overridedate")
+
+  if (!overrideDate) {
+    return null
+  }
+
+  const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(overrideDate)
+
+  if (!match) {
+    return null
+  }
+
+  const [, yearText, monthText, dayText] = match
+  const year = Number(yearText)
+  const month = Number(monthText)
+  const day = Number(dayText)
+  const parsedDate = new Date(year, month - 1, day)
+
+  if (parsedDate.getFullYear() !== year || parsedDate.getMonth() !== month - 1 || parsedDate.getDate() !== day) {
+    return null
+  }
+
+  return parsedDate
+}
+
 function getWikipediaLink(target: LocationTarget) {
-  return target.link ?? `https://en.wikipedia.org/wiki/${encodeURIComponent(target.name.replace(/\s+/g, "_"))}`
+  return target.link
 }
 
 function wrapLongitudeNearReference(referenceLng: number, lng: number) {
@@ -331,18 +441,30 @@ function GameMap({
   target: LatLngLiteral
   onGuess: (nextGuess: LatLngLiteral) => void
 }) {
+  const map = useMap()
   const displayedTarget = revealTarget ? getWrappedTargetForDisplay(guess, target) : target
   const guessCopies = guess ? getWrappedCopies(guess) : []
   const targetCopies = revealTarget ? getWrappedCopies(displayedTarget) : []
+
+  useEffect(() => {
+    const container = map.getContainer()
+
+    const handleTouchStart = () => {
+      onMapInteract()
+    }
+
+    container.addEventListener("touchstart", handleTouchStart, { passive: true })
+
+    return () => {
+      container.removeEventListener("touchstart", handleTouchStart)
+    }
+  }, [map, onMapInteract])
 
   useMapEvents({
     mousedown() {
       onMapInteract()
     },
     dragstart() {
-      onMapInteract()
-    },
-    zoomstart() {
       onMapInteract()
     },
     click(event: LeafletMouseEvent) {
@@ -372,15 +494,16 @@ function GameMap({
 }
 
 function App() {
-  const dailyChallenge = useMemo(() => getDailyChallenge(new Date()), [])
+  const dailyChallenge = useMemo(() => getDailyChallenge(getOverrideDateFromUrl() ?? new Date()), [])
   const targets = dailyChallenge.targets
-  const [roundIndex, setRoundIndex] = useState(0)
+  const persistedResults = useMemo(() => loadCompletedGameResults(dailyChallenge.dateKey, targets), [dailyChallenge.dateKey, targets])
+  const [roundIndex, setRoundIndex] = useState(persistedResults ? targets.length - 1 : 0)
   const [guess, setGuess] = useState<LatLngLiteral | null>(null)
   const [isMobileViewport, setIsMobileViewport] = useState(false)
   const [hasInteractedWithMap, setHasInteractedWithMap] = useState(false)
   const [isChallengeTextExpanded, setIsChallengeTextExpanded] = useState(true)
-  const [results, setResults] = useState<RoundResult[]>([])
-  const [showFinalResults, setShowFinalResults] = useState(false)
+  const [results, setResults] = useState<RoundResult[]>(persistedResults ?? [])
+  const [showFinalResults, setShowFinalResults] = useState(Boolean(persistedResults))
   const [shareMessage, setShareMessage] = useState<string | null>(null)
   const distanceCalculatorRef = useRef<((a: LatLngLiteral, b: LatLngLiteral) => number) | null>(null)
 
@@ -395,6 +518,7 @@ function App() {
   const totalPoints = useMemo(() => results.reduce((sum, result) => sum + result.points, 0), [results])
   const finalScoreMood = useMemo(() => getFinalScoreMood(totalPoints, maxPoints), [maxPoints, totalPoints])
   const isChallengeCollapsed = isMobileViewport && hasInteractedWithMap && !isChallengeTextExpanded && !isRoundResolved
+  const shareDate = useMemo(() => formatShareDate(dailyChallenge.dateKey), [dailyChallenge.dateKey])
 
   useEffect(() => {
     const mediaQuery = window.matchMedia("(max-width: 640px)")
@@ -411,12 +535,36 @@ function App() {
     }
   }, [])
 
-  const shareText = useMemo(() => {
-    const shareUrl = typeof window === "undefined" ? "" : window.location.href
-    const perRound = results.map((result) => `${getShareSquares(result.points)} ${result.points} (${formatDistance(result.distanceKm)} km)`).join("\n")
+  useEffect(() => {
+    if (typeof window === "undefined") {
+      return
+    }
 
-    return `${shareUrl}\nCan you beat ${totalPoints}/${maxPoints} points?\n${perRound}`
-  }, [maxPoints, results, totalPoints])
+    const storageKey = getCompletedGameStorageKey(dailyChallenge.dateKey)
+
+    if (!isAllRoundsScored) {
+      window.localStorage.removeItem(storageKey)
+      return
+    }
+
+    const storedGame: StoredCompletedGame = {
+      version: 1,
+      dateKey: dailyChallenge.dateKey,
+      results: results.map(({ guess: roundGuess, distanceKm, points }) => ({
+        guess: roundGuess,
+        distanceKm,
+        points,
+      })),
+    }
+
+    window.localStorage.setItem(storageKey, JSON.stringify(storedGame))
+  }, [dailyChallenge.dateKey, isAllRoundsScored, results])
+
+  const shareText = useMemo(() => {
+    const perRound = results.map((result) => `${getShareSquares(result.points)} ${result.points}% (${formatDistance(result.distanceKm)} km)`).join("\n")
+
+    return `MapAgo ${shareDate}\nCan you beat ${totalPoints}/${maxPoints}?\n${perRound}\n`
+  }, [maxPoints, results, shareDate, totalPoints])
 
   function submitGuess() {
     if (!guess || !currentTarget || isRoundResolved) {
@@ -475,7 +623,7 @@ function App() {
         return
       }
 
-      await navigator.clipboard.writeText(shareText)
+      await navigator.clipboard.writeText(shareText + "\n" + shareUrl)
       setShareMessage("Score copied to clipboard.")
     } catch {
       setShareMessage("Sharing was cancelled or blocked.")
@@ -600,6 +748,7 @@ function App() {
       {isFinished ? (
         <section className="overlay overlay--finish" aria-label="Final score">
           <div className="finish-card">
+            <p className="eyebrow eyebrow--left">{shareDate}</p>
             <div className="round-indicators" aria-label={`Results for ${targets.length} rounds`}>
               {results.map((result) => (
                 <span
@@ -612,7 +761,7 @@ function App() {
               ))}
             </div>
             <h2>
-              {totalPoints}/{maxPoints}
+              {totalPoints}/{maxPoints} Points
             </h2>
             <div className="finish-verdict">
               <p className="finish-verdict__badge">
@@ -620,6 +769,7 @@ function App() {
                 <span className="finish-verdict__label">{finalScoreMood.level}</span>
               </p>
               <p className="lead finish-verdict__message">{finalScoreMood.message}</p>
+              <p>Check back tomorrow for a fresh set of locations.</p>
             </div>
             <div className="finish-actions">
               <button type="button" className="button button--primary" onClick={shareScore}>
@@ -643,7 +793,7 @@ function App() {
                   </h3>
                   {result.target.text ? <p className="finish-list__description">{result.target.text}</p> : null}
                   <a className="finish-list__link" href={getWikipediaLink(result.target)} target="_blank" rel="noreferrer">
-                    Learn more on wikipedia
+                    {getWikipediaLink(result.target)}
                   </a>
                 </li>
               ))}
