@@ -1,9 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from "react"
-import * as L from "leaflet"
 import { MapContainer, Marker, TileLayer, useMap, useMapEvents } from "react-leaflet"
 import { divIcon } from "leaflet"
 import type { DivIcon, LatLngLiteral, LeafletMouseEvent } from "leaflet"
-import "leaflet.geodesic"
+import { GeodesicLine } from "leaflet.geodesic"
 import "leaflet/dist/leaflet.css"
 import "./App.css"
 import { getDailyChallenge } from "./dailyChallenges"
@@ -294,7 +293,7 @@ function GeodesicConnection({ guess, revealTarget, target }: { guess: LatLngLite
     }
 
     const geodesics = getWrappedGuessTargetPairs(guess, target).map(({ guess: guessCopy, target: targetCopy }) => {
-      return new L.Geodesic([guessCopy, targetCopy], {
+      return new GeodesicLine([guessCopy, targetCopy], {
         color: "#f27d42",
         opacity: 0.9,
         weight: 3,
