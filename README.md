@@ -30,17 +30,6 @@ Output a list of locations with
 
 Sort the locations by difficulty, i.e. how "hard" they are to guess on a map
 
----
-
-Ok, here's my final pick:
-
-1. Houston, United States
-   Referencing the "houston we have a problem quote"
-2. Monaco
-3. Tbilisi
-4. Dhaka (but don't make it about the bombing, just the Bengali new year is good)
-5. Chibok
-
 Output them into `dailyChallenges.ts` in the following format.
 
 {
