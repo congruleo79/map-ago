@@ -249,6 +249,59 @@ function formatShareDate(dateKey: string) {
   }).format(new Date(year, month - 1, day))
 }
 
+async function copyTextWithLegacyFallback(text: string) {
+  if (typeof navigator !== "undefined" && navigator.clipboard?.writeText) {
+    try {
+      await navigator.clipboard.writeText(text)
+      return true
+    } catch {
+      // Fall through to the legacy copy path below.
+    }
+  }
+
+  if (typeof document === "undefined") {
+    return false
+  }
+
+  const textarea = document.createElement("textarea")
+  textarea.value = text
+  textarea.setAttribute("readonly", "")
+  textarea.setAttribute("aria-hidden", "true")
+  textarea.style.position = "fixed"
+  textarea.style.top = "0"
+  textarea.style.left = "0"
+  textarea.style.width = "1px"
+  textarea.style.height = "1px"
+  textarea.style.padding = "0"
+  textarea.style.border = "0"
+  textarea.style.opacity = "0"
+
+  document.body.appendChild(textarea)
+
+  const selection = document.getSelection()
+  const originalRange = selection && selection.rangeCount > 0 ? selection.getRangeAt(0) : null
+
+  textarea.focus()
+  textarea.select()
+  textarea.setSelectionRange(0, textarea.value.length)
+
+  try {
+    return document.execCommand("copy")
+  } catch {
+    return false
+  } finally {
+    document.body.removeChild(textarea)
+
+    if (selection) {
+      selection.removeAllRanges()
+
+      if (originalRange) {
+        selection.addRange(originalRange)
+      }
+    }
+  }
+}
+
 function getOverrideDateFromUrl() {
   if (typeof window === "undefined") {
     return null
@@ -563,7 +616,7 @@ function App() {
   const shareText = useMemo(() => {
     const perRound = results.map((result) => `${getShareSquares(result.points)} ${result.points}% (${formatDistance(result.distanceKm)} km)`).join("\n")
 
-    return `MapAgo ${shareDate}\nCan you beat ${totalPoints}/${maxPoints}?\n${perRound}\n`
+    return `MapAgo ${shareDate}\n${perRound}\nCan you beat *${totalPoints} Points*?\n`
   }, [maxPoints, results, shareDate, totalPoints])
 
   function submitGuess() {
@@ -610,10 +663,11 @@ function App() {
   }
 
   async function shareScore() {
-    try {
-      const shareUrl = typeof window === "undefined" ? "" : window.location.href
+    const shareUrl = typeof window === "undefined" ? "" : window.location.href
+    const sharePayload = shareText + "\n" + shareUrl
 
-      if (isMobileViewport && typeof navigator.share === "function") {
+    try {
+      if (typeof navigator !== "undefined" && typeof navigator.share === "function") {
         await navigator.share({
           title: "MapAgo score",
           text: shareText,
@@ -622,12 +676,18 @@ function App() {
         setShareMessage("Score shared.")
         return
       }
-
-      await navigator.clipboard.writeText(shareText + "\n" + shareUrl)
-      setShareMessage("Score copied to clipboard.")
     } catch {
-      setShareMessage("Sharing was cancelled or blocked.")
+      // Fall through to clipboard-based fallbacks.
     }
+
+    const copied = await copyTextWithLegacyFallback(sharePayload)
+
+    if (copied) {
+      setShareMessage("Score copied to clipboard.")
+      return
+    }
+
+    setShareMessage("Sharing and copy both failed.")
   }
 
   return (

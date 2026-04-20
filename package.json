@@ -6,6 +6,11 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
+    "ai:events": "tsx scripts/get-on-this-day.ts",
+    "ai:coordinates": "tsx scripts/get-wikidata-coordinates.ts",
+    "ai:populate": "tsx scripts/populate-daily-challenges.ts",
+    "ai:views": "tsx scripts/get-wikipedia-views.ts",
+    "ai:used-locations": "tsx scripts/get-used-locations.ts",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "lint": "eslint .",
@@ -32,6 +37,7 @@
     "globals": "^17.4.0",
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.58.0",
+    "tsx": "^4.20.6",
     "vite": "^8.0.4"
   }
 }
