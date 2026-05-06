@@ -103,8 +103,77 @@ type ResolvedLocation = {
   articleUrl: string | null
 }
 
+const ISO_COUNTRY_CODES: Record<string, string> = {
+  Afghanistan: "AF",
+  Algeria: "DZ",
+  Argentina: "AR",
+  Aruba: "AW",
+  Australia: "AU",
+  Bangladesh: "BD",
+  Bolivia: "BO",
+  Brazil: "BR",
+  Canada: "CA",
+  Chile: "CL",
+  China: "CN",
+  "Czech Republic": "CZ",
+  Denmark: "DK",
+  "Dominican Republic": "DO",
+  Egypt: "EG",
+  Estonia: "EE",
+  Ethiopia: "ET",
+  France: "FR",
+  Gabon: "GA",
+  Georgia: "GE",
+  Germany: "DE",
+  Greece: "GR",
+  India: "IN",
+  Indonesia: "ID",
+  Iraq: "IQ",
+  Ireland: "IE",
+  Israel: "IL",
+  Italy: "IT",
+  Japan: "JP",
+  Lithuania: "LT",
+  Mali: "ML",
+  Malta: "MT",
+  Mexico: "MX",
+  Monaco: "MC",
+  Morocco: "MA",
+  Mozambique: "MZ",
+  Namibia: "NA",
+  Nepal: "NP",
+  Netherlands: "NL",
+  Nicaragua: "NI",
+  Nigeria: "NG",
+  "North Macedonia": "MK",
+  Philippines: "PH",
+  Poland: "PL",
+  Portugal: "PT",
+  "Puerto Rico": "PR",
+  "South Africa": "ZA",
+  "South Korea": "KR",
+  Sweden: "SE",
+  Switzerland: "CH",
+  Syria: "SY",
+  Tanzania: "TZ",
+  Thailand: "TH",
+  "The Gambia": "GM",
+  Ukraine: "UA",
+  "United Kingdom": "GB",
+  "United States": "US",
+  Uzbekistan: "UZ",
+  "Vatican City": "VA",
+  Venezuela: "VE",
+  Vietnam: "VN",
+  "West Bank": "PS",
+}
+
 let requestDelayMs = 1000
 let lastRequestAt = 0
+
+function getIsoCountryCode(region: string) {
+  return ISO_COUNTRY_CODES[region]
+}
 
 async function throttledFetch(url: string | URL, init?: RequestInit) {
   const elapsedMs = Date.now() - lastRequestAt
@@ -415,6 +484,7 @@ const output: Record<
   Array<{
     name: string
     region: string
+    isoCountryCode?: string
     text: string
     link: string
     source: string
@@ -432,16 +502,18 @@ for (const [dateKey, entries] of Object.entries(input)) {
   for (const entry of entries) {
     const resolvedLocation = await resolveLocation(entry.name, entry.region)
     const link = entry.link ?? resolvedLocation.articleUrl
+    const viewsSource = resolvedLocation.articleTitle ?? resolvedLocation.articleUrl ?? entry.name
 
     if (!link) {
       fail(`Missing Wikipedia link for ${entry.name}, ${entry.region}.`)
     }
 
-    const views = await fetchViews(link, months, endMonth)
+    const views = await fetchViews(viewsSource, months, endMonth)
 
     output[dateKey].push({
       name: entry.name,
       region: entry.region,
+      isoCountryCode: getIsoCountryCode(entry.region),
       text: entry.text,
       link,
       source: resolvedLocation.source,

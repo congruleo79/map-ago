@@ -31,14 +31,19 @@ npm run ai:used-locations -- --format prompt
 
 ## Prompt
 
-MapAgo is a daily guessing game, where you guess 5 locations on a map that somehow, maybe even loosely relate to the current date. Locations can be places where something happened on that day, a city, monument or natural formation related to these events, birthplaces, etc. or maybe even the 5 locations of a date could follow a certain theme, e.g. February 14, Valentines day could feature locations associated with Love, like Paris.
+MapAgo is a daily guessing game, where you guess 5 locations on a map that somehow, maybe even loosely relate thematically to the current date. Locations can be places where something happened on that day, a city, monument or natural formation related to these events, birthplaces, etc. or maybe even the 5 locations of a date could follow a certain theme, e.g. February 14, Valentines day could feature locations associated with Love, like Paris.
 
-I want you to curate a list of 5 interesting locations for April 20 and output them into the JSON file at `src/dailyChallenges.json`.
+I want you to curate a list of 5 interesting locations for each day between May 2 and May 9 and output them into the JSON file at `src/dailyChallenges.json`.
 
-Use
+All Locations need to be NEW locations, that have never been used before.
+
+Use:
+
+- `npm run ai:used-locations -- --format prompt` to see which locations have already been used, so you don't duplicate recent locations
+
+Then source events from wikipedia:
 
 - `npm run ai:events -- --date ...` to receive events/festivities for a certain date from wikipedia
-- `npm run ai:used-locations -- --format prompt` to see which locations have already been used, so you don't duplicate recent locations
 - you can query wikipedia yourself when more research on an article is needed
 - `npm run ai:coordinates` to get the coordinates for a location
 - `npm run ai:views` to get the views for a location
@@ -52,18 +57,22 @@ Requirements:
 - Each object must contain exactly these fields:
   - `name`
   - `region`
+  - `isoCountryCode`
   - `text`
   - `link`
   - `views`
   - `coordinates`
+
 - `name` must be the name of the location (e.g. city, monument, formation)
 - `region` must be the name of the containing region, usually a country
-- `text` must be 3-4 sentences, which will be shown to players, elaborating on how this city is connected to that day and sparking curiosity.
-- `text` must begin with `On {Month} {Day}` and may include a year where useful.
-- `link` must be a single English Wikipedia article URL that best supports the explanation.
-- `views` must be the number of views of the wikipedia article of that location, determining how well known it is, or inversely how hard it is to guess
+- `isoCountryCode` must be a 2 letter ISO code
+- `text` must be 3-4 sentences, which can be shown to players, elaborating on how this city is connected to that day and sparking curiosity.
+- `text` must begin with `On {Month} {Day}`, when referring to a past event on that day.
+- `link` must be a single English Wikipedia article URL thats the source for the "text".
+- `views` must be the number of views of the wikipedia article of that location (not the event, but the location!), determining how well known it is and inversely how hard it is to guess
 - `coordinates` must be in this format `{ "lat": number, "lng": number }` and be EXACTLY the coordinates of the location to guess.
 - Locations can be cities or other specific point locations, NOT vague regions.
+
 - Keep the set globally diverse:
   - no country more than twice per day
   - at least 4 continents represented per day
@@ -85,7 +94,8 @@ Expected JSON shape example:
       "coordinates": {
         "lat": 29.762777777778,
         "lng": -95.383055555556
-      }
+      },
+      "isoCountryCode": "US"
     }
   ]
 }

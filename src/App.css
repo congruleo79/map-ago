@@ -167,6 +167,14 @@
   color: #ff9ca6;
 }
 
+.challenge-region-flag {
+  display: inline-block;
+  margin-left: 0.35rem;
+  font-size: 0.68em;
+  line-height: 1;
+  vertical-align: 0.08em;
+}
+
 .challenge-text {
   margin-top: 0.65rem;
   color: rgba(236, 243, 242, 0.92);

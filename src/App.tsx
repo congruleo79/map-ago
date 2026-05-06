@@ -27,8 +27,11 @@ type StoredCompletedGame = {
   results: StoredRoundResult[]
 }
 
-const earthHalfCircumferenceKm = Math.PI * 6371
-const perfectToleranceKm = 10
+const earthRadiusKm = 6371
+const earthHalfCircumferenceKm = Math.PI * earthRadiusKm
+const legacyPerfectToleranceKm = 10
+const updatedPerfectToleranceKm = 15
+const updatedScoringStartDateKey = "2026-04-23"
 const mapAttribution = "&copy; Esri, Maxar, Earthstar Geographics, and the GIS User Community"
 const defaultCenter: [number, number] = [18, 11]
 const defaultZoom = 2
@@ -109,14 +112,18 @@ function getDistanceKm(a: LatLngLiteral, b: LatLngLiteral) {
   return 2 * 6371 * Math.asin(Math.sqrt(haversine))
 }
 
-function getPoints(distanceKm: number) {
-  if (distanceKm <= perfectToleranceKm) {
+function getPoints(distanceKm: number, dateKey: string) {
+  const normalizedDistance = Math.min(distanceKm, earthHalfCircumferenceKm)
+  const newFormula = dateKey >= updatedScoringStartDateKey
+
+  const tolerance = newFormula ? updatedPerfectToleranceKm : legacyPerfectToleranceKm
+  const distanceRatio = (normalizedDistance - tolerance) / (earthHalfCircumferenceKm - tolerance)
+
+  if (distanceKm <= tolerance) {
     return 100
   }
 
-  const normalizedDistance = Math.min(distanceKm, earthHalfCircumferenceKm)
-  const linearRatio = 1 - (normalizedDistance - perfectToleranceKm) / (earthHalfCircumferenceKm - perfectToleranceKm)
-  const scoreRatio = linearRatio ** 6
+  const scoreRatio = newFormula ? Math.pow(1 - Math.pow(distanceRatio, 0.6), 2.6) : Math.pow(1 - distanceRatio, 6)
 
   return Math.max(0, Math.floor(scoreRatio * 100))
 }
@@ -141,8 +148,22 @@ function formatDistance(distanceKm: number) {
   }).format(distanceKm)
 }
 
+function getFlagEmoji(isoCountryCode?: string) {
+  if (!isoCountryCode) {
+    return ""
+  }
+
+  const normalizedCountryCode = isoCountryCode.trim().toUpperCase()
+
+  if (!/^[A-Z]{2}$/.test(normalizedCountryCode)) {
+    return ""
+  }
+
+  return String.fromCodePoint(...normalizedCountryCode.split("").map((character) => 127397 + character.charCodeAt(0)))
+}
+
 function getRoundTease(distanceKm: number) {
-  if (distanceKm <= perfectToleranceKm) {
+  if (distanceKm <= 15) {
     return "🎉 Spot on! That was insanely accurate."
   }
 
@@ -572,6 +593,7 @@ function App() {
   const finalScoreMood = useMemo(() => getFinalScoreMood(totalPoints, maxPoints), [maxPoints, totalPoints])
   const isChallengeCollapsed = isMobileViewport && hasInteractedWithMap && !isChallengeTextExpanded && !isRoundResolved
   const shareDate = useMemo(() => formatShareDate(dailyChallenge.dateKey), [dailyChallenge.dateKey])
+  const challengeHeaderLabel = dailyChallenge.theme?.title ?? shareDate
 
   useEffect(() => {
     const mediaQuery = window.matchMedia("(max-width: 640px)")
@@ -614,7 +636,14 @@ function App() {
   }, [dailyChallenge.dateKey, isAllRoundsScored, results])
 
   const shareText = useMemo(() => {
-    const perRound = results.map((result) => `${getShareSquares(result.points)} ${result.points}% (${formatDistance(result.distanceKm)} km)`).join("\n")
+    const perRound = results
+      .map((result) => {
+        const flag = getFlagEmoji(result.target.isoCountryCode)
+        const flagPrefix = flag ? `${flag} ` : ""
+
+        return `${getShareSquares(result.points)} ${flagPrefix}${result.points}% (${formatDistance(result.distanceKm)} km)`
+      })
+      .join("\n")
 
     return `MapAgo ${shareDate}\n${perRound}\nCan you beat *${totalPoints} Points*?\n`
   }, [maxPoints, results, shareDate, totalPoints])
@@ -625,7 +654,7 @@ function App() {
     }
 
     const distanceKm = distanceCalculatorRef.current ? distanceCalculatorRef.current(guess, currentTarget.coordinates) : getDistanceKm(guess, currentTarget.coordinates)
-    const points = getPoints(distanceKm)
+    const points = getPoints(distanceKm, dailyChallenge.dateKey)
 
     setResults((previous) => [
       ...previous,
@@ -760,10 +789,15 @@ function App() {
               role={isChallengeCollapsed ? "button" : undefined}
               tabIndex={isChallengeCollapsed ? 0 : undefined}
             >
-              {!isChallengeCollapsed && !isRoundResolved ? <p className="challenge-kicker">Tap as close as possible to</p> : null}
+              <p className="challenge-kicker">{challengeHeaderLabel}</p>
               <h1 className={isChallengeCollapsed ? "challenge-title challenge-title--collapsed" : "challenge-title"}>
                 <span>
                   {currentTarget.name}, {currentTarget.region}
+                  {currentTarget.isoCountryCode ? (
+                    <span className="challenge-region-flag" aria-label={currentTarget.region} title={currentTarget.region}>
+                      {getFlagEmoji(currentTarget.isoCountryCode)}
+                    </span>
+                  ) : null}
                 </span>
                 {difficultyTag ? <span className={`difficulty-tag difficulty-tag--${difficultyTag.tone}`}>{difficultyTag.label}</span> : null}
               </h1>
@@ -850,6 +884,11 @@ function App() {
                   </div>
                   <h3 className="finish-list__title">
                     {result.target.name}, {result.target.region}
+                    {result.target.isoCountryCode ? (
+                      <span className="challenge-region-flag" aria-label={result.target.region} title={result.target.region}>
+                        {getFlagEmoji(result.target.isoCountryCode)}
+                      </span>
+                    ) : null}
                   </h3>
                   {result.target.text ? <p className="finish-list__description">{result.target.text}</p> : null}
                   <a className="finish-list__link" href={getWikipediaLink(result.target)} target="_blank" rel="noreferrer">

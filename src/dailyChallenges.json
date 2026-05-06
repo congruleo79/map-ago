@@ -1,686 +1,2053 @@
 {
-  "2026-04-14": [
-    {
-      "name": "Houston",
-      "region": "United States",
-      "text": "On April 14, 1970, Mission Control in Houston received the famous Apollo 13 distress call after an oxygen tank failure crippled the spacecraft on its way to the Moon. The line is often remembered as \"Houston, we have a problem,\" but the original transmission was even more immediate: \"Houston, we've had a problem.\"",
-      "link": "https://en.wikipedia.org/wiki/Apollo_13",
-      "views": 88790,
-      "coordinates": {
-        "lat": 29.762777777778,
-        "lng": -95.383055555556
+  "2026-04-14": {
+    "locations": [
+      {
+        "name": "Houston",
+        "region": "United States",
+        "text": "On April 14, 1970, Mission Control in Houston received the famous Apollo 13 distress call after an oxygen tank failure crippled the spacecraft on its way to the Moon. The line is often remembered as \"Houston, we have a problem,\" but the original transmission was even more immediate: \"Houston, we've had a problem.\"",
+        "link": "https://en.wikipedia.org/wiki/Apollo_13",
+        "views": 88790,
+        "coordinates": {
+          "lat": 29.762777777778,
+          "lng": -95.383055555556
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "Monaco",
+        "region": "Monaco",
+        "text": "On April 14, 1929, the inaugural Monaco Grand Prix was held on the streets of the principality, beginning one of motor racing's most iconic events. The race helped turn Monaco into a permanent symbol of glamorous, high-risk circuit racing.",
+        "link": "https://en.wikipedia.org/wiki/1929_Monaco_Grand_Prix",
+        "views": 205600,
+        "coordinates": {
+          "lat": 43.73111111111111,
+          "lng": 7.42
+        },
+        "isoCountryCode": "MC"
+      },
+      {
+        "name": "Tbilisi",
+        "region": "Georgia",
+        "text": "On April 14, 1978, thousands of people gathered in Tbilisi to protest Soviet attempts to weaken the status of the Georgian language. The demonstrations succeeded, and the date is still remembered in Georgia as a symbol of linguistic identity and civic resistance.",
+        "link": "https://en.wikipedia.org/wiki/1978_Georgian_demonstrations",
+        "views": 44436,
+        "coordinates": {
+          "lat": 41.7225,
+          "lng": 44.7925
+        },
+        "isoCountryCode": "GE"
+      },
+      {
+        "name": "Dhaka",
+        "region": "Bangladesh",
+        "text": "On April 14, Dhaka becomes one of the main centers of Pohela Boishakh, the Bengali New Year, with processions, music, and public celebrations across the city. The festivities around Ramna Park and the University of Dhaka have made the capital one of the date's most recognizable cultural focal points.",
+        "link": "https://en.wikipedia.org/wiki/Pohela_Boishakh",
+        "views": 52784,
+        "coordinates": {
+          "lat": 23.72888888888889,
+          "lng": 90.39444444444445
+        },
+        "isoCountryCode": "BD"
+      },
+      {
+        "name": "Chibok",
+        "region": "Nigeria",
+        "text": "On April 14, 2014, Chibok became known around the world when Boko Haram abducted 276 schoolgirls from the town. The event drew sustained international attention and turned this relatively remote place into a global symbol of grief, outrage, and demands for accountability.",
+        "link": "https://en.wikipedia.org/wiki/Chibok_schoolgirls_kidnapping",
+        "views": 426,
+        "coordinates": {
+          "lat": 10.869722222222222,
+          "lng": 12.846666666666666
+        },
+        "isoCountryCode": "NG"
       }
+    ]
+  },
+  "2026-04-15": {
+    "locations": [
+      {
+        "name": "Boston",
+        "region": "United States",
+        "text": "On April 15, 2013, the Boston Marathon bombing turned Boston into the center of a major domestic terror attack and the days-long manhunt that followed. The attack permanently linked the city to one of the most consequential acts of violence in recent American public life.",
+        "link": "https://en.wikipedia.org/wiki/Boston_Marathon_bombing",
+        "views": 122805,
+        "coordinates": {
+          "lat": 42.360277777777775,
+          "lng": -71.05777777777777
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "Bari",
+        "region": "Italy",
+        "text": "On April 15, 1071, Bari, the last Byzantine possession in southern Italy, surrendered to Robert Guiscard after a long siege. The city marks the end of Byzantine rule in the region.",
+        "link": "https://en.wikipedia.org/wiki/Siege_of_Bari",
+        "views": 23355,
+        "coordinates": {
+          "lat": 41.125277777778,
+          "lng": 16.866666666667
+        },
+        "isoCountryCode": "IT"
+      },
+      {
+        "name": "Busan",
+        "region": "South Korea",
+        "text": "On April 15, 2002, Air China Flight 129 crashed on approach to Gimhae International Airport in Busan. The disaster made the city the focus of one of South Korea's deadliest aviation accidents.",
+        "link": "https://en.wikipedia.org/wiki/Air_China_Flight_129",
+        "views": 31161,
+        "coordinates": {
+          "lat": 35.18,
+          "lng": 129.075
+        },
+        "isoCountryCode": "KR"
+      },
+      {
+        "name": "Marrakesh",
+        "region": "Morocco",
+        "text": "On April 15, 1994, the Marrakesh Agreement establishing the World Trade Organization was adopted in Marrakesh. The city gave its name to one of the key agreements shaping the modern global trading system.",
+        "link": "https://en.wikipedia.org/wiki/Marrakesh_Agreement",
+        "views": 36358,
+        "coordinates": {
+          "lat": 31.62947,
+          "lng": -7.98108
+        },
+        "isoCountryCode": "MA"
+      },
+      {
+        "name": "Paris",
+        "region": "France",
+        "text": "On April 15, 2019, a major fire severely damaged Notre-Dame de Paris. Paris became the focus of worldwide attention as people watched one of its best-known landmarks burn.",
+        "link": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris_fire",
+        "views": 150579,
+        "coordinates": {
+          "lat": 48.85666666666667,
+          "lng": 2.352222222222222
+        },
+        "isoCountryCode": "FR"
+      }
+    ]
+  },
+  "2026-04-16": {
+    "locations": [
+      {
+        "name": "Skopje",
+        "region": "North Macedonia",
+        "text": "On April 16, 1346, Stefan Dusan was crowned emperor in Skopje. The city served as the ceremonial center of a major medieval Balkan empire at a decisive moment in regional history.",
+        "link": "https://en.wikipedia.org/wiki/Stefan_Du%C5%A1an",
+        "views": 28899,
+        "coordinates": {
+          "lat": 41.99611111111111,
+          "lng": 21.431666666666665
+        },
+        "isoCountryCode": "MK"
+      },
+      {
+        "name": "Salta",
+        "region": "Argentina",
+        "text": "On April 16, 1582, Spanish conquistador Hernando de Lerma founded the settlement of Salta. That date marks the beginning of one of northwestern Argentina's most important colonial-era cities.",
+        "link": "https://en.wikipedia.org/wiki/Salta",
+        "views": 4745,
+        "coordinates": {
+          "lat": -24.788333333333,
+          "lng": -65.410555555556
+        },
+        "isoCountryCode": "AR"
+      },
+      {
+        "name": "Blacksburg",
+        "region": "United States",
+        "text": "On April 16, 2007, the Virginia Tech shooting made Blacksburg the site of the deadliest school shooting in U.S. history. The town became the center of a tragedy that reshaped national debates over campus safety and gun violence.",
+        "link": "https://en.wikipedia.org/wiki/Virginia_Tech_shooting",
+        "views": 7184,
+        "coordinates": {
+          "lat": 37.23,
+          "lng": -80.41777777777777
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "Athens",
+        "region": "Greece",
+        "text": "On April 16, 2003, the Treaty of Accession was signed in Athens to admit ten new states to the European Union. The city briefly became the stage for one of the EU's largest single expansions.",
+        "link": "https://en.wikipedia.org/wiki/Treaty_of_Accession_2003",
+        "views": 71778,
+        "coordinates": {
+          "lat": 37.98416666666667,
+          "lng": 23.728055555555557
+        },
+        "isoCountryCode": "GR"
+      },
+      {
+        "name": "Valletta",
+        "region": "Malta",
+        "text": "On April 16, 1942, King George VI awarded the George Cross to Malta in recognition of the island's collective wartime bravery. The decoration became one of the defining symbols of Malta's experience in World War II.",
+        "link": "https://en.wikipedia.org/wiki/Award_of_the_George_Cross_to_Malta",
+        "views": 185957,
+        "coordinates": {
+          "lat": 35.898333,
+          "lng": 14.5125
+        },
+        "isoCountryCode": "MT"
+      }
+    ]
+  },
+  "2026-04-17": {
+    "locations": [
+      {
+        "name": "Kaunas",
+        "region": "Lithuania",
+        "text": "On April 17, 1362, Kaunas Castle fell to the Teutonic Order after a long siege. Kaunas entered the historical record as a frontier stronghold in the medieval Baltic conflicts.",
+        "link": "https://en.wikipedia.org/wiki/Siege_of_Kaunas_(1362)",
+        "views": 13919,
+        "coordinates": {
+          "lat": 54.9,
+          "lng": 23.933333333333
+        },
+        "isoCountryCode": "LT"
+      },
+      {
+        "name": "San Juan",
+        "region": "Puerto Rico",
+        "text": "On April 17, 1797, British forces attacked San Juan in one of the largest invasions of Spanish territories in the Americas. The city's defenses helped repel the assault and preserve Spanish control.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_San_Juan_(1797)",
+        "views": 39123,
+        "coordinates": {
+          "lat": 18.46527777777778,
+          "lng": -66.11666666666666
+        },
+        "isoCountryCode": "PR"
+      },
+      {
+        "name": "Damascus",
+        "region": "Syria",
+        "text": "On April 17, 1946, the last French troops withdrew from Syria, and Damascus became the capital of a fully independent state. The date is still commemorated in Syria as Evacuation Day.",
+        "link": "https://en.wikipedia.org/wiki/Evacuation_Day_(Syria)",
+        "views": 71402,
+        "coordinates": {
+          "lat": 33.513055555556,
+          "lng": 36.291944444444
+        },
+        "isoCountryCode": "SY"
+      },
+      {
+        "name": "Maputo",
+        "region": "Mozambique",
+        "text": "On April 17, 1992, the tanker Katina P was deliberately run aground off Maputo, causing a major oil spill. The incident linked the city to one of the notable environmental accidents in the western Indian Ocean.",
+        "link": "https://en.wikipedia.org/wiki/Katina_P",
+        "views": 12697,
+        "coordinates": {
+          "lat": -25.915277777778,
+          "lng": 32.576388888889
+        },
+        "isoCountryCode": "MZ"
+      },
+      {
+        "name": "Windsor",
+        "region": "United Kingdom",
+        "text": "On April 17, 2021, the funeral of Prince Philip took place at St George's Chapel in Windsor Castle. Windsor became the ceremonial focus of a globally watched royal event.",
+        "link": "https://en.wikipedia.org/wiki/Death_and_funeral_of_Prince_Philip,_Duke_of_Edinburgh",
+        "views": 10293,
+        "coordinates": {
+          "lat": 51.483333333333,
+          "lng": -0.6
+        },
+        "isoCountryCode": "GB"
+      }
+    ]
+  },
+  "2026-04-18": {
+    "locations": [
+      {
+        "name": "Vatican City",
+        "region": "Vatican City",
+        "text": "On April 18, 1506, the cornerstone of the current St. Peter's Basilica was laid in Vatican City. The date marks the beginning of one of the most famous church-building projects in the world.",
+        "link": "https://en.wikipedia.org/wiki/St._Peter%27s_Basilica",
+        "views": 126591,
+        "coordinates": {
+          "lat": 41.904,
+          "lng": 12.453
+        },
+        "isoCountryCode": "VA"
+      },
+      {
+        "name": "Addis Ababa",
+        "region": "Ethiopia",
+        "text": "On April 18, 1972, East African Airways Flight 720 crashed during a rejected takeoff from Addis Ababa Bole International Airport. Addis Ababa became the site of one of the most serious air disasters in East African aviation history.",
+        "link": "https://en.wikipedia.org/wiki/East_African_Airways_Flight_720",
+        "views": 52944,
+        "coordinates": {
+          "lat": 9.0272222222222,
+          "lng": 38.736944444444
+        },
+        "isoCountryCode": "ET"
+      },
+      {
+        "name": "Tokyo",
+        "region": "Japan",
+        "text": "On April 18, 1942, Tokyo was among the Japanese cities bombed in the Doolittle Raid. The attack made the capital a central symbol in a dramatic turning point of the Pacific War.",
+        "link": "https://en.wikipedia.org/wiki/Doolittle_Raid",
+        "views": 143585,
+        "coordinates": {
+          "lat": 35.68944444444445,
+          "lng": 139.69166666666666
+        },
+        "isoCountryCode": "JP"
+      },
+      {
+        "name": "The Hague",
+        "region": "Netherlands",
+        "text": "On April 18, 1946, the International Court of Justice held its inaugural meeting in The Hague. The city further strengthened its role as one of the world's main centers for international law.",
+        "link": "https://en.wikipedia.org/wiki/International_Court_of_Justice",
+        "views": 74902,
+        "coordinates": {
+          "lat": 52.08,
+          "lng": 4.31
+        },
+        "isoCountryCode": "NL"
+      },
+      {
+        "name": "Bandung",
+        "region": "Indonesia",
+        "text": "On April 18, 1955, leaders from twenty-nine nations gathered in Bandung for the Asian-African Conference. The city became permanently associated with postcolonial solidarity and the rise of the Non-Aligned world.",
+        "link": "https://en.wikipedia.org/wiki/Asian%E2%80%93African_Conference",
+        "views": 10012,
+        "coordinates": {
+          "lat": -6.921845833333333,
+          "lng": 107.60708305555555
+        },
+        "isoCountryCode": "ID"
+      }
+    ]
+  },
+  "2026-04-19": {
+    "locations": [
+      {
+        "name": "Caracas",
+        "region": "Venezuela",
+        "text": "On April 19, 1810, people in Caracas removed the Spanish governor and installed a local junta. The city became one of the first major centers of the independence movement in Spanish South America.",
+        "link": "https://en.wikipedia.org/wiki/19_April_Movement",
+        "views": 27208,
+        "coordinates": {
+          "lat": 10.50611111111111,
+          "lng": -66.91444444444444
+        },
+        "isoCountryCode": "VE"
+      },
+      {
+        "name": "Warsaw",
+        "region": "Poland",
+        "text": "On April 19, 1943, the Warsaw Ghetto Uprising began after German forces entered the ghetto. Warsaw became the site of one of the most powerful acts of Jewish resistance during World War II.",
+        "link": "https://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising",
+        "views": 71983,
+        "coordinates": {
+          "lat": 52.23,
+          "lng": 21.011111111111113
+        },
+        "isoCountryCode": "PL"
+      },
+      {
+        "name": "Basel",
+        "region": "Switzerland",
+        "text": "On April 19, 1943, Albert Hofmann deliberately took LSD in Basel and made the bicycle ride later celebrated as Bicycle Day. The city is tied to one of the strangest and most widely referenced episodes in modern chemical history.",
+        "link": "https://en.wikipedia.org/wiki/History_of_lysergic_acid_diethylamide#%22Bicycle_Day%22",
+        "views": 28459,
+        "coordinates": {
+          "lat": 47.560555555556,
+          "lng": 7.5905555555556
+        },
+        "isoCountryCode": "CH"
+      },
+      {
+        "name": "Berlin",
+        "region": "Germany",
+        "text": "On April 19, 1999, the German Bundestag returned to Berlin. The move confirmed the city once again as the working capital of reunified Germany.",
+        "link": "https://en.wikipedia.org/wiki/Decision_on_the_Capital_of_Germany",
+        "views": 151218,
+        "coordinates": {
+          "lat": 52.516666666667,
+          "lng": 13.383333333333
+        },
+        "isoCountryCode": "DE"
+      },
+      {
+        "name": "Santiago",
+        "region": "Chile",
+        "text": "On April 19, 1925, Colo-Colo was founded in Santiago and went on to become Chile's most successful football club. The city is therefore tied to one of the country's most important sporting institutions.",
+        "link": "https://en.wikipedia.org/wiki/Colo-Colo",
+        "views": 42531,
+        "coordinates": {
+          "lat": -33.4375,
+          "lng": -70.65
+        },
+        "isoCountryCode": "CL"
+      }
+    ]
+  },
+  "2026-04-20": {
+    "locations": [
+      {
+        "name": "Minneapolis",
+        "region": "United States",
+        "text": "On April 20, 2021, Minneapolis was the city where Derek Chauvin was found guilty of murdering George Floyd. The verdict was watched around the world as a rare moment of legal accountability after months of protest and grief. That made Minneapolis a defining place in one of the most consequential civil rights stories of the decade.",
+        "link": "https://en.wikipedia.org/wiki/Trial_of_Derek_Chauvin",
+        "views": 85400,
+        "coordinates": {
+          "lat": 44.981944444444444,
+          "lng": -93.26916666666666
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "Geneva",
+        "region": "Switzerland",
+        "text": "On April 20, 1946, the League of Nations was formally dissolved in Geneva, closing the chapter on the first major attempt at a permanent international peace organization. Most of its remaining responsibilities passed to the newly established United Nations. That gives Geneva a direct link to the handoff between two eras of global diplomacy.",
+        "link": "https://en.wikipedia.org/wiki/League_of_Nations",
+        "views": 674863,
+        "coordinates": {
+          "lat": 46.2,
+          "lng": 6.15
+        },
+        "isoCountryCode": "CH"
+      },
+      {
+        "name": "Motegi",
+        "region": "Japan",
+        "text": "On April 20, 2008, Motegi became the setting for a motorsport breakthrough when Danica Patrick won the Indy Japan 300. She became the first woman ever to win an IndyCar race, turning the town's circuit into the site of a landmark result. The moment still stands as one of the most celebrated firsts in modern auto racing.",
+        "link": "https://en.wikipedia.org/wiki/Indy_Japan_300",
+        "views": 7403,
+        "coordinates": {
+          "lat": 36.532111111111114,
+          "lng": 140.18755555555555
+        },
+        "isoCountryCode": "JP"
+      },
+      {
+        "name": "Timbuktu",
+        "region": "Mali",
+        "text": "On April 20, 1828, Rene Caillie reached Timbuktu, becoming the first non-Muslim European known to return alive after visiting the city. For centuries the name had carried an almost mythical reputation in Europe as a distant and fabulously rich place. His arrival helped turn Timbuktu from legend into a documented destination in global geography.",
+        "link": "https://en.wikipedia.org/wiki/Timbuktu",
+        "views": 562899,
+        "coordinates": {
+          "lat": 16.773333055556,
+          "lng": -2.9994438888889
+        },
+        "isoCountryCode": "ML"
+      },
+      {
+        "name": "Leipzig",
+        "region": "Germany",
+        "text": "On April 20, 1945, United States troops captured Leipzig as Nazi Germany was collapsing in the final weeks of World War II. The city briefly became one of the most important urban prizes of the Western Allied advance into central Germany before it was later ceded to the Soviet occupation zone. That handover gives Leipzig a revealing place in the geopolitics of victory at the war's end.",
+        "link": "https://en.wikipedia.org/wiki/Leipzig",
+        "views": 442782,
+        "coordinates": {
+          "lat": 51.3406321,
+          "lng": 12.3747329
+        },
+        "isoCountryCode": "DE"
+      }
+    ]
+  },
+  "2026-04-21": {
+    "locations": [
+      {
+        "name": "Rome",
+        "region": "Italy",
+        "text": "On April 21, according to Roman tradition, Romulus founded Rome. The date became so important that Romans later celebrated it as the city's birthday, tying imperial grandeur to a single mythic origin story. Few cities in the world have had a founding legend with such a long political and cultural afterlife.",
+        "link": "https://en.wikipedia.org/wiki/Founding_of_Rome",
+        "views": 150211,
+        "coordinates": {
+          "lat": 41.893055555556,
+          "lng": 12.482777777778
+        },
+        "isoCountryCode": "IT"
+      },
+      {
+        "name": "Brasilia",
+        "region": "Brazil",
+        "text": "On April 21, 1960, Brasilia was officially inaugurated as Brazil's new capital. The move shifted political power away from coastal Rio de Janeiro and planted a purpose-built modernist city deep in the country's interior. Its vast avenues and monumental government buildings were meant to symbolize a new national future.",
+        "link": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
+        "views": 462335,
+        "coordinates": {
+          "lat": -15.793888888889,
+          "lng": -47.882777777778
+        },
+        "isoCountryCode": "BR"
+      },
+      {
+        "name": "Seattle",
+        "region": "United States",
+        "text": "On April 21, 1962, Seattle opened the Century 21 Exposition, the city's World's Fair. The event helped recast Seattle as a forward-looking center of aerospace, design, and technology during the Space Age. Landmarks like the Space Needle still carry that burst of futuristic ambition.",
+        "link": "https://en.wikipedia.org/wiki/Century_21_Exposition",
+        "views": 65557,
+        "coordinates": {
+          "lat": 47.605,
+          "lng": -122.33
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "La Paz",
+        "region": "Bolivia",
+        "text": "On April 21, 1993, Bolivia's Supreme Court in La Paz sentenced former dictator Luis Garcia Meza to 30 years in prison without parole. The ruling became one of Latin America's most notable examples of a former military strongman being held accountable at home. That gave La Paz a distinct place in the region's long struggle with dictatorship and justice.",
+        "link": "https://en.wikipedia.org/wiki/Luis_Garc%C3%ADa_Meza",
+        "views": 31686,
+        "coordinates": {
+          "lat": -16.5,
+          "lng": -68.116667
+        },
+        "isoCountryCode": "BO"
+      },
+      {
+        "name": "Bangkok",
+        "region": "Thailand",
+        "text": "On April 21, 1782, the city of Rattanakosin, now Bangkok, was founded on the eastern bank of the Chao Phraya River. That moment marked the start of the Chakri dynasty and the beginning of Bangkok's rise as Thailand's political and ceremonial heart. Much of the city's identity still traces back to this deliberate royal founding.",
+        "link": "https://en.wikipedia.org/wiki/History_of_Bangkok",
+        "views": 16163,
+        "coordinates": {
+          "lat": 13.75,
+          "lng": 100.51666666667
+        },
+        "isoCountryCode": "TH"
+      }
+    ]
+  },
+  "2026-04-22": {
+    "locations": [
+      {
+        "name": "Paris",
+        "region": "France",
+        "text": "On April 22, 2016, leaders gathered in Paris to sign the Paris Agreement, one of the most ambitious global climate accords yet attempted. The city had already lent its name to the deal, but the signing fixed Paris even more firmly in the story of international climate diplomacy. It is now one of the places most closely associated with the politics of global warming.",
+        "link": "https://en.wikipedia.org/wiki/Paris_Agreement",
+        "views": 285552,
+        "coordinates": {
+          "lat": 48.85666666666667,
+          "lng": 2.352222222222222
+        },
+        "isoCountryCode": "FR"
+      },
+      {
+        "name": "Haifa",
+        "region": "Israel",
+        "text": "On April 22, 1948, Jewish forces captured Haifa during the civil war phase of the conflict in Mandatory Palestine. The battle turned the port city into one of the decisive urban prizes of that turbulent spring. Haifa's harbor and mixed population made the struggle there especially consequential.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Haifa_(1948)",
+        "views": 34526,
+        "coordinates": {
+          "lat": 32.81916666666667,
+          "lng": 34.99916666666667
+        },
+        "isoCountryCode": "IL"
+      },
+      {
+        "name": "Guadalajara",
+        "region": "Mexico",
+        "text": "On April 22, 1992, a chain of gas explosions tore through Guadalajara, devastating streets and neighborhoods across the city. The disaster killed hundreds and became one of the worst urban infrastructure catastrophes in modern Mexican history. Guadalajara is still remembered in connection with how suddenly an everyday cityscape turned catastrophic.",
+        "link": "https://en.wikipedia.org/wiki/1992_Guadalajara_explosions",
+        "views": 17180,
+        "coordinates": {
+          "lat": 20.676388888888887,
+          "lng": -103.34222222222222
+        },
+        "isoCountryCode": "MX"
+      },
+      {
+        "name": "Kolkata",
+        "region": "India",
+        "text": "On April 22, 1969, the formation of the Communist Party of India (Marxist-Leninist) was announced at a mass rally in Kolkata. The city, already famous for radical politics and intellectual debate, became the launch point for one of the most consequential far-left movements in modern India. That moment tied Kolkata even more closely to the turbulent political energy of the late 1960s.",
+        "link": "https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist%E2%80%93Leninist)",
+        "views": 47289,
+        "coordinates": {
+          "lat": 22.5675,
+          "lng": 88.37
+        },
+        "isoCountryCode": "IN"
+      },
+      {
+        "name": "Jayapura",
+        "region": "Indonesia",
+        "text": "On April 22, 1944, Allied forces landed in the Hollandia area of New Guinea, in the region now centered on Jayapura. The operation helped break Japanese positions in the southwest Pacific and pulled this remote coastal city into the wider geography of World War II. Jayapura's modern identity still sits atop that wartime strategic history.",
+        "link": "https://en.wikipedia.org/wiki/Jayapura",
+        "views": 112888,
+        "coordinates": {
+          "lat": -2.5333333333333,
+          "lng": 140.71666666667
+        },
+        "isoCountryCode": "ID"
+      }
+    ]
+  },
+  "2026-04-23": {
+    "locations": [
+      {
+        "name": "San Diego",
+        "region": "United States",
+        "text": "On April 23, 2005, Jawed Karim uploaded Me at the zoo, the first video ever posted to YouTube, after filming it at the San Diego Zoo. That brief clip helped mark the beginning of a platform that would transform entertainment, politics, and everyday life online. It gives San Diego a small but oddly foundational place in internet history.",
+        "link": "https://en.wikipedia.org/wiki/Me_at_the_zoo",
+        "views": 232551,
+        "coordinates": {
+          "lat": 32.715,
+          "lng": -117.1625
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "Windhoek",
+        "region": "Namibia",
+        "text": "On April 23, 1990, Namibia entered the United Nations and the Commonwealth only weeks after independence, with Windhoek at the center of the new state's political life. The moment confirmed the country's place on the world stage after a long struggle against South African rule. As capital, Windhoek became the symbolic front door of that transition.",
+        "link": "https://en.wikipedia.org/wiki/Namibia",
+        "views": 1603023,
+        "coordinates": {
+          "lat": -22.57,
+          "lng": 17.083611111111
+        },
+        "isoCountryCode": "NA"
+      },
+      {
+        "name": "Algiers",
+        "region": "Algeria",
+        "text": "On April 23, 1961, French generals launched the Algiers putsch in an attempt to stop Algerian independence. For a brief moment, Algiers became the center of one of the last great crises of France's colonial era. The failed coup exposed how violently the empire was unraveling.",
+        "link": "https://en.wikipedia.org/wiki/Algiers_putsch_of_1961",
+        "views": 63919,
+        "coordinates": {
+          "lat": 36.776388888889,
+          "lng": 3.0586111111111
+        },
+        "isoCountryCode": "DZ"
+      },
+      {
+        "name": "Prague",
+        "region": "Czech Republic",
+        "text": "On April 23, 1951, American journalist William N. Oatis was arrested in Prague by the communist authorities of Czechoslovakia. The case became an early Cold War flashpoint over press freedom, espionage accusations, and show-trial politics. Prague was thus pulled into the wider contest between East and West not just as a capital, but as a symbolic courtroom.",
+        "link": "https://en.wikipedia.org/wiki/William_N._Oatis",
+        "views": 2582,
+        "coordinates": {
+          "lat": 50.0875,
+          "lng": 14.421388888888888
+        },
+        "isoCountryCode": "CZ"
+      },
+      {
+        "name": "Manila",
+        "region": "Philippines",
+        "text": "On April 23, 1946, Manuel Roxas was elected the last president of the Commonwealth of the Philippines, in the final stretch before full independence. That made Manila the political stage for a pivotal handoff between colonial rule and the postwar republic. The city was where the future direction of the Philippines began to take clearer shape.",
+        "link": "https://en.wikipedia.org/wiki/Manuel_Roxas",
+        "views": 148962,
+        "coordinates": {
+          "lat": 14.595833333333333,
+          "lng": 120.97722222222222
+        },
+        "isoCountryCode": "PH"
+      }
+    ]
+  },
+  "2026-04-24": {
+    "locations": [
+      {
+        "name": "Dahab",
+        "region": "Egypt",
+        "text": "On April 24, 2006, bombings struck the Red Sea resort town of Dahab during a busy holiday period. The attack shattered the easygoing image of one of Sinai's best-known beach destinations and drew worldwide attention to the town. Dahab's name has since carried both its backpacker mystique and the memory of that violence.",
+        "link": "https://en.wikipedia.org/wiki/Dahab",
+        "views": 52403,
+        "coordinates": {
+          "lat": 28.49305556,
+          "lng": 34.50472222
+        },
+        "isoCountryCode": "EG"
+      },
+      {
+        "name": "Dublin",
+        "region": "Ireland",
+        "text": "On April 24, 1916, rebels launched the Easter Rising in Dublin and proclaimed an Irish Republic. The insurrection was militarily crushed, but it transformed the political future of Ireland and turned the city center into historic ground. Few urban uprisings have reshaped national memory as completely as this one.",
+        "link": "https://en.wikipedia.org/wiki/Easter_Rising",
+        "views": 594199,
+        "coordinates": {
+          "lat": 53.34972222222222,
+          "lng": -6.260277777777778
+        },
+        "isoCountryCode": "IE"
+      },
+      {
+        "name": "Santorini",
+        "region": "Greece",
+        "text": "On April 24, 1944, British commandos raided Santorini to destroy an Axis radio station during World War II. The operation briefly placed the famous Aegean island inside the covert geography of the Mediterranean war. Santorini is better known for whitewashed cliffs and tourism, which makes that wartime episode all the more surprising.",
+        "link": "https://en.wikipedia.org/wiki/Santorini",
+        "views": 481158,
+        "coordinates": {
+          "lat": 36.415,
+          "lng": 25.4325
+        },
+        "isoCountryCode": "GR"
+      },
+      {
+        "name": "Banjul",
+        "region": "The Gambia",
+        "text": "On April 24, 1970, The Gambia became a republic within the Commonwealth, with Dawda Jawara as its first president. As the capital, Banjul stood at the formal center of that constitutional turning point. It marked the moment the small West African state moved from monarchy under the British crown to a republic of its own.",
+        "link": "https://en.wikipedia.org/wiki/The_Gambia",
+        "views": 806616,
+        "coordinates": {
+          "lat": 13.453055555556,
+          "lng": -16.5775
+        },
+        "isoCountryCode": "GM"
+      },
+      {
+        "name": "Santo Domingo",
+        "region": "Dominican Republic",
+        "text": "On April 24, 1965, civil war broke out in Santo Domingo after supporters of deposed president Juan Bosch rose against the ruling triumvirate. The capital quickly became the heart of a conflict that drew in foreign intervention and Cold War anxieties. Santo Domingo's streets turned into the main battleground for the Dominican Republic's fight over its political future.",
+        "link": "https://en.wikipedia.org/wiki/Dominican_Civil_War",
+        "views": 108197,
+        "coordinates": {
+          "lat": 18.4625,
+          "lng": -69.93611111111112
+        },
+        "isoCountryCode": "DO"
+      }
+    ]
+  },
+  "2026-04-25": {
+    "locations": [
+      {
+        "name": "Lisbon",
+        "region": "Portugal",
+        "text": "On April 25, 1974, Lisbon awoke to the Carnation Revolution, the military-led uprising that brought down Portugal's Estado Novo dictatorship. Crowds filled the city and placed carnations in soldiers' rifles, creating one of the century's most enduring images of a relatively peaceful revolution. Lisbon became the unmistakable face of Portugal's democratic rebirth.",
+        "link": "https://en.wikipedia.org/wiki/Carnation_Revolution",
+        "views": 425409,
+        "coordinates": {
+          "lat": 38.708042,
+          "lng": -9.139016
+        },
+        "isoCountryCode": "PT"
+      },
+      {
+        "name": "Obelisk of Axum",
+        "region": "Ethiopia",
+        "text": "On April 25, 2005, the final piece of the Obelisk of Axum was returned to Ethiopia after decades in Italy. The monument had long stood as one of the most recognizable symbols of the ancient Aksumite world, so its return carried weight far beyond archaeology. It turned Axum into a modern story of restitution, memory, and national pride.",
+        "link": "https://en.wikipedia.org/wiki/Obelisk_of_Axum",
+        "views": 49160,
+        "coordinates": {
+          "lat": 14.132166666667,
+          "lng": 38.719666666667
+        },
+        "isoCountryCode": "ET"
+      },
+      {
+        "name": "Managua",
+        "region": "Nicaragua",
+        "text": "On April 25, 1990, Violeta Chamorro took office in Managua as president of Nicaragua. She became the first woman elected in her own right to lead a country in the Americas, giving the capital a place in a larger political first. Managua thus became the setting for a major democratic handover after years of conflict and polarization.",
+        "link": "https://en.wikipedia.org/wiki/Violeta_Chamorro",
+        "views": 111151,
+        "coordinates": {
+          "lat": 12.154680555555556,
+          "lng": -86.273725
+        },
+        "isoCountryCode": "NI"
+      },
+      {
+        "name": "Berkeley Heights",
+        "region": "United States",
+        "text": "On April 25, 1954, Bell Telephone Laboratories publicly demonstrated the first practical solar cell at its New Jersey research facilities in what is now Berkeley Heights. That breakthrough helped turn solar power from laboratory curiosity into a credible technological future. A quiet suburban township thus became part of the early history of renewable energy.",
+        "link": "https://en.wikipedia.org/wiki/Bell_Labs",
+        "views": 460552,
+        "coordinates": {
+          "lat": 40.6775,
+          "lng": -74.429722222222
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "Kathmandu",
+        "region": "Nepal",
+        "text": "On April 25, 2015, Kathmandu became the global focal point of the devastating Nepal earthquake. Images of collapsed temples, damaged squares, and emergency rescues in the capital helped define how the disaster was understood around the world. The city remains central to the memory of one of the deadliest Himalayan earthquakes in modern times.",
+        "link": "https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake",
+        "views": 212198,
+        "coordinates": {
+          "lat": 27.71,
+          "lng": 85.32
+        },
+        "isoCountryCode": "NP"
+      }
+    ]
+  },
+  "2026-04-26": {
+    "locations": [
+      {
+        "name": "San Francisco",
+        "region": "United States",
+        "text": "On April 26, 1981, doctors at the University of California, San Francisco carried out the world's first successful open fetal surgery. The breakthrough turned San Francisco into an unexpected landmark in the history of modern medicine. It showed that surgeons were beginning to treat patients before birth in ways that had once sounded impossible.",
+        "link": "https://en.wikipedia.org/wiki/Fetal_surgery",
+        "views": 11297,
+        "coordinates": {
+          "lat": 37.7775,
+          "lng": -122.41638888888889
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "Pretoria",
+        "region": "South Africa",
+        "text": "On April 26, 1994, South Africa's first multiracial general election began, and Pretoria stood at the administrative heart of that democratic turning point. The vote opened the final chapter of apartheid and the beginning of majority rule under a new constitutional order. Pretoria is therefore tied to one of the most consequential political transitions of the late 20th century.",
+        "link": "https://en.wikipedia.org/wiki/1994_South_African_general_election",
+        "views": 163609,
+        "coordinates": {
+          "lat": -25.746388888889,
+          "lng": 28.188055555556
+        },
+        "isoCountryCode": "ZA"
+      },
+      {
+        "name": "Tashkent",
+        "region": "Uzbekistan",
+        "text": "On April 26, 1966, a powerful earthquake devastated much of Tashkent, then the largest city in Soviet Central Asia. The destruction was so extensive that large parts of the city had to be rebuilt almost from scratch. Modern Tashkent still carries the imprint of that disaster in its post-earthquake layout and architecture.",
+        "link": "https://en.wikipedia.org/wiki/1966_Tashkent_earthquake",
+        "views": 18646,
+        "coordinates": {
+          "lat": 41.31111111111111,
+          "lng": 69.27972222222222
+        },
+        "isoCountryCode": "UZ"
+      },
+      {
+        "name": "Zanzibar City",
+        "region": "Tanzania",
+        "text": "On April 26, 1964, the union of Tanganyika and Zanzibar created the state that soon became Tanzania. Zanzibar City therefore sits at one half of the political marriage that produced a new country. The date is still celebrated as Union Day, giving the city a lasting place in East African state-building.",
+        "link": "https://en.wikipedia.org/wiki/Tanzania",
+        "views": 1689264,
+        "coordinates": {
+          "lat": -6.1666666666667,
+          "lng": 39.2
+        },
+        "isoCountryCode": "TZ"
+      },
+      {
+        "name": "Chernobyl Nuclear Power Plant",
+        "region": "Ukraine",
+        "text": "On April 26, 1986, Reactor No. 4 at the Chernobyl Nuclear Power Plant exploded during a safety test and triggered the world's worst nuclear accident. Using the plant itself rather than the nearby city points directly to the place where the catastrophe began. Few industrial sites have become such a lasting global shorthand for technological failure and radioactive fallout.",
+        "link": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+        "views": 4374460,
+        "coordinates": {
+          "lat": 51.389553,
+          "lng": 30.099147
+        },
+        "isoCountryCode": "UA"
+      }
+    ]
+  },
+  "2026-04-27": {
+    "locations": [
+      {
+        "name": "Panmunjom",
+        "region": "South Korea",
+        "text": "On April 27, 2018, leaders from North and South Korea met at Panmunjom and signed the Panmunjom Declaration. The truce village, long associated with armistice talks and military tension, briefly became the stage for one of the most hopeful diplomatic images on the peninsula in decades. Its buildings and blue conference huts have come to symbolize both division and the possibility of reconciliation.",
+        "link": "https://en.wikipedia.org/wiki/Panmunjom_Declaration",
+        "views": 22823,
+        "coordinates": {
+          "lat": 37.955555555556,
+          "lng": 126.67777777778
+        },
+        "isoCountryCode": "KR"
+      },
+      {
+        "name": "Tallinn",
+        "region": "Estonia",
+        "text": "On April 27, 2007, unrest broke out in Tallinn after the relocation of the Bronze Soldier, a Soviet war memorial. The dispute exposed how differently World War II and Soviet rule are remembered in Estonia and Russia. Tallinn became the center of a fierce argument about history, identity, and political memory.",
+        "link": "https://en.wikipedia.org/wiki/Bronze_Soldier_of_Tallinn",
+        "views": 17120,
+        "coordinates": {
+          "lat": 59.437222222222,
+          "lng": 24.745
+        },
+        "isoCountryCode": "EE"
+      },
+      {
+        "name": "Libreville",
+        "region": "Gabon",
+        "text": "On April 27, 1993, a military aircraft carrying most of Zambia's national football team crashed into the sea shortly after taking off from Libreville. The disaster wiped out a generation of players and turned the Gabonese capital into a place of lasting mourning in African football history. Zambia's later 2012 Africa Cup of Nations victory made the location even more emotionally charged.",
+        "link": "https://en.wikipedia.org/wiki/1993_Zambia_national_football_team_plane_crash",
+        "views": 39751,
+        "coordinates": {
+          "lat": 0.40777777777777774,
+          "lng": 9.440277777777778
+        },
+        "isoCountryCode": "GA"
+      },
+      {
+        "name": "Oranjestad",
+        "region": "Aruba",
+        "text": "On April 27, Oranjestad is swept up in King's Day celebrations, linking the Caribbean capital to one of the Dutch world's most recognizable public holidays. Streets fill with orange clothing, music, and festival crowds as Aruba marks the monarch's birthday alongside the Netherlands and other Dutch Caribbean territories. That gives Oranjestad a date-based identity that feels festive rather than tragic.",
+        "link": "https://en.wikipedia.org/wiki/Koningsdag",
+        "views": 136599,
+        "coordinates": {
+          "lat": 12.518611111111,
+          "lng": -70.035833333333
+        },
+        "isoCountryCode": "AW"
+      },
+      {
+        "name": "Herodium",
+        "region": "West Bank",
+        "text": "On April 27, 2007, archaeologists announced that they had identified what they believed to be the tomb of Herod the Great at Herodium. The desert hilltop fortress had already been one of the most dramatic archaeological landscapes in the region, but the announcement gave it fresh worldwide attention. It linked a specific place in the Judean hills to one of antiquity's most infamous rulers.",
+        "link": "https://en.wikipedia.org/wiki/Herodium",
+        "views": 46272,
+        "coordinates": {
+          "lat": 31.66583,
+          "lng": 35.24139
+        },
+        "isoCountryCode": "PS"
+      }
+    ]
+  },
+  "2026-04-28": {
+    "locations": [
+      {
+        "name": "Port Arthur, Tasmania",
+        "region": "Australia",
+        "text": "On April 28, 1996, Port Arthur became the site of Australia's deadliest mass shooting. The massacre shocked the country so deeply that it quickly led to sweeping gun law reforms. That makes this small Tasmanian town a pivotal place in the history of Australian public policy.",
+        "link": "https://en.wikipedia.org/wiki/Port_Arthur_massacre",
+        "views": 20211,
+        "coordinates": {
+          "lat": -43.156388888889,
+          "lng": 147.84722222222
+        },
+        "isoCountryCode": "AU"
+      },
+      {
+        "name": "Kabul",
+        "region": "Afghanistan",
+        "text": "On April 28, 1978, Kabul was convulsed by the Saur Revolution, the coup that overthrew and killed President Mohammad Daoud Khan. The upheaval pushed Afghanistan onto a radically new political course and helped set the stage for decades of conflict. Kabul therefore stands at the opening of one of the most consequential modern turning points in the country's history.",
+        "link": "https://en.wikipedia.org/wiki/Saur_Revolution",
+        "views": 155135,
+        "coordinates": {
+          "lat": 34.532777777778,
+          "lng": 69.165833333333
+        },
+        "isoCountryCode": "AF"
+      },
+      {
+        "name": "Forsmark",
+        "region": "Sweden",
+        "text": "On April 28, 1986, workers at the Forsmark nuclear plant detected abnormal radiation on their clothes and equipment. That discovery alerted the outside world that something catastrophic had happened in the Soviet Union before Moscow fully admitted it. Forsmark thus became the place where the Chernobyl disaster first revealed itself internationally.",
+        "link": "https://en.wikipedia.org/wiki/Forsmark_Nuclear_Power_Plant",
+        "views": 18229,
+        "coordinates": {
+          "lat": 60.371709842211,
+          "lng": 18.158870940941
+        },
+        "isoCountryCode": "SE"
+      },
+      {
+        "name": "Ottawa",
+        "region": "Canada",
+        "text": "On April 28, Ottawa becomes one of the main ceremonial centers for Canada's National Day of Mourning for workers killed or injured on the job. The observance began in Canada before spreading internationally and helped turn a national act of remembrance into a wider labor tradition. That gives Ottawa a quieter but meaningful connection to the date through public memory and workplace justice.",
+        "link": "https://en.wikipedia.org/wiki/National_Day_of_Mourning_(Canadian_observance)",
+        "views": 3734,
+        "coordinates": {
+          "lat": 45.424722222222,
+          "lng": -75.695
+        },
+        "isoCountryCode": "CA"
+      },
+      {
+        "name": "Abu Ghraib",
+        "region": "Iraq",
+        "text": "On April 28, 2004, graphic photographs of prisoner abuse at Abu Ghraib were released to the public. The images instantly turned this place on Baghdad's outskirts into a global symbol of torture, scandal, and moral collapse during the Iraq War. Few place names became shorthand for an entire political and military disgrace so quickly.",
+        "link": "https://en.wikipedia.org/wiki/Abu_Ghraib_torture_and_prisoner_abuse",
+        "views": 1476226,
+        "coordinates": {
+          "lat": 33.3131,
+          "lng": 44.168644444444446
+        },
+        "isoCountryCode": "IQ"
+      }
+    ]
+  },
+  "2026-04-29": {
+    "locations": [
+      {
+        "name": "Oni",
+        "region": "Georgia",
+        "text": "On April 29, 1991, the Racha earthquake struck northwestern Georgia, and Oni was among the towns most closely associated with the destruction. The quake killed hundreds, damaged mountain settlements across the region, and became one of independent Georgia's formative natural disasters. Using Oni gives the date a specific human-scale location rather than leaving the story at the regional label of Racha.",
+        "link": "https://en.wikipedia.org/wiki/1991_Racha_earthquake",
+        "views": 3836,
+        "coordinates": {
+          "lat": 42.583888888888886,
+          "lng": 43.44166666666667
+        },
+        "isoCountryCode": "GE"
+      },
+      {
+        "name": "Mumbai",
+        "region": "India",
+        "text": "On April 29, 2020, actor Irrfan Khan died in Mumbai, the city most closely associated with his extraordinary film career. His death prompted grief far beyond India because he had become one of the rare performers equally at ease in Hindi cinema, international films, and television. Mumbai therefore became the place where one of modern screen acting's most admired voices was mourned.",
+        "link": "https://en.wikipedia.org/wiki/Irrfan_Khan",
+        "views": 1021756,
+        "coordinates": {
+          "lat": 19.075833333333332,
+          "lng": 72.8775
+        },
+        "isoCountryCode": "IN"
+      },
+      {
+        "name": "Chittagong",
+        "region": "Bangladesh",
+        "text": "On April 29, 1991, a catastrophic cyclone struck the Chittagong region and killed well over one hundred thousand people. The storm remains one of the deadliest tropical cyclones ever recorded. Chittagong became the geographic anchor for a disaster that reshaped global conversations about vulnerability, warning systems, and coastal risk.",
+        "link": "https://en.wikipedia.org/wiki/1991_Bangladesh_cyclone",
+        "views": 41613,
+        "coordinates": {
+          "lat": 22.335,
+          "lng": 91.8325
+        },
+        "isoCountryCode": "BD"
+      },
+      {
+        "name": "Baltimore",
+        "region": "United States",
+        "text": "On April 29, 2015, Baltimore hosted a Major League Baseball game with zero fans in attendance because of the unrest following Freddie Gray's death. The empty stadium created one of the strangest scenes in modern professional sport. Baltimore became the place where protest, policing, and sport collided in a way impossible to ignore.",
+        "link": "https://en.wikipedia.org/wiki/2015_Chicago_White_Sox%E2%80%93Baltimore_Orioles_crowdless_game",
+        "views": 8877,
+        "coordinates": {
+          "lat": 39.286388888889,
+          "lng": -76.615
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "Carolina, Maranhão",
+        "region": "Brazil",
+        "text": "On April 29, 1952, Pan Am Flight 202 crashed into the Amazon basin near Carolina in Maranhão. The accident killed everyone on board and became one of the deadliest early intercontinental aviation disasters involving the airline. Carolina gives the date a remote South American setting that most players would never expect from such a widely reported tragedy.",
+        "link": "https://en.wikipedia.org/wiki/Pan_Am_Flight_202",
+        "views": 10870,
+        "coordinates": {
+          "lat": -7.3327777777778,
+          "lng": -47.468888888889
+        },
+        "isoCountryCode": "BR"
+      }
+    ]
+  },
+  "2026-04-30": {
+    "locations": [
+      {
+        "name": "Apeldoorn",
+        "region": "Netherlands",
+        "text": "On April 30, 2009, a car crashed into a Queen's Day parade in Apeldoorn in an apparent attempt to attack the Dutch royal family. The assault shattered what was meant to be a celebratory national holiday and left the city associated with one of the most shocking public attacks in recent Dutch history. Apeldoorn became a place where pageantry abruptly gave way to trauma.",
+        "link": "https://en.wikipedia.org/wiki/2009_attack_on_the_Dutch_royal_family",
+        "views": 23264,
+        "coordinates": {
+          "lat": 52.2167,
+          "lng": 5.95
+        },
+        "isoCountryCode": "NL"
+      },
+      {
+        "name": "Ho Chi Minh City",
+        "region": "Vietnam",
+        "text": "On April 30, 1975, North Vietnamese and Liberation Army forces captured Saigon, bringing the Vietnam War to an end and clearing the way for national reunification. In Vietnam the date is officially remembered as the Liberation of the South and National Reunification. That makes Ho Chi Minh City central to one of the defining military and political victories in modern Vietnamese history.",
+        "link": "https://en.wikipedia.org/wiki/Fall_of_Saigon",
+        "views": 575668,
+        "coordinates": {
+          "lat": 10.775555555555556,
+          "lng": 106.70194444444445
+        },
+        "isoCountryCode": "VN"
+      },
+      {
+        "name": "Ürümqi",
+        "region": "China",
+        "text": "On April 30, 2014, an attack at Ürümqi railway station killed and injured commuters in the capital of Xinjiang. The bombing pushed the city back into international headlines as a tense frontier of security, ethnicity, and state power in western China. Ürümqi's location at the crossroads of Central Asia makes that date feel geopolitically larger than the station itself.",
+        "link": "https://en.wikipedia.org/wiki/April_2014_%C3%9Cr%C3%BCmqi_attack",
+        "views": 12270,
+        "coordinates": {
+          "lat": 43.8225,
+          "lng": 87.6125
+        },
+        "isoCountryCode": "CN"
+      },
+      {
+        "name": "Mount Marapi",
+        "region": "Indonesia",
+        "text": "On April 30, 1979, Mount Marapi erupted in West Sumatra and killed scores of people. The volcano is one of Indonesia's many restless peaks, but this eruption fixed it to a particularly deadly date. It is a reminder that some of the world's most beautiful landscapes are also among its most unstable.",
+        "link": "https://en.wikipedia.org/wiki/Mount_Marapi",
+        "views": 10355,
+        "coordinates": {
+          "lat": -0.38055555555556,
+          "lng": 100.47333333333
+        },
+        "isoCountryCode": "ID"
+      },
+      {
+        "name": "Lagos",
+        "region": "Nigeria",
+        "text": "On April 30, 2020, Afrobeat pioneer Tony Allen died, and Lagos was impossible to ignore in remembering his life and influence. The city was his birthplace and one of the main engines of the sound he helped forge alongside Fela Kuti. That gives Lagos a fitting place on the date where one of modern African music's great rhythm-makers was mourned worldwide.",
+        "link": "https://en.wikipedia.org/wiki/Tony_Allen_(musician)",
+        "views": 98401,
+        "coordinates": {
+          "lat": 6.456111111111111,
+          "lng": 3.3936111111111114
+        },
+        "isoCountryCode": "NG"
+      }
+    ]
+  },
+  "2026-05-01": {
+    "theme": {
+      "title": "Happy International Workers Day! 🚩"
     },
-    {
-      "name": "Monaco",
-      "region": "Monaco",
-      "text": "On April 14, 1929, the inaugural Monaco Grand Prix was held on the streets of the principality, beginning one of motor racing's most iconic events. The race helped turn Monaco into a permanent symbol of glamorous, high-risk circuit racing.",
-      "link": "https://en.wikipedia.org/wiki/1929_Monaco_Grand_Prix",
-      "views": 205600,
-      "coordinates": {
-        "lat": 43.73111111111111,
-        "lng": 7.42
+    "locations": [
+      {
+        "name": "Melbourne",
+        "region": "Australia",
+        "text": "In 1856, stonemasons in Melbourne won one of the labour movement's most famous early victories when they stopped work and secured the eight-hour day. That breakthrough traveled far beyond Australia and became part of the moral vocabulary of worker organising around the world.",
+        "link": "https://en.wikipedia.org/wiki/Eight-hour_day_movement",
+        "views": 1177954,
+        "coordinates": {
+          "lat": -37.814166666666665,
+          "lng": 144.96305555555554
+        },
+        "isoCountryCode": "AU"
+      },
+      {
+        "name": "Chicago",
+        "region": "United States",
+        "text": "The 1886 general strike for the eight-hour day began here and the Haymarket affair soon turned the city into an international symbol. The repression that followed gave labour movements across continents both martyrs and a shared political memory.",
+        "link": "https://en.wikipedia.org/wiki/Haymarket_affair",
+        "views": 2239396,
+        "coordinates": {
+          "lat": 41.88194444444444,
+          "lng": -87.62777777777778
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "Cananea",
+        "region": "Mexico",
+        "text": "The 1906 Cananea strike made this mining town one of the defining places in Mexican labour history. Miners there challenged wage inequality, brutal working conditions, and foreign corporate power, turning a local industrial conflict into a national political symbol.",
+        "link": "https://en.wikipedia.org/wiki/Cananea_strike",
+        "views": 1013,
+        "coordinates": {
+          "lat": 30.983333333333334,
+          "lng": -110.2
+        },
+        "isoCountryCode": "MX"
+      },
+      {
+        "name": "Chennai",
+        "region": "India",
+        "text": "Chennai, then Madras, hosted one of India's first organised International Workers' Day celebrations in 1923 under the leadership of Singaravelu Chettiar and the Labour Kisan Party of Hindustan. The event is also remembered as an early public use of the red flag in Indian labour politics.",
+        "link": "https://en.wikipedia.org/wiki/Labour_Kisan_Party_of_Hindustan",
+        "views": 863345,
+        "coordinates": {
+          "lat": 13.0825,
+          "lng": 80.275
+        },
+        "isoCountryCode": "IN"
+      },
+      {
+        "name": "Copenhagen",
+        "region": "Denmark",
+        "text": "Since 1890, Copenhagen's Fælledparken has been one of the classic gathering grounds for Danish Labour Day rallies and speeches. Places like this mattered because they turned worker solidarity into an annual public ritual rather than a scattered series of isolated disputes. Copenhagen therefore represents the stagecraft of the international workers movement: banners, speeches, assemblies, and the repeated act of showing up together.",
+        "link": "https://en.wikipedia.org/wiki/F%C3%A6lledparken",
+        "views": 967223,
+        "coordinates": {
+          "lat": 55.676111111111,
+          "lng": 12.568888888889
+        },
+        "isoCountryCode": "DK"
       }
-    },
-    {
-      "name": "Tbilisi",
-      "region": "Georgia",
-      "text": "On April 14, 1978, thousands of people gathered in Tbilisi to protest Soviet attempts to weaken the status of the Georgian language. The demonstrations succeeded, and the date is still remembered in Georgia as a symbol of linguistic identity and civic resistance.",
-      "link": "https://en.wikipedia.org/wiki/1978_Georgian_demonstrations",
-      "views": 44436,
-      "coordinates": {
-        "lat": 41.7225,
-        "lng": 44.7925
+    ]
+  },
+  "2026-05-02": {
+    "locations": [
+      {
+        "name": "Abbottabad",
+        "region": "Pakistan",
+        "isoCountryCode": "PK",
+        "text": "On May 2, 2011, Abbottabad became the center of one of the most dramatic raids of the 21st century when United States forces killed Osama bin Laden in a compound on the city's outskirts. The operation instantly made this garrison city famous far beyond Pakistan. It also raised years of questions about intelligence failures, secrecy, and how such a high-profile fugitive had been living there. Abbottabad is now tied as much to that night as to its military academies and mountain setting.",
+        "link": "https://en.wikipedia.org/wiki/Killing_of_Osama_bin_Laden",
+        "views": 246733,
+        "coordinates": {
+          "lat": 34.15583333,
+          "lng": 73.21944444
+        }
+      },
+      {
+        "name": "Brussels",
+        "region": "Belgium",
+        "isoCountryCode": "BE",
+        "text": "On May 2, 1998, leaders meeting in Brussels formally established the European Central Bank. That decision fixed the city to one of the most consequential institutional steps in the history of the European Union. Brussels was already synonymous with continental bureaucracy, but the ECB's creation deepened its connection to the architecture of European integration. It made the city part of the story of how the euro would be governed.",
+        "link": "https://en.wikipedia.org/wiki/European_Central_Bank",
+        "views": 700765,
+        "coordinates": {
+          "lat": 50.84666667,
+          "lng": 4.3525
+        }
+      },
+      {
+        "name": "Chaitén Volcano",
+        "region": "Chile",
+        "isoCountryCode": "CL",
+        "text": "On May 2, 2008, Chaitén Volcano erupted violently in southern Chile after centuries of apparent quiet. Ash forced the evacuation of nearby communities and turned the volcano into an international news story almost overnight. The eruption was a reminder that even long-silent peaks can return with startling force. It gave this remote Patagonian volcano a sudden place in modern disaster memory.",
+        "link": "https://en.wikipedia.org/wiki/Chait%C3%A9n_(volcano)",
+        "views": 9940,
+        "coordinates": {
+          "lat": -42.83722222,
+          "lng": -72.64805556
+        }
+      },
+      {
+        "name": "Yelwa",
+        "region": "Nigeria",
+        "isoCountryCode": "NG",
+        "text": "On May 2, 2004, Yelwa became globally known as sectarian killings spiraled into one of the deadliest communal episodes in central Nigeria. The violence there exposed how local tensions over religion, power, and land could erupt into massacres. For many outside the country, Yelwa entered the map through tragedy rather than geography. Its name remains bound to a grim warning about how quickly fragile coexistence can collapse.",
+        "link": "https://en.wikipedia.org/wiki/Yelwa_massacre",
+        "views": 1660,
+        "coordinates": {
+          "lat": 10.88333333,
+          "lng": 4.75
+        }
+      },
+      {
+        "name": "Sunshine Mine",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On May 2, 1972, a fire broke out in Idaho's Sunshine Mine and killed 91 workers, making it one of the worst mining disasters in modern American history. The catastrophe focused attention on underground safety, smoke inhalation, and emergency preparedness in the mining industry. Sunshine Mine became more than an industrial site after that day. It turned into a symbol of how dangerous extractive work could still be in the late 20th century.",
+        "link": "https://en.wikipedia.org/wiki/Sunshine_mine_disaster",
+        "views": 13145,
+        "coordinates": {
+          "lat": 47.50184,
+          "lng": -116.070759
+        }
       }
-    },
-    {
-      "name": "Dhaka",
-      "region": "Bangladesh",
-      "text": "On April 14, Dhaka becomes one of the main centers of Pohela Boishakh, the Bengali New Year, with processions, music, and public celebrations across the city. The festivities around Ramna Park and the University of Dhaka have made the capital one of the date's most recognizable cultural focal points.",
-      "link": "https://en.wikipedia.org/wiki/Pohela_Boishakh",
-      "views": 52784,
-      "coordinates": {
-        "lat": 23.72888888888889,
-        "lng": 90.39444444444445
+    ]
+  },
+  "2026-05-03": {
+    "locations": [
+      {
+        "name": "Belgrade",
+        "region": "Serbia",
+        "isoCountryCode": "RS",
+        "text": "On May 3, 2023, Belgrade was shaken by a school shooting that stunned Serbia and much of Europe. The attack became the first massacre of its kind in the country's modern history and triggered intense public debate over weapons, media culture, and social violence. For days, the capital became the emotional center of national mourning. Belgrade's name was carried around the world through grief and disbelief.",
+        "link": "https://en.wikipedia.org/wiki/Belgrade_school_shooting",
+        "views": 708554,
+        "coordinates": {
+          "lat": 44.81777778,
+          "lng": 20.45694444
+        }
+      },
+      {
+        "name": "Fort McMurray",
+        "region": "Canada",
+        "isoCountryCode": "CA",
+        "text": "On May 3, 2016, Fort McMurray was overwhelmed by a wildfire that forced the evacuation of tens of thousands of people. Images of highways packed with fleeing residents and neighborhoods burning made the city a defining symbol of Canadian wildfire disaster. The scale of the destruction changed how many people understood northern boomtown vulnerability. Fort McMurray became shorthand for a modern climate-era catastrophe.",
+        "link": "https://en.wikipedia.org/wiki/2016_Fort_McMurray_wildfire",
+        "views": 112081,
+        "coordinates": {
+          "lat": 56.72638889,
+          "lng": -111.38027778
+        }
+      },
+      {
+        "name": "Tulagi",
+        "region": "Solomon Islands",
+        "isoCountryCode": "SB",
+        "text": "On May 3, 1942, Japanese forces moved into Tulagi during the opening phase of the struggle that would lead into the Battle of the Coral Sea. That small island suddenly found itself in the path of one of the Pacific War's turning-point naval campaigns. Tulagi mattered because control of it shaped reconnaissance, seaplane operations, and regional strategy. The name still evokes the moment when a tiny harbor became part of global war.",
+        "link": "https://en.wikipedia.org/wiki/Tulagi",
+        "views": 23303,
+        "coordinates": {
+          "lat": -9.10138889,
+          "lng": 160.14666667
+        }
+      },
+      {
+        "name": "National Diet Building",
+        "region": "Japan",
+        "isoCountryCode": "JP",
+        "text": "On May 3, Japan marks Constitution Memorial Day, and the National Diet Building in Tokyo becomes an obvious symbol of that date. The holiday commemorates the postwar constitution coming into effect in 1947 and keeps constitutional debate tied to this seat of parliament. That makes the building more than a political address. It stands each year at the center of arguments about pacifism, democracy, and national identity.",
+        "link": "https://en.wikipedia.org/wiki/Constitution_Memorial_Day",
+        "views": 69768,
+        "coordinates": {
+          "lat": 35.67571,
+          "lng": 139.74481
+        }
+      },
+      {
+        "name": "Yaxchilan",
+        "region": "Mexico",
+        "isoCountryCode": "MX",
+        "text": "On May 3, 752, Bird Jaguar IV is recorded as having acceded to the throne at Yaxchilan, one of the great Maya cities on the Usumacinta River. That date connects the site to the ceremonial politics of the Classic Maya world rather than to modern nation-states. Yaxchilan's carved lintels and monuments make the event feel unusually vivid across the centuries. It gives the ruins a specific day on which royal power was publicly claimed.",
+        "link": "https://en.wikipedia.org/wiki/Yaxchilan",
+        "views": 21727,
+        "coordinates": {
+          "lat": 16.9,
+          "lng": -90.96666667
+        }
       }
-    },
-    {
-      "name": "Chibok",
-      "region": "Nigeria",
-      "text": "On April 14, 2014, Chibok became known around the world when Boko Haram abducted 276 schoolgirls from the town. The event drew sustained international attention and turned this relatively remote place into a global symbol of grief, outrage, and demands for accountability.",
-      "link": "https://en.wikipedia.org/wiki/Chibok_schoolgirls_kidnapping",
-      "views": 426,
-      "coordinates": {
-        "lat": 10.869722222222222,
-        "lng": 12.846666666666666
+    ]
+  },
+  "2026-05-04": {
+    "locations": [
+      {
+        "name": "Hockenheimring",
+        "region": "Germany",
+        "isoCountryCode": "DE",
+        "text": "On May 4, 2019, Hockenheimring hosted the first race in the inaugural W Series season, an all-female single-seater championship. That made the circuit the starting point for a project that tried to change who could most visibly compete in elite motorsport. The event gave Hockenheimring a place in a different kind of racing history from the one usually associated with Formula One and endurance events. It became a launch site for a debate about opportunity, visibility, and gender in the sport.",
+        "link": "https://en.wikipedia.org/wiki/W_Series",
+        "views": 112606,
+        "coordinates": {
+          "lat": 49.32777778,
+          "lng": 8.56583333
+        }
+      },
+      {
+        "name": "Cassinga",
+        "region": "Angola",
+        "isoCountryCode": "AO",
+        "text": "On May 4, 1978, Cassinga was attacked by South African forces in one of the most contested and consequential episodes of the Namibian liberation struggle. The raid killed hundreds and left a lasting argument over whether the camp was a military base, a refugee center, or both. Cassinga became a place of mourning and nationalist memory far beyond Angola itself. Its name still sits inside the political history of southern Africa's long wars of decolonization.",
+        "link": "https://en.wikipedia.org/wiki/Cassinga_Day",
+        "views": 2207,
+        "coordinates": {
+          "lat": -15.11316667,
+          "lng": 16.10244444
+        }
+      },
+      {
+        "name": "Jericho",
+        "region": "West Bank",
+        "isoCountryCode": "PS",
+        "text": "On May 4, 1994, the Gaza-Jericho Agreement was signed, making Jericho one of the first places slated for Palestinian self-rule under the Oslo process. That turned one of the world's oldest continuously inhabited cities into a symbol of a possible political future. For a moment, Jericho seemed to stand at the beginning of a new era rather than buried under layers of ancient history. The date still carries that brief sense of diplomatic opening.",
+        "link": "https://en.wikipedia.org/wiki/Gaza%E2%80%93Jericho_Agreement",
+        "views": 548490,
+        "coordinates": {
+          "lat": 31.85611111,
+          "lng": 35.46
+        }
+      },
+      {
+        "name": "Kent State University",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On May 4, 1970, the Kent State shootings turned a university campus into one of the defining sites of protest and state violence in modern American history. National Guardsmen fired on students during demonstrations against the widening Vietnam War, killing four. The shock of the event spread far beyond Ohio through photographs, music, and public outrage. Kent State University became a permanent shorthand for the dangers of political rupture at home.",
+        "link": "https://en.wikipedia.org/wiki/Kent_State_shootings",
+        "views": 186848,
+        "coordinates": {
+          "lat": 41.14694444,
+          "lng": -81.34333333
+        }
+      },
+      {
+        "name": "Salvador",
+        "region": "Brazil",
+        "isoCountryCode": "BR",
+        "text": "On May 4, 1823, naval fighting off Salvador became one of the decisive clashes in Brazil's war for independence from Portugal. The confrontation helped show that control of the coast would matter just as much as declarations made on land. Salvador was already one of the great cities of Portuguese America, but the battle tied it directly to the military birth of the Brazilian state. It gave the city a place in the moment when independence had to be defended, not just announced.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_4_May",
+        "views": 216434,
+        "coordinates": {
+          "lat": -12.97472222,
+          "lng": -38.47666667
+        }
       }
-    }
-  ],
-  "2026-04-15": [
-    {
-      "name": "Boston",
-      "region": "United States",
-      "text": "On April 15, 2013, the Boston Marathon bombing turned Boston into the center of a major domestic terror attack and the days-long manhunt that followed. The attack permanently linked the city to one of the most consequential acts of violence in recent American public life.",
-      "link": "https://en.wikipedia.org/wiki/Boston_Marathon_bombing",
-      "views": 122805,
-      "coordinates": {
-        "lat": 42.360277777777775,
-        "lng": -71.05777777777777
+    ]
+  },
+  "2026-05-05": {
+    "locations": [
+      {
+        "name": "Douala",
+        "region": "Cameroon",
+        "isoCountryCode": "CM",
+        "text": "On May 5, 2007, Kenya Airways Flight 507 crashed after taking off from Douala, killing everyone aboard. The disaster made Cameroon's largest city the site of the country's deadliest aviation accident. For many people outside central Africa, Douala entered the headlines through that catastrophe rather than through its role as a major port. The event fixed the city to one of the region's bleakest moments in commercial flight history.",
+        "link": "https://en.wikipedia.org/wiki/Kenya_Airways_Flight_507",
+        "views": 151739,
+        "coordinates": {
+          "lat": 4.05,
+          "lng": 9.7
+        }
+      },
+      {
+        "name": "Mechelen",
+        "region": "Belgium",
+        "isoCountryCode": "BE",
+        "text": "On May 5, 1835, the first railway on the European mainland opened between Brussels and Mechelen. That gave this Flemish city a small but real place in the technological transformation of 19th-century Europe. Railways would redraw trade, commuting, and warfare across the continent, and Mechelen was there at the start. The city therefore sits at an unexpectedly early station in Europe's transport revolution.",
+        "link": "https://en.wikipedia.org/wiki/History_of_rail_transport_in_Belgium",
+        "views": 85506,
+        "coordinates": {
+          "lat": 51.02777778,
+          "lng": 4.48055556
+        }
+      },
+      {
+        "name": "Puebla",
+        "region": "Mexico",
+        "isoCountryCode": "MX",
+        "text": "On May 5, 1862, Mexican forces defeated a French army at Puebla in a battle that became far more famous than the war around it. The victory did not end the French intervention, but it gave Mexico an enduring symbol of resistance against a stronger invader. Puebla's name now travels internationally each year through Cinco de Mayo commemorations. That has turned one battlefield city into a recurring piece of historical memory far beyond Mexico.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Puebla",
+        "views": 145883,
+        "coordinates": {
+          "lat": 19,
+          "lng": -97.88333333
+        }
+      },
+      {
+        "name": "Old Goa",
+        "region": "India",
+        "isoCountryCode": "IN",
+        "text": "On May 5, 1542, Francis Xavier reached Old Goa, then the capital of Portuguese India. His arrival helped tie the city to the expansion of Catholic missions across Asia and to one of the most famous figures of early Jesuit history. Old Goa was already a major imperial center, but the date added a powerful religious dimension to its legacy. It left the city linked to global Christianity as well as empire and trade.",
+        "link": "https://en.wikipedia.org/wiki/Old_Goa",
+        "views": 27458,
+        "coordinates": {
+          "lat": 15.503,
+          "lng": 73.912
+        }
+      },
+      {
+        "name": "Waterloo, New York",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On May 5, 1866, Waterloo held the observance later recognized by many as the first formal Memorial Day in the United States. That claim has kept this small New York town inside the national geography of remembrance long after the Civil War generation disappeared. Waterloo matters because it turned grief into ritual in a way that could be repeated year after year. The place is now tied to how a local commemoration became a national tradition.",
+        "link": "https://en.wikipedia.org/wiki/Waterloo,_New_York",
+        "views": 8156,
+        "coordinates": {
+          "lat": 42.92111111,
+          "lng": -76.86166667
+        }
       }
-    },
-    {
-      "name": "Bari",
-      "region": "Italy",
-      "text": "On April 15, 1071, Bari, the last Byzantine possession in southern Italy, surrendered to Robert Guiscard after a long siege. The city marks the end of Byzantine rule in the region.",
-      "link": "https://en.wikipedia.org/wiki/Siege_of_Bari",
-      "views": 23355,
-      "coordinates": {
-        "lat": 41.125277777778,
-        "lng": 16.866666666667
+    ]
+  },
+  "2026-05-06": {
+    "locations": [
+      {
+        "name": "Westminster Abbey",
+        "region": "United Kingdom",
+        "isoCountryCode": "GB",
+        "text": "On May 6, 2023, Westminster Abbey hosted the coronation of Charles III and Camilla. The ceremony reinforced the abbey's centuries-old role as one of the most symbolically charged stages in British public life. Coronations compress monarchy, religion, architecture, and state ritual into a single place, and few buildings carry that weight more clearly. The date gave Westminster Abbey yet another entry in its long ceremonial record.",
+        "link": "https://en.wikipedia.org/wiki/Coronation_of_Charles_III_and_Camilla",
+        "views": 676618,
+        "coordinates": {
+          "lat": 51.49944444,
+          "lng": -0.1275
+        }
+      },
+      {
+        "name": "Hilversum",
+        "region": "Netherlands",
+        "isoCountryCode": "NL",
+        "text": "On May 6, 2002, Dutch politician Pim Fortuyn was assassinated in Hilversum after leaving a radio interview. The killing shattered assumptions about political violence in the Netherlands and transformed a media town into the setting for a national trauma. Hilversum mattered because the attack happened at the intersection of celebrity, broadcasting, and politics. Its name became inseparable from one of the most shocking moments in recent Dutch history.",
+        "link": "https://en.wikipedia.org/wiki/Assassination_of_Pim_Fortuyn",
+        "views": 59244,
+        "coordinates": {
+          "lat": 52.23333333,
+          "lng": 5.16666667
+        }
+      },
+      {
+        "name": "Corregidor",
+        "region": "Philippines",
+        "isoCountryCode": "PH",
+        "text": "On May 6, 1942, the last major American and Filipino forces on Corregidor surrendered to Japan. The island fortress had already become a symbol of resistance at the mouth of Manila Bay, which made its fall resonate far beyond the Philippines. Corregidor condensed the humiliation and heroism of the early Pacific War into a single battered outpost. It remains one of the most iconic locations in the wartime history of the archipelago.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Corregidor",
+        "views": 70356,
+        "coordinates": {
+          "lat": 14.38555556,
+          "lng": 120.57305556
+        }
+      },
+      {
+        "name": "Lakehurst, New Jersey",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On May 6, 1937, the Hindenburg caught fire while attempting to dock at Lakehurst, New Jersey. The disaster became one of the most famous transport catastrophes ever recorded, helped by unforgettable images and radio coverage. Lakehurst was suddenly fixed in the public imagination as the place where the age of giant passenger airships effectively ended. Few accidents have given a location such instant and lasting recognition.",
+        "link": "https://en.wikipedia.org/wiki/Hindenburg_disaster",
+        "views": 15870,
+        "coordinates": {
+          "lat": 40.013119,
+          "lng": -74.320356
+        }
+      },
+      {
+        "name": "Cusco",
+        "region": "Peru",
+        "isoCountryCode": "PE",
+        "text": "On May 6, 1536, the Siege of Cusco began as Inca forces tried to retake the city from the Spanish. The struggle made Cusco the focal point of one of the earliest and most dramatic contests over colonial control in the Andes. Because the city had been the heart of the Inca world, the siege carried enormous symbolic weight as well as military importance. It tied Cusco to the moment when empire was being violently remade.",
+        "link": "https://en.wikipedia.org/wiki/Siege_of_Cuzco",
+        "views": 344971,
+        "coordinates": {
+          "lat": -13.5169,
+          "lng": -71.9786
+        }
       }
-    },
-    {
-      "name": "Busan",
-      "region": "South Korea",
-      "text": "On April 15, 2002, Air China Flight 129 crashed on approach to Gimhae International Airport in Busan. The disaster made the city the focus of one of South Korea's deadliest aviation accidents.",
-      "link": "https://en.wikipedia.org/wiki/Air_China_Flight_129",
-      "views": 31161,
-      "coordinates": {
-        "lat": 35.18,
-        "lng": 129.075
+    ]
+  },
+  "2026-05-07": {
+    "locations": [
+      {
+        "name": "Bissau",
+        "region": "Guinea-Bissau",
+        "isoCountryCode": "GW",
+        "text": "On May 7, 1999, President Joao Bernardo Vieira was ousted in Bissau after months of civil war. The fall of the capital's central authority made the city the decisive stage of a conflict that exposed the fragility of the young state. Bissau became a political symbol for military intervention, coup politics, and postcolonial instability. The date fixed the capital to one of the most dramatic turning points in the country's history.",
+        "link": "https://en.wikipedia.org/wiki/Guinea-Bissau_Civil_War",
+        "views": 87223,
+        "coordinates": {
+          "lat": 11.86,
+          "lng": -15.58333333
+        }
+      },
+      {
+        "name": "Sungai Buloh",
+        "region": "Malaysia",
+        "isoCountryCode": "MY",
+        "text": "On May 7, 1991, a fire and explosion at a fireworks factory in Sungai Buloh killed 26 people and devastated the surrounding area. The disaster became one of Malaysia's most notorious industrial tragedies. Sungai Buloh, better known as a suburban district north of Kuala Lumpur, suddenly became synonymous with the risks of unsafe storage and regulation failure. The event gave the place a grim place in the country's disaster memory.",
+        "link": "https://en.wikipedia.org/wiki/Bright_Sparklers_fireworks_disaster",
+        "views": 14484,
+        "coordinates": {
+          "lat": 3.21,
+          "lng": 101.54972222
+        }
+      },
+      {
+        "name": "New Orleans",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On May 7, 1718, Jean-Baptiste Le Moyne de Bienville founded New Orleans. The city would grow into one of the most distinctive urban cultures in the Americas, shaped by empire, trade, slavery, music, and the Mississippi. That makes the date feel larger than a bureaucratic founding act. It marks the start of a city whose influence would far exceed its size.",
+        "link": "https://en.wikipedia.org/wiki/New_Orleans",
+        "views": 1199219,
+        "coordinates": {
+          "lat": 29.9761,
+          "lng": -90.0783
+        }
+      },
+      {
+        "name": "Vienna",
+        "region": "Austria",
+        "isoCountryCode": "AT",
+        "text": "On May 7, 1824, Beethoven's Ninth Symphony premiered in Vienna. The performance gave the city yet another claim to being one of the decisive capitals of Western music, but this one mattered especially because the work would become globally canonical. Vienna was not just a venue for the debut of a masterpiece. It became the first city to hear a composition that later turned into a cultural monument in its own right.",
+        "link": "https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)",
+        "views": 1286020,
+        "coordinates": {
+          "lat": 48.2083,
+          "lng": 16.3725
+        }
+      },
+      {
+        "name": "Dien Bien Phu",
+        "region": "Vietnam",
+        "isoCountryCode": "VN",
+        "text": "On May 7, 1954, the Battle of Dien Bien Phu ended in a French defeat that transformed the history of colonial rule in Indochina. The remote valley became one of the most consequential battlefields of the 20th century because the outcome accelerated the collapse of French power in the region. Dien Bien Phu entered global political vocabulary as more than a military setback. It became shorthand for the vulnerability of empire itself.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu",
+        "views": 42454,
+        "coordinates": {
+          "lat": 21.38333333,
+          "lng": 103.01666667
+        }
       }
-    },
-    {
-      "name": "Marrakesh",
-      "region": "Morocco",
-      "text": "On April 15, 1994, the Marrakesh Agreement establishing the World Trade Organization was adopted in Marrakesh. The city gave its name to one of the key agreements shaping the modern global trading system.",
-      "link": "https://en.wikipedia.org/wiki/Marrakesh_Agreement",
-      "views": 36358,
-      "coordinates": {
-        "lat": 31.62947,
-        "lng": -7.98108
+    ]
+  },
+  "2026-05-08": {
+    "locations": [
+      {
+        "name": "Hue",
+        "region": "Vietnam",
+        "isoCountryCode": "VN",
+        "text": "On May 8, 1963, government forces in Hue opened fire on Buddhists protesting restrictions on their religious flag. The killings helped trigger the Buddhist crisis that would badly damage the South Vietnamese regime's legitimacy. Hue mattered because the city was a major center of Buddhist life as well as old imperial prestige. The event turned it into a focal point of religion, protest, and Cold War politics.",
+        "link": "https://en.wikipedia.org/wiki/Hu%E1%BA%BF_Ph%E1%BA%ADt_%C4%90%E1%BA%A3n_shootings",
+        "views": 193667,
+        "coordinates": {
+          "lat": 16.4639,
+          "lng": 107.5867
+        }
+      },
+      {
+        "name": "Saint-Pierre, Martinique",
+        "region": "Martinique",
+        "isoCountryCode": "MQ",
+        "text": "On May 8, 1902, Mount Pelee erupted and annihilated much of Saint-Pierre, killing more than 30,000 people. The city had been known as the cultural and commercial heart of Martinique, which made the destruction even more shocking. In a matter of minutes, Saint-Pierre was transformed from a Caribbean showpiece into one of the classic case studies of volcanic disaster. The catastrophe permanently altered how the town is remembered.",
+        "link": "https://en.wikipedia.org/wiki/Mount_Pel%C3%A9e",
+        "views": 39305,
+        "coordinates": {
+          "lat": 14.7417,
+          "lng": -61.1758
+        }
+      },
+      {
+        "name": "Silkeborg",
+        "region": "Denmark",
+        "isoCountryCode": "DK",
+        "text": "On May 8, 1950, the Tollund Man was discovered in a bog near Silkeborg. The find became one of Europe's most famous archaeological sensations because the Iron Age body was preserved with extraordinary detail. Silkeborg therefore entered the wider imagination not through empire or warfare, but through the eerie intimacy of deep time. The date tied the town to one of prehistory's most haunting recoveries.",
+        "link": "https://en.wikipedia.org/wiki/Tollund_Man",
+        "views": 33263,
+        "coordinates": {
+          "lat": 56.18333333,
+          "lng": 9.55166667
+        }
+      },
+      {
+        "name": "Setif",
+        "region": "Algeria",
+        "isoCountryCode": "DZ",
+        "text": "On May 8, 1945, celebrations marking the end of World War II turned into mass violence in Setif and nearby towns in colonial Algeria. The killings and reprisals became one of the defining traumas in the history of French Algeria and a major reference point for Algerian nationalism. Setif's name is therefore tied to a day that was liberation in Europe but massacre in North Africa. That contrast gives the place a stark historical charge.",
+        "link": "https://en.wikipedia.org/wiki/S%C3%A9tif_and_Guelma_massacre",
+        "views": 22816,
+        "coordinates": {
+          "lat": 36.19,
+          "lng": 5.41
+        }
+      },
+      {
+        "name": "Karlshorst",
+        "region": "Germany",
+        "isoCountryCode": "DE",
+        "text": "On May 8, 1945, the German Instrument of Surrender signed at Karlshorst came into force. That turned this eastern Berlin district into one of the precise places where the Second World War in Europe formally ended. Karlshorst is not among the best-known place names of the war, which makes its importance feel almost hidden in plain sight. For one day, a residential district became a hinge of world history.",
+        "link": "https://en.wikipedia.org/wiki/German_Instrument_of_Surrender",
+        "views": 10638,
+        "coordinates": {
+          "lat": 52.52111111,
+          "lng": 13.48
+        }
       }
-    },
-    {
-      "name": "Paris",
-      "region": "France",
-      "text": "On April 15, 2019, a major fire severely damaged Notre-Dame de Paris. Paris became the focus of worldwide attention as people watched one of its best-known landmarks burn.",
-      "link": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris_fire",
-      "views": 150579,
-      "coordinates": {
-        "lat": 48.85666666666667,
-        "lng": 2.352222222222222
+    ]
+  },
+  "2026-05-09": {
+    "locations": [
+      {
+        "name": "Bethlehem",
+        "region": "West Bank",
+        "isoCountryCode": "PS",
+        "text": "On May 9, 2002, the long siege of the Church of the Nativity in Bethlehem came to an end. The standoff had turned one of Christianity's most symbolically loaded cities into a tense focal point of the Second Intifada. Bethlehem is usually imagined through pilgrimage and scripture, which made the militarized images from the basilica compound feel especially jarring. The episode bound the city to yet another layer of contested history.",
+        "link": "https://en.wikipedia.org/wiki/Siege_of_the_Church_of_the_Nativity_in_Bethlehem",
+        "views": 645722,
+        "coordinates": {
+          "lat": 31.70444444,
+          "lng": 35.20638889
+        }
+      },
+      {
+        "name": "Accra",
+        "region": "Ghana",
+        "isoCountryCode": "GH",
+        "text": "On May 9, 2001, a stadium disaster in Accra killed 129 football fans after panic and a crush followed police use of tear gas. The tragedy remains one of the deadliest events in the history of the sport in Africa. Accra became the place where celebration, rivalry, and inadequate crowd control collided with devastating consequences. The date still carries enormous emotional weight in Ghanaian football memory.",
+        "link": "https://en.wikipedia.org/wiki/Accra_Sports_Stadium_disaster",
+        "views": 326166,
+        "coordinates": {
+          "lat": 5.55,
+          "lng": -0.2
+        }
+      },
+      {
+        "name": "Parliament House, Canberra",
+        "region": "Australia",
+        "isoCountryCode": "AU",
+        "text": "On May 9, 1988, the new Parliament House in Canberra was officially opened. The building was meant to express democratic openness while also giving Australia's federal capital a more confident architectural center. Its opening tied the city to a ceremonial remaking of national political space. Canberra already existed to house government, but this gave it a new flagship symbol.",
+        "link": "https://en.wikipedia.org/wiki/Parliament_House,_Canberra",
+        "views": 66033,
+        "coordinates": {
+          "lat": -35.30805556,
+          "lng": 149.12444444
+        }
+      },
+      {
+        "name": "Ostend",
+        "region": "Belgium",
+        "isoCountryCode": "BE",
+        "text": "On May 9, 1918, Allied forces launched the Second Ostend Raid in another attempt to block the Belgian port used by German naval forces. The operation was only partly successful, but it gave Ostend a place in the strange maritime improvisations of the First World War. Ports are often strategic precisely because they look ordinary on a map until war magnifies them. Ostend became one of those places where harbor geography briefly mattered to global conflict.",
+        "link": "https://en.wikipedia.org/wiki/Second_Ostend_Raid",
+        "views": 81304,
+        "coordinates": {
+          "lat": 51.22583333,
+          "lng": 2.91944444
+        }
+      },
+      {
+        "name": "Tampa Bay",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On May 9, 1980, the freighter Summit Venture collided with the Sunshine Skyway Bridge across Tampa Bay and sent vehicles plunging into the water. The accident instantly turned the bay into the setting for one of the most shocking infrastructure disasters in modern American transportation history. Tampa Bay is usually associated with ports, tourism, and coastal life, not catastrophic bridge collapse. That contrast is part of why the event remains so memorable.",
+        "link": "https://en.wikipedia.org/wiki/Sunshine_Skyway_Bridge_disaster",
+        "views": 76266,
+        "coordinates": {
+          "lat": 27.7625,
+          "lng": -82.54583333
+        }
       }
-    }
-  ],
-  "2026-04-16": [
-    {
-      "name": "Skopje",
-      "region": "North Macedonia",
-      "text": "On April 16, 1346, Stefan Dusan was crowned emperor in Skopje. The city served as the ceremonial center of a major medieval Balkan empire at a decisive moment in regional history.",
-      "link": "https://en.wikipedia.org/wiki/Stefan_Du%C5%A1an",
-      "views": 28899,
-      "coordinates": {
-        "lat": 41.99611111111111,
-        "lng": 21.431666666666665
+    ]
+  },
+  "2026-05-10": {
+    "locations": [
+      {
+        "name": "Tabqa",
+        "region": "Syria",
+        "isoCountryCode": "SY",
+        "text": "On May 10, 2017, the battle for Tabqa ended with the Syrian Democratic Forces taking the city from the Islamic State. That gave this Euphrates-side town an outsized place in the long campaign against the caliphate. Tabqa mattered because of its nearby dam, air base, and position on the approach to Raqqa. A relatively small city thus became a strategic hinge in one of the decade's defining wars.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Tabqa",
+        "views": 1701,
+        "coordinates": {
+          "lat": 35.83666667,
+          "lng": 38.54805556
+        }
+      },
+      {
+        "name": "Freiburg im Breisgau",
+        "region": "Germany",
+        "isoCountryCode": "DE",
+        "text": "On May 10, 1940, German aircraft accidentally bombed Freiburg im Breisgau during the opening day of the western campaign of the Second World War. The strike was quickly exploited for propaganda, but it was also a revealing moment of confusion inside the German war machine itself. Freiburg shows how even a city inside the Reich could become a victim of the chaos unleashed that day. The episode remains one of the stranger incidents of the war's first great offensive in the west.",
+        "link": "https://en.wikipedia.org/wiki/Bombing_of_Freiburg_in_World_War_II",
+        "views": 211094,
+        "coordinates": {
+          "lat": 47.995,
+          "lng": 7.85
+        }
+      },
+      {
+        "name": "One World Trade Center",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On May 10, 2013, One World Trade Center was recognized as the tallest building in the Western Hemisphere. That gave the skyscraper a symbolic milestone as well as an architectural one, because it had already been loaded with meaning long before it reached full height. The building stands on a site defined by trauma, reconstruction, and civic ambition. Its rise turned lower Manhattan into a story about skyline, memory, and national self-image all at once.",
+        "link": "https://en.wikipedia.org/wiki/One_World_Trade_Center",
+        "views": 978409,
+        "coordinates": {
+          "lat": 40.71305556,
+          "lng": -74.01333333
+        }
+      },
+      {
+        "name": "Tripoli",
+        "region": "Libya",
+        "isoCountryCode": "LY",
+        "text": "On May 10, 1801, the ruler of Tripoli declared war on the United States, helping to trigger the First Barbary War. The confrontation made this North African port central to one of the young republic's earliest foreign conflicts. Tripoli entered American memory through naval campaigns, tribute politics, and the language later immortalized in the Marines' hymn. The city thus sits near the beginning of the United States' armed projection overseas.",
+        "link": "https://en.wikipedia.org/wiki/First_Barbary_War",
+        "views": 340401,
+        "coordinates": {
+          "lat": 32.88722222,
+          "lng": 13.19138889
+        }
+      },
+      {
+        "name": "Meerut",
+        "region": "India",
+        "isoCountryCode": "IN",
+        "text": "On May 10, 1857, mutiny broke out at Meerut and helped ignite the uprising known as the Indian Rebellion of 1857. What began in this garrison city rapidly escalated into one of the most consequential anti-colonial wars of the 19th century. Meerut matters because it was the spark point, not just another battlefield. The city's name remains attached to the moment when imperial confidence was violently shaken.",
+        "link": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857",
+        "views": 175805,
+        "coordinates": {
+          "lat": 28.98,
+          "lng": 77.71
+        }
       }
-    },
-    {
-      "name": "Salta",
-      "region": "Argentina",
-      "text": "On April 16, 1582, Spanish conquistador Hernando de Lerma founded the settlement of Salta. That date marks the beginning of one of northwestern Argentina's most important colonial-era cities.",
-      "link": "https://en.wikipedia.org/wiki/Salta",
-      "views": 4745,
-      "coordinates": {
-        "lat": -24.788333333333,
-        "lng": -65.410555555556
+    ]
+  },
+  "2026-05-11": {
+    "locations": [
+      {
+        "name": "Malmö",
+        "region": "Sweden",
+        "isoCountryCode": "SE",
+        "text": "On May 11, 2024, Malmö staged the Eurovision Song Contest and briefly became the center of one of Europe's strangest annual spectacles. The city had already hosted the competition before, but this edition stood out for the scale of the politics, demonstrations, and attention surrounding it. Malmö was therefore not just a backdrop for pop performance. It became a stage where entertainment, identity, and continental tension all met at once.",
+        "link": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2024",
+        "views": 301470,
+        "coordinates": {
+          "lat": 55.60583333,
+          "lng": 13.03583333
+        }
+      },
+      {
+        "name": "Jenin",
+        "region": "West Bank",
+        "isoCountryCode": "PS",
+        "text": "On May 11, 2022, journalist Shireen Abu Akleh was killed while covering an Israeli raid in Jenin. Her death quickly became an international story about war reporting, accountability, and the risks of documenting occupation and conflict. Jenin was already a charged name in Palestinian political geography, and the killing added another layer of symbolic weight. The city became the focal point of grief and argument far beyond the West Bank.",
+        "link": "https://en.wikipedia.org/wiki/Killing_of_Shireen_Abu_Akleh",
+        "views": 73336,
+        "coordinates": {
+          "lat": 32.46111111,
+          "lng": 35.3
+        }
+      },
+      {
+        "name": "Kinshasa",
+        "region": "Democratic Republic of the Congo",
+        "isoCountryCode": "CD",
+        "text": "On May 11, 2014, panic at a football stadium in Kinshasa led to a crush that killed spectators and exposed the lethal consequences of poor crowd control. The disaster turned the capital into the setting of one of African football's bleakest recent tragedies. Kinshasa is often imagined through politics, music, and sheer scale, not through stadium catastrophe. That contrast is part of why the event still feels so jarring.",
+        "link": "https://en.wikipedia.org/wiki/2014_Stade_Tata_Rapha%C3%ABl_disaster",
+        "views": 607096,
+        "coordinates": {
+          "lat": -4.32194444,
+          "lng": 15.31194444
+        }
+      },
+      {
+        "name": "Hanford, California",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On May 11, 1880, a gun battle over railroad land claims near Hanford became known as the Mussel Slough Tragedy. The episode exposed how violently the settlement of California could still erupt long after the frontier had supposedly been tamed. Hanford entered history not as a gold-rush boomtown, but as a place where law, speculation, and force collided. It gave the San Joaquin Valley one of its darkest and most mythologized local conflicts.",
+        "link": "https://en.wikipedia.org/wiki/Mussel_Slough_Tragedy",
+        "views": 70332,
+        "coordinates": {
+          "lat": 36.32638889,
+          "lng": -119.63722222
+        }
+      },
+      {
+        "name": "Istanbul",
+        "region": "Turkey",
+        "isoCountryCode": "TR",
+        "text": "On May 11, 2011, the Istanbul Convention was opened for signature in Istanbul, creating one of the most important modern European agreements on preventing violence against women. That gave the city a direct place in the legal history of gender rights rather than only its more familiar imperial and cultural stories. Istanbul often appears as a bridge between continents, and here it also became a bridge between activism and treaty law. The date tied the city to a major transnational standard for human protection.",
+        "link": "https://en.wikipedia.org/wiki/Istanbul_Convention",
+        "views": 1519554,
+        "coordinates": {
+          "lat": 41.01361111,
+          "lng": 28.955
+        }
       }
-    },
-    {
-      "name": "Blacksburg",
-      "region": "United States",
-      "text": "On April 16, 2007, the Virginia Tech shooting made Blacksburg the site of the deadliest school shooting in U.S. history. The town became the center of a tragedy that reshaped national debates over campus safety and gun violence.",
-      "link": "https://en.wikipedia.org/wiki/Virginia_Tech_shooting",
-      "views": 7184,
-      "coordinates": {
-        "lat": 37.23,
-        "lng": -80.41777777777777
+    ]
+  },
+  "2026-05-12": {
+    "locations": [
+      {
+        "name": "Postville, Iowa",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On May 12, 2008, federal agents raided a meatpacking plant in Postville, Iowa, in what became the largest workplace immigration raid in United States history at the time. The operation turned a small Midwestern town into a national flashpoint over immigration, labor, and enforcement. Postville mattered because the scale of the raid made abstract policy suddenly human and local. The town became shorthand for how immigration politics can crash into ordinary places.",
+        "link": "https://en.wikipedia.org/wiki/Postville_raid",
+        "views": 10293,
+        "coordinates": {
+          "lat": 43.08416667,
+          "lng": -91.56777778
+        }
+      },
+      {
+        "name": "São Paulo",
+        "region": "Brazil",
+        "isoCountryCode": "BR",
+        "text": "On May 12, 2006, coordinated violence linked to the Primeiro Comando da Capital erupted across São Paulo. Attacks on police, public infrastructure, and prisons showed how deeply organized crime could challenge the authority of the Brazilian state. São Paulo is the country's financial giant, which made the spectacle of paralysis especially striking. The city became the main stage of a confrontation between urban governance and criminal power.",
+        "link": "https://en.wikipedia.org/wiki/May_2006_crimes_in_S%C3%A3o_Paulo",
+        "views": 917685,
+        "coordinates": {
+          "lat": -23.55,
+          "lng": -46.63333333
+        }
+      },
+      {
+        "name": "Fátima",
+        "region": "Portugal",
+        "isoCountryCode": "PT",
+        "text": "On May 12, 1982, security guards in Fátima stopped a would-be attacker who rushed toward Pope John Paul II with a bayonet during a shrine procession. The incident gave one of Catholicism's most famous pilgrimage sites an unexpectedly violent chapter. Fátima is usually framed through devotion, visions, and crowds of prayerful visitors. That makes the attempted attack there feel all the more surreal.",
+        "link": "https://en.wikipedia.org/wiki/Juan_Mar%C3%ADa_Fern%C3%A1ndez_y_Krohn",
+        "views": 128047,
+        "coordinates": {
+          "lat": 39.62555556,
+          "lng": -8.66583333
+        }
+      },
+      {
+        "name": "Koh Tang",
+        "region": "Cambodia",
+        "isoCountryCode": "KH",
+        "text": "On May 12, 1975, Khmer Rouge forces seized the SS Mayaguez near Koh Tang, abruptly drawing the small Cambodian island into an international military crisis. The incident became one of the last violent aftershocks of the wider Indochina wars. Koh Tang mattered because its waters turned a merchant-ship seizure into a confrontation involving the United States almost immediately after the fall of Saigon. A tiny island thus became the center of a very large geopolitical afterimage.",
+        "link": "https://en.wikipedia.org/wiki/Mayaguez_incident",
+        "views": 8764,
+        "coordinates": {
+          "lat": 10.3,
+          "lng": 103.11666667
+        }
+      },
+      {
+        "name": "Venice",
+        "region": "Italy",
+        "isoCountryCode": "IT",
+        "text": "On May 12, 1797, Napoleon conquered Venice, bringing the ancient republic to its end. Few cities carry such a strong aura of long continuity, which makes the abrupt collapse feel especially dramatic. Venice had survived as a maritime power and commercial crossroads for centuries before yielding to revolutionary-era warfare. That gives the date the feeling of an old world finally giving way.",
+        "link": "https://en.wikipedia.org/wiki/Republic_of_Venice",
+        "views": 1198742,
+        "coordinates": {
+          "lat": 45.4375,
+          "lng": 12.33583333
+        }
       }
-    },
-    {
-      "name": "Athens",
-      "region": "Greece",
-      "text": "On April 16, 2003, the Treaty of Accession was signed in Athens to admit ten new states to the European Union. The city briefly became the stage for one of the EU's largest single expansions.",
-      "link": "https://en.wikipedia.org/wiki/Treaty_of_Accession_2003",
-      "views": 71778,
-      "coordinates": {
-        "lat": 37.98416666666667,
-        "lng": 23.728055555555557
+    ]
+  },
+  "2026-05-13": {
+    "locations": [
+      {
+        "name": "Silverstone Circuit",
+        "region": "United Kingdom",
+        "isoCountryCode": "GB",
+        "text": "On May 13, 1950, the inaugural Formula One World Championship race was held at Silverstone Circuit. That made the track the starting line for what would become one of the world's most recognizable motorsport series. Silverstone already had wartime and postwar history in its concrete and runways, but this event gave it a wholly different identity. The circuit became one of the birthplaces of modern grand prix culture.",
+        "link": "https://en.wikipedia.org/wiki/1950_British_Grand_Prix",
+        "views": 318206,
+        "coordinates": {
+          "lat": 52.071,
+          "lng": -1.016
+        }
+      },
+      {
+        "name": "Enschede",
+        "region": "Netherlands",
+        "isoCountryCode": "NL",
+        "text": "On May 13, 2000, a fireworks depot exploded in Enschede and devastated a residential district. The blast killed residents and firefighters alike, exposing how dangerous industrial storage could be when placed beside ordinary homes. Enschede became a case study in urban safety, planning, and the fragility of routine life. A quiet Dutch city was suddenly mapped in terms of shock waves and debris.",
+        "link": "https://en.wikipedia.org/wiki/Enschede_fireworks_disaster",
+        "views": 80417,
+        "coordinates": {
+          "lat": 52.2225,
+          "lng": 6.8925
+        }
+      },
+      {
+        "name": "Jakarta",
+        "region": "Indonesia",
+        "isoCountryCode": "ID",
+        "text": "On May 13, 1998, riots in Jakarta escalated into one of the most traumatic episodes of Indonesia's democratic transition. Shops were looted, buildings burned, and ethnic Chinese Indonesians were especially targeted as the Suharto era neared collapse. Jakarta mattered because it was the national center where economic crisis, political anger, and communal violence all converged. The city became inseparable from the convulsive end of an authoritarian order.",
+        "link": "https://en.wikipedia.org/wiki/May_1998_riots_of_Indonesia",
+        "views": 1021782,
+        "coordinates": {
+          "lat": -6.18,
+          "lng": 106.83
+        }
+      },
+      {
+        "name": "Philadelphia",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On May 13, 1985, Philadelphia police bombed the headquarters of the MOVE organization, killing eleven people and destroying an entire city block. The event remains one of the most shocking examples of state violence carried out by a municipal government in the United States. Philadelphia is often narrated through founding-era ideals, which makes this episode especially stark. It exposed how quickly the language of order can slide into catastrophe.",
+        "link": "https://en.wikipedia.org/wiki/1985_MOVE_bombing",
+        "views": 1480503,
+        "coordinates": {
+          "lat": 39.9528,
+          "lng": -75.1636
+        }
+      },
+      {
+        "name": "Estadio Universidad San Marcos",
+        "region": "Peru",
+        "isoCountryCode": "PE",
+        "text": "On May 13, 1951, Peru opened its first large-capacity stadium as part of the 400th anniversary commemoration of the National University of San Marcos. That tied a specific sporting venue in Lima to the symbolic projection of national education, prestige, and public ceremony. Stadiums are often remembered for matches, but this one entered history through commemoration and institutional pride. It gives the date a surprising blend of university history and monumental architecture.",
+        "link": "https://en.wikipedia.org/wiki/Estadio_Universidad_San_Marcos",
+        "views": 12392,
+        "coordinates": {
+          "lat": -12.057,
+          "lng": -77.075
+        }
       }
-    },
-    {
-      "name": "Valletta",
-      "region": "Malta",
-      "text": "On April 16, 1942, King George VI awarded the George Cross to Malta in recognition of the island's collective wartime bravery. The decoration became one of the defining symbols of Malta's experience in World War II.",
-      "link": "https://en.wikipedia.org/wiki/Award_of_the_George_Cross_to_Malta",
-      "views": 185957,
-      "coordinates": {
-        "lat": 35.898333,
-        "lng": 14.5125
+    ]
+  },
+  "2026-05-14": {
+    "locations": [
+      {
+        "name": "Seoul",
+        "region": "South Korea",
+        "isoCountryCode": "KR",
+        "text": "On May 14, 2004, the Constitutional Court in Seoul overturned the impeachment of President Roh Moo-hyun. The ruling became a defining moment in South Korea's young democratic history because it tested the strength of institutions rather than just personalities. Seoul was the obvious stage for that drama, but the decision gave the capital a particularly sharp constitutional significance on that date. It was a reminder that political crisis can sometimes be resolved not in the streets but in the court's language of procedure and legitimacy.",
+        "link": "https://en.wikipedia.org/wiki/Impeachment_of_Roh_Moo-hyun",
+        "views": 938433,
+        "coordinates": {
+          "lat": 37.56,
+          "lng": 126.99
+        }
+      },
+      {
+        "name": "Rotterdam",
+        "region": "Netherlands",
+        "isoCountryCode": "NL",
+        "text": "On May 14, 1940, Rotterdam was devastated by a German bombing that destroyed much of the historic city center. The attack became one of the most infamous early air assaults of the Second World War and helped force the Dutch surrender. Rotterdam's modern skyline is often discussed as a sign of reinvention, but that reinvention began in catastrophe. The city remains one of the clearest examples of how bombing remade urban Europe.",
+        "link": "https://en.wikipedia.org/wiki/German_bombing_of_Rotterdam",
+        "views": 401943,
+        "coordinates": {
+          "lat": 51.92,
+          "lng": 4.48
+        }
+      },
+      {
+        "name": "Anniston",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On May 14, 1961, a Freedom Riders bus was attacked and firebombed near Anniston, Alabama. The assault became one of the most unforgettable images of the civil rights movement because the violence was so brazen and public. Anniston entered national history as a place where segregationists tried to terrorize a movement off the road. Instead, the attack helped expose the moral bankruptcy of Jim Crow to a much wider audience.",
+        "link": "https://en.wikipedia.org/wiki/Freedom_Riders",
+        "views": 58801,
+        "coordinates": {
+          "lat": 33.6625,
+          "lng": -85.82861111
+        }
+      },
+      {
+        "name": "Manchester",
+        "region": "United Kingdom",
+        "isoCountryCode": "GB",
+        "text": "On May 14, 2008, football violence erupted in central Manchester around the UEFA Cup final, injuring police and damaging the city's center. The disorder turned a major sporting occasion into a public-order crisis watched across Europe. Manchester is used to being a football city, but this was notoriety of a different kind. It showed how quickly celebration can curdle into chaos when thousands of supporters converge.",
+        "link": "https://en.wikipedia.org/wiki/2008_UEFA_Cup_final_riots",
+        "views": 983855,
+        "coordinates": {
+          "lat": 53.479,
+          "lng": -2.2452
+        }
+      },
+      {
+        "name": "Nelson",
+        "region": "New Zealand",
+        "isoCountryCode": "NZ",
+        "text": "On May 14, 1870, the first recorded rugby match in New Zealand was played in Nelson. That small historical detail matters because rugby would go on to become one of the strongest cultural identities in the country. Nelson therefore sits near the origin point of a sporting tradition that later felt almost national mythology. A provincial city became part of the deep backstory of the All Blacks world.",
+        "link": "https://en.wikipedia.org/wiki/History_of_rugby_union_in_New_Zealand",
+        "views": 84854,
+        "coordinates": {
+          "lat": -41.27083333,
+          "lng": 173.28388889
+        }
       }
-    }
-  ],
-  "2026-04-17": [
-    {
-      "name": "Kaunas",
-      "region": "Lithuania",
-      "text": "On April 17, 1362, Kaunas Castle fell to the Teutonic Order after a long siege. Kaunas entered the historical record as a frontier stronghold in the medieval Baltic conflicts.",
-      "link": "https://en.wikipedia.org/wiki/Siege_of_Kaunas_(1362)",
-      "views": 13919,
-      "coordinates": {
-        "lat": 54.9,
-        "lng": 23.933333333333
+    ]
+  },
+  "2026-05-15": {
+    "locations": [
+      {
+        "name": "Handlová",
+        "region": "Slovakia",
+        "isoCountryCode": "SK",
+        "text": "On May 15, 2024, Slovakia's prime minister Robert Fico was shot in Handlová during a public appearance. The attack instantly turned a relatively modest mining town into a focus of European political shock. Handlová became associated not with local industry or regional identity, but with the vulnerability of democratic leadership to sudden violence. Its name now sits inside one of the most dramatic moments in recent Slovak politics.",
+        "link": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Robert_Fico",
+        "views": 6459,
+        "coordinates": {
+          "lat": 48.73,
+          "lng": 18.76
+        }
+      },
+      {
+        "name": "Malden Island",
+        "region": "Kiribati",
+        "isoCountryCode": "KI",
+        "text": "On May 15, 1957, Britain tested its first hydrogen bomb at Malden Island during Operation Grapple. That placed a remote Pacific atoll inside the frightening technological geography of the nuclear age. Malden Island feels almost impossibly isolated, which is part of what made it attractive for weapons testing. It became one of those tiny places whose significance came from global danger rather than local population.",
+        "link": "https://en.wikipedia.org/wiki/Operation_Grapple",
+        "views": 21063,
+        "coordinates": {
+          "lat": -4.01666667,
+          "lng": -154.93333333
+        }
+      },
+      {
+        "name": "Winnipeg",
+        "region": "Canada",
+        "isoCountryCode": "CA",
+        "text": "On May 15, 1919, workers in Winnipeg launched the general strike that became one of the defining labor confrontations in Canadian history. The walkout spread across the city so thoroughly that it raised questions about class power, public order, and the limits of reform. Winnipeg mattered because the strike gave labor conflict an urban scale impossible to ignore. The city remains central to any account of organized labor in Canada.",
+        "link": "https://en.wikipedia.org/wiki/Winnipeg_general_strike",
+        "views": 623850,
+        "coordinates": {
+          "lat": 49.89555556,
+          "lng": -97.13861111
+        }
+      },
+      {
+        "name": "Kyoto",
+        "region": "Japan",
+        "isoCountryCode": "JP",
+        "text": "On May 15, Kyoto hosts Aoi Matsuri, one of Japan's oldest and most visually distinctive festivals. The procession's court costumes and ritual atmosphere make the city feel, for a day, like a living extension of the Heian period rather than a modern metropolis. Kyoto is already associated with temples, tradition, and layered history, and Aoi Matsuri concentrates all of that into a single annual spectacle. It gives the date a cultural connection rather than a tragic one.",
+        "link": "https://en.wikipedia.org/wiki/Aoi_Matsuri",
+        "views": 678633,
+        "coordinates": {
+          "lat": 35.01161,
+          "lng": 135.76811
+        }
+      },
+      {
+        "name": "Torreón",
+        "region": "Mexico",
+        "isoCountryCode": "MX",
+        "text": "On May 15, 1911, revolutionary forces captured Torreón and hundreds of Chinese immigrants were killed in the massacre that followed. The episode gave the city a disturbing place in the intertwined histories of revolution, racism, and migration in Mexico. Torreón matters because the violence there exposed how easily political upheaval could turn into ethnic atrocity. It remains one of the darkest events associated with the Mexican Revolution.",
+        "link": "https://en.wikipedia.org/wiki/Torre%C3%B3n_massacre",
+        "views": 68055,
+        "coordinates": {
+          "lat": 25.54194444,
+          "lng": -103.40833333
+        }
       }
-    },
-    {
-      "name": "San Juan",
-      "region": "Puerto Rico",
-      "text": "On April 17, 1797, British forces attacked San Juan in one of the largest invasions of Spanish territories in the Americas. The city's defenses helped repel the assault and preserve Spanish control.",
-      "link": "https://en.wikipedia.org/wiki/Battle_of_San_Juan_(1797)",
-      "views": 39123,
-      "coordinates": {
-        "lat": 18.46527777777778,
-        "lng": -66.11666666666666
-      }
-    },
-    {
-      "name": "Damascus",
-      "region": "Syria",
-      "text": "On April 17, 1946, the last French troops withdrew from Syria, and Damascus became the capital of a fully independent state. The date is still commemorated in Syria as Evacuation Day.",
-      "link": "https://en.wikipedia.org/wiki/Evacuation_Day_(Syria)",
-      "views": 71402,
-      "coordinates": {
-        "lat": 33.513055555556,
-        "lng": 36.291944444444
-      }
-    },
-    {
-      "name": "Maputo",
-      "region": "Mozambique",
-      "text": "On April 17, 1992, the tanker Katina P was deliberately run aground off Maputo, causing a major oil spill. The incident linked the city to one of the notable environmental accidents in the western Indian Ocean.",
-      "link": "https://en.wikipedia.org/wiki/Katina_P",
-      "views": 12697,
-      "coordinates": {
-        "lat": -25.915277777778,
-        "lng": 32.576388888889
-      }
-    },
-    {
-      "name": "Windsor",
-      "region": "United Kingdom",
-      "text": "On April 17, 2021, the funeral of Prince Philip took place at St George's Chapel in Windsor Castle. Windsor became the ceremonial focus of a globally watched royal event.",
-      "link": "https://en.wikipedia.org/wiki/Death_and_funeral_of_Prince_Philip,_Duke_of_Edinburgh",
-      "views": 10293,
-      "coordinates": {
-        "lat": 51.483333333333,
-        "lng": -0.6
-      }
-    }
-  ],
-  "2026-04-18": [
-    {
-      "name": "Vatican City",
-      "region": "Vatican City",
-      "text": "On April 18, 1506, the cornerstone of the current St. Peter's Basilica was laid in Vatican City. The date marks the beginning of one of the most famous church-building projects in the world.",
-      "link": "https://en.wikipedia.org/wiki/St._Peter%27s_Basilica",
-      "views": 126591,
-      "coordinates": {
-        "lat": 41.904,
-        "lng": 12.453
-      }
-    },
-    {
-      "name": "Addis Ababa",
-      "region": "Ethiopia",
-      "text": "On April 18, 1972, East African Airways Flight 720 crashed during a rejected takeoff from Addis Ababa Bole International Airport. Addis Ababa became the site of one of the most serious air disasters in East African aviation history.",
-      "link": "https://en.wikipedia.org/wiki/East_African_Airways_Flight_720",
-      "views": 52944,
-      "coordinates": {
-        "lat": 9.0272222222222,
-        "lng": 38.736944444444
-      }
-    },
-    {
-      "name": "Tokyo",
-      "region": "Japan",
-      "text": "On April 18, 1942, Tokyo was among the Japanese cities bombed in the Doolittle Raid. The attack made the capital a central symbol in a dramatic turning point of the Pacific War.",
-      "link": "https://en.wikipedia.org/wiki/Doolittle_Raid",
-      "views": 143585,
-      "coordinates": {
-        "lat": 35.68944444444445,
-        "lng": 139.69166666666666
-      }
-    },
-    {
-      "name": "The Hague",
-      "region": "Netherlands",
-      "text": "On April 18, 1946, the International Court of Justice held its inaugural meeting in The Hague. The city further strengthened its role as one of the world's main centers for international law.",
-      "link": "https://en.wikipedia.org/wiki/International_Court_of_Justice",
-      "views": 74902,
-      "coordinates": {
-        "lat": 52.08,
-        "lng": 4.31
-      }
-    },
-    {
-      "name": "Bandung",
-      "region": "Indonesia",
-      "text": "On April 18, 1955, leaders from twenty-nine nations gathered in Bandung for the Asian-African Conference. The city became permanently associated with postcolonial solidarity and the rise of the Non-Aligned world.",
-      "link": "https://en.wikipedia.org/wiki/Asian%E2%80%93African_Conference",
-      "views": 10012,
-      "coordinates": {
-        "lat": -6.921845833333333,
-        "lng": 107.60708305555555
-      }
-    }
-  ],
-  "2026-04-19": [
-    {
-      "name": "Caracas",
-      "region": "Venezuela",
-      "text": "On April 19, 1810, people in Caracas removed the Spanish governor and installed a local junta. The city became one of the first major centers of the independence movement in Spanish South America.",
-      "link": "https://en.wikipedia.org/wiki/19_April_Movement",
-      "views": 27208,
-      "coordinates": {
-        "lat": 10.50611111111111,
-        "lng": -66.91444444444444
-      }
-    },
-    {
-      "name": "Warsaw",
-      "region": "Poland",
-      "text": "On April 19, 1943, the Warsaw Ghetto Uprising began after German forces entered the ghetto. Warsaw became the site of one of the most powerful acts of Jewish resistance during World War II.",
-      "link": "https://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising",
-      "views": 71983,
-      "coordinates": {
-        "lat": 52.23,
-        "lng": 21.011111111111113
-      }
-    },
-    {
-      "name": "Basel",
-      "region": "Switzerland",
-      "text": "On April 19, 1943, Albert Hofmann deliberately took LSD in Basel and made the bicycle ride later celebrated as Bicycle Day. The city is tied to one of the strangest and most widely referenced episodes in modern chemical history.",
-      "link": "https://en.wikipedia.org/wiki/History_of_lysergic_acid_diethylamide#%22Bicycle_Day%22",
-      "views": 28459,
-      "coordinates": {
-        "lat": 47.560555555556,
-        "lng": 7.5905555555556
-      }
-    },
-    {
-      "name": "Berlin",
-      "region": "Germany",
-      "text": "On April 19, 1999, the German Bundestag returned to Berlin. The move confirmed the city once again as the working capital of reunified Germany.",
-      "link": "https://en.wikipedia.org/wiki/Decision_on_the_Capital_of_Germany",
-      "views": 151218,
-      "coordinates": {
-        "lat": 52.516666666667,
-        "lng": 13.383333333333
-      }
-    },
-    {
-      "name": "Santiago",
-      "region": "Chile",
-      "text": "On April 19, 1925, Colo-Colo was founded in Santiago and went on to become Chile's most successful football club. The city is therefore tied to one of the country's most important sporting institutions.",
-      "link": "https://en.wikipedia.org/wiki/Colo-Colo",
-      "views": 42531,
-      "coordinates": {
-        "lat": -33.4375,
-        "lng": -70.65
-      }
-    }
-  ],
-  "2026-04-20": [
-    {
-      "name": "Minneapolis",
-      "region": "United States",
-      "text": "On April 20, 2021, Minneapolis was the city where Derek Chauvin was found guilty of murdering George Floyd. The verdict was watched around the world as a rare moment of legal accountability after months of protest and grief. That made Minneapolis a defining place in one of the most consequential civil rights stories of the decade.",
-      "link": "https://en.wikipedia.org/wiki/Trial_of_Derek_Chauvin",
-      "views": 85400,
-      "coordinates": {
-        "lat": 44.981944444444444,
-        "lng": -93.26916666666666
-      }
-    },
-    {
-      "name": "Geneva",
-      "region": "Switzerland",
-      "text": "On April 20, 1946, the League of Nations was formally dissolved in Geneva, closing the chapter on the first major attempt at a permanent international peace organization. Most of its remaining responsibilities passed to the newly established United Nations. That gives Geneva a direct link to the handoff between two eras of global diplomacy.",
-      "link": "https://en.wikipedia.org/wiki/League_of_Nations",
-      "views": 674863,
-      "coordinates": {
-        "lat": 46.2,
-        "lng": 6.15
-      }
-    },
-    {
-      "name": "Motegi",
-      "region": "Japan",
-      "text": "On April 20, 2008, Motegi became the setting for a motorsport breakthrough when Danica Patrick won the Indy Japan 300. She became the first woman ever to win an IndyCar race, turning the town's circuit into the site of a landmark result. The moment still stands as one of the most celebrated firsts in modern auto racing.",
-      "link": "https://en.wikipedia.org/wiki/Indy_Japan_300",
-      "views": 7403,
-      "coordinates": {
-        "lat": 36.532111111111114,
-        "lng": 140.18755555555555
-      }
-    },
-    {
-      "name": "Timbuktu",
-      "region": "Mali",
-      "text": "On April 20, 1828, Rene Caillie reached Timbuktu, becoming the first non-Muslim European known to return alive after visiting the city. For centuries the name had carried an almost mythical reputation in Europe as a distant and fabulously rich place. His arrival helped turn Timbuktu from legend into a documented destination in global geography.",
-      "link": "https://en.wikipedia.org/wiki/Timbuktu",
-      "views": 562899,
-      "coordinates": {
-        "lat": 16.773333055556,
-        "lng": -2.9994438888889
-      }
-    },
-    {
-      "name": "Leipzig",
-      "region": "Germany",
-      "text": "On April 20, 1945, United States troops captured Leipzig as Nazi Germany was collapsing in the final weeks of World War II. The city briefly became one of the most important urban prizes of the Western Allied advance into central Germany before it was later ceded to the Soviet occupation zone. That handover gives Leipzig a revealing place in the geopolitics of victory at the war's end.",
-      "link": "https://en.wikipedia.org/wiki/Leipzig",
-      "views": 442782,
-      "coordinates": {
-        "lat": 51.3406321,
-        "lng": 12.3747329
-      }
-    }
-  ],
-  "2026-04-21": [
-    {
-      "name": "Rome",
-      "region": "Italy",
-      "text": "On April 21, according to Roman tradition, Romulus founded Rome. The date became so important that Romans later celebrated it as the city's birthday, tying imperial grandeur to a single mythic origin story. Few cities in the world have had a founding legend with such a long political and cultural afterlife.",
-      "link": "https://en.wikipedia.org/wiki/Founding_of_Rome",
-      "views": 150211,
-      "coordinates": {
-        "lat": 41.893055555556,
-        "lng": 12.482777777778
-      }
-    },
-    {
-      "name": "Brasilia",
-      "region": "Brazil",
-      "text": "On April 21, 1960, Brasilia was officially inaugurated as Brazil's new capital. The move shifted political power away from coastal Rio de Janeiro and planted a purpose-built modernist city deep in the country's interior. Its vast avenues and monumental government buildings were meant to symbolize a new national future.",
-      "link": "https://en.wikipedia.org/wiki/Bras%C3%ADlia",
-      "views": 462335,
-      "coordinates": {
-        "lat": -15.793888888889,
-        "lng": -47.882777777778
-      }
-    },
-    {
-      "name": "Seattle",
-      "region": "United States",
-      "text": "On April 21, 1962, Seattle opened the Century 21 Exposition, the city's World's Fair. The event helped recast Seattle as a forward-looking center of aerospace, design, and technology during the Space Age. Landmarks like the Space Needle still carry that burst of futuristic ambition.",
-      "link": "https://en.wikipedia.org/wiki/Century_21_Exposition",
-      "views": 65557,
-      "coordinates": {
-        "lat": 47.605,
-        "lng": -122.33
-      }
-    },
-    {
-      "name": "La Paz",
-      "region": "Bolivia",
-      "text": "On April 21, 1993, Bolivia's Supreme Court in La Paz sentenced former dictator Luis Garcia Meza to 30 years in prison without parole. The ruling became one of Latin America's most notable examples of a former military strongman being held accountable at home. That gave La Paz a distinct place in the region's long struggle with dictatorship and justice.",
-      "link": "https://en.wikipedia.org/wiki/Luis_Garc%C3%ADa_Meza",
-      "views": 31686,
-      "coordinates": {
-        "lat": -16.5,
-        "lng": -68.116667
-      }
-    },
-    {
-      "name": "Bangkok",
-      "region": "Thailand",
-      "text": "On April 21, 1782, the city of Rattanakosin, now Bangkok, was founded on the eastern bank of the Chao Phraya River. That moment marked the start of the Chakri dynasty and the beginning of Bangkok's rise as Thailand's political and ceremonial heart. Much of the city's identity still traces back to this deliberate royal founding.",
-      "link": "https://en.wikipedia.org/wiki/History_of_Bangkok",
-      "views": 16163,
-      "coordinates": {
-        "lat": 13.75,
-        "lng": 100.51666666667
-      }
-    }
-  ],
-  "2026-04-22": [
-    {
-      "name": "Paris",
-      "region": "France",
-      "text": "On April 22, 2016, leaders gathered in Paris to sign the Paris Agreement, one of the most ambitious global climate accords yet attempted. The city had already lent its name to the deal, but the signing fixed Paris even more firmly in the story of international climate diplomacy. It is now one of the places most closely associated with the politics of global warming.",
-      "link": "https://en.wikipedia.org/wiki/Paris_Agreement",
-      "views": 285552,
-      "coordinates": {
-        "lat": 48.85666666666667,
-        "lng": 2.352222222222222
-      }
-    },
-    {
-      "name": "Haifa",
-      "region": "Israel",
-      "text": "On April 22, 1948, Jewish forces captured Haifa during the civil war phase of the conflict in Mandatory Palestine. The battle turned the port city into one of the decisive urban prizes of that turbulent spring. Haifa's harbor and mixed population made the struggle there especially consequential.",
-      "link": "https://en.wikipedia.org/wiki/Battle_of_Haifa_(1948)",
-      "views": 34526,
-      "coordinates": {
-        "lat": 32.81916666666667,
-        "lng": 34.99916666666667
-      }
-    },
-    {
-      "name": "Guadalajara",
-      "region": "Mexico",
-      "text": "On April 22, 1992, a chain of gas explosions tore through Guadalajara, devastating streets and neighborhoods across the city. The disaster killed hundreds and became one of the worst urban infrastructure catastrophes in modern Mexican history. Guadalajara is still remembered in connection with how suddenly an everyday cityscape turned catastrophic.",
-      "link": "https://en.wikipedia.org/wiki/1992_Guadalajara_explosions",
-      "views": 17180,
-      "coordinates": {
-        "lat": 20.676388888888887,
-        "lng": -103.34222222222222
-      }
-    },
-    {
-      "name": "Kolkata",
-      "region": "India",
-      "text": "On April 22, 1969, the formation of the Communist Party of India (Marxist-Leninist) was announced at a mass rally in Kolkata. The city, already famous for radical politics and intellectual debate, became the launch point for one of the most consequential far-left movements in modern India. That moment tied Kolkata even more closely to the turbulent political energy of the late 1960s.",
-      "link": "https://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist%E2%80%93Leninist)",
-      "views": 47289,
-      "coordinates": {
-        "lat": 22.5675,
-        "lng": 88.37
-      }
-    },
-    {
-      "name": "Jayapura",
-      "region": "Indonesia",
-      "text": "On April 22, 1944, Allied forces landed in the Hollandia area of New Guinea, in the region now centered on Jayapura. The operation helped break Japanese positions in the southwest Pacific and pulled this remote coastal city into the wider geography of World War II. Jayapura's modern identity still sits atop that wartime strategic history.",
-      "link": "https://en.wikipedia.org/wiki/Jayapura",
-      "views": 112888,
-      "coordinates": {
-        "lat": -2.5333333333333,
-        "lng": 140.71666666667
-      }
-    }
-  ],
-  "2026-04-23": [
-    {
-      "name": "San Diego",
-      "region": "United States",
-      "text": "On April 23, 2005, Jawed Karim uploaded Me at the zoo, the first video ever posted to YouTube, after filming it at the San Diego Zoo. That brief clip helped mark the beginning of a platform that would transform entertainment, politics, and everyday life online. It gives San Diego a small but oddly foundational place in internet history.",
-      "link": "https://en.wikipedia.org/wiki/Me_at_the_zoo",
-      "views": 232551,
-      "coordinates": {
-        "lat": 32.715,
-        "lng": -117.1625
-      }
-    },
-    {
-      "name": "Windhoek",
-      "region": "Namibia",
-      "text": "On April 23, 1990, Namibia entered the United Nations and the Commonwealth only weeks after independence, with Windhoek at the center of the new state's political life. The moment confirmed the country's place on the world stage after a long struggle against South African rule. As capital, Windhoek became the symbolic front door of that transition.",
-      "link": "https://en.wikipedia.org/wiki/Namibia",
-      "views": 1603023,
-      "coordinates": {
-        "lat": -22.57,
-        "lng": 17.083611111111
-      }
-    },
-    {
-      "name": "Algiers",
-      "region": "Algeria",
-      "text": "On April 23, 1961, French generals launched the Algiers putsch in an attempt to stop Algerian independence. For a brief moment, Algiers became the center of one of the last great crises of France's colonial era. The failed coup exposed how violently the empire was unraveling.",
-      "link": "https://en.wikipedia.org/wiki/Algiers_putsch_of_1961",
-      "views": 63919,
-      "coordinates": {
-        "lat": 36.776388888889,
-        "lng": 3.0586111111111
-      }
-    },
-    {
-      "name": "Prague",
-      "region": "Czech Republic",
-      "text": "On April 23, 1951, American journalist William N. Oatis was arrested in Prague by the communist authorities of Czechoslovakia. The case became an early Cold War flashpoint over press freedom, espionage accusations, and show-trial politics. Prague was thus pulled into the wider contest between East and West not just as a capital, but as a symbolic courtroom.",
-      "link": "https://en.wikipedia.org/wiki/William_N._Oatis",
-      "views": 2582,
-      "coordinates": {
-        "lat": 50.0875,
-        "lng": 14.421388888888888
-      }
-    },
-    {
-      "name": "Manila",
-      "region": "Philippines",
-      "text": "On April 23, 1946, Manuel Roxas was elected the last president of the Commonwealth of the Philippines, in the final stretch before full independence. That made Manila the political stage for a pivotal handoff between colonial rule and the postwar republic. The city was where the future direction of the Philippines began to take clearer shape.",
-      "link": "https://en.wikipedia.org/wiki/Manuel_Roxas",
-      "views": 148962,
-      "coordinates": {
-        "lat": 14.595833333333333,
-        "lng": 120.97722222222222
-      }
-    }
-  ],
-  "2026-04-24": [
-    {
-      "name": "Dahab",
-      "region": "Egypt",
-      "text": "On April 24, 2006, bombings struck the Red Sea resort town of Dahab during a busy holiday period. The attack shattered the easygoing image of one of Sinai's best-known beach destinations and drew worldwide attention to the town. Dahab's name has since carried both its backpacker mystique and the memory of that violence.",
-      "link": "https://en.wikipedia.org/wiki/Dahab",
-      "views": 52403,
-      "coordinates": {
-        "lat": 28.49305556,
-        "lng": 34.50472222
-      }
-    },
-    {
-      "name": "Dublin",
-      "region": "Ireland",
-      "text": "On April 24, 1916, rebels launched the Easter Rising in Dublin and proclaimed an Irish Republic. The insurrection was militarily crushed, but it transformed the political future of Ireland and turned the city center into historic ground. Few urban uprisings have reshaped national memory as completely as this one.",
-      "link": "https://en.wikipedia.org/wiki/Easter_Rising",
-      "views": 594199,
-      "coordinates": {
-        "lat": 53.34972222222222,
-        "lng": -6.260277777777778
-      }
-    },
-    {
-      "name": "Santorini",
-      "region": "Greece",
-      "text": "On April 24, 1944, British commandos raided Santorini to destroy an Axis radio station during World War II. The operation briefly placed the famous Aegean island inside the covert geography of the Mediterranean war. Santorini is better known for whitewashed cliffs and tourism, which makes that wartime episode all the more surprising.",
-      "link": "https://en.wikipedia.org/wiki/Santorini",
-      "views": 481158,
-      "coordinates": {
-        "lat": 36.415,
-        "lng": 25.4325
-      }
-    },
-    {
-      "name": "Banjul",
-      "region": "The Gambia",
-      "text": "On April 24, 1970, The Gambia became a republic within the Commonwealth, with Dawda Jawara as its first president. As the capital, Banjul stood at the formal center of that constitutional turning point. It marked the moment the small West African state moved from monarchy under the British crown to a republic of its own.",
-      "link": "https://en.wikipedia.org/wiki/The_Gambia",
-      "views": 806616,
-      "coordinates": {
-        "lat": 13.453055555556,
-        "lng": -16.5775
-      }
-    },
-    {
-      "name": "Santo Domingo",
-      "region": "Dominican Republic",
-      "text": "On April 24, 1965, civil war broke out in Santo Domingo after supporters of deposed president Juan Bosch rose against the ruling triumvirate. The capital quickly became the heart of a conflict that drew in foreign intervention and Cold War anxieties. Santo Domingo's streets turned into the main battleground for the Dominican Republic's fight over its political future.",
-      "link": "https://en.wikipedia.org/wiki/Dominican_Civil_War",
-      "views": 108197,
-      "coordinates": {
-        "lat": 18.4625,
-        "lng": -69.93611111111112
-      }
-    }
-  ],
-  "2026-04-25": [
-    {
-      "name": "Lisbon",
-      "region": "Portugal",
-      "text": "On April 25, 1974, Lisbon awoke to the Carnation Revolution, the military-led uprising that brought down Portugal's Estado Novo dictatorship. Crowds filled the city and placed carnations in soldiers' rifles, creating one of the century's most enduring images of a relatively peaceful revolution. Lisbon became the unmistakable face of Portugal's democratic rebirth.",
-      "link": "https://en.wikipedia.org/wiki/Carnation_Revolution",
-      "views": 425409,
-      "coordinates": {
-        "lat": 38.708042,
-        "lng": -9.139016
-      }
-    },
-    {
-      "name": "Obelisk of Axum",
-      "region": "Ethiopia",
-      "text": "On April 25, 2005, the final piece of the Obelisk of Axum was returned to Ethiopia after decades in Italy. The monument had long stood as one of the most recognizable symbols of the ancient Aksumite world, so its return carried weight far beyond archaeology. It turned Axum into a modern story of restitution, memory, and national pride.",
-      "link": "https://en.wikipedia.org/wiki/Obelisk_of_Axum",
-      "views": 49160,
-      "coordinates": {
-        "lat": 14.132166666667,
-        "lng": 38.719666666667
-      }
-    },
-    {
-      "name": "Managua",
-      "region": "Nicaragua",
-      "text": "On April 25, 1990, Violeta Chamorro took office in Managua as president of Nicaragua. She became the first woman elected in her own right to lead a country in the Americas, giving the capital a place in a larger political first. Managua thus became the setting for a major democratic handover after years of conflict and polarization.",
-      "link": "https://en.wikipedia.org/wiki/Violeta_Chamorro",
-      "views": 111151,
-      "coordinates": {
-        "lat": 12.154680555555556,
-        "lng": -86.273725
-      }
-    },
-    {
-      "name": "Berkeley Heights",
-      "region": "United States",
-      "text": "On April 25, 1954, Bell Telephone Laboratories publicly demonstrated the first practical solar cell at its New Jersey research facilities in what is now Berkeley Heights. That breakthrough helped turn solar power from laboratory curiosity into a credible technological future. A quiet suburban township thus became part of the early history of renewable energy.",
-      "link": "https://en.wikipedia.org/wiki/Bell_Labs",
-      "views": 460552,
-      "coordinates": {
-        "lat": 40.6775,
-        "lng": -74.429722222222
-      }
-    },
-    {
-      "name": "Kathmandu",
-      "region": "Nepal",
-      "text": "On April 25, 2015, Kathmandu became the global focal point of the devastating Nepal earthquake. Images of collapsed temples, damaged squares, and emergency rescues in the capital helped define how the disaster was understood around the world. The city remains central to the memory of one of the deadliest Himalayan earthquakes in modern times.",
-      "link": "https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake",
-      "views": 212198,
-      "coordinates": {
-        "lat": 27.71,
-        "lng": 85.32
-      }
-    }
-  ]
+    ]
+  }
 }

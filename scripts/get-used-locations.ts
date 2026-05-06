@@ -13,8 +13,8 @@ const format = String(options.format ?? "json")
 
 const locations = new Map<string, UsedLocation>()
 
-for (const [dateKey, targets] of Object.entries(dailyChallenges)) {
-  for (const target of targets) {
+for (const [dateKey, challenge] of Object.entries(dailyChallenges)) {
+  for (const target of challenge.locations) {
     const key = `${target.name}::${target.region}`.toLowerCase()
     const existing = locations.get(key)
 
