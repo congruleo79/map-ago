@@ -1,0 +1,457 @@
+{
+  "date": "2026-06-01",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/01",
+  "sections": {
+    "selected": [
+      {
+        "year": 2018,
+        "text": "For the first time since its transition to democracy, the Congress of Deputies in Spain passed a motion of no confidence against the government.",
+        "relatedPages": [
+          {
+            "title": "Congress of Deputies",
+            "url": "https://en.wikipedia.org/wiki/Congress_of_Deputies",
+            "coordinates": {
+              "lat": 40.41638889,
+              "lon": -3.69666667
+            }
+          },
+          {
+            "title": "2018 vote of no confidence in the government of Mariano Rajoy",
+            "url": "https://en.wikipedia.org/wiki/2018_vote_of_no_confidence_in_the_government_of_Mariano_Rajoy",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 2015,
+        "text": "The river cruise ship Dongfang zhi Xing capsized in the Yangtze, resulting in 442 deaths in China's worst peacetime maritime disaster.",
+        "relatedPages": [
+          {
+            "title": "Sinking of Dongfang zhi Xing",
+            "url": "https://en.wikipedia.org/wiki/Sinking_of_Dongfang_zhi_Xing",
+            "coordinates": {
+              "lat": 29.7123,
+              "lon": 112.9236
+            }
+          },
+          {
+            "title": "Yangtze",
+            "url": "https://en.wikipedia.org/wiki/Yangtze",
+            "coordinates": {
+              "lat": 31.39361111,
+              "lon": 121.98305556
+            }
+          }
+        ]
+      },
+      {
+        "year": 2007,
+        "text": "Cyclone Gonu develops from an area of convection in the Arabian Sea, later becoming the worst recorded natural disaster in Oman.",
+        "relatedPages": [
+          {
+            "title": "Cyclone Gonu",
+            "url": "https://en.wikipedia.org/wiki/Cyclone_Gonu",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1999,
+        "text": "On landing at Little Rock National Airport in the U.S. state of Arkansas, American Airlines Flight 1420 overran the runway and crashed  (wreckage pictured), resulting in 11 deaths.",
+        "relatedPages": [
+          {
+            "title": "Clinton National Airport",
+            "url": "https://en.wikipedia.org/wiki/Clinton_National_Airport",
+            "coordinates": {
+              "lat": 34.73,
+              "lon": -92.22
+            }
+          },
+          {
+            "title": "Arkansas",
+            "url": "https://en.wikipedia.org/wiki/Arkansas",
+            "coordinates": {
+              "lat": 35,
+              "lon": -92
+            }
+          },
+          {
+            "title": "American Airlines Flight 1420",
+            "url": "https://en.wikipedia.org/wiki/American_Airlines_Flight_1420",
+            "coordinates": {
+              "lat": 34.73633,
+              "lon": -92.1995
+            }
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "text": "The Intermediate-Range Nuclear Forces Treaty was ratified, banning all American and Soviet land-based missiles with a range of 500 to 5,500 km (310 to 3,420 mi).",
+        "relatedPages": [
+          {
+            "title": "Intermediate-Range Nuclear Forces Treaty",
+            "url": "https://en.wikipedia.org/wiki/Intermediate-Range_Nuclear_Forces_Treaty",
+            "coordinates": null
+          },
+          {
+            "title": "Missile",
+            "url": "https://en.wikipedia.org/wiki/Missile",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1988,
+        "text": "Group representation constituencies were introduced to the parliament of Singapore.",
+        "relatedPages": [
+          {
+            "title": "Group representation constituency",
+            "url": "https://en.wikipedia.org/wiki/Group_representation_constituency",
+            "coordinates": null
+          },
+          {
+            "title": "Parliament of Singapore",
+            "url": "https://en.wikipedia.org/wiki/Parliament_of_Singapore",
+            "coordinates": {
+              "lat": 1.2891,
+              "lon": 103.8504
+            }
+          }
+        ]
+      },
+      {
+        "year": 1974,
+        "text": "In an informal article in a medical journal, Henry Heimlich introduced the concept of abdominal thrusts, commonly known as the Heimlich maneuver, to treat victims of choking.",
+        "relatedPages": [
+          {
+            "title": "Henry Heimlich",
+            "url": "https://en.wikipedia.org/wiki/Henry_Heimlich",
+            "coordinates": null
+          },
+          {
+            "title": "Heimlich maneuver",
+            "url": "https://en.wikipedia.org/wiki/Heimlich_maneuver",
+            "coordinates": null
+          },
+          {
+            "title": "Choking",
+            "url": "https://en.wikipedia.org/wiki/Choking",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1943,
+        "text": "Eight German Junkers Ju 88s shot down British Overseas Airways Corporation Flight 777 over the Bay of Biscay off the coast of Spain and France, killing actor Leslie Howard and several other notable passengers.",
+        "relatedPages": [
+          {
+            "title": "Junkers Ju 88",
+            "url": "https://en.wikipedia.org/wiki/Junkers_Ju_88",
+            "coordinates": null
+          },
+          {
+            "title": "BOAC Flight 777",
+            "url": "https://en.wikipedia.org/wiki/BOAC_Flight_777",
+            "coordinates": {
+              "lat": 46.11666667,
+              "lon": -10.25
+            }
+          },
+          {
+            "title": "Bay of Biscay",
+            "url": "https://en.wikipedia.org/wiki/Bay_of_Biscay",
+            "coordinates": {
+              "lat": 45.5,
+              "lon": -4.4
+            }
+          },
+          {
+            "title": "Leslie Howard",
+            "url": "https://en.wikipedia.org/wiki/Leslie_Howard",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1942,
+        "text": "World War II: The crews of three Japanese submarines scuttled their vessels and committed suicide after entering Sydney Harbour and launching a failed attack.",
+        "relatedPages": [
+          {
+            "title": "World War II",
+            "url": "https://en.wikipedia.org/wiki/World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "Port Jackson",
+            "url": "https://en.wikipedia.org/wiki/Port_Jackson",
+            "coordinates": {
+              "lat": -33.85833333,
+              "lon": 151.23333333
+            }
+          },
+          {
+            "title": "Attack on Sydney Harbour",
+            "url": "https://en.wikipedia.org/wiki/Attack_on_Sydney_Harbour",
+            "coordinates": {
+              "lat": -33.85833333,
+              "lon": 151.23333333
+            }
+          }
+        ]
+      },
+      {
+        "year": 1868,
+        "text": "The Navajo and the U.S. government signed the Treaty of Bosque Redondo, which allowed those interned at Fort Sumner to return to their ancestral lands.",
+        "relatedPages": [
+          {
+            "title": "Navajo",
+            "url": "https://en.wikipedia.org/wiki/Navajo",
+            "coordinates": null
+          },
+          {
+            "title": "Treaty of Bosque Redondo",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Bosque_Redondo",
+            "coordinates": null
+          },
+          {
+            "title": "Fort Sumner",
+            "url": "https://en.wikipedia.org/wiki/Fort_Sumner",
+            "coordinates": {
+              "lat": 34.40194444,
+              "lon": -104.19472222
+            }
+          }
+        ]
+      },
+      {
+        "year": 1861,
+        "text": "The first land battle of the American Civil War after Fort Sumter took place in the village of Fairfax, Virginia.",
+        "relatedPages": [
+          {
+            "title": "Battle of Fairfax Court House (1861)",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Fairfax_Court_House_(1861)",
+            "coordinates": {
+              "lat": 38.84611111,
+              "lon": -77.30694444
+            }
+          },
+          {
+            "title": "American Civil War",
+            "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Fort Sumter",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Fort_Sumter",
+            "coordinates": {
+              "lat": 32.75222222,
+              "lon": -79.87472222
+            }
+          },
+          {
+            "title": "Fairfax, Virginia",
+            "url": "https://en.wikipedia.org/wiki/Fairfax%2C_Virginia",
+            "coordinates": {
+              "lat": 38.8525,
+              "lon": -77.30416667
+            }
+          }
+        ]
+      },
+      {
+        "year": 1857,
+        "text": "The Revolution of the Ganhadores, the first general strike in Brazil, began in Salvador, Bahia.",
+        "relatedPages": [
+          {
+            "title": "Revolution of the Ganhadores",
+            "url": "https://en.wikipedia.org/wiki/Revolution_of_the_Ganhadores",
+            "coordinates": null
+          },
+          {
+            "title": "General strike",
+            "url": "https://en.wikipedia.org/wiki/General_strike",
+            "coordinates": null
+          },
+          {
+            "title": "Salvador, Bahia",
+            "url": "https://en.wikipedia.org/wiki/Salvador%2C_Bahia",
+            "coordinates": {
+              "lat": -12.97472222,
+              "lon": -38.47666667
+            }
+          }
+        ]
+      },
+      {
+        "year": 1831,
+        "text": "British explorer James Clark Ross led the first expedition to reach the north magnetic pole.",
+        "relatedPages": [
+          {
+            "title": "James Clark Ross",
+            "url": "https://en.wikipedia.org/wiki/James_Clark_Ross",
+            "coordinates": null
+          },
+          {
+            "title": "North magnetic pole",
+            "url": "https://en.wikipedia.org/wiki/North_magnetic_pole",
+            "coordinates": {
+              "lat": 86.494,
+              "lon": 162.867
+            }
+          }
+        ]
+      },
+      {
+        "year": 1813,
+        "text": "War of 1812: Mortally wounded, U.S. Navy captain James Lawrence ordered his crew \"Don't give up the ship!\" as USS Chesapeake was captured by HMS Shannon off the coast of Boston.",
+        "relatedPages": [
+          {
+            "title": "War of 1812",
+            "url": "https://en.wikipedia.org/wiki/War_of_1812",
+            "coordinates": null
+          },
+          {
+            "title": "James Lawrence",
+            "url": "https://en.wikipedia.org/wiki/James_Lawrence",
+            "coordinates": null
+          },
+          {
+            "title": "USS Chesapeake (1799)",
+            "url": "https://en.wikipedia.org/wiki/USS_Chesapeake_(1799)",
+            "coordinates": null
+          },
+          {
+            "title": "Capture of USS Chesapeake",
+            "url": "https://en.wikipedia.org/wiki/Capture_of_USS_Chesapeake",
+            "coordinates": {
+              "lat": 42.65055556,
+              "lon": -70.56555556
+            }
+          },
+          {
+            "title": "HMS Shannon (1806)",
+            "url": "https://en.wikipedia.org/wiki/HMS_Shannon_(1806)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1794,
+        "text": "French Revolutionary Wars: A British fleet captured six French ships of the line in a naval battle off Ushant that came to be known as the Glorious First of June (pictured).",
+        "relatedPages": [
+          {
+            "title": "French Revolutionary Wars",
+            "url": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars",
+            "coordinates": null
+          },
+          {
+            "title": "Ship of the line",
+            "url": "https://en.wikipedia.org/wiki/Ship_of_the_line",
+            "coordinates": null
+          },
+          {
+            "title": "Ushant",
+            "url": "https://en.wikipedia.org/wiki/Ushant",
+            "coordinates": {
+              "lat": 48.46111111,
+              "lon": -5.08333333
+            }
+          },
+          {
+            "title": "Glorious First of June",
+            "url": "https://en.wikipedia.org/wiki/Glorious_First_of_June",
+            "coordinates": {
+              "lat": 47.4,
+              "lon": -17.45
+            }
+          }
+        ]
+      },
+      {
+        "year": 1676,
+        "text": "Scanian War: The Swedish warship Kronan, one of the largest ships in the world at the time, sank at the Battle of Öland with the loss of around 800 men.",
+        "relatedPages": [
+          {
+            "title": "Scanian War",
+            "url": "https://en.wikipedia.org/wiki/Scanian_War",
+            "coordinates": null
+          },
+          {
+            "title": "Kronan (ship)",
+            "url": "https://en.wikipedia.org/wiki/Kronan_(ship)",
+            "coordinates": {
+              "lat": 56.44944444,
+              "lon": 16.67222222
+            }
+          },
+          {
+            "title": "List of longest wooden ships",
+            "url": "https://en.wikipedia.org/wiki/List_of_longest_wooden_ships",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Öland",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_%C3%96land",
+            "coordinates": {
+              "lat": 56.44944444,
+              "lon": 16.67222222
+            }
+          }
+        ]
+      },
+      {
+        "year": 1670,
+        "text": "Charles II and Louis XIV signed a secret treaty, requiring England to aid France in its war against the Dutch Republic and the future conversion of Charles to Catholicism, in return for Louis making large payments to Charles and promising to aid him if there was a rebellion in England.",
+        "relatedPages": [
+          {
+            "title": "Charles II of England",
+            "url": "https://en.wikipedia.org/wiki/Charles_II_of_England",
+            "coordinates": null
+          },
+          {
+            "title": "Louis XIV",
+            "url": "https://en.wikipedia.org/wiki/Louis_XIV",
+            "coordinates": null
+          },
+          {
+            "title": "Secret Treaty of Dover",
+            "url": "https://en.wikipedia.org/wiki/Secret_Treaty_of_Dover",
+            "coordinates": null
+          },
+          {
+            "title": "Franco-Dutch War",
+            "url": "https://en.wikipedia.org/wiki/Franco-Dutch_War",
+            "coordinates": null
+          },
+          {
+            "title": "Catholic Church",
+            "url": "https://en.wikipedia.org/wiki/Catholic_Church",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1660,
+        "text": "Mary Dyer (pictured) was hanged in Boston for repeatedly defying a law banning Quakers from the Massachusetts Bay Colony.",
+        "relatedPages": [
+          {
+            "title": "Mary Dyer",
+            "url": "https://en.wikipedia.org/wiki/Mary_Dyer",
+            "coordinates": null
+          },
+          {
+            "title": "Quakers",
+            "url": "https://en.wikipedia.org/wiki/Quakers",
+            "coordinates": null
+          },
+          {
+            "title": "Massachusetts Bay Colony",
+            "url": "https://en.wikipedia.org/wiki/Massachusetts_Bay_Colony",
+            "coordinates": null
+          }
+        ]
+      }
+    ]
+  }
+}

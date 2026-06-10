@@ -1,0 +1,520 @@
+{
+  "date": "2026-06-14",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/14",
+  "sections": {
+    "selected": [
+      {
+        "year": 2017,
+        "text": "A fire severely damaged Grenfell Tower in North Kensington, London, killing 72 people.",
+        "relatedPages": [
+          {
+            "title": "Grenfell Tower fire",
+            "url": "https://en.wikipedia.org/wiki/Grenfell_Tower_fire",
+            "coordinates": {
+              "lat": 51.514,
+              "lon": -0.2158
+            }
+          },
+          {
+            "title": "Grenfell Tower",
+            "url": "https://en.wikipedia.org/wiki/Grenfell_Tower",
+            "coordinates": {
+              "lat": 51.514,
+              "lon": -0.2158
+            }
+          },
+          {
+            "title": "North Kensington",
+            "url": "https://en.wikipedia.org/wiki/North_Kensington",
+            "coordinates": {
+              "lat": 51.523792,
+              "lon": -0.219598
+            }
+          },
+          {
+            "title": "Aftermath of the Grenfell Tower fire",
+            "url": "https://en.wikipedia.org/wiki/Aftermath_of_the_Grenfell_Tower_fire",
+            "coordinates": {
+              "lat": 51.514,
+              "lon": -0.2158
+            }
+          }
+        ]
+      },
+      {
+        "year": 2014,
+        "text": "War in Donbas: An Ilyushin Il-76 transport aircraft of the Ukrainian Air Force was shot down by forces of the self-proclaimed Luhansk People's Republic, killing all 49 people on board.",
+        "relatedPages": [
+          {
+            "title": "War in Donbas",
+            "url": "https://en.wikipedia.org/wiki/War_in_Donbas",
+            "coordinates": null
+          },
+          {
+            "title": "Ilyushin Il-76",
+            "url": "https://en.wikipedia.org/wiki/Ilyushin_Il-76",
+            "coordinates": null
+          },
+          {
+            "title": "Ukrainian Air Force",
+            "url": "https://en.wikipedia.org/wiki/Ukrainian_Air_Force",
+            "coordinates": null
+          },
+          {
+            "title": "2014 Ukrainian Air Force Ilyushin Il-76 shootdown",
+            "url": "https://en.wikipedia.org/wiki/2014_Ukrainian_Air_Force_Ilyushin_Il-76_shootdown",
+            "coordinates": {
+              "lat": 48.3983,
+              "lon": 39.4797
+            }
+          },
+          {
+            "title": "Luhansk People's Republic",
+            "url": "https://en.wikipedia.org/wiki/Luhansk_People's_Republic",
+            "coordinates": {
+              "lat": 48.92,
+              "lon": 39.02
+            }
+          }
+        ]
+      },
+      {
+        "year": 1996,
+        "text": "After an 81-day standoff sparked by their refusal to be evicted from their foreclosed property in Jordan, Montana, the Christian Patriot group Montana Freemen surrendered to the FBI.",
+        "relatedPages": [
+          {
+            "title": "Foreclosure",
+            "url": "https://en.wikipedia.org/wiki/Foreclosure",
+            "coordinates": null
+          },
+          {
+            "title": "Jordan, Montana",
+            "url": "https://en.wikipedia.org/wiki/Jordan%2C_Montana",
+            "coordinates": {
+              "lat": 47.32111111,
+              "lon": -106.90972222
+            }
+          },
+          {
+            "title": "Christian Patriot movement",
+            "url": "https://en.wikipedia.org/wiki/Christian_Patriot_movement",
+            "coordinates": null
+          },
+          {
+            "title": "Montana Freemen",
+            "url": "https://en.wikipedia.org/wiki/Montana_Freemen",
+            "coordinates": null
+          },
+          {
+            "title": "Federal Bureau of Investigation",
+            "url": "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation",
+            "coordinates": {
+              "lat": 38.89527778,
+              "lon": -77.025
+            }
+          }
+        ]
+      },
+      {
+        "year": 1992,
+        "text": "Swedish woman Helena Andersson disappeared in Mariestad, one suspect were ”the man with the pilot glasses\".",
+        "relatedPages": [
+          {
+            "title": "Disappearance of Helena Andersson",
+            "url": "https://en.wikipedia.org/wiki/Disappearance_of_Helena_Andersson",
+            "coordinates": null
+          },
+          {
+            "title": "Mariestad",
+            "url": "https://en.wikipedia.org/wiki/Mariestad",
+            "coordinates": {
+              "lat": 58.7,
+              "lon": 13.81666667
+            }
+          }
+        ]
+      },
+      {
+        "year": 1982,
+        "text": "Falklands War: British prime minister Margaret Thatcher announced that white flags were flying over Port Stanley, in advance of the formal surrender of Argentine forces.",
+        "relatedPages": [
+          {
+            "title": "Falklands War",
+            "url": "https://en.wikipedia.org/wiki/Falklands_War",
+            "coordinates": null
+          },
+          {
+            "title": "Margaret Thatcher",
+            "url": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+            "coordinates": null
+          },
+          {
+            "title": "White flags over Port Stanley",
+            "url": "https://en.wikipedia.org/wiki/White_flags_over_Port_Stanley",
+            "coordinates": null
+          },
+          {
+            "title": "Stanley, Falkland Islands",
+            "url": "https://en.wikipedia.org/wiki/Stanley%2C_Falkland_Islands",
+            "coordinates": {
+              "lat": -51.695,
+              "lon": -57.85055556
+            }
+          },
+          {
+            "title": "Argentine surrender in the Falklands War",
+            "url": "https://en.wikipedia.org/wiki/Argentine_surrender_in_the_Falklands_War",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1971,
+        "text": "Emerson, Lake & Palmer released the progressive rock album Tarkus.",
+        "relatedPages": [
+          {
+            "title": "Emerson, Lake & Palmer",
+            "url": "https://en.wikipedia.org/wiki/Emerson%2C_Lake_%26_Palmer",
+            "coordinates": null
+          },
+          {
+            "title": "Progressive rock",
+            "url": "https://en.wikipedia.org/wiki/Progressive_rock",
+            "coordinates": null
+          },
+          {
+            "title": "Tarkus",
+            "url": "https://en.wikipedia.org/wiki/Tarkus",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1966,
+        "text": "The Vatican formally abolished its 427-year-old list of prohibited books.",
+        "relatedPages": [
+          {
+            "title": "Holy See",
+            "url": "https://en.wikipedia.org/wiki/Holy_See",
+            "coordinates": {
+              "lat": 41.90333333,
+              "lon": 12.45333333
+            }
+          },
+          {
+            "title": "Index Librorum Prohibitorum",
+            "url": "https://en.wikipedia.org/wiki/Index_Librorum_Prohibitorum",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1944,
+        "text": "Second World War: The British Army abandoned its attempt to capture the German-occupied city of Caen.",
+        "relatedPages": [
+          {
+            "title": "World War II",
+            "url": "https://en.wikipedia.org/wiki/World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "British Army",
+            "url": "https://en.wikipedia.org/wiki/British_Army",
+            "coordinates": null
+          },
+          {
+            "title": "Operation Perch",
+            "url": "https://en.wikipedia.org/wiki/Operation_Perch",
+            "coordinates": {
+              "lat": 49.08,
+              "lon": -0.66
+            }
+          },
+          {
+            "title": "Caen",
+            "url": "https://en.wikipedia.org/wiki/Caen",
+            "coordinates": {
+              "lat": 49.18138889,
+              "lon": -0.36361111
+            }
+          }
+        ]
+      },
+      {
+        "year": 1940,
+        "text": "The Soviet Union issued an ultimatum to Lithuania demanding that the Red Army be allowed to enter the country and form a pro-Soviet government.",
+        "relatedPages": [
+          {
+            "title": "Soviet ultimatum to Lithuania",
+            "url": "https://en.wikipedia.org/wiki/Soviet_ultimatum_to_Lithuania",
+            "coordinates": null
+          },
+          {
+            "title": "Red Army",
+            "url": "https://en.wikipedia.org/wiki/Red_Army",
+            "coordinates": null
+          },
+          {
+            "title": "Lithuanian Soviet Socialist Republic",
+            "url": "https://en.wikipedia.org/wiki/Lithuanian_Soviet_Socialist_Republic",
+            "coordinates": {
+              "lat": 55.5,
+              "lon": 24
+            }
+          }
+        ]
+      },
+      {
+        "year": 1940,
+        "text": "Second World War: Four days after the French government fled Paris, German forces occupied the French capital, a major accomplishment in the Fall Rot operation.",
+        "relatedPages": [
+          {
+            "title": "World War II",
+            "url": "https://en.wikipedia.org/wiki/World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of France",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_France",
+            "coordinates": null
+          },
+          {
+            "title": "Fall Rot",
+            "url": "https://en.wikipedia.org/wiki/Fall_Rot",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1934,
+        "text": "The landmark Australian Eastern Mission concluded after a three-month diplomatic tour of East and South-East Asia.",
+        "relatedPages": [
+          {
+            "title": "Australian Eastern Mission",
+            "url": "https://en.wikipedia.org/wiki/Australian_Eastern_Mission",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1934,
+        "text": "The landmark Australian Eastern Mission concluded after a three-month diplomatic tour of East and South-East Asia.",
+        "relatedPages": [
+          {
+            "title": "Australian Eastern Mission",
+            "url": "https://en.wikipedia.org/wiki/Australian_Eastern_Mission",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1900,
+        "text": "The second of the German Naval Laws was passed, authorising the  doubling in size of the Imperial German Navy.",
+        "relatedPages": [
+          {
+            "title": "German Naval Laws",
+            "url": "https://en.wikipedia.org/wiki/German_Naval_Laws",
+            "coordinates": null
+          },
+          {
+            "title": "Imperial German Navy",
+            "url": "https://en.wikipedia.org/wiki/Imperial_German_Navy",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1846,
+        "text": "Settlers in Sonoma began rebelling against Mexico, later proclaiming the California Republic and  raising a homemade flag with a bear and a star.",
+        "relatedPages": [
+          {
+            "title": "Sonoma, California",
+            "url": "https://en.wikipedia.org/wiki/Sonoma%2C_California",
+            "coordinates": {
+              "lat": 38.28888889,
+              "lon": -122.45888889
+            }
+          },
+          {
+            "title": "California Republic",
+            "url": "https://en.wikipedia.org/wiki/California_Republic",
+            "coordinates": {
+              "lat": 38.2925,
+              "lon": -122.4575
+            }
+          },
+          {
+            "title": "Flag of California",
+            "url": "https://en.wikipedia.org/wiki/Flag_of_California",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1822,
+        "text": "In a paper presented to the Royal Astronomical Society, English mathematician Charles Babbage proposed a difference engine (pictured), an automatic, mechanical calculator designed to tabulate polynomial functions.",
+        "relatedPages": [
+          {
+            "title": "Royal Astronomical Society",
+            "url": "https://en.wikipedia.org/wiki/Royal_Astronomical_Society",
+            "coordinates": null
+          },
+          {
+            "title": "Charles Babbage",
+            "url": "https://en.wikipedia.org/wiki/Charles_Babbage",
+            "coordinates": null
+          },
+          {
+            "title": "Difference engine",
+            "url": "https://en.wikipedia.org/wiki/Difference_engine",
+            "coordinates": null
+          },
+          {
+            "title": "Polynomial",
+            "url": "https://en.wikipedia.org/wiki/Polynomial",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1800,
+        "text": "War of the Second Coalition: In the Battle of Marengo, Napoleonic forces secured victory over the Habsburgs when defeat had appeared inevitable until the arrival of French troops led by Louis Desaix.",
+        "relatedPages": [
+          {
+            "title": "War of the Second Coalition",
+            "url": "https://en.wikipedia.org/wiki/War_of_the_Second_Coalition",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Marengo",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Marengo",
+            "coordinates": null
+          },
+          {
+            "title": "Napoleon",
+            "url": "https://en.wikipedia.org/wiki/Napoleon",
+            "coordinates": null
+          },
+          {
+            "title": "Habsburg monarchy",
+            "url": "https://en.wikipedia.org/wiki/Habsburg_monarchy",
+            "coordinates": null
+          },
+          {
+            "title": "Louis Desaix",
+            "url": "https://en.wikipedia.org/wiki/Louis_Desaix",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1777,
+        "text": "The Second Continental Congress adopted the stars and stripes design for the flag of the United States.",
+        "relatedPages": [
+          {
+            "title": "Second Continental Congress",
+            "url": "https://en.wikipedia.org/wiki/Second_Continental_Congress",
+            "coordinates": null
+          },
+          {
+            "title": "Flag of the United States",
+            "url": "https://en.wikipedia.org/wiki/Flag_of_the_United_States",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1646,
+        "text": "Franco-Spanish War: French and Spanish fleets fought the inconclusive Battle of Orbetello, with sailing vessels of both sides having to be towed into action by galleys due to light winds.",
+        "relatedPages": [
+          {
+            "title": "Franco-Spanish War (1635–1659)",
+            "url": "https://en.wikipedia.org/wiki/Franco-Spanish_War_(1635%E2%80%931659)",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Orbetello",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Orbetello",
+            "coordinates": {
+              "lat": 42.43333333,
+              "lon": 11.21666667
+            }
+          },
+          {
+            "title": "Galley",
+            "url": "https://en.wikipedia.org/wiki/Galley",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1644,
+        "text": "First English Civil War: Prince Maurice abandoned his siege of Lyme Regis in Dorset after learning of the approach of a Parliamentarian relief force.",
+        "relatedPages": [
+          {
+            "title": "First English Civil War",
+            "url": "https://en.wikipedia.org/wiki/First_English_Civil_War",
+            "coordinates": null
+          },
+          {
+            "title": "Maurice of the Palatinate",
+            "url": "https://en.wikipedia.org/wiki/Maurice_of_the_Palatinate",
+            "coordinates": null
+          },
+          {
+            "title": "Siege of Lyme Regis",
+            "url": "https://en.wikipedia.org/wiki/Siege_of_Lyme_Regis",
+            "coordinates": {
+              "lat": 50.725,
+              "lon": -2.94
+            }
+          },
+          {
+            "title": "Roundhead",
+            "url": "https://en.wikipedia.org/wiki/Roundhead",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1381,
+        "text": "During the Peasants' Revolt in England, rebels stormed the Tower of London, killing Simon Sudbury, Lord Chancellor, and Robert Hales, Lord High Treasurer (both pictured).",
+        "relatedPages": [
+          {
+            "title": "Peasants' Revolt",
+            "url": "https://en.wikipedia.org/wiki/Peasants'_Revolt",
+            "coordinates": null
+          },
+          {
+            "title": "Tower of London",
+            "url": "https://en.wikipedia.org/wiki/Tower_of_London",
+            "coordinates": {
+              "lat": 51.50805556,
+              "lon": -0.07611111
+            }
+          },
+          {
+            "title": "Simon Sudbury",
+            "url": "https://en.wikipedia.org/wiki/Simon_Sudbury",
+            "coordinates": null
+          },
+          {
+            "title": "Lord Chancellor",
+            "url": "https://en.wikipedia.org/wiki/Lord_Chancellor",
+            "coordinates": null
+          },
+          {
+            "title": "Robert Hales (knight)",
+            "url": "https://en.wikipedia.org/wiki/Robert_Hales_(knight)",
+            "coordinates": null
+          },
+          {
+            "title": "Lord High Treasurer",
+            "url": "https://en.wikipedia.org/wiki/Lord_High_Treasurer",
+            "coordinates": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,599 @@
+{
+  "date": "2026-06-10",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/10",
+  "sections": {
+    "selected": [
+      {
+        "year": 2024,
+        "text": "A plane crash in Malawi, kills nine people, including Vice President Saulos Chilima.",
+        "relatedPages": [
+          {
+            "title": "2024 Chikangawa Dornier 228 crash",
+            "url": "https://en.wikipedia.org/wiki/2024_Chikangawa_Dornier_228_crash",
+            "coordinates": null
+          },
+          {
+            "title": "Saulos Chilima",
+            "url": "https://en.wikipedia.org/wiki/Saulos_Chilima",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "text": "War in Afghanistan: A U.S. airstrike resulted in the reported deaths of eleven paramilitary members of the Pakistani Frontier Corps and eight Taliban fighters in Pakistan's tribal areas.",
+        "relatedPages": [
+          {
+            "title": "War in Afghanistan (2001–2021)",
+            "url": "https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)",
+            "coordinates": null
+          },
+          {
+            "title": "Gora Prai airstrike",
+            "url": "https://en.wikipedia.org/wiki/Gora_Prai_airstrike",
+            "coordinates": {
+              "lat": 34.71,
+              "lon": 71.12
+            }
+          },
+          {
+            "title": "Paramilitary",
+            "url": "https://en.wikipedia.org/wiki/Paramilitary",
+            "coordinates": null
+          },
+          {
+            "title": "Frontier Corps",
+            "url": "https://en.wikipedia.org/wiki/Frontier_Corps",
+            "coordinates": null
+          },
+          {
+            "title": "Taliban",
+            "url": "https://en.wikipedia.org/wiki/Taliban",
+            "coordinates": null
+          },
+          {
+            "title": "Federally Administered Tribal Areas",
+            "url": "https://en.wikipedia.org/wiki/Federally_Administered_Tribal_Areas",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "text": "Sudan Airways Flight 109 crashed on landing at Khartoum International Airport, killing 30 of the 214 occupants on board.",
+        "relatedPages": [
+          {
+            "title": "Sudan Airways Flight 109",
+            "url": "https://en.wikipedia.org/wiki/Sudan_Airways_Flight_109",
+            "coordinates": {
+              "lat": 15.605,
+              "lon": 32.55305556
+            }
+          },
+          {
+            "title": "Khartoum International Airport",
+            "url": "https://en.wikipedia.org/wiki/Khartoum_International_Airport",
+            "coordinates": {
+              "lat": 15.58944444,
+              "lon": 32.55305556
+            }
+          }
+        ]
+      },
+      {
+        "year": 1991,
+        "text": "Eleven-year-old Jaycee Dugard was kidnapped in South Lake Tahoe, California; she remained a captive until 2009.",
+        "relatedPages": [
+          {
+            "title": "Kidnapping of Jaycee Dugard",
+            "url": "https://en.wikipedia.org/wiki/Kidnapping_of_Jaycee_Dugard",
+            "coordinates": {
+              "lat": 38.00861111,
+              "lon": -121.77111111
+            }
+          },
+          {
+            "title": "South Lake Tahoe, California",
+            "url": "https://en.wikipedia.org/wiki/South_Lake_Tahoe%2C_California",
+            "coordinates": {
+              "lat": 38.94,
+              "lon": -119.97694444
+            }
+          }
+        ]
+      },
+      {
+        "year": 1987,
+        "text": "Mass protests demanding direct presidential elections broke out across South Korea.",
+        "relatedPages": [
+          {
+            "title": "June Democratic Struggle",
+            "url": "https://en.wikipedia.org/wiki/June_Democratic_Struggle",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "text": "The Royal New Zealand Navy adopted a unique white ensign, to distinguish its vessels from those of the Royal Navy.",
+        "relatedPages": [
+          {
+            "title": "Royal New Zealand Navy",
+            "url": "https://en.wikipedia.org/wiki/Royal_New_Zealand_Navy",
+            "coordinates": null
+          },
+          {
+            "title": "New Zealand White Ensign",
+            "url": "https://en.wikipedia.org/wiki/New_Zealand_White_Ensign",
+            "coordinates": null
+          },
+          {
+            "title": "Royal Navy",
+            "url": "https://en.wikipedia.org/wiki/Royal_Navy",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1957,
+        "text": "Led by John Diefenbaker (pictured), the Progressive Conservative Party won a plurality of House of Commons seats in the Canadian federal election.",
+        "relatedPages": [
+          {
+            "title": "John Diefenbaker",
+            "url": "https://en.wikipedia.org/wiki/John_Diefenbaker",
+            "coordinates": null
+          },
+          {
+            "title": "Progressive Conservative Party of Canada",
+            "url": "https://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Canada",
+            "coordinates": null
+          },
+          {
+            "title": "Plurality (voting)",
+            "url": "https://en.wikipedia.org/wiki/Plurality_(voting)",
+            "coordinates": null
+          },
+          {
+            "title": "House of Commons of Canada",
+            "url": "https://en.wikipedia.org/wiki/House_of_Commons_of_Canada",
+            "coordinates": null
+          },
+          {
+            "title": "1957 Canadian federal election",
+            "url": "https://en.wikipedia.org/wiki/1957_Canadian_federal_election",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1935,
+        "text": "American physician Bob Smith had his last alcoholic drink, marking the traditional founding date of Alcoholics Anonymous.",
+        "relatedPages": [
+          {
+            "title": "Bob Smith (doctor)",
+            "url": "https://en.wikipedia.org/wiki/Bob_Smith_(doctor)",
+            "coordinates": null
+          },
+          {
+            "title": "Alcoholic beverage",
+            "url": "https://en.wikipedia.org/wiki/Alcoholic_beverage",
+            "coordinates": null
+          },
+          {
+            "title": "Alcoholics Anonymous",
+            "url": "https://en.wikipedia.org/wiki/Alcoholics_Anonymous",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1925,
+        "text": "The United Church of Canada, the country's largest Protestant denomination, held its inaugural service at the Mutual Street Arena in Toronto.",
+        "relatedPages": [
+          {
+            "title": "United Church of Canada",
+            "url": "https://en.wikipedia.org/wiki/United_Church_of_Canada",
+            "coordinates": null
+          },
+          {
+            "title": "Protestantism",
+            "url": "https://en.wikipedia.org/wiki/Protestantism",
+            "coordinates": null
+          },
+          {
+            "title": "Mutual Street Arena",
+            "url": "https://en.wikipedia.org/wiki/Mutual_Street_Arena",
+            "coordinates": {
+              "lat": 43.65583333,
+              "lon": -79.37555556
+            }
+          }
+        ]
+      },
+      {
+        "year": 1918,
+        "text": "World War I: Italian torpedo boats sank the Austro-Hungarian dreadnought SMS Szent István off the Dalmatian coast, killing 89 of the crew.",
+        "relatedPages": [
+          {
+            "title": "World War I",
+            "url": "https://en.wikipedia.org/wiki/World_War_I",
+            "coordinates": null
+          },
+          {
+            "title": "MAS (motorboat)",
+            "url": "https://en.wikipedia.org/wiki/MAS_(motorboat)",
+            "coordinates": null
+          },
+          {
+            "title": "Austria-Hungary",
+            "url": "https://en.wikipedia.org/wiki/Austria-Hungary",
+            "coordinates": {
+              "lat": 48.2075,
+              "lon": 16.365
+            }
+          },
+          {
+            "title": "SMS Szent István",
+            "url": "https://en.wikipedia.org/wiki/SMS_Szent_Istv%C3%A1n",
+            "coordinates": {
+              "lat": 44.20194444,
+              "lon": 14.45138889
+            }
+          },
+          {
+            "title": "Dalmatia",
+            "url": "https://en.wikipedia.org/wiki/Dalmatia",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1916,
+        "text": "Hussein bin Ali, King of Hejaz, orchestrated a revolt against the Ottoman Empire with the aim of creating a single unified and independent Arab state.",
+        "relatedPages": [
+          {
+            "title": "Hussein, King of Hejaz",
+            "url": "https://en.wikipedia.org/wiki/Hussein%2C_King_of_Hejaz",
+            "coordinates": null
+          },
+          {
+            "title": "Arab Revolt",
+            "url": "https://en.wikipedia.org/wiki/Arab_Revolt",
+            "coordinates": null
+          },
+          {
+            "title": "Ottoman Empire",
+            "url": "https://en.wikipedia.org/wiki/Ottoman_Empire",
+            "coordinates": null
+          },
+          {
+            "title": "Arabs",
+            "url": "https://en.wikipedia.org/wiki/Arabs",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1913,
+        "text": "During a labor strike in Ipswich, Massachusetts, police opened fire into a crowd of strikers, killing one and injuring several others.",
+        "relatedPages": [
+          {
+            "title": "1913 Ipswich Mills strike",
+            "url": "https://en.wikipedia.org/wiki/1913_Ipswich_Mills_strike",
+            "coordinates": null
+          },
+          {
+            "title": "Ipswich, Massachusetts",
+            "url": "https://en.wikipedia.org/wiki/Ipswich%2C_Massachusetts",
+            "coordinates": {
+              "lat": 42.67916667,
+              "lon": -70.84166667
+            }
+          }
+        ]
+      },
+      {
+        "year": 1886,
+        "text": "Mount Tarawera, a volcano in New Zealand's North Island, erupted, killing around 120 people and creating the Waimangu Volcanic Rift Valley.",
+        "relatedPages": [
+          {
+            "title": "Mount Tarawera",
+            "url": "https://en.wikipedia.org/wiki/Mount_Tarawera",
+            "coordinates": {
+              "lat": -38.21666667,
+              "lon": 176.51666667
+            }
+          },
+          {
+            "title": "North Island",
+            "url": "https://en.wikipedia.org/wiki/North_Island",
+            "coordinates": {
+              "lat": -39,
+              "lon": 176
+            }
+          },
+          {
+            "title": "1886 eruption of Mount Tarawera",
+            "url": "https://en.wikipedia.org/wiki/1886_eruption_of_Mount_Tarawera",
+            "coordinates": {
+              "lat": -38.225,
+              "lon": 176.51
+            }
+          },
+          {
+            "title": "Waimangu Volcanic Rift Valley",
+            "url": "https://en.wikipedia.org/wiki/Waimangu_Volcanic_Rift_Valley",
+            "coordinates": {
+              "lat": -38.2825,
+              "lon": 176.39888889
+            }
+          }
+        ]
+      },
+      {
+        "year": 1878,
+        "text": "The League of Prizren was officially founded to \"struggle in arms to defend the wholeness of the territories of Albania\".",
+        "relatedPages": [
+          {
+            "title": "League of Prizren",
+            "url": "https://en.wikipedia.org/wiki/League_of_Prizren",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1861,
+        "text": "American Civil War: The Confederate Army only suffered eight casualties in its victory at the Battle of Big Bethel in York County, Virginia.",
+        "relatedPages": [
+          {
+            "title": "American Civil War",
+            "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+            "coordinates": null
+          },
+          {
+            "title": "Confederate States Army",
+            "url": "https://en.wikipedia.org/wiki/Confederate_States_Army",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Big Bethel",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Big_Bethel",
+            "coordinates": {
+              "lat": 37.0937,
+              "lon": -76.425
+            }
+          },
+          {
+            "title": "York County, Virginia",
+            "url": "https://en.wikipedia.org/wiki/York_County%2C_Virginia",
+            "coordinates": {
+              "lat": 37.22,
+              "lon": -76.44
+            }
+          }
+        ]
+      },
+      {
+        "year": 1838,
+        "text": "At least 28 unarmed Indigenous Australians were massacred at Myall Creek, New South Wales.",
+        "relatedPages": [
+          {
+            "title": "Indigenous Australians",
+            "url": "https://en.wikipedia.org/wiki/Indigenous_Australians",
+            "coordinates": null
+          },
+          {
+            "title": "Myall Creek massacre",
+            "url": "https://en.wikipedia.org/wiki/Myall_Creek_massacre",
+            "coordinates": {
+              "lat": -29.7813,
+              "lon": 150.7127
+            }
+          },
+          {
+            "title": "Myall Creek, New South Wales",
+            "url": "https://en.wikipedia.org/wiki/Myall_Creek%2C_New_South_Wales",
+            "coordinates": {
+              "lat": -29.7792,
+              "lon": 150.7145
+            }
+          }
+        ]
+      },
+      {
+        "year": 1786,
+        "text": "Ten days after being formed by an earthquake, a landslide dam on the Dadu River in China was destroyed by an aftershock, causing a flood that killed an estimated 100,000 people.",
+        "relatedPages": [
+          {
+            "title": "1786 Kangding-Luding earthquake",
+            "url": "https://en.wikipedia.org/wiki/1786_Kangding-Luding_earthquake",
+            "coordinates": {
+              "lat": 29.9,
+              "lon": 102
+            }
+          },
+          {
+            "title": "Landslide dam",
+            "url": "https://en.wikipedia.org/wiki/Landslide_dam",
+            "coordinates": null
+          },
+          {
+            "title": "Dadu River",
+            "url": "https://en.wikipedia.org/wiki/Dadu_River",
+            "coordinates": {
+              "lat": 29.54944444,
+              "lon": 103.76472222
+            }
+          },
+          {
+            "title": "Aftershock",
+            "url": "https://en.wikipedia.org/wiki/Aftershock",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1782,
+        "text": "King Rama I moved into the Grand Palace in Bangkok, which has remained the royal residence of Siam and Thailand since then.",
+        "relatedPages": [
+          {
+            "title": "Rama I",
+            "url": "https://en.wikipedia.org/wiki/Rama_I",
+            "coordinates": null
+          },
+          {
+            "title": "Grand Palace",
+            "url": "https://en.wikipedia.org/wiki/Grand_Palace",
+            "coordinates": {
+              "lat": 13.7501,
+              "lon": 100.492
+            }
+          },
+          {
+            "title": "Bangkok",
+            "url": "https://en.wikipedia.org/wiki/Bangkok",
+            "coordinates": {
+              "lat": 13.7525,
+              "lon": 100.49416667
+            }
+          }
+        ]
+      },
+      {
+        "year": 1692,
+        "text": "Bridget Bishop became the first person to be executed for witchcraft in the Salem witch trials in colonial Massachusetts.",
+        "relatedPages": [
+          {
+            "title": "Bridget Bishop",
+            "url": "https://en.wikipedia.org/wiki/Bridget_Bishop",
+            "coordinates": null
+          },
+          {
+            "title": "Witchcraft",
+            "url": "https://en.wikipedia.org/wiki/Witchcraft",
+            "coordinates": null
+          },
+          {
+            "title": "Salem witch trials",
+            "url": "https://en.wikipedia.org/wiki/Salem_witch_trials",
+            "coordinates": {
+              "lat": 42.52222222,
+              "lon": -70.89611111
+            }
+          },
+          {
+            "title": "Province of Massachusetts Bay",
+            "url": "https://en.wikipedia.org/wiki/Province_of_Massachusetts_Bay",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1624,
+        "text": "Thirty Years' War: France and the Dutch Republic concluded the Treaty of Compiègne, a mutual defence alliance.",
+        "relatedPages": [
+          {
+            "title": "Thirty Years' War",
+            "url": "https://en.wikipedia.org/wiki/Thirty_Years'_War",
+            "coordinates": null
+          },
+          {
+            "title": "Dutch Republic",
+            "url": "https://en.wikipedia.org/wiki/Dutch_Republic",
+            "coordinates": {
+              "lat": 52.07972222,
+              "lon": 4.31333333
+            }
+          },
+          {
+            "title": "Treaty of Compiègne (1624)",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Compi%C3%A8gne_(1624)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1329,
+        "text": "Byzantine–Ottoman wars: The heavily armed Byzantine army was defeated by Ottoman forces at the Battle of Pelekanon.",
+        "relatedPages": [
+          {
+            "title": "Byzantine–Ottoman wars",
+            "url": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Ottoman_wars",
+            "coordinates": null
+          },
+          {
+            "title": "Byzantine Empire",
+            "url": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+            "coordinates": null
+          },
+          {
+            "title": "Ottoman Empire",
+            "url": "https://en.wikipedia.org/wiki/Ottoman_Empire",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Pelekanon",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Pelekanon",
+            "coordinates": {
+              "lat": 41.01,
+              "lon": 29.15027778
+            }
+          }
+        ]
+      },
+      {
+        "year": 1190,
+        "text": "Third Crusade: Frederick Barbarossa (pictured), Holy Roman Emperor, drowned in the Saleph River in Anatolia.",
+        "relatedPages": [
+          {
+            "title": "Third Crusade",
+            "url": "https://en.wikipedia.org/wiki/Third_Crusade",
+            "coordinates": null
+          },
+          {
+            "title": "Frederick Barbarossa",
+            "url": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+            "coordinates": null
+          },
+          {
+            "title": "Holy Roman Emperor",
+            "url": "https://en.wikipedia.org/wiki/Holy_Roman_Emperor",
+            "coordinates": null
+          },
+          {
+            "title": "Göksu",
+            "url": "https://en.wikipedia.org/wiki/G%C3%B6ksu",
+            "coordinates": {
+              "lat": 36.29666667,
+              "lon": 34.04666667
+            }
+          },
+          {
+            "title": "Anatolia",
+            "url": "https://en.wikipedia.org/wiki/Anatolia",
+            "coordinates": {
+              "lat": 39,
+              "lon": 35
+            }
+          }
+        ]
+      },
+      {
+        "year": 731,
+        "text": "Tatwine was consecrated  as Archbishop of Canterbury",
+        "relatedPages": [
+          {
+            "title": "Tatwine",
+            "url": "https://en.wikipedia.org/wiki/Tatwine",
+            "coordinates": null
+          },
+          {
+            "title": "Archbishop of Canterbury",
+            "url": "https://en.wikipedia.org/wiki/Archbishop_of_Canterbury",
+            "coordinates": null
+          }
+        ]
+      }
+    ]
+  }
+}

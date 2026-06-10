@@ -2425,7 +2425,7 @@
         "region": "Saint Helena, Ascension and Tristan da Cunha",
         "isoCountryCode": "SH",
         "text": "May 21 is Saint Helena Day, commemorating the island's discovery, and Jamestown is the settlement where that remote Atlantic history is easiest to feel. The narrow valley, steep cliffs, and harbor make the town seem almost tucked away from the world. Isolation is the key to its story, from imperial shipping routes to Napoleon's exile on the island.",
-        "link": "https://en.wikipedia.org/wiki/Saint_Helena_Day",
+        "link": "https://en.wikipedia.org/wiki/Saint_Helena",
         "views": 85416,
         "coordinates": {
           "lat": -15.92444444,
@@ -2437,15 +2437,15 @@
   "2026-05-22": {
     "locations": [
       {
-        "name": "Jerusalem",
-        "region": "Israel",
-        "isoCountryCode": "IL",
-        "text": "On May 22, 2017, a sitting U.S. president visited the Western Wall for the first time, drawing another layer of world attention to Jerusalem. The city compresses sacred geography, diplomacy, and sovereignty into a few intensely contested streets. Few places can absorb a ceremonial visit and still make it feel historically charged.",
-        "link": "https://en.wikipedia.org/wiki/Western_Wall",
-        "views": 2117316,
+        "name": "Woolwich",
+        "region": "United Kingdom",
+        "isoCountryCode": "GB",
+        "text": "On May 22, 2013, Woolwich was thrust into international headlines after the murder of Lee Rigby on a southeast London street. The attack turned an ordinary district better known for barracks, riverfront, and commuter life into the setting of a national shock. Woolwich still feels like the kind of place where history and routine sit close together, which is part of what made that rupture so jarring.",
+        "link": "https://en.wikipedia.org/wiki/Murder_of_Lee_Rigby",
+        "views": 63811,
         "coordinates": {
-          "lat": 31.77888889,
-          "lng": 35.22555556
+          "lat": 51.488,
+          "lng": 0.063
         }
       },
       {
@@ -2488,8 +2488,8 @@
         "name": "Puerto Ayora",
         "region": "Ecuador",
         "isoCountryCode": "EC",
-        "text": "Puerto Ayora is the busiest human foothold in the Galápagos, a place where fishing boats, research stations, marine iguanas, and tour traffic all meet. The town sits beside waters crowded with sea lions, rays, reef fish, and other species that made the islands famous long before mass tourism. Even the ordinary shoreline can feel like a reminder that evolution and biodiversity are not abstract ideas here.",
-        "link": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_National_Park",
+        "text": "On May 22, the world marks the International Day for Biological Diversity, and Puerto Ayora feels like one of the most vivid places to imagine it. The town is the busiest human foothold in the Galápagos, where fishing boats, research stations, sea lions, and marine iguanas all seem to share the same shoreline. Even an ordinary walk along the waterfront can feel like a lesson in how unusually dense and fragile life is here.",
+        "link": "https://en.wikipedia.org/wiki/International_Day_for_Biological_Diversity",
         "views": 22116,
         "coordinates": {
           "lat": -0.75,
@@ -2750,6 +2750,1606 @@
         "coordinates": {
           "lat": -35.29853,
           "lng": 149.133
+        }
+      }
+    ]
+  },
+  "2026-05-27": {
+    "locations": [
+      {
+        "name": "Cochabamba",
+        "region": "Bolivia",
+        "isoCountryCode": "BO",
+        "text": "On May 27, 1812, the women remembered as the Heroines of la Coronilla made a last stand on San Sebastian Hill above Cochabamba against royalist troops. The episode turned the city into one of Bolivia's enduring symbols of anti-colonial resistance. Cochabamba also sits in a broad Andean valley, which gives that dramatic history a surprisingly open and sunlit setting.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_La_Coronilla",
+        "views": 111680,
+        "coordinates": {
+          "lat": -17.3935419,
+          "lng": -66.1570139
+        }
+      },
+      {
+        "name": "Le Mans",
+        "region": "France",
+        "isoCountryCode": "FR",
+        "text": "On May 27, 1923, the first 24 Hours of Le Mans began, launching what would become the world's most famous endurance race. The city has been tied to speed, engineering, and sleepless spectacle ever since. Even outside race week, Le Mans carries that sense of a historic town that regularly turns itself over to machinery and obsession.",
+        "link": "https://en.wikipedia.org/wiki/24_Hours_of_Le_Mans",
+        "views": 164709,
+        "coordinates": {
+          "lat": 48.004166666667,
+          "lng": 0.19694444444444
+        }
+      },
+      {
+        "name": "Shanhai Pass",
+        "region": "China",
+        "isoCountryCode": "CN",
+        "text": "On May 27, 1644, the struggle at Shanhai Pass helped decide the transfer of power from the Ming world to the Qing. The fortress sits where the Great Wall meets the Bohai Sea, so it already feels like a hinge between landscapes. That geography is a big reason the pass keeps reappearing in Chinese history as a place where dynasties can turn.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Shanghai_Pass",
+        "views": 50182,
+        "coordinates": {
+          "lat": 40.00916,
+          "lng": 119.75357
+        }
+      },
+      {
+        "name": "Hargeisa",
+        "region": "Somaliland",
+        "isoCountryCode": "SO",
+        "text": "On May 27, 1991, leaders of the Somali National Movement declared the restoration of Somaliland's independence, and Hargeisa soon resumed its role as the territory's political center. The city had been heavily damaged in the late 1980s, so its recovery became part of the same national story. That makes Hargeisa a place where political ambition and urban rebuilding are tightly entwined.",
+        "link": "https://en.wikipedia.org/wiki/Somaliland",
+        "views": 194067,
+        "coordinates": {
+          "lat": 9.565556,
+          "lng": 44.060556
+        }
+      },
+      {
+        "name": "Yogyakarta",
+        "region": "Indonesia",
+        "isoCountryCode": "ID",
+        "text": "On May 27, 2006, a devastating earthquake struck near Yogyakarta and killed thousands across central Java. The city is known for court culture, student life, and access to major temples, so the disaster landed in a place with unusual cultural density. That contrast makes Yogyakarta feel both graceful and fragile in the historical record.",
+        "link": "https://en.wikipedia.org/wiki/2006_Yogyakarta_earthquake",
+        "views": 143406,
+        "coordinates": {
+          "lat": -7.800456766490443,
+          "lng": 110.39128022985493
+        }
+      }
+    ]
+  },
+  "2026-05-28": {
+    "locations": [
+      {
+        "name": "Moscow",
+        "region": "Russia",
+        "isoCountryCode": "RU",
+        "text": "On May 28, 1987, teenager Mathias Rust landed a small plane near Red Square after slipping through Soviet air defenses. The stunt embarrassed the Soviet military and instantly turned central Moscow into a stage for late-Cold War absurdity. Few capitals are so associated with state power, which is why the episode still feels almost unreal there.",
+        "link": "https://en.wikipedia.org/wiki/Mathias_Rust",
+        "views": 1150361,
+        "coordinates": {
+          "lat": 55.75055555555556,
+          "lng": 37.6175
+        }
+      },
+      {
+        "name": "Chagai Hills",
+        "region": "Pakistan",
+        "isoCountryCode": "PK",
+        "text": "On May 28, 1998, Pakistan carried out the Chagai-I nuclear tests in the Chagai Hills, answering India's tests from earlier that month. The barren volcanic landscape became one of the most symbolically charged sites in South Asia overnight. Its remoteness is part of the story, because events of global consequence unfolded in a place that otherwise feels stark and far from everything.",
+        "link": "https://en.wikipedia.org/wiki/Chagai-I",
+        "views": 3509,
+        "coordinates": {
+          "lat": 29.32656944,
+          "lng": 64.10479444
+        }
+      },
+      {
+        "name": "El Uvero",
+        "region": "Cuba",
+        "isoCountryCode": "CU",
+        "text": "On May 28, 1958, Fidel Castro's guerrillas attacked the army outpost at El Uvero in one of the Cuban Revolution's first major set-piece victories. The settlement is small, but the battle helped prove the rebels could take and hold a position against regular forces. That gives El Uvero an outsized place in the military mythology of the revolution.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_El_Uvero",
+        "views": 149,
+        "coordinates": {
+          "lat": 19.94925,
+          "lng": -76.59005556
+        }
+      },
+      {
+        "name": "Meskel Square",
+        "region": "Ethiopia",
+        "isoCountryCode": "ET",
+        "text": "On May 28, Ethiopia marks the downfall of the Derg, and Meskel Square is one of the clearest places to feel how power changes are staged in Addis Ababa. The square has hosted imperial ceremony, revolutionary rallies, protests, and memorials across very different regimes. That layered public life makes it a sharper choice than the capital in general for a date about political turning points.",
+        "link": "https://en.wikipedia.org/wiki/Fall_of_the_Derg_regime",
+        "views": 12197,
+        "coordinates": {
+          "lat": 9.010277777777778,
+          "lng": 38.76111111111111
+        }
+      },
+      {
+        "name": "Kawit",
+        "region": "Philippines",
+        "isoCountryCode": "PH",
+        "text": "May 28 is National Flag Day in the Philippines, and Kawit is one of the places the celebration naturally points back toward. Emilio Aguinaldo's ancestral home there became the stage for the declaration of independence two weeks later, so the town is loaded with early national symbolism. Even outside anniversary ceremonies, Kawit feels like a compact archive of the country's revolutionary self-image.",
+        "link": "https://en.wikipedia.org/wiki/National_Flag_Day",
+        "views": 22670,
+        "coordinates": {
+          "lat": 14.433333333333,
+          "lng": 120.9
+        }
+      }
+    ]
+  },
+  "2026-05-29": {
+    "locations": [
+      {
+        "name": "N'Djamena",
+        "region": "Chad",
+        "isoCountryCode": "TD",
+        "text": "On May 29, 1900, the French founded Fort-Lamy on the site that would become N'Djamena. The city grew into the political center of Chad at the meeting point of the Chari and Logone river systems. That colonial starting point still matters because so much of the capital's layout and identity grew from it.",
+        "link": "https://en.wikipedia.org/wiki/N%27Djamena",
+        "views": 141030,
+        "coordinates": {
+          "lat": 12.105277777777777,
+          "lng": 15.044722222222221
+        }
+      },
+      {
+        "name": "Kaifeng",
+        "region": "China",
+        "isoCountryCode": "CN",
+        "text": "On May 29, 1233, Mongol forces entered Kaifeng after a long siege, marking a decisive moment in the collapse of the Jin dynasty. Kaifeng had already been one of China's great imperial capitals, so the conquest landed in a city with enormous historical weight. Few places hold so many layers of rise, fall, and rebuilding in one name.",
+        "link": "https://en.wikipedia.org/wiki/Siege_of_Kaifeng_(1232%E2%80%931233)",
+        "views": 161140,
+        "coordinates": {
+          "lat": 34.795,
+          "lng": 114.345
+        }
+      },
+      {
+        "name": "Théâtre des Champs-Élysées",
+        "region": "France",
+        "isoCountryCode": "FR",
+        "text": "On May 29, 1913, The Rite of Spring premiered at the Théâtre des Champs-Élysées and triggered one of modern music's most famous scandals. The building is elegant even by Paris standards, which makes its association with artistic uproar even better. It remains one of those rare venues where a single night permanently changed the way a place is remembered.",
+        "link": "https://en.wikipedia.org/wiki/The_Rite_of_Spring",
+        "views": 19343,
+        "coordinates": {
+          "lat": 48.865833333333335,
+          "lng": 2.3030555555555554
+        }
+      },
+      {
+        "name": "Halifax",
+        "region": "Canada",
+        "isoCountryCode": "CA",
+        "text": "On May 29, 1950, the St. Roch reached Halifax after becoming the first ship to circumnavigate North America. That arrival tied the city to an Arctic navigation feat that belonged to the age of icebreakers, charts, and imperial sea routes. Halifax already feels like an Atlantic hinge, and this episode sharpened that identity.",
+        "link": "https://en.wikipedia.org/wiki/St._Roch_(ship)",
+        "views": 654465,
+        "coordinates": {
+          "lat": 44.6475,
+          "lng": -63.590555555555554
+        }
+      },
+      {
+        "name": "Abuja",
+        "region": "Nigeria",
+        "isoCountryCode": "NG",
+        "text": "On May 29, 1999, Olusegun Obasanjo was sworn in at Abuja, inaugurating Nigeria's Fourth Republic after years of military rule. Because Abuja was a purpose-built capital, moments of constitutional transfer there feel unusually distilled and ceremonial. The city often seems abstract on a map, but dates like this give it real political texture.",
+        "link": "https://en.wikipedia.org/wiki/Fourth_Nigerian_Republic",
+        "views": 341507,
+        "coordinates": {
+          "lat": 9.066666666666666,
+          "lng": 7.483333333333333
+        }
+      }
+    ]
+  },
+  "2026-05-30": {
+    "locations": [
+      {
+        "name": "Willemstad",
+        "region": "Curaçao",
+        "isoCountryCode": "CW",
+        "text": "On May 30, 1969, labor unrest and anti-colonial anger exploded into the Curaçao uprising in Willemstad. Fires and looting shocked the Dutch Caribbean and forced a political reckoning that still shapes the island's memory. The pastel waterfront can look postcard-perfect, which only sharpens the contrast with that day of rupture.",
+        "link": "https://en.wikipedia.org/wiki/1969_Cura%C3%A7ao_uprising",
+        "views": 157478,
+        "coordinates": {
+          "lat": 12.116666666666667,
+          "lng": -68.93333333333334
+        }
+      },
+      {
+        "name": "Auckland",
+        "region": "New Zealand",
+        "isoCountryCode": "NZ",
+        "text": "On May 30, 1959, the Auckland Harbour Bridge was officially opened, permanently changing how the city was stitched together. The bridge is now so normal in the skyline that it can be easy to forget how transformative that connection was. Auckland often reads as a city of harbors and horizons, and this is one of the dates that explains why.",
+        "link": "https://en.wikipedia.org/wiki/Auckland_Harbour_Bridge",
+        "views": 647838,
+        "coordinates": {
+          "lat": -36.84916666666667,
+          "lng": 174.76527777777778
+        }
+      },
+      {
+        "name": "Rouen",
+        "region": "France",
+        "isoCountryCode": "FR",
+        "text": "On May 30, 1431, Joan of Arc was executed in Rouen, fixing the city forever in one of France's central national stories. Rouen's timbered streets and cathedral setting can feel almost painterly until that history cuts through. It is one of those places where medieval urban beauty and political violence remain impossible to separate.",
+        "link": "https://en.wikipedia.org/wiki/Joan_of_Arc",
+        "views": 257435,
+        "coordinates": {
+          "lat": 49.44277777777778,
+          "lng": 1.0886111111111112
+        }
+      },
+      {
+        "name": "Nelson Island",
+        "region": "Trinidad and Tobago",
+        "isoCountryCode": "TT",
+        "text": "May 30 is Indian Arrival Day in Trinidad and Tobago, and Nelson Island is one of the places where that migration story becomes tangible. The island served as an immigrant depot and quarantine station for many arrivals after the Fatel Razack reached the Gulf of Paria in 1845. Its quiet shoreline now stands in for a much larger history of indenture, memory, and diaspora.",
+        "link": "https://en.wikipedia.org/wiki/Indian_Arrival_Day",
+        "views": 3014,
+        "coordinates": {
+          "lat": 10.658372222222223,
+          "lng": -61.59903055555555
+        }
+      },
+      {
+        "name": "Kota Kinabalu",
+        "region": "Malaysia",
+        "isoCountryCode": "MY",
+        "text": "May 30 is Kaamatan in Sabah, and Kota Kinabalu becomes the festival's most visible urban stage as celebrations spread through the state capital. The harvest festival comes from Kadazan-Dusun traditions, but in the city it turns into a broader showcase of Sabah's communities, food, and music. That mix of indigenous ritual, public spectacle, and waterfront modernity gives Kota Kinabalu a distinct May 30 identity.",
+        "link": "https://en.wikipedia.org/wiki/Kaamatan",
+        "views": 116862,
+        "coordinates": {
+          "lat": 5.975,
+          "lng": 116.0725
+        }
+      }
+    ]
+  },
+  "2026-05-31": {
+    "locations": [
+      {
+        "name": "Ulm Minster",
+        "region": "Germany",
+        "isoCountryCode": "DE",
+        "text": "On May 31, 1890, Ulm Minster was completed after centuries of work and secured its claim as the tallest church building in the world. The giant spire turned Ulm into a monument to late medieval ambition, patience, and engineering. It is one of those places where the skyline itself explains the date.",
+        "link": "https://en.wikipedia.org/wiki/Ulm_Minster",
+        "views": 238599,
+        "coordinates": {
+          "lat": 48.39861111,
+          "lng": 9.9925
+        }
+      },
+      {
+        "name": "Vereeniging",
+        "region": "South Africa",
+        "isoCountryCode": "ZA",
+        "text": "On May 31, 1902, the Treaty of Vereeniging ended the Second Boer War and reset the political future of southern Africa. The town's name has been tied to that negotiation ever since, even though the consequences of the settlement kept unfolding for decades. Vereeniging turns a single railway town into a marker of imperial war, compromise, and the long making of South Africa.",
+        "link": "https://en.wikipedia.org/wiki/Treaty_of_Vereeniging",
+        "views": 35822,
+        "coordinates": {
+          "lat": -26.67361111,
+          "lng": 27.93194444
+        }
+      },
+      {
+        "name": "Surabaya",
+        "region": "Indonesia",
+        "isoCountryCode": "ID",
+        "text": "On May 31, 1293, a Majapahit victory over the Mongol invasion of Java became the traditional founding date of Surabaya. That origin story gives the city an unusually martial birthday, wrapped together with the shark-and-crocodile legend often used to explain its name. Surabaya still carries both the historical and mythical versions of its beginning.",
+        "link": "https://en.wikipedia.org/wiki/Surabaya",
+        "views": 181762,
+        "coordinates": {
+          "lat": -7.24583333,
+          "lng": 112.73777778
+        }
+      },
+      {
+        "name": "Biblioteca Marciana",
+        "region": "Italy",
+        "isoCountryCode": "IT",
+        "text": "On May 31, 1468, Cardinal Bessarion donated 746 manuscripts to Venice in the act usually treated as the foundation of the Biblioteca Marciana. That gift helped turn a waterfront republic into one of Renaissance Europe's great guardians of Greek learning. The library makes the date feel less like paperwork and more like the transfer of an intellectual world.",
+        "link": "https://en.wikipedia.org/wiki/Biblioteca_Marciana",
+        "views": 896,
+        "coordinates": {
+          "lat": 45.43333333,
+          "lng": 12.33916667
+        }
+      },
+      {
+        "name": "Gold Coast",
+        "region": "Australia",
+        "isoCountryCode": "AU",
+        "text": "On May 31, Australia's Borobi Day looks back to the 2018 Commonwealth Games through school sport and mascot-themed events on the Gold Coast. The city is already built around beaches and spectacle, which makes it a fitting place to remember a festival of sport with a bright blue koala at its center. It gives the date a playful link between civic branding, international competition, and Queensland sunshine.",
+        "link": "https://en.wikipedia.org/wiki/Borobi",
+        "views": 390047,
+        "coordinates": {
+          "lat": -27.9983,
+          "lng": 153.3344
+        }
+      }
+    ]
+  },
+  "2026-06-01": {
+    "locations": [
+      {
+        "name": "Congress of Deputies",
+        "region": "Spain",
+        "isoCountryCode": "ES",
+        "text": "On June 1, 2018, Spain's Congress of Deputies passed the no-confidence motion that removed Mariano Rajoy from power. That vote marked the first successful use of the mechanism in modern Spanish democracy and made the chamber itself the focal point of a rapid political transfer. The building turns a constitutional procedure into a place you can point to on a map.",
+        "link": "https://en.wikipedia.org/wiki/2018_vote_of_no_confidence_in_the_government_of_Mariano_Rajoy",
+        "views": 135910,
+        "coordinates": {
+          "lat": 40.41638889,
+          "lng": -3.69666667
+        }
+      },
+      {
+        "name": "Kuching",
+        "region": "Malaysia",
+        "isoCountryCode": "MY",
+        "text": "On June 1, Gawai Dayak fills Sarawak with harvest celebrations, and Kuching becomes one of the festival's most visible urban stages. What began in indigenous agricultural rhythms now spills into parades, music, and public identity across the state capital. The city gives the date a link between living tradition and modern Bornean life.",
+        "link": "https://en.wikipedia.org/wiki/Gawai_Dayak",
+        "views": 127906,
+        "coordinates": {
+          "lat": 1.5575,
+          "lng": 110.34388889
+        }
+      },
+      {
+        "name": "Apia",
+        "region": "Samoa",
+        "isoCountryCode": "WS",
+        "text": "On June 1, Samoa celebrates the independence it achieved in 1962, and Apia naturally becomes the political and ceremonial center of the day. The capital anchors a story that matters well beyond its size, because Samoa was the first Pacific island nation to regain independence in the twentieth century. Apia lets a small harbor city stand for a much larger anti-colonial milestone.",
+        "link": "https://en.wikipedia.org/wiki/Samoa",
+        "views": 96160,
+        "coordinates": {
+          "lat": -13.83333333,
+          "lng": -171.75
+        }
+      },
+      {
+        "name": "Nairobi",
+        "region": "Kenya",
+        "isoCountryCode": "KE",
+        "text": "On June 1, Kenya marks Madaraka Day, commemorating the moment in 1963 when internal self-rule replaced direct colonial control. Nairobi carries the date especially strongly because it is the capital in which national ceremony, politics, and public memory converge. The city turns constitutional change into something legible in streets, crowds, and state ritual.",
+        "link": "https://en.wikipedia.org/wiki/Madaraka_Day",
+        "views": 502500,
+        "coordinates": {
+          "lat": -1.28638889,
+          "lng": 36.81722222
+        }
+      },
+      {
+        "name": "Fort Sumner",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On June 1, 1868, the Treaty of Bosque Redondo allowed the Navajo people held at Fort Sumner to return to their homelands. That made this small New Mexico settlement central to one of the most important reversals of U.S. policy toward an Indigenous nation in the nineteenth century. Fort Sumner is a reminder that the geography of dispossession and return can be startlingly specific.",
+        "link": "https://en.wikipedia.org/wiki/Treaty_of_Bosque_Redondo",
+        "views": 41858,
+        "coordinates": {
+          "lat": 34.47583333,
+          "lng": -104.24805556
+        }
+      }
+    ]
+  },
+  "2026-06-02": {
+    "locations": [
+      {
+        "name": "Diamond Rock",
+        "region": "Martinique",
+        "isoCountryCode": "MQ",
+        "text": "On June 2, 1805, a Franco-Spanish fleet recaptured Diamond Rock after Britain had turned the island into a tiny fortified warship above the sea. The episode is so improbable that it still feels half naval legend and half geopolitical chess. Diamond Rock gives the date a perfect point-sized setting for empire, ingenuity, and Caribbean strategy.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Diamond_Rock",
+        "views": 20990,
+        "coordinates": {
+          "lat": 14.44333333,
+          "lng": -61.03916667
+        }
+      },
+      {
+        "name": "Deutsche Oper Berlin",
+        "region": "Germany",
+        "isoCountryCode": "DE",
+        "text": "On June 2, 1967, the killing of student protester Benno Ohnesorg outside Deutsche Oper Berlin became a catalytic moment in West German political culture. The shooting helped radicalize a generation and changed how the country argued about police power, protest, and democracy. The opera house stands at the edge of a story much larger than music.",
+        "link": "https://en.wikipedia.org/wiki/Killing_of_Benno_Ohnesorg",
+        "views": 9254,
+        "coordinates": {
+          "lat": 52.51277778,
+          "lng": 13.30833333
+        }
+      },
+      {
+        "name": "Hyderabad",
+        "region": "India",
+        "isoCountryCode": "IN",
+        "text": "On June 2, 2014, Telangana officially became India's newest state, with Hyderabad serving as its first capital. The city suddenly sat at the center of a long regional movement about language, resources, and political recognition. Hyderabad makes the date feel both administrative and deeply emotional.",
+        "link": "https://en.wikipedia.org/wiki/Telangana",
+        "views": 1005723,
+        "coordinates": {
+          "lat": 17.3617,
+          "lng": 78.4747
+        }
+      },
+      {
+        "name": "Parramatta",
+        "region": "Australia",
+        "isoCountryCode": "AU",
+        "text": "On June 2, 1802, colonial sailor Henry Hacking killed the Bidjigal resistance leader Pemulwuy after a bounty hunt ordered by the governor. Parramatta lies in the country where Pemulwuy's campaign repeatedly challenged British expansion around early Sydney. It gives the date a concrete place in the frontier history of Aboriginal resistance.",
+        "link": "https://en.wikipedia.org/wiki/Pemulwuy",
+        "views": 76422,
+        "coordinates": {
+          "lat": -33.81472222,
+          "lng": 151.00166667
+        }
+      },
+      {
+        "name": "Thimphu",
+        "region": "Bhutan",
+        "isoCountryCode": "BT",
+        "text": "On June 2, Bhutan observes the coronation anniversary of King Jigme Singye Wangchuck, a date also linked to Social Forestry Day. In Thimphu, that mix of monarchy, civic ritual, and environmental symbolism feels especially visible because the capital concentrates the country's public institutions. The city lets one holiday hold both state ceremony and a national idea of stewardship.",
+        "link": "https://en.wikipedia.org/wiki/Public_holidays_in_Bhutan",
+        "views": 165046,
+        "coordinates": {
+          "lat": 27.47222222,
+          "lng": 89.63611111
+        }
+      }
+    ]
+  },
+  "2026-06-03": {
+    "locations": [
+      {
+        "name": "Arica",
+        "region": "Chile",
+        "isoCountryCode": "CL",
+        "text": "On June 3, Chile's Battle of Arica is remembered through the city that anchored one of the Pacific War's most famous assaults. The steep coastal setting makes it easy to see why the battle became such a durable national image. Arica turns military memory into a landscape rather than an abstraction.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Arica",
+        "views": 43810,
+        "coordinates": {
+          "lat": -18.47839,
+          "lng": -70.32122
+        }
+      },
+      {
+        "name": "Eldey",
+        "region": "Iceland",
+        "isoCountryCode": "IS",
+        "text": "On June 3, 1844, the last known pair of great auks were killed on Eldey off Iceland, ending the story of a bird that once filled the North Atlantic. The islet is small and harsh, which somehow makes the extinction feel even starker. Eldey gives the date a precise point for thinking about loss, science, and human appetite.",
+        "link": "https://en.wikipedia.org/wiki/Great_auk",
+        "views": 15141,
+        "coordinates": {
+          "lat": 63.74088889,
+          "lng": -22.95755556
+        }
+      },
+      {
+        "name": "Ulaanbaatar",
+        "region": "Mongolia",
+        "isoCountryCode": "MN",
+        "text": "On June 3, 2025, protests in Mongolia culminated in the resignation of Prime Minister Luvsannamsrain Oyun-Erdene. Ulaanbaatar was the obvious stage because Mongolian politics, media, and street pressure all compress into the capital. The city shows how quickly a distant place can become central to a live democratic crisis.",
+        "link": "https://en.wikipedia.org/wiki/2025_Mongolian_protests",
+        "views": 598863,
+        "coordinates": {
+          "lat": 47.92194444,
+          "lng": 106.91527778
+        }
+      },
+      {
+        "name": "Mer Island",
+        "region": "Australia",
+        "isoCountryCode": "AU",
+        "text": "On June 3, Australia marks Mabo Day, and Mer Island gives that observance its most personal geography because Eddie Mabo was born there. The island sits far from mainland political capitals, yet it reshaped Australian law through the case that overturned terra nullius. That makes Mer a powerful place for a story about land, memory, and legal imagination.",
+        "link": "https://en.wikipedia.org/wiki/Mabo_Day",
+        "views": 2657,
+        "coordinates": {
+          "lat": -9.9172,
+          "lng": 144.0516
+        }
+      },
+      {
+        "name": "Namugongo",
+        "region": "Uganda",
+        "isoCountryCode": "UG",
+        "text": "On June 3, pilgrims gather at Namugongo for Uganda's Martyrs' Day, one of the largest annual religious events in Africa. The site remembers converts killed in the nineteenth century, but the modern observance is also about movement, devotion, and public faith on a continental scale. Namugongo turns a suburb into a global pilgrimage point.",
+        "link": "https://en.wikipedia.org/wiki/Martyrs%27_Day",
+        "views": 7352,
+        "coordinates": {
+          "lat": 0.39527778,
+          "lng": 32.66583333
+        }
+      }
+    ]
+  },
+  "2026-06-04": {
+    "locations": [
+      {
+        "name": "Midway Atoll",
+        "region": "United States Minor Outlying Islands",
+        "isoCountryCode": "UM",
+        "text": "On June 4, 1942, the Battle of Midway swung decisively toward the United States and changed the course of the Pacific War. Midway Atoll looks remote on a map, which is part of why its strategic importance feels so surprising. The date turns a tiny ring of land into one of the twentieth century's pivotal battlefields.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Midway",
+        "views": 390799,
+        "coordinates": {
+          "lat": 28.2075,
+          "lng": -177.35
+        }
+      },
+      {
+        "name": "Tehran",
+        "region": "Iran",
+        "isoCountryCode": "IR",
+        "text": "On June 4, 1989, Iran's Assembly of Experts selected Ali Khamenei as Supreme Leader after Ruhollah Khomeini's death. Tehran mattered because the country's highest institutions, anxieties, and succession politics all converged there at once. The capital makes the date feel like constitutional change under intense historical pressure.",
+        "link": "https://en.wikipedia.org/wiki/Assembly_of_Experts",
+        "views": 1319838,
+        "coordinates": {
+          "lat": 35.6889,
+          "lng": 51.3897
+        }
+      },
+      {
+        "name": "Lyon",
+        "region": "France",
+        "isoCountryCode": "FR",
+        "text": "On June 4, 1784, Élisabeth Thible became the first woman to fly in an untethered hot-air balloon, and Lyon claims that small but remarkable aviation first. The achievement sits at the intersection of spectacle, science, and the eighteenth century's hunger for the marvelous. Lyon makes the history of flight feel unexpectedly theatrical.",
+        "link": "https://en.wikipedia.org/wiki/%C3%89lisabeth_Thible",
+        "views": 548728,
+        "coordinates": {
+          "lat": 45.7675,
+          "lng": 4.835
+        }
+      },
+      {
+        "name": "Jubilee House",
+        "region": "Ghana",
+        "isoCountryCode": "GH",
+        "text": "On June 4, 1979, Jerry Rawlings seized power in Ghana and fixed June 4 in the country's political calendar. Jubilee House, the modern presidential seat in Accra, makes that legacy feel present because the day is still argued over as a symbol of discipline, populism, and military intervention. It gives a single building a long afterlife in national memory.",
+        "link": "https://en.wikipedia.org/wiki/Jerry_Rawlings",
+        "views": 21244,
+        "coordinates": {
+          "lat": 5.57975,
+          "lng": -0.18847222
+        }
+      },
+      {
+        "name": "Nuku'alofa",
+        "region": "Tonga",
+        "isoCountryCode": "TO",
+        "text": "On June 4, Tonga marks Emancipation Day and independence, and Nuku'alofa becomes the center of both histories at once. The date ties royal reform in 1862 to the end of British protected status in 1970, which is an unusually layered combination for a national holiday. The capital lets those constitutional turns feel ceremonial and immediate.",
+        "link": "https://en.wikipedia.org/wiki/Emancipation_Day",
+        "views": 89628,
+        "coordinates": {
+          "lat": -21.13333333,
+          "lng": -175.2
+        }
+      }
+    ]
+  },
+  "2026-06-05": {
+    "locations": [
+      {
+        "name": "Bègles",
+        "region": "France",
+        "isoCountryCode": "FR",
+        "text": "On June 5, 2004, mayor Noël Mamère conducted France's first same-sex marriage ceremony in Bègles, well before national legalization. The town entered history because a local act of defiance forced the country to confront where the law was headed. Bègles makes social change look municipal before it looks national.",
+        "link": "https://en.wikipedia.org/wiki/Same-sex_marriage_in_France",
+        "views": 6799,
+        "coordinates": {
+          "lat": 44.8086,
+          "lng": -0.5478
+        }
+      },
+      {
+        "name": "Xi'an",
+        "region": "China",
+        "isoCountryCode": "CN",
+        "text": "On June 5, 663, the Daming Palace in Chang'an became the Tang dynasty's main seat of power, and modern Xi'an inherits that immense imperial shadow. The city holds the memory of a court that once helped organize one of the world's great cosmopolitan empires. Xi'an turns the date into a reminder that urban prestige can echo for more than a millennium.",
+        "link": "https://en.wikipedia.org/wiki/Daming_Palace",
+        "views": 483597,
+        "coordinates": {
+          "lat": 34.26111111,
+          "lng": 108.94222222
+        }
+      },
+      {
+        "name": "Paramaribo",
+        "region": "Suriname",
+        "isoCountryCode": "SR",
+        "text": "On June 5, Suriname observes Indian Arrival Day, and Paramaribo becomes the public center of a story about indenture, migration, and diaspora. The holiday remembers the arrival of laborers from British India in 1873 and the society they helped shape. Paramaribo makes that layered South Atlantic and South Asian connection visible.",
+        "link": "https://en.wikipedia.org/wiki/Indian_Arrival_Day",
+        "views": 196110,
+        "coordinates": {
+          "lat": 5.85222222,
+          "lng": -55.20388889
+        }
+      },
+      {
+        "name": "Victoria",
+        "region": "Seychelles",
+        "isoCountryCode": "SC",
+        "text": "On June 5, Seychelles marks Liberation Day, recalling the 1977 coup that changed the islands' political direction. Victoria gives the date a clear focal point because the capital concentrates the country's small-scale but intense political history. The city makes island politics feel anything but peripheral.",
+        "link": "https://en.wikipedia.org/wiki/Public_holidays_in_Seychelles",
+        "views": 118960,
+        "coordinates": {
+          "lat": -4.6231,
+          "lng": 55.4525
+        }
+      },
+      {
+        "name": "Wellington Botanic Garden",
+        "region": "New Zealand",
+        "isoCountryCode": "NZ",
+        "text": "On June 5, New Zealand's Arbor Day gives Wellington Botanic Garden an especially fitting resonance. The site turns a national tree-planting tradition into something visible, curated, and deeply urban. It makes the environmental side of the date feel local rather than abstract.",
+        "link": "https://en.wikipedia.org/wiki/Arbor_Day",
+        "views": 3795,
+        "coordinates": {
+          "lat": -41.2829,
+          "lng": 174.766
+        }
+      }
+    ]
+  },
+  "2026-06-06": {
+    "locations": [
+      {
+        "name": "Colleville-sur-Mer",
+        "region": "France",
+        "isoCountryCode": "FR",
+        "text": "On June 6, 1944, Allied troops landed on Omaha Beach beside Colleville-sur-Mer during the opening of Operation Overlord. The village's quiet scale sharpens the contrast with the enormity of D-Day. Colleville-sur-Mer gives the anniversary a map point that is both intimate and world-historical.",
+        "link": "https://en.wikipedia.org/wiki/Normandy_landings",
+        "views": 10810,
+        "coordinates": {
+          "lat": 49.3492,
+          "lng": -0.8422
+        }
+      },
+      {
+        "name": "Novarupta",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On June 6, 1912, the eruption of Novarupta began in Alaska and became the largest volcanic event of the twentieth century. The eruption transformed the landscape so thoroughly that the Valley of Ten Thousand Smokes sounds almost invented. Novarupta makes geological time and human history collide in a single week.",
+        "link": "https://en.wikipedia.org/wiki/Novarupta",
+        "views": 67320,
+        "coordinates": {
+          "lat": 58.26666667,
+          "lng": -155.15666667
+        }
+      },
+      {
+        "name": "Embu das Artes",
+        "region": "Brazil",
+        "isoCountryCode": "BR",
+        "text": "On June 6, 1985, investigators exhumed the remains identified as Josef Mengele in Embu das Artes, bringing a notorious Nazi afterlife story into Brazil. The town became part of a wider reckoning about memory, impunity, and how long the twentieth century's crimes continued to echo. Embu das Artes gives a suburban place an unexpectedly global historical weight.",
+        "link": "https://en.wikipedia.org/wiki/Josef_Mengele",
+        "views": 6837,
+        "coordinates": {
+          "lat": -23.64888889,
+          "lng": -46.85194444
+        }
+      },
+      {
+        "name": "Raqqa",
+        "region": "Syria",
+        "isoCountryCode": "SY",
+        "text": "On June 6, 2017, the Syrian Democratic Forces opened the decisive battle for Raqqa, the de facto capital of the Islamic State. That made the city a central symbol in the struggle over territory, propaganda, and the ruins left by war. Raqqa turns the date into a marker of how modern conflict remakes urban life.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Raqqa_(2017)",
+        "views": 155179,
+        "coordinates": {
+          "lat": 35.95,
+          "lng": 39.01
+        }
+      },
+      {
+        "name": "Brisbane",
+        "region": "Australia",
+        "isoCountryCode": "AU",
+        "text": "On June 6, Queensland Day gives Brisbane a ready-made place in the state's founding story. The holiday recalls the 1859 creation of Queensland as a separate colony, and the capital naturally absorbs much of the ceremony and symbolism. Brisbane makes a bureaucratic act feel like civic identity.",
+        "link": "https://en.wikipedia.org/wiki/Queensland_Day",
+        "views": 742430,
+        "coordinates": {
+          "lat": -27.46777778,
+          "lng": 153.02805556
+        }
+      }
+    ]
+  },
+  "2026-06-07": {
+    "locations": [
+      {
+        "name": "Baghdad",
+        "region": "Iraq",
+        "isoCountryCode": "IQ",
+        "text": "On June 7, 1981, Israeli jets struck Iraq's Osirak reactor at Tuwaitha, turning Baghdad into the center of a global argument about pre-emptive war and nuclear proliferation. The raid has been debated ever since as strategy, law, and precedent all at once. Baghdad gives that dispute a concrete urban anchor.",
+        "link": "https://en.wikipedia.org/wiki/Operation_Opera",
+        "views": 713712,
+        "coordinates": {
+          "lat": 33.31527778,
+          "lng": 44.36611111
+        }
+      },
+      {
+        "name": "Port Royal",
+        "region": "Jamaica",
+        "isoCountryCode": "JM",
+        "text": "On June 7, 1692, a powerful earthquake dropped much of Port Royal into the sea and made the city a legend of sudden ruin. Its pre-disaster reputation for wealth, piracy, and excess only deepened the fascination. Port Royal turns catastrophe into a place that still feels half historical fact and half cautionary tale.",
+        "link": "https://en.wikipedia.org/wiki/1692_Jamaica_earthquake",
+        "views": 200679,
+        "coordinates": {
+          "lat": 17.9375,
+          "lng": -76.84111111
+        }
+      },
+      {
+        "name": "Oujda",
+        "region": "Morocco",
+        "isoCountryCode": "MA",
+        "text": "On June 7, 1948, anti-Jewish rioting broke out in Oujda amid the tensions surrounding decolonization and the war in Palestine. The city became one of the places where local coexistence gave way to fear, violence, and migration. Oujda makes the date a window into how global crises land in very local streets.",
+        "link": "https://en.wikipedia.org/wiki/1948_anti-Jewish_riots_in_Oujda_and_Jerada",
+        "views": 40590,
+        "coordinates": {
+          "lat": 34.68666667,
+          "lng": -1.91138889
+        }
+      },
+      {
+        "name": "Nin",
+        "region": "Croatia",
+        "isoCountryCode": "HR",
+        "text": "On June 7, 879, Pope John VIII recognized Branimir as duke, and Nin is one of the places most closely tied to that early Croatian state tradition. The town's scale is tiny compared with the symbolic load it carries in national history. Nin turns medieval recognition into something geographically precise.",
+        "link": "https://en.wikipedia.org/wiki/Branimir,_Duke_of_Croatia",
+        "views": 16718,
+        "coordinates": {
+          "lat": 44.23333333,
+          "lng": 15.18333333
+        }
+      },
+      {
+        "name": "Cabildo of Buenos Aires",
+        "region": "Argentina",
+        "isoCountryCode": "AR",
+        "text": "On June 7, 1810, Mariano Moreno published the first issue of the Gazeta de Buenos-Ayres, and the Cabildo sits at the heart of that revolutionary cityscape. The building connects journalism, sovereignty, and the early political language of the River Plate. It gives the day a location where print culture and state formation met.",
+        "link": "https://en.wikipedia.org/wiki/Gazeta_de_Buenos-Ayres",
+        "views": 4524,
+        "coordinates": {
+          "lat": -34.60888889,
+          "lng": -58.37361111
+        }
+      }
+    ]
+  },
+  "2026-06-08": {
+    "locations": [
+      {
+        "name": "Laki",
+        "region": "Iceland",
+        "isoCountryCode": "IS",
+        "text": "On June 8, 1783, the Laki fissure began an eruption that poisoned livestock, darkened skies, and helped trigger crises far beyond Iceland. It is one of the clearest examples of a remote landscape causing shockwaves across climate, agriculture, and politics. Laki makes the date feel planetary.",
+        "link": "https://en.wikipedia.org/wiki/Laki",
+        "views": 66477,
+        "coordinates": {
+          "lat": 64.06472222,
+          "lng": -18.22611111
+        }
+      },
+      {
+        "name": "Antakya",
+        "region": "Turkey",
+        "isoCountryCode": "TR",
+        "text": "On June 8, 218, the Battle of Antioch helped clear the way for the young emperor Elagabalus, and modern Antakya sits on that ancient strategic ground. Few cities layer so much Roman, Byzantine, and Levantine history into one urban setting. Antakya turns a distant imperial succession fight into a place that still exists.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Antioch_(218)",
+        "views": 164939,
+        "coordinates": {
+          "lat": 36.2025,
+          "lng": 36.16055556
+        }
+      },
+      {
+        "name": "Newcastle",
+        "region": "Australia",
+        "isoCountryCode": "AU",
+        "text": "On June 8, 2007, severe storms drove the bulk carrier Pasha Bulker onto the beach at Newcastle and produced one of Australia's strangest disaster images. The bright red ship resting near the surf made the city instantly recognizable even to people who had never heard of it. Newcastle makes the date feel both cinematic and meteorological.",
+        "link": "https://en.wikipedia.org/wiki/2007_New_South_Wales_storms",
+        "views": 201604,
+        "coordinates": {
+          "lat": -32.93055556,
+          "lng": 151.75416667
+        }
+      },
+      {
+        "name": "Toronto",
+        "region": "Canada",
+        "isoCountryCode": "CA",
+        "text": "On June 8, 1826, members of the Family Compact smashed William Lyon Mackenzie's printing press in the Types Riot in what was then York. Modern Toronto inherits that episode as an early fight over oligarchy, dissent, and public argument in Upper Canada. The city turns a destroyed press into a chapter of democratic prehistory.",
+        "link": "https://en.wikipedia.org/wiki/Types_Riot",
+        "views": 1595888,
+        "coordinates": {
+          "lat": 43.6525,
+          "lng": -79.38166667
+        }
+      },
+      {
+        "name": "Lima",
+        "region": "Peru",
+        "isoCountryCode": "PE",
+        "text": "On June 8, Peru marks Engineer's Day, and Lima naturally becomes one of the celebration's most visible stages. The capital ties the holiday to the institutions that shaped modern Peruvian infrastructure, planning, and technical education. Lima gives the date a civic and professional identity rather than a single dramatic event.",
+        "link": "https://en.wikipedia.org/wiki/Engineer%27s_Day",
+        "views": 466909,
+        "coordinates": {
+          "lat": -12.06,
+          "lng": -77.0375
+        }
+      }
+    ]
+  },
+  "2026-06-09": {
+    "locations": [
+      {
+        "name": "Kumanovo",
+        "region": "North Macedonia",
+        "isoCountryCode": "MK",
+        "text": "On June 9, 1999, the Kumanovo Agreement set the terms that ended the Kosovo War the following day. The town became inseparable from a document that reshaped the Balkans, NATO's role, and the aftermath of Yugoslavia's collapse. Kumanovo makes a negotiation table feel geographically real.",
+        "link": "https://en.wikipedia.org/wiki/Kumanovo_Agreement",
+        "views": 48075,
+        "coordinates": {
+          "lat": 42.13583333,
+          "lng": 21.71805556
+        }
+      },
+      {
+        "name": "Amman",
+        "region": "Jordan",
+        "isoCountryCode": "JO",
+        "text": "On June 9, Jordan marks the accession of King Abdullah II, and Amman becomes the obvious focus of ceremony, continuity, and state imagery. The holiday is less about a dramatic rupture than about the ongoing performance of monarchy in public life. The capital gives that continuity a skyline and a crowd.",
+        "link": "https://en.wikipedia.org/wiki/Abdullah_II_of_Jordan",
+        "views": 366065,
+        "coordinates": {
+          "lat": 31.94972222,
+          "lng": 35.93277778
+        }
+      },
+      {
+        "name": "Kampala",
+        "region": "Uganda",
+        "isoCountryCode": "UG",
+        "text": "On June 9, Uganda observes National Heroes' Day, and Kampala is where the country's official story about sacrifice and nationhood is most publicly staged. The date is broad enough to gather many episodes of resistance under one banner. Kampala makes commemoration feel both civic and contested.",
+        "link": "https://en.wikipedia.org/wiki/Public_holidays_in_Uganda",
+        "views": 602870,
+        "coordinates": {
+          "lat": 0.31361111,
+          "lng": 32.58111111
+        }
+      },
+      {
+        "name": "Eagle Farm Airport",
+        "region": "Australia",
+        "isoCountryCode": "AU",
+        "text": "On June 9, 1928, Charles Kingsford Smith completed the first transpacific flight when the Southern Cross landed at Eagle Farm in Brisbane. That airfield turned into a landmark of aviation imagination rather than just transport. Eagle Farm Airport gives the date a specific runway for a very large leap across the Pacific.",
+        "link": "https://en.wikipedia.org/wiki/Southern_Cross_(aircraft)",
+        "views": 5183,
+        "coordinates": {
+          "lat": -27.425,
+          "lng": 153.08416667
+        }
+      },
+      {
+        "name": "Iowa City",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On June 9, 1856, the first Mormon handcart company set out from Iowa City on one of the most unusual overland migrations in North American history. The journey turned the city into a departure point for faith, endurance, and logistical improvisation. Iowa City makes a continental trek begin at a very ordinary-looking place.",
+        "link": "https://en.wikipedia.org/wiki/Mormon_handcart_pioneers",
+        "views": 137511,
+        "coordinates": {
+          "lat": 41.62083333,
+          "lng": -91.49472222
+        }
+      }
+    ]
+  },
+  "2026-06-10": {
+    "locations": [
+      {
+        "name": "Akron",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On June 10, 1935, physician Bob Smith had his last drink in Akron, the date traditionally treated as the founding moment of Alcoholics Anonymous. The city became central to a movement that reshaped how addiction was discussed, treated, and lived with around the world. Akron gives a global support culture a surprisingly specific origin point.",
+        "link": "https://en.wikipedia.org/wiki/Alcoholics_Anonymous",
+        "views": 290832,
+        "coordinates": {
+          "lat": 41.08055556,
+          "lng": -81.52222222
+        }
+      },
+      {
+        "name": "Mount Tarawera",
+        "region": "New Zealand",
+        "isoCountryCode": "NZ",
+        "text": "On June 10, 1886, Mount Tarawera erupted and destroyed the famed Pink and White Terraces, transforming one of New Zealand's most storied landscapes. The eruption bound geology, tourism, and Maori history together in a single disaster. Mount Tarawera makes the date feel both beautiful and violent.",
+        "link": "https://en.wikipedia.org/wiki/1886_eruption_of_Mount_Tarawera",
+        "views": 22115,
+        "coordinates": {
+          "lat": -38.21666667,
+          "lng": 176.51666667
+        }
+      },
+      {
+        "name": "Grand Palace",
+        "region": "Thailand",
+        "isoCountryCode": "TH",
+        "text": "On June 10, 1782, King Rama I moved into Bangkok's Grand Palace, fixing the site at the ceremonial heart of modern Thailand. The complex still feels like the architectural declaration of a new dynasty. It turns the founding of a capital into a place rather than a paragraph.",
+        "link": "https://en.wikipedia.org/wiki/Grand_Palace",
+        "views": 118857,
+        "coordinates": {
+          "lat": 13.7501,
+          "lng": 100.492
+        }
+      },
+      {
+        "name": "Compiègne",
+        "region": "France",
+        "isoCountryCode": "FR",
+        "text": "On June 10, 1624, France and the Dutch Republic concluded the Treaty of Compiègne, linking the town to an early modern strategy of balancing Habsburg power. Compiègne appears repeatedly in European diplomatic history, but this agreement gave it a particularly clear place in the opening phases of the Thirty Years' War. The town makes a continental alliance feel surprisingly tangible.",
+        "link": "https://en.wikipedia.org/wiki/Treaty_of_Compi%C3%A8gne_(1624)",
+        "views": 62860,
+        "coordinates": {
+          "lat": 49.4149,
+          "lng": 2.8231
+        }
+      },
+      {
+        "name": "Mecca",
+        "region": "Saudi Arabia",
+        "isoCountryCode": "SA",
+        "text": "On June 10, 1916, the Arab Revolt began when Hussein bin Ali raised the banner of revolt in Mecca against Ottoman rule. That gave one of the world's most symbolically charged cities an additional place in modern political history. Mecca turns a sacred center into the starting point of an anti-imperial uprising.",
+        "link": "https://en.wikipedia.org/wiki/Arab_Revolt",
+        "views": 1137959,
+        "coordinates": {
+          "lat": 21.4225,
+          "lng": 39.82333333
+        }
+      }
+    ]
+  },
+  "2026-06-11": {
+    "locations": [
+      {
+        "name": "Nahrin",
+        "region": "Afghanistan",
+        "isoCountryCode": "AF",
+        "text": "On June 11, 2012, earthquakes in northern Afghanistan triggered landslides that devastated villages near Nahrin. The disaster mattered beyond the death toll because it showed how exposed mountain settlements could be when steep terrain and weak infrastructure failed together. Nahrin turns a remote district center into a precise place for thinking about geography, vulnerability, and recovery.",
+        "link": "https://en.wikipedia.org/wiki/2012_Afghanistan_earthquakes",
+        "views": 618,
+        "coordinates": {
+          "lat": 36.06527778,
+          "lng": 69.13388889
+        }
+      },
+      {
+        "name": "Kenwood House",
+        "region": "United Kingdom",
+        "isoCountryCode": "GB",
+        "text": "On June 11, 1914, Kenwood House hosted a grand society ball that is often remembered as one of the last glittering London gatherings before the First World War. The setting makes the date feel unusually cinematic, with aristocratic calm suspended just before Europe changed course. Kenwood House gives the eve of the war a very specific address.",
+        "link": "https://en.wikipedia.org/wiki/1914_Kenwood_House_ball",
+        "views": 74497,
+        "coordinates": {
+          "lat": 51.5714,
+          "lng": -0.1675
+        }
+      },
+      {
+        "name": "Salamis",
+        "region": "Cyprus",
+        "isoCountryCode": "CY",
+        "text": "On June 11, the feast of Barnabas points naturally to Salamis, where tradition places the apostle's birth and burial. That makes the ruined city more than an archaeological site, because one day in the calendar still draws attention back to its early Christian past. Salamis lets a saint's feast feel grounded in stone, shoreline, and memory.",
+        "link": "https://en.wikipedia.org/wiki/Barnabas",
+        "views": 34180,
+        "coordinates": {
+          "lat": 35.18333333,
+          "lng": 33.9
+        }
+      },
+      {
+        "name": "Tegucigalpa",
+        "region": "Honduras",
+        "isoCountryCode": "HN",
+        "text": "On June 11, Honduras celebrates Student Day, and Tegucigalpa becomes one of the clearest stages for school ceremonies and civic ritual. The capital turns what could be a quiet academic observance into a public statement about youth, education, and national future. Tegucigalpa makes the date feel lively in classrooms, plazas, and parades.",
+        "link": "https://en.wikipedia.org/wiki/Public_holidays_in_Honduras",
+        "views": 170795,
+        "coordinates": {
+          "lat": 14.10583333,
+          "lng": -87.20472222
+        }
+      },
+      {
+        "name": "Rio de Janeiro",
+        "region": "Brazil",
+        "isoCountryCode": "BR",
+        "text": "On June 11, 1847, Prince Afonso of Brazil died in Rio de Janeiro at the age of two, leaving Emperor Pedro II without a male heir. The event subtly altered the dynastic future of the Brazilian Empire even though it unfolded as a private family tragedy. Rio de Janeiro gives that turning point an imperial capital rather than an abstract family tree.",
+        "link": "https://en.wikipedia.org/wiki/Afonso,_Prince_Imperial_of_Brazil",
+        "views": 907027,
+        "coordinates": {
+          "lat": -22.91111111,
+          "lng": -43.20555556
+        }
+      }
+    ]
+  },
+  "2026-06-12": {
+    "locations": [
+      {
+        "name": "Brandenburg Gate",
+        "region": "Germany",
+        "isoCountryCode": "DE",
+        "text": "On June 12, 1987, Ronald Reagan stood at the Brandenburg Gate and challenged Mikhail Gorbachev to \"tear down this wall\". The line endured because the setting made Cold War division instantly legible in stone, space, and television. Brandenburg Gate turns rhetoric into one of the twentieth century's most recognizable stages.",
+        "link": "https://en.wikipedia.org/wiki/Tear_down_this_wall!",
+        "views": 378736,
+        "coordinates": {
+          "lat": 52.5163,
+          "lng": 13.3777
+        }
+      },
+      {
+        "name": "Foça",
+        "region": "Turkey",
+        "isoCountryCode": "TR",
+        "text": "On June 12, 1914, violence began in Foça during the massacre of Phocaea, one of the clearest local episodes in the Ottoman Empire's wider campaign of ethnic cleansing. The town matters because it condenses a much larger imperial story into one coastal place. Foça makes the date feel close enough to map, not just to mourn.",
+        "link": "https://en.wikipedia.org/wiki/Massacre_of_Phocaea",
+        "views": 14776,
+        "coordinates": {
+          "lat": 38.66666667,
+          "lng": 26.76666667
+        }
+      },
+      {
+        "name": "Helsinki",
+        "region": "Finland",
+        "isoCountryCode": "FI",
+        "text": "On June 12, Helsinki Day turns the Finnish capital into a city-wide celebration of local history and identity. The observance remembers the city's foundation in 1550, but in practice it also showcases how modern Helsinki narrates itself through music, public space, and civic pride. Helsinki makes an urban birthday feel like a festival rather than a footnote.",
+        "link": "https://en.wikipedia.org/wiki/Helsinki_Day",
+        "views": 601621,
+        "coordinates": {
+          "lat": 60.17083333,
+          "lng": 24.9375
+        }
+      },
+      {
+        "name": "Asunción",
+        "region": "Paraguay",
+        "isoCountryCode": "PY",
+        "text": "On June 12, Paraguay marks Chaco Armistice Day, and Asunción becomes a focal point for remembering the war that reshaped the country's modern identity. The capital carries the political and commemorative weight of a conflict fought far from many urban streets. Asunción turns armistice into ceremony, memory, and national story.",
+        "link": "https://en.wikipedia.org/wiki/Chaco_War",
+        "views": 208325,
+        "coordinates": {
+          "lat": -25.28,
+          "lng": -57.63444444
+        }
+      },
+      {
+        "name": "Port-au-Prince",
+        "region": "Haiti",
+        "isoCountryCode": "HT",
+        "text": "On June 12, Haiti observes Children's Day, giving Port-au-Prince a role in a date centered on childhood, care, and vulnerability. In a capital so often described through crisis, the occasion shifts attention toward education, family, and the public meaning of protection. Port-au-Prince makes that change of emphasis tangible.",
+        "link": "https://en.wikipedia.org/wiki/Children%27s_Day",
+        "views": 251805,
+        "coordinates": {
+          "lat": 18.53638889,
+          "lng": -72.34638889
+        }
+      }
+    ]
+  },
+  "2026-06-13": {
+    "locations": [
+      {
+        "name": "Villers-Bocage",
+        "region": "France",
+        "isoCountryCode": "FR",
+        "text": "On June 13, 1944, Villers-Bocage became the setting for one of the most studied armored clashes of the Normandy campaign. The town's streets were suddenly pulled into a battle whose tactical drama still fascinates military historians. Villers-Bocage gives the larger story of D-Day a sharp, local focal point.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Villers-Bocage",
+        "views": 237,
+        "coordinates": {
+          "lat": 49.07888889,
+          "lng": -0.65638889
+        }
+      },
+      {
+        "name": "Sulaymaniyah",
+        "region": "Iraq",
+        "isoCountryCode": "IQ",
+        "text": "On June 13, Iraqi Kurdistan observes Sulaymaniyah City Fallen and Martyrs Day, tying the city to memory, sacrifice, and regional identity. The observance is intensely local, but it also speaks to the wider Kurdish experience of conflict and political struggle. Sulaymaniyah makes commemoration feel urban and immediate rather than abstract.",
+        "link": "https://en.wikipedia.org/wiki/Public_holidays_in_Iraq",
+        "views": 106765,
+        "coordinates": {
+          "lat": 35.55722222,
+          "lng": 45.43555556
+        }
+      },
+      {
+        "name": "Kolín",
+        "region": "Czech Republic",
+        "isoCountryCode": "CZ",
+        "text": "On June 13, 1757, the Austrian victory at the Battle of Kolín forced Frederick the Great to abandon the siege of Prague. The result mattered because it punctured the aura of easy Prussian success early in the Seven Years' War. Kolín turns continental power politics into a very specific Bohemian landscape.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Kol%C3%ADn",
+        "views": 21558,
+        "coordinates": {
+          "lat": 50.02805556,
+          "lng": 15.20055556
+        }
+      },
+      {
+        "name": "Christchurch",
+        "region": "New Zealand",
+        "isoCountryCode": "NZ",
+        "text": "On June 13, 2011, Christchurch was hit by another damaging earthquake while the city was still recovering from the more devastating shocks earlier that year. The repetition mattered because it showed how long an earthquake disaster can remain unfinished. Christchurch makes resilience feel less like a slogan and more like a prolonged condition.",
+        "link": "https://en.wikipedia.org/wiki/June_2011_Christchurch_earthquake",
+        "views": 399885,
+        "coordinates": {
+          "lat": -43.5311,
+          "lng": 172.6361
+        }
+      },
+      {
+        "name": "New York City",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On June 13, 1850, the American League of Colored Laborers was founded in New York City, making it one of the earliest Black labor organizations in the United States. The city mattered because it joined abolitionist politics, work, and public organizing in one place. New York City gives the history of labor a date that is also a claim for dignity and citizenship.",
+        "link": "https://en.wikipedia.org/wiki/American_League_of_Colored_Laborers",
+        "views": 5259424,
+        "coordinates": {
+          "lat": 40.7128,
+          "lng": -74.0061
+        }
+      }
+    ]
+  },
+  "2026-06-14": {
+    "locations": [
+      {
+        "name": "Caen",
+        "region": "France",
+        "isoCountryCode": "FR",
+        "text": "On June 14, 1944, Operation Perch failed to seize Caen, showing how stubborn the fighting in Normandy would become even after the landings. The city mattered because it sat at the center of Allied plans for movement inland and German plans to block them. Caen turns strategic frustration into a place you can still point to on a map.",
+        "link": "https://en.wikipedia.org/wiki/Operation_Perch",
+        "views": 159359,
+        "coordinates": {
+          "lat": 49.18138889,
+          "lng": -0.36361111
+        }
+      },
+      {
+        "name": "Orbetello",
+        "region": "Italy",
+        "isoCountryCode": "IT",
+        "text": "On June 14, 1646, fleets fighting near Orbetello showed how much early modern naval warfare still depended on galleys, wind, and improvisation. The battle was inconclusive, but the setting captures a Mediterranean style of war very different from later oceanic empires. Orbetello makes maritime history feel sheltered, contested, and technical.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Orbetello",
+        "views": 15959,
+        "coordinates": {
+          "lat": 42.43944444,
+          "lng": 11.2125
+        }
+      },
+      {
+        "name": "Yerevan",
+        "region": "Armenia",
+        "isoCountryCode": "AM",
+        "text": "On June 14, Armenia observes the Day of Memory for Repressed People, and Yerevan becomes the center of that public remembrance. The date ties Soviet repression to modern civic ritual and keeps political suffering inside living urban memory. Yerevan makes historical grief visible in the present tense.",
+        "link": "https://en.wikipedia.org/wiki/Public_holidays_in_Armenia",
+        "views": 447849,
+        "coordinates": {
+          "lat": 40.18138889,
+          "lng": 44.51444444
+        }
+      },
+      {
+        "name": "Blantyre",
+        "region": "Malawi",
+        "isoCountryCode": "MW",
+        "text": "On June 14, Malawi marks Freedom Day, and Blantyre shares in the national commemoration of liberation from one-party rule. As the country's commercial capital, it gives the holiday an everyday urban setting rather than only a governmental one. Blantyre helps the date feel civic, lived, and contemporary.",
+        "link": "https://en.wikipedia.org/wiki/Public_holidays_in_Malawi",
+        "views": 41332,
+        "coordinates": {
+          "lat": -15.78611111,
+          "lng": 35.00583333
+        }
+      },
+      {
+        "name": "Stanley",
+        "region": "Falkland Islands",
+        "isoCountryCode": "FK",
+        "text": "On June 14, 1982, Stanley became the focal point of the Argentine surrender in the Falklands War. The town's small size only sharpens how outsized its place in British and Argentine memory became. Stanley turns a remote capital into a symbol of war, sovereignty, and distance.",
+        "link": "https://en.wikipedia.org/wiki/Argentine_surrender_in_the_Falklands_War",
+        "views": 170989,
+        "coordinates": {
+          "lat": -51.695,
+          "lng": -57.85055556
+        }
+      }
+    ]
+  },
+  "2026-06-15": {
+    "locations": [
+      {
+        "name": "Shanghai",
+        "region": "China",
+        "isoCountryCode": "CN",
+        "text": "On June 15, 2001, leaders meeting in Shanghai founded the Shanghai Cooperation Organisation. The city gave the new body an appropriately geopolitical setting, positioned between commerce, diplomacy, and regional strategy. Shanghai makes the date feel like the formal arrival of a new Eurasian institution.",
+        "link": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation",
+        "views": 1275143,
+        "coordinates": {
+          "lat": 31.2325,
+          "lng": 121.46916667
+        }
+      },
+      {
+        "name": "Mount Pinatubo",
+        "region": "Philippines",
+        "isoCountryCode": "PH",
+        "text": "On June 15, 1991, Mount Pinatubo erupted in one of the twentieth century's most important volcanic events. The blast mattered globally because the aerosols it sent into the atmosphere cooled the planet for a time, linking one mountain to worldwide climate effects. Mount Pinatubo makes science and catastrophe inseparable on this date.",
+        "link": "https://en.wikipedia.org/wiki/Mount_Pinatubo",
+        "views": 198744,
+        "coordinates": {
+          "lat": 15.14166667,
+          "lng": 120.35
+        }
+      },
+      {
+        "name": "Aigio",
+        "region": "Greece",
+        "isoCountryCode": "GR",
+        "text": "On June 15, 1995, an earthquake struck near Aigio and became one of modern Greece's notable seismic events. The city is a reminder that Mediterranean beauty and tectonic instability often occupy the same coastline. Aigio gives the date a place where geology suddenly overruled routine.",
+        "link": "https://en.wikipedia.org/wiki/1995_Aigio_earthquake",
+        "views": 12813,
+        "coordinates": {
+          "lat": 38.25055556,
+          "lng": 22.08111111
+        }
+      },
+      {
+        "name": "San José",
+        "region": "Costa Rica",
+        "isoCountryCode": "CR",
+        "text": "On June 15, Costa Rica celebrates Arbor Day, giving San José a fitting place in a date about trees, landscape, and public stewardship. The capital turns an environmental observance into something visible through schools, parks, and civic participation. San José makes ecology feel municipal rather than abstract.",
+        "link": "https://en.wikipedia.org/wiki/Arbor_Day",
+        "views": 186331,
+        "coordinates": {
+          "lat": 9.9325,
+          "lng": -84.08
+        }
+      },
+      {
+        "name": "Punta Arenas",
+        "region": "Chile",
+        "isoCountryCode": "CL",
+        "text": "On June 15, Global Wind Day makes Punta Arenas an especially fitting city to think about, because the place is famous for ferocious Patagonian gusts. The city lives with wind as infrastructure, inconvenience, and identity all at once. Punta Arenas gives an international awareness day a distinctly local atmosphere.",
+        "link": "https://en.wikipedia.org/wiki/Global_Wind_Day",
+        "views": 160945,
+        "coordinates": {
+          "lat": -53.16666667,
+          "lng": -70.93333333
+        }
+      }
+    ]
+  },
+  "2026-06-16": {
+    "locations": [
+      {
+        "name": "Sandycove",
+        "region": "Ireland",
+        "isoCountryCode": "IE",
+        "text": "On June 16, Sandycove becomes part of Bloomsday because Ulysses opens in the Martello tower above its shoreline. The suburb gives Joyce's modernism a surprisingly exact starting point, complete with sea air, stone fortification, and literary pilgrimage. Sandycove makes a famously difficult novel feel anchored to one walkable place.",
+        "link": "https://en.wikipedia.org/wiki/Bloomsday",
+        "views": 9868,
+        "coordinates": {
+          "lat": 53.286,
+          "lng": -6.116
+        }
+      },
+      {
+        "name": "Baikonur",
+        "region": "Kazakhstan",
+        "isoCountryCode": "KZ",
+        "text": "On June 16, 1963, Vostok 6 launched from Baikonur and carried Valentina Tereshkova into orbit as the first woman in space. The site has hosted many missions, but that departure gave it a particularly durable place in the history of gender and exploration. Baikonur makes the space age feel rooted in one desert launch complex.",
+        "link": "https://en.wikipedia.org/wiki/Vostok_6",
+        "views": 77787,
+        "coordinates": {
+          "lat": 45.61666667,
+          "lng": 63.31666667
+        }
+      },
+      {
+        "name": "Fort Beauséjour",
+        "region": "Canada",
+        "isoCountryCode": "CA",
+        "text": "On June 16, 1755, Fort Beauséjour surrendered to British forces, ending Father Le Loutre's War. The capture mattered because it hardened imperial control in Acadia just before the deportation of the Acadians. Fort Beauséjour turns frontier conflict into a precise site of consequence.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Fort_Beaus%C3%A9jour",
+        "views": 11081,
+        "coordinates": {
+          "lat": 45.86472222,
+          "lng": -64.29138889
+        }
+      },
+      {
+        "name": "Soweto",
+        "region": "South Africa",
+        "isoCountryCode": "ZA",
+        "text": "On June 16, South Africa marks Youth Day in memory of the Soweto uprising of 1976. The township remains one of the clearest places where student protest changed national history and the global image of apartheid. Soweto makes the date feel urgent, generational, and public.",
+        "link": "https://en.wikipedia.org/wiki/Youth_Day_(South_Africa)",
+        "views": 158728,
+        "coordinates": {
+          "lat": -26.26781,
+          "lng": 27.85849
+        }
+      },
+      {
+        "name": "Amritsar",
+        "region": "India",
+        "isoCountryCode": "IN",
+        "text": "On June 16, Sikhs commemorate the martyrdom of Guru Arjan Dev, and Amritsar naturally carries much of that devotional weight. The city is central to Sikh memory, ritual, and architecture, which makes the observance feel spatial as well as spiritual. Amritsar gives the date a profound religious geography.",
+        "link": "https://en.wikipedia.org/wiki/Guru_Arjan",
+        "views": 242644,
+        "coordinates": {
+          "lat": 31.64,
+          "lng": 74.86
+        }
+      }
+    ]
+  },
+  "2026-06-17": {
+    "locations": [
+      {
+        "name": "Pedrógão Grande",
+        "region": "Portugal",
+        "isoCountryCode": "PT",
+        "text": "On June 17, 2017, the wildfires that devastated central Portugal began near Pedrógão Grande. The fires quickly became a national trauma and later a national day of remembrance for victims of forest fires. Pedrógão Grande makes climate, landscape, and public memory converge in one municipality.",
+        "link": "https://en.wikipedia.org/wiki/June_2017_Portugal_wildfires",
+        "views": 3459,
+        "coordinates": {
+          "lat": 39.91666667,
+          "lng": -8.15
+        }
+      },
+      {
+        "name": "Guatemala City",
+        "region": "Guatemala",
+        "isoCountryCode": "GT",
+        "text": "On June 17, 1952, the Guatemalan Congress passed Decree 900, the agrarian reform law that became one of the defining acts of the Guatemalan Revolution. Guatemala City mattered because the law joined parliamentary procedure to a much wider social struggle over land and power. The capital makes that reform feel concrete and contested.",
+        "link": "https://en.wikipedia.org/wiki/Decree_900",
+        "views": 215240,
+        "coordinates": {
+          "lat": 14.6417,
+          "lng": -90.5133
+        }
+      },
+      {
+        "name": "Taku Forts",
+        "region": "China",
+        "isoCountryCode": "CN",
+        "text": "On June 17, 1900, the Taku Forts fell to allied forces during the Boxer Rebellion. The position mattered because whoever controlled it controlled a key gateway between the sea and northern China. Taku Forts make imperial intervention feel engineered, coastal, and brutally specific.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_the_Taku_Forts_(1900)",
+        "views": 17431,
+        "coordinates": {
+          "lat": 38.97705556,
+          "lng": 117.70536111
+        }
+      },
+      {
+        "name": "Reykjavík",
+        "region": "Iceland",
+        "isoCountryCode": "IS",
+        "text": "On June 17, Iceland celebrates the republic it declared in 1944, and Reykjavík becomes the heart of the national day. The capital gives the occasion both ceremonial scale and a sense of modern statehood built in a small, windswept place. Reykjavík makes independence feel intimate rather than imperial.",
+        "link": "https://en.wikipedia.org/wiki/Icelandic_National_Day",
+        "views": 665039,
+        "coordinates": {
+          "lat": 64.14583333,
+          "lng": -21.9425
+        }
+      },
+      {
+        "name": "Laayoune",
+        "region": "Western Sahara",
+        "isoCountryCode": "EH",
+        "text": "On June 17, Sahrawis commemorate Zemla Intifada Day, looking back to an anti-colonial protest that helped shape later nationalism. Laayoune gives that memory a city still entangled in the politics of sovereignty and occupation. The date makes the desert capital feel charged with unfinished history.",
+        "link": "https://en.wikipedia.org/wiki/Zemla_Intifada",
+        "views": 153050,
+        "coordinates": {
+          "lat": 27.15,
+          "lng": -13.19888889
+        }
+      }
+    ]
+  },
+  "2026-06-18": {
+    "locations": [
+      {
+        "name": "Shiraz",
+        "region": "Iran",
+        "isoCountryCode": "IR",
+        "text": "On June 18, 1983, ten Baháʼí women including Mona Mahmudnizhad were executed in Shiraz. The city became internationally known through the case because it illuminated the broader persecution of Baháʼís in post-revolutionary Iran. Shiraz turns questions of conscience and repression into one sharply located memory.",
+        "link": "https://en.wikipedia.org/wiki/Mona_Mahmudnizhad",
+        "views": 212747,
+        "coordinates": {
+          "lat": 29.61,
+          "lng": 52.5425
+        }
+      },
+      {
+        "name": "Waterloo",
+        "region": "Belgium",
+        "isoCountryCode": "BE",
+        "text": "On June 18, 1815, Waterloo became the site of Napoleon's final defeat. Few places have entered political language so completely that the name itself now means decisive downfall. Waterloo makes European power politics feel concentrated in one field and one day.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Waterloo",
+        "views": 112926,
+        "coordinates": {
+          "lat": 50.71746944,
+          "lng": 4.39791111
+        }
+      },
+      {
+        "name": "Bar-le-Duc",
+        "region": "France",
+        "isoCountryCode": "FR",
+        "text": "On June 18, 1898, the Cadaver Tomb of René of Chalon in Bar-le-Duc was designated a monument historique. The macabre sculpture is so unusual that the city gained a lasting place in discussions of mortality, memory, and Renaissance art. Bar-le-Duc turns heritage protection into something unexpectedly eerie.",
+        "link": "https://en.wikipedia.org/wiki/Cadaver_Tomb_of_Ren%C3%A9_of_Chalon",
+        "views": 22704,
+        "coordinates": {
+          "lat": 48.7719,
+          "lng": 5.1603
+        }
+      },
+      {
+        "name": "Monterey",
+        "region": "United States",
+        "isoCountryCode": "US",
+        "text": "On June 18, 1967, Jimi Hendrix set his guitar on fire at the Monterey International Pop Festival and fixed the city in rock mythology. The moment mattered because performance, image, and legend fused almost instantly. Monterey makes one festival stage feel larger than the whole Summer of Love.",
+        "link": "https://en.wikipedia.org/wiki/Monterey_International_Pop_Festival",
+        "views": 232377,
+        "coordinates": {
+          "lat": 36.60305556,
+          "lng": -121.89361111
+        }
+      },
+      {
+        "name": "Pointe La Rue",
+        "region": "Seychelles",
+        "isoCountryCode": "SC",
+        "text": "On June 18, Seychelles marks National Day, and Pointe La Rue sits beside the country's main airport on the island where much of that symbolism is concentrated. The district's small scale makes it a good reminder of how compact some national geographies really are. Pointe La Rue gives a state holiday an unexpectedly intimate footprint.",
+        "link": "https://en.wikipedia.org/wiki/Public_holidays_in_Seychelles",
+        "views": 771,
+        "coordinates": {
+          "lat": -4.66666667,
+          "lng": 55.51666667
+        }
+      }
+    ]
+  },
+  "2026-06-19": {
+    "locations": [
+      {
+        "name": "Stockholm",
+        "region": "Sweden",
+        "isoCountryCode": "SE",
+        "text": "On June 19, 2010, Stockholm hosted the wedding of Crown Princess Victoria and Daniel Westling in a ceremony watched far beyond Sweden. The capital became the stage for monarchy, spectacle, and modern national branding all at once. Stockholm makes a royal wedding feel urban rather than purely ceremonial.",
+        "link": "https://en.wikipedia.org/wiki/Wedding_of_Victoria,_Crown_Princess_of_Sweden,_and_Daniel_Westling",
+        "views": 770701,
+        "coordinates": {
+          "lat": 59.32944444,
+          "lng": 18.06861111
+        }
+      },
+      {
+        "name": "Shishou",
+        "region": "China",
+        "isoCountryCode": "CN",
+        "text": "On June 19, 2009, mass unrest erupted in Shishou after public suspicion grew around a local death. The incident mattered because it exposed how quickly mistrust of official explanations could scale into a major urban confrontation. Shishou makes social tension feel immediate, local, and unstable.",
+        "link": "https://en.wikipedia.org/wiki/Shishou_incident",
+        "views": 2123,
+        "coordinates": {
+          "lat": 29.7209,
+          "lng": 112.4254
+        }
+      },
+      {
+        "name": "Barcelona",
+        "region": "Spain",
+        "isoCountryCode": "ES",
+        "text": "On June 19, 1987, the Hipercor bombing in Barcelona became the deadliest attack carried out by ETA. The city mattered because the bombing forced a wider reckoning with how separatist violence hit ordinary civilian life. Barcelona turns a contested national conflict into a specific urban trauma.",
+        "link": "https://en.wikipedia.org/wiki/Hipercor_bombing",
+        "views": 1210294,
+        "coordinates": {
+          "lat": 41.38333333,
+          "lng": 2.18333333
+        }
+      },
+      {
+        "name": "Querétaro City",
+        "region": "Mexico",
+        "isoCountryCode": "MX",
+        "text": "On June 19, 1867, Emperor Maximilian I of Mexico was executed in Querétaro City. The event closed one of the most dramatic attempts to impose a European-backed monarchy on republican Mexico. Querétaro City makes the end of that imperial experiment feel stark and final.",
+        "link": "https://en.wikipedia.org/wiki/Maximilian_I_of_Mexico",
+        "views": 23117,
+        "coordinates": {
+          "lat": 20.5875,
+          "lng": -100.39277778
+        }
+      },
+      {
+        "name": "Montevideo",
+        "region": "Uruguay",
+        "isoCountryCode": "UY",
+        "text": "On June 19, Uruguay marks the birthday of José Gervasio Artigas, and Montevideo becomes one of the chief stages for remembering him. The capital gives the holiday a civic presence that links independence-era symbolism with everyday national life. Montevideo makes commemoration feel both historical and lived-in.",
+        "link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Gervasio_Artigas",
+        "views": 369657,
+        "coordinates": {
+          "lat": -34.90555556,
+          "lng": -56.18416667
+        }
+      }
+    ]
+  },
+  "2026-06-20": {
+    "locations": [
+      {
+        "name": "Mashhad",
+        "region": "Iran",
+        "isoCountryCode": "IR",
+        "text": "On June 20, 1994, a bombing at the Imam Reza shrine made Mashhad the center of one of Iran's most consequential attacks on a sacred site. The event mattered because it combined sectarian violence, pilgrimage, and political blame in one highly symbolic place. Mashhad turns a shrine city into a point of national shock.",
+        "link": "https://en.wikipedia.org/wiki/Imam_Reza_shrine_bombing",
+        "views": 381792,
+        "coordinates": {
+          "lat": 36.32638889,
+          "lng": 59.54333333
+        }
+      },
+      {
+        "name": "Dakar",
+        "region": "Senegal",
+        "isoCountryCode": "SN",
+        "text": "On June 20, 1960, the Mali Federation gained independence from France, making Dakar one of the political centers of a state that would soon disappear. That brief federal experiment still gives the city a place in West African debates about union, sovereignty, and postcolonial possibility. Dakar makes independence feel provisional as well as triumphant.",
+        "link": "https://en.wikipedia.org/wiki/Mali_Federation",
+        "views": 311402,
+        "coordinates": {
+          "lat": 14.69277778,
+          "lng": -17.44666667
+        }
+      },
+      {
+        "name": "Moydrum",
+        "region": "Ireland",
+        "isoCountryCode": "IE",
+        "text": "On June 20, 1921, IRA volunteers killed British Army officer Thomas Stanton Lambert near Moydrum during the Irish War of Independence. The episode shows how small rural places could become part of a conflict usually remembered through bigger cities and famous leaders. Moydrum makes revolutionary violence feel local and close-grained.",
+        "link": "https://en.wikipedia.org/wiki/Thomas_Stanton_Lambert",
+        "views": 1138,
+        "coordinates": {
+          "lat": 53.42777778,
+          "lng": -7.87361111
+        }
+      },
+      {
+        "name": "Beijing",
+        "region": "China",
+        "isoCountryCode": "CN",
+        "text": "On June 20, 1900, the siege of the foreign legations began in Beijing during the Boxer Rebellion. The capital became the stage on which anti-imperial anger, dynastic weakness, and international intervention collided. Beijing makes a global crisis feel tightly walled, diplomatic, and urban.",
+        "link": "https://en.wikipedia.org/wiki/Siege_of_the_International_Legations",
+        "views": 1136760,
+        "coordinates": {
+          "lat": 39.90666667,
+          "lng": 116.3975
+        }
+      },
+      {
+        "name": "Rosario",
+        "region": "Argentina",
+        "isoCountryCode": "AR",
+        "text": "On June 20, Argentina observes Flag Day, and Rosario is at the center of it because the national flag is associated with Manuel Belgrano's first raising there. The city turns a patriotic symbol into a place of annual ceremony rather than a purely textbook emblem. Rosario makes national identity feel performative, civic, and local.",
+        "link": "https://en.wikipedia.org/wiki/Flag_Day_(Argentina)",
+        "views": 35584,
+        "coordinates": {
+          "lat": -32.95333333,
+          "lng": -60.66666667
         }
       }
     ]

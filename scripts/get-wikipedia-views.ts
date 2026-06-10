@@ -209,7 +209,7 @@ function getRange(monthCount: number, endYear: number, endMonth: number) {
 
   return {
     start: `${startYear}${startMonth}0100`,
-    end: `${finalYear}${finalMonth}3100`,
+    end: `${finalYear}${finalMonth}${String(new Date(Date.UTC(finalYear, end.getUTCMonth() + 1, 0)).getUTCDate()).padStart(2, '0')}00`,
     labelStart: `${startYear}-${startMonth}`,
     labelEnd: `${finalYear}-${finalMonth}`,
   }

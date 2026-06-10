@@ -1,0 +1,418 @@
+{
+  "date": "2026-06-15",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/15",
+  "sections": {
+    "selected": [
+      {
+        "year": 2012,
+        "text": "American acrobat Nik Wallenda became the first person to walk a tightrope stretched directly over Niagara Falls.",
+        "relatedPages": [
+          {
+            "title": "Nik Wallenda",
+            "url": "https://en.wikipedia.org/wiki/Nik_Wallenda",
+            "coordinates": null
+          },
+          {
+            "title": "Tightrope walking",
+            "url": "https://en.wikipedia.org/wiki/Tightrope_walking",
+            "coordinates": null
+          },
+          {
+            "title": "Niagara Falls",
+            "url": "https://en.wikipedia.org/wiki/Niagara_Falls",
+            "coordinates": {
+              "lat": 43.0799,
+              "lon": -79.0747
+            }
+          }
+        ]
+      },
+      {
+        "year": 2006,
+        "text": "US president George W. Bush designated 140,000 square miles (360,000 km2) around the Northwestern Hawaiian Islands as the Papahānaumokuākea Marine National Monument, now one of the world's largest protected areas.",
+        "relatedPages": [
+          {
+            "title": "George W. Bush",
+            "url": "https://en.wikipedia.org/wiki/George_W._Bush",
+            "coordinates": null
+          },
+          {
+            "title": "Northwestern Hawaiian Islands",
+            "url": "https://en.wikipedia.org/wiki/Northwestern_Hawaiian_Islands",
+            "coordinates": {
+              "lat": 25,
+              "lon": -168
+            }
+          },
+          {
+            "title": "Papahānaumokuākea Marine National Monument",
+            "url": "https://en.wikipedia.org/wiki/Papah%C4%81naumoku%C4%81kea_Marine_National_Monument",
+            "coordinates": {
+              "lat": 25.7,
+              "lon": -171.73333333
+            }
+          },
+          {
+            "title": "List of largest protected areas",
+            "url": "https://en.wikipedia.org/wiki/List_of_largest_protected_areas",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 2001,
+        "text": "Leaders of China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan formed the Shanghai Cooperation Organisation.",
+        "relatedPages": [
+          {
+            "title": "Shanghai Cooperation Organisation",
+            "url": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1996,
+        "text": "The Troubles: The Provisional Irish Republican Army detonated a truck bomb in the commercial centre of Manchester, England, injuring more than 200 people and causing widespread damage to buildings.",
+        "relatedPages": [
+          {
+            "title": "The Troubles",
+            "url": "https://en.wikipedia.org/wiki/The_Troubles",
+            "coordinates": null
+          },
+          {
+            "title": "Provisional Irish Republican Army",
+            "url": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army",
+            "coordinates": null
+          },
+          {
+            "title": "1996 Manchester bombing",
+            "url": "https://en.wikipedia.org/wiki/1996_Manchester_bombing",
+            "coordinates": {
+              "lat": 53.4836,
+              "lon": -2.2433
+            }
+          },
+          {
+            "title": "Manchester city centre",
+            "url": "https://en.wikipedia.org/wiki/Manchester_city_centre",
+            "coordinates": {
+              "lat": 53.4808,
+              "lon": -2.2425
+            }
+          },
+          {
+            "title": "Manchester",
+            "url": "https://en.wikipedia.org/wiki/Manchester",
+            "coordinates": {
+              "lat": 53.48,
+              "lon": -2.25
+            }
+          }
+        ]
+      },
+      {
+        "year": 1995,
+        "text": "Western Greece was struck by an earthquake registering 6.4–6.5 Mw that killed 26 people.",
+        "relatedPages": [
+          {
+            "title": "1995 Aigio earthquake",
+            "url": "https://en.wikipedia.org/wiki/1995_Aigio_earthquake",
+            "coordinates": {
+              "lat": 38.401,
+              "lon": 22.283
+            }
+          },
+          {
+            "title": "Moment magnitude scale",
+            "url": "https://en.wikipedia.org/wiki/Moment_magnitude_scale",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1991,
+        "text": "The eruption of Mount Pinatubo in the Philippines deposited large amounts of particulate matter into the atmosphere, enough to lower global temperatures by about 0.5 °C (0.9 °F).",
+        "relatedPages": [
+          {
+            "title": "Mount Pinatubo",
+            "url": "https://en.wikipedia.org/wiki/Mount_Pinatubo",
+            "coordinates": {
+              "lat": 15.14166667,
+              "lon": 120.35
+            }
+          },
+          {
+            "title": "Particulate matter",
+            "url": "https://en.wikipedia.org/wiki/Particulate_matter",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "text": "King Hussein of Jordan married American Lisa Halaby, who became known as Queen Noor of Jordan (pictured).",
+        "relatedPages": [
+          {
+            "title": "Hussein of Jordan",
+            "url": "https://en.wikipedia.org/wiki/Hussein_of_Jordan",
+            "coordinates": null
+          },
+          {
+            "title": "Queen Noor of Jordan",
+            "url": "https://en.wikipedia.org/wiki/Queen_Noor_of_Jordan",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1944,
+        "text": "World War II: The United States Army Air Forces began the first air raid of its strategic bombing campaign against the Japanese archipelago, although little damage was caused.",
+        "relatedPages": [
+          {
+            "title": "World War II",
+            "url": "https://en.wikipedia.org/wiki/World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "United States Army Air Forces",
+            "url": "https://en.wikipedia.org/wiki/United_States_Army_Air_Forces",
+            "coordinates": null
+          },
+          {
+            "title": "Bombing of Yawata (June 1944)",
+            "url": "https://en.wikipedia.org/wiki/Bombing_of_Yawata_(June_1944)",
+            "coordinates": {
+              "lat": 33.88333333,
+              "lon": 130.88333333
+            }
+          },
+          {
+            "title": "Japanese archipelago",
+            "url": "https://en.wikipedia.org/wiki/Japanese_archipelago",
+            "coordinates": {
+              "lat": 36,
+              "lon": 138
+            }
+          }
+        ]
+      },
+      {
+        "year": 1921,
+        "text": "Bessie Coleman (pictured) became the first Black person to earn an international pilot's license from the Fédération Aéronautique Internationale.",
+        "relatedPages": [
+          {
+            "title": "Bessie Coleman",
+            "url": "https://en.wikipedia.org/wiki/Bessie_Coleman",
+            "coordinates": null
+          },
+          {
+            "title": "Pilot licensing and certification",
+            "url": "https://en.wikipedia.org/wiki/Pilot_licensing_and_certification",
+            "coordinates": null
+          },
+          {
+            "title": "Fédération Aéronautique Internationale",
+            "url": "https://en.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_A%C3%A9ronautique_Internationale",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1920,
+        "text": "Three African-American circus workers were lynched by a mob in Duluth, Minnesota, a crime that shocked the country for having taken place in the Northern United States.",
+        "relatedPages": [
+          {
+            "title": "Duluth lynchings",
+            "url": "https://en.wikipedia.org/wiki/Duluth_lynchings",
+            "coordinates": {
+              "lat": 46.7893,
+              "lon": -92.0968
+            }
+          },
+          {
+            "title": "Duluth, Minnesota",
+            "url": "https://en.wikipedia.org/wiki/Duluth%2C_Minnesota",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1896,
+        "text": "An earthquake registering 8.5 Mw and subsequent tsunami struck Japan, killing at least 22,000 people and destroying about 9,000 homes.",
+        "relatedPages": [
+          {
+            "title": "1896 Sanriku earthquake",
+            "url": "https://en.wikipedia.org/wiki/1896_Sanriku_earthquake",
+            "coordinates": {
+              "lat": 39.5,
+              "lon": 144
+            }
+          },
+          {
+            "title": "Moment magnitude scale",
+            "url": "https://en.wikipedia.org/wiki/Moment_magnitude_scale",
+            "coordinates": null
+          },
+          {
+            "title": "Tsunami",
+            "url": "https://en.wikipedia.org/wiki/Tsunami",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1878,
+        "text": "Eadweard Muybridge took a series of photographs to prove that all four feet of a horse leave the ground when it gallops (animation pictured), which became the basis of motion pictures.",
+        "relatedPages": [
+          {
+            "title": "Eadweard Muybridge",
+            "url": "https://en.wikipedia.org/wiki/Eadweard_Muybridge",
+            "coordinates": null
+          },
+          {
+            "title": "The Horse in Motion",
+            "url": "https://en.wikipedia.org/wiki/The_Horse_in_Motion",
+            "coordinates": null
+          },
+          {
+            "title": "Film",
+            "url": "https://en.wikipedia.org/wiki/Film",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1859,
+        "text": "The shooting of a pig in the San Juan Islands led to the so-called Pig War over the border between the United States and British North America.",
+        "relatedPages": [
+          {
+            "title": "San Juan Islands",
+            "url": "https://en.wikipedia.org/wiki/San_Juan_Islands",
+            "coordinates": {
+              "lat": 48.532066,
+              "lon": -123.029251
+            }
+          },
+          {
+            "title": "Pig War (1859)",
+            "url": "https://en.wikipedia.org/wiki/Pig_War_(1859)",
+            "coordinates": {
+              "lat": 48.46166667,
+              "lon": -123.00666667
+            }
+          },
+          {
+            "title": "British North America",
+            "url": "https://en.wikipedia.org/wiki/British_North_America",
+            "coordinates": {
+              "lat": 44.96,
+              "lon": -74.67
+            }
+          }
+        ]
+      },
+      {
+        "year": 1800,
+        "text": "War of the Second Coalition: The signing of the Convention of Alessandria brought temporary peace between France and Austria.",
+        "relatedPages": [
+          {
+            "title": "War of the Second Coalition",
+            "url": "https://en.wikipedia.org/wiki/War_of_the_Second_Coalition",
+            "coordinates": null
+          },
+          {
+            "title": "Convention of Alessandria",
+            "url": "https://en.wikipedia.org/wiki/Convention_of_Alessandria",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1520,
+        "text": "Pope Leo X issued the papal bull Exsurge Domine, censuring 41 propositions from Martin Luther's Ninety-five Theses and subsequent writings, and threatening him with excommunication unless he recanted.",
+        "relatedPages": [
+          {
+            "title": "Pope Leo X",
+            "url": "https://en.wikipedia.org/wiki/Pope_Leo_X",
+            "coordinates": null
+          },
+          {
+            "title": "Papal bull",
+            "url": "https://en.wikipedia.org/wiki/Papal_bull",
+            "coordinates": null
+          },
+          {
+            "title": "Exsurge Domine",
+            "url": "https://en.wikipedia.org/wiki/Exsurge_Domine",
+            "coordinates": null
+          },
+          {
+            "title": "Martin Luther",
+            "url": "https://en.wikipedia.org/wiki/Martin_Luther",
+            "coordinates": null
+          },
+          {
+            "title": "Ninety-five Theses",
+            "url": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+            "coordinates": null
+          },
+          {
+            "title": "Excommunication",
+            "url": "https://en.wikipedia.org/wiki/Excommunication",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1215,
+        "text": "King John of England and a group of rebel barons agreed on the text of Magna Carta, an influential charter of rights.",
+        "relatedPages": [
+          {
+            "title": "John, King of England",
+            "url": "https://en.wikipedia.org/wiki/John%2C_King_of_England",
+            "coordinates": null
+          },
+          {
+            "title": "Magna Carta",
+            "url": "https://en.wikipedia.org/wiki/Magna_Carta",
+            "coordinates": null
+          },
+          {
+            "title": "Bill of rights",
+            "url": "https://en.wikipedia.org/wiki/Bill_of_rights",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": -763,
+        "text": "The Bur-Sagale eclipse was observed in Assyria, the earliest solar eclipse mentioned in historical sources that has been successfully identified.",
+        "relatedPages": [
+          {
+            "title": "760s BC",
+            "url": "https://en.wikipedia.org/wiki/760s_BC",
+            "coordinates": null
+          },
+          {
+            "title": "Assyrian eclipse",
+            "url": "https://en.wikipedia.org/wiki/Assyrian_eclipse",
+            "coordinates": {
+              "lat": 38.9,
+              "lon": 54.3
+            }
+          },
+          {
+            "title": "Assyria",
+            "url": "https://en.wikipedia.org/wiki/Assyria",
+            "coordinates": null
+          },
+          {
+            "title": "Solar eclipse",
+            "url": "https://en.wikipedia.org/wiki/Solar_eclipse",
+            "coordinates": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "date": "2026-06-05",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/05",
+  "sections": {
+    "selected": [
+      {
+        "year": 2009,
+        "text": "A fire at a day-care center kills 49 children in Mexico",
+        "relatedPages": [
+          {
+            "title": "2009 Hermosillo daycare center fire",
+            "url": "https://en.wikipedia.org/wiki/2009_Hermosillo_daycare_center_fire",
+            "coordinates": {
+              "lat": 29.03563889,
+              "lon": -110.95405556
+            }
+          }
+        ]
+      },
+      {
+        "year": 2009,
+        "text": "After almost two months of civil disobedience, at least 31 people were killed in clashes between the National Police and indigenous people in Bagua province, Peru.",
+        "relatedPages": [
+          {
+            "title": "2009 Peruvian political crisis",
+            "url": "https://en.wikipedia.org/wiki/2009_Peruvian_political_crisis",
+            "coordinates": null
+          },
+          {
+            "title": "National Police of Peru",
+            "url": "https://en.wikipedia.org/wiki/National_Police_of_Peru",
+            "coordinates": null
+          },
+          {
+            "title": "Bagua province",
+            "url": "https://en.wikipedia.org/wiki/Bagua_province",
+            "coordinates": {
+              "lat": -5.6386,
+              "lon": -78.5311
+            }
+          }
+        ]
+      },
+      {
+        "year": 2004,
+        "text": "Noël Mamère, the mayor of Bègles, conducted a marriage ceremony for two men, even though same-sex marriage in France had not yet been legalised.",
+        "relatedPages": [
+          {
+            "title": "Noël Mamère",
+            "url": "https://en.wikipedia.org/wiki/No%C3%ABl_Mam%C3%A8re",
+            "coordinates": null
+          },
+          {
+            "title": "Bègles",
+            "url": "https://en.wikipedia.org/wiki/B%C3%A8gles",
+            "coordinates": {
+              "lat": 44.8086,
+              "lon": -0.5478
+            }
+          },
+          {
+            "title": "Same-sex marriage in France",
+            "url": "https://en.wikipedia.org/wiki/Same-sex_marriage_in_France",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 2001,
+        "text": "Tropical Storm Allison, the costliest Atlantic tropical cyclone that was never a hurricane, made landfall in Texas, causing approximately $8.5 billion in damage.",
+        "relatedPages": [
+          {
+            "title": "Tropical Storm Allison",
+            "url": "https://en.wikipedia.org/wiki/Tropical_Storm_Allison",
+            "coordinates": null
+          },
+          {
+            "title": "List of costliest Atlantic hurricanes",
+            "url": "https://en.wikipedia.org/wiki/List_of_costliest_Atlantic_hurricanes",
+            "coordinates": null
+          },
+          {
+            "title": "Texas",
+            "url": "https://en.wikipedia.org/wiki/Texas",
+            "coordinates": {
+              "lat": 31,
+              "lon": -99
+            }
+          }
+        ]
+      },
+      {
+        "year": 1997,
+        "text": "Anticipating a coup attempt, President Pascal Lissouba of the Republic of the Congo ordered the detention of his rival Denis Sassou Nguesso, initiating a second civil war.",
+        "relatedPages": [
+          {
+            "title": "Pascal Lissouba",
+            "url": "https://en.wikipedia.org/wiki/Pascal_Lissouba",
+            "coordinates": null
+          },
+          {
+            "title": "Denis Sassou Nguesso",
+            "url": "https://en.wikipedia.org/wiki/Denis_Sassou_Nguesso",
+            "coordinates": null
+          },
+          {
+            "title": "Republic of the Congo Civil War (1997–1999)",
+            "url": "https://en.wikipedia.org/wiki/Republic_of_the_Congo_Civil_War_(1997%E2%80%931999)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1989,
+        "text": "An anonymous demonstrator, later dubbed \"Tank Man\", single-handedly stopped a column of Chinese tanks during the Tiananmen Square protests before being dragged aside.",
+        "relatedPages": [
+          {
+            "title": "Tank Man",
+            "url": "https://en.wikipedia.org/wiki/Tank_Man",
+            "coordinates": {
+              "lat": 39.90652778,
+              "lon": 116.39994444
+            }
+          },
+          {
+            "title": "1989 Tiananmen Square protests and massacre",
+            "url": "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre",
+            "coordinates": {
+              "lat": 39.90333333,
+              "lon": 116.39166667
+            }
+          }
+        ]
+      },
+      {
+        "year": 1981,
+        "text": "The first clinical cases of AIDS were published by the Centers for Disease Control and Prevention.",
+        "relatedPages": [
+          {
+            "title": "HIV/AIDS",
+            "url": "https://en.wikipedia.org/wiki/HIV%2FAIDS",
+            "coordinates": null
+          },
+          {
+            "title": "Centers for Disease Control and Prevention",
+            "url": "https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention",
+            "coordinates": {
+              "lat": 33.79944444,
+              "lon": -84.32833333
+            }
+          }
+        ]
+      },
+      {
+        "year": 1976,
+        "text": "The Teton Dam in eastern Idaho, U.S., collapsed as its reservoir was being filled for the first time, resulting in the deaths of eleven people and 13,000 cattle, and causing up to $2 billion in damage.",
+        "relatedPages": [
+          {
+            "title": "Teton Dam",
+            "url": "https://en.wikipedia.org/wiki/Teton_Dam",
+            "coordinates": {
+              "lat": 43.90972222,
+              "lon": -111.53916667
+            }
+          },
+          {
+            "title": "Idaho",
+            "url": "https://en.wikipedia.org/wiki/Idaho",
+            "coordinates": {
+              "lat": 45,
+              "lon": -115
+            }
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "text": "U.S. senator Robert F. Kennedy was fatally shot by Palestinian immigrant Sirhan Sirhan at the Ambassador Hotel in Los Angeles.",
+        "relatedPages": [
+          {
+            "title": "Robert F. Kennedy",
+            "url": "https://en.wikipedia.org/wiki/Robert_F._Kennedy",
+            "coordinates": null
+          },
+          {
+            "title": "Assassination of Robert F. Kennedy",
+            "url": "https://en.wikipedia.org/wiki/Assassination_of_Robert_F._Kennedy",
+            "coordinates": {
+              "lat": 34.0597,
+              "lon": -118.2971
+            }
+          },
+          {
+            "title": "Sirhan Sirhan",
+            "url": "https://en.wikipedia.org/wiki/Sirhan_Sirhan",
+            "coordinates": null
+          },
+          {
+            "title": "Ambassador Hotel (Los Angeles)",
+            "url": "https://en.wikipedia.org/wiki/Ambassador_Hotel_(Los_Angeles)",
+            "coordinates": {
+              "lat": 34.05972222,
+              "lon": -118.29722222
+            }
+          }
+        ]
+      },
+      {
+        "year": 1967,
+        "text": "Following Israel's initiation of Operation Focus with the goal to neutralise the Egyptian Air Force, Syrian Air Force, and the Royal Jordanian Air Force, the Six-Day War begins.",
+        "relatedPages": [
+          {
+            "title": "Operation Focus",
+            "url": "https://en.wikipedia.org/wiki/Operation_Focus",
+            "coordinates": null
+          },
+          {
+            "title": "Egyptian Air Force",
+            "url": "https://en.wikipedia.org/wiki/Egyptian_Air_Force",
+            "coordinates": null
+          },
+          {
+            "title": "Syrian Air Force",
+            "url": "https://en.wikipedia.org/wiki/Syrian_Air_Force",
+            "coordinates": null
+          },
+          {
+            "title": "Royal Jordanian Air Force",
+            "url": "https://en.wikipedia.org/wiki/Royal_Jordanian_Air_Force",
+            "coordinates": null
+          },
+          {
+            "title": "Six-Day War",
+            "url": "https://en.wikipedia.org/wiki/Six-Day_War",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "text": "British politician John Profumo (pictured) admitted that he had lied to the House of Commons about his involvement in a sex scandal with Christine Keeler, and resigned from government.",
+        "relatedPages": [
+          {
+            "title": "John Profumo",
+            "url": "https://en.wikipedia.org/wiki/John_Profumo",
+            "coordinates": null
+          },
+          {
+            "title": "House of Commons of the United Kingdom",
+            "url": "https://en.wikipedia.org/wiki/House_of_Commons_of_the_United_Kingdom",
+            "coordinates": {
+              "lat": 51.49988889,
+              "lon": -0.12466667
+            }
+          },
+          {
+            "title": "Profumo affair",
+            "url": "https://en.wikipedia.org/wiki/Profumo_affair",
+            "coordinates": null
+          },
+          {
+            "title": "Christine Keeler",
+            "url": "https://en.wikipedia.org/wiki/Christine_Keeler",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "text": "The arrest of Ayatollah Ruhollah Khomeini for publicly denouncing Shah Mohammad Reza Pahlavi sparked protests in Iran.",
+        "relatedPages": [
+          {
+            "title": "Ruhollah Khomeini",
+            "url": "https://en.wikipedia.org/wiki/Ruhollah_Khomeini",
+            "coordinates": null
+          },
+          {
+            "title": "Mohammad Reza Pahlavi",
+            "url": "https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi",
+            "coordinates": null
+          },
+          {
+            "title": "1963 demonstrations in Iran",
+            "url": "https://en.wikipedia.org/wiki/1963_demonstrations_in_Iran",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1941,
+        "text": "Second Sino-Japanese War: About 4,000 people died of asphyxiation in Chongqing when the tunnel in which they were hiding became blocked during a raid in the five-year bombing campaign.",
+        "relatedPages": [
+          {
+            "title": "Second Sino-Japanese War",
+            "url": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War",
+            "coordinates": null
+          },
+          {
+            "title": "Asphyxia",
+            "url": "https://en.wikipedia.org/wiki/Asphyxia",
+            "coordinates": null
+          },
+          {
+            "title": "Chongqing",
+            "url": "https://en.wikipedia.org/wiki/Chongqing",
+            "coordinates": {
+              "lat": 29.5637,
+              "lon": 106.5504
+            }
+          },
+          {
+            "title": "Bombing of Chongqing",
+            "url": "https://en.wikipedia.org/wiki/Bombing_of_Chongqing",
+            "coordinates": {
+              "lat": 29.4814,
+              "lon": 106.9382
+            }
+          }
+        ]
+      },
+      {
+        "year": 1899,
+        "text": "Antonio Luna (pictured), Commanding General of the Philippine Army, was assassinated in the midst of the Philippine–American War.",
+        "relatedPages": [
+          {
+            "title": "Antonio Luna",
+            "url": "https://en.wikipedia.org/wiki/Antonio_Luna",
+            "coordinates": null
+          },
+          {
+            "title": "Chief of the Army (Philippines)",
+            "url": "https://en.wikipedia.org/wiki/Chief_of_the_Army_(Philippines)",
+            "coordinates": null
+          },
+          {
+            "title": "Philippine–American War",
+            "url": "https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1897,
+        "text": "The Ancient Temples and Shrines Preservation Law was passed, instituting the protection of structures and artifacts in Japan designated National Treasures.",
+        "relatedPages": [
+          {
+            "title": "National Treasure (Japan)",
+            "url": "https://en.wikipedia.org/wiki/National_Treasure_(Japan)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1879,
+        "text": "The Zungeni Mountain skirmish took place between British and Zulu forces during the second invasion of the Zulu Kingdom.",
+        "relatedPages": [
+          {
+            "title": "Zungeni Mountain skirmish",
+            "url": "https://en.wikipedia.org/wiki/Zungeni_Mountain_skirmish",
+            "coordinates": {
+              "lat": -28.29166667,
+              "lon": 30.925
+            }
+          },
+          {
+            "title": "Zulu Kingdom",
+            "url": "https://en.wikipedia.org/wiki/Zulu_Kingdom",
+            "coordinates": {
+              "lat": -28.2975,
+              "lon": 31.42166667
+            }
+          }
+        ]
+      },
+      {
+        "year": 1862,
+        "text": "Vietnamese guerrilla leader Trương Định chose to fight on against European forces, defying Emperor Tự Đức and the Treaty of Saigon.",
+        "relatedPages": [
+          {
+            "title": "Trương Định",
+            "url": "https://en.wikipedia.org/wiki/Tr%C6%B0%C6%A1ng_%C4%90%E1%BB%8Bnh",
+            "coordinates": null
+          },
+          {
+            "title": "Tự Đức",
+            "url": "https://en.wikipedia.org/wiki/T%E1%BB%B1_%C4%90%E1%BB%A9c",
+            "coordinates": null
+          },
+          {
+            "title": "Treaty of Saigon (1862)",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Saigon_(1862)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1832,
+        "text": "The June Rebellion, an anti-monarchist uprising, broke out in Paris.",
+        "relatedPages": [
+          {
+            "title": "June Rebellion",
+            "url": "https://en.wikipedia.org/wiki/June_Rebellion",
+            "coordinates": null
+          },
+          {
+            "title": "Criticism of monarchy",
+            "url": "https://en.wikipedia.org/wiki/Criticism_of_monarchy",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1610,
+        "text": "The masque Tethys' Festival was performed at the Palace of Whitehall to celebrate the investiture of Henry Frederick as Prince of Wales.",
+        "relatedPages": [
+          {
+            "title": "Masque",
+            "url": "https://en.wikipedia.org/wiki/Masque",
+            "coordinates": null
+          },
+          {
+            "title": "Tethys' Festival",
+            "url": "https://en.wikipedia.org/wiki/Tethys'_Festival",
+            "coordinates": null
+          },
+          {
+            "title": "Palace of Whitehall",
+            "url": "https://en.wikipedia.org/wiki/Palace_of_Whitehall",
+            "coordinates": {
+              "lat": 51.50444444,
+              "lon": -0.12555556
+            }
+          },
+          {
+            "title": "Henry Frederick, Prince of Wales",
+            "url": "https://en.wikipedia.org/wiki/Henry_Frederick%2C_Prince_of_Wales",
+            "coordinates": null
+          },
+          {
+            "title": "Prince of Wales",
+            "url": "https://en.wikipedia.org/wiki/Prince_of_Wales",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1305,
+        "text": "Raymond Bertrand de Got was elected Pope Clement V, succeeding Benedict XI, who died the previous year.",
+        "relatedPages": [
+          {
+            "title": "Pope Clement V",
+            "url": "https://en.wikipedia.org/wiki/Pope_Clement_V",
+            "coordinates": null
+          },
+          {
+            "title": "Pope Benedict XI",
+            "url": "https://en.wikipedia.org/wiki/Pope_Benedict_XI",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1257,
+        "text": "Bolesław V, High Duke of Poland, granted city rights to Kraków modelled on the Magdeburg town charter.",
+        "relatedPages": [
+          {
+            "title": "Bolesław V the Chaste",
+            "url": "https://en.wikipedia.org/wiki/Boles%C5%82aw_V_the_Chaste",
+            "coordinates": null
+          },
+          {
+            "title": "List of Polish monarchs",
+            "url": "https://en.wikipedia.org/wiki/List_of_Polish_monarchs",
+            "coordinates": null
+          },
+          {
+            "title": "Kraków",
+            "url": "https://en.wikipedia.org/wiki/Krak%C3%B3w",
+            "coordinates": null
+          },
+          {
+            "title": "Magdeburg rights",
+            "url": "https://en.wikipedia.org/wiki/Magdeburg_rights",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 663,
+        "text": "The Daming Palace in Chang'an became the seat of government and the royal residence of the Tang dynasty during the reign of Emperor Gaozong.",
+        "relatedPages": [
+          {
+            "title": "Daming Palace",
+            "url": "https://en.wikipedia.org/wiki/Daming_Palace",
+            "coordinates": null
+          },
+          {
+            "title": "Chang'an",
+            "url": "https://en.wikipedia.org/wiki/Chang'an",
+            "coordinates": {
+              "lat": 34.30833333,
+              "lon": 108.85833333
+            }
+          },
+          {
+            "title": "Tang dynasty",
+            "url": "https://en.wikipedia.org/wiki/Tang_dynasty",
+            "coordinates": null
+          },
+          {
+            "title": "Emperor Gaozong of Tang",
+            "url": "https://en.wikipedia.org/wiki/Emperor_Gaozong_of_Tang",
+            "coordinates": null
+          }
+        ]
+      }
+    ]
+  }
+}

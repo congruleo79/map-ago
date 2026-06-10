@@ -1,0 +1,420 @@
+{
+  "date": "2026-06-07",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/07",
+  "sections": {
+    "selected": [
+      {
+        "year": 1998,
+        "text": "White supremacists murdered James Byrd Jr., an African American, by chaining him behind a pickup truck and dragging him along an asphalt road in Jasper, Texas.",
+        "relatedPages": [
+          {
+            "title": "White supremacy",
+            "url": "https://en.wikipedia.org/wiki/White_supremacy",
+            "coordinates": null
+          },
+          {
+            "title": "Murder of James Byrd Jr.",
+            "url": "https://en.wikipedia.org/wiki/Murder_of_James_Byrd_Jr.",
+            "coordinates": null
+          },
+          {
+            "title": "Pickup truck",
+            "url": "https://en.wikipedia.org/wiki/Pickup_truck",
+            "coordinates": null
+          },
+          {
+            "title": "Jasper, Texas",
+            "url": "https://en.wikipedia.org/wiki/Jasper%2C_Texas",
+            "coordinates": {
+              "lat": 30.92055556,
+              "lon": -94
+            }
+          }
+        ]
+      },
+      {
+        "year": 1981,
+        "text": "The Israeli Air Force attacked a nuclear reactor under the assumption that it was about to start producing plutonium to further an Iraqi nuclear-weapons program.",
+        "relatedPages": [
+          {
+            "title": "Israeli Air Force",
+            "url": "https://en.wikipedia.org/wiki/Israeli_Air_Force",
+            "coordinates": null
+          },
+          {
+            "title": "Operation Opera",
+            "url": "https://en.wikipedia.org/wiki/Operation_Opera",
+            "coordinates": {
+              "lat": 33.20333333,
+              "lon": 44.51861111
+            }
+          },
+          {
+            "title": "Plutonium",
+            "url": "https://en.wikipedia.org/wiki/Plutonium",
+            "coordinates": null
+          },
+          {
+            "title": "Iraq and weapons of mass destruction",
+            "url": "https://en.wikipedia.org/wiki/Iraq_and_weapons_of_mass_destruction",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1975,
+        "text": "The inaugural edition of the Cricket World Cup, the premier international championship of men's One Day International cricket, began in England.",
+        "relatedPages": [
+          {
+            "title": "1975 Cricket World Cup",
+            "url": "https://en.wikipedia.org/wiki/1975_Cricket_World_Cup",
+            "coordinates": null
+          },
+          {
+            "title": "Cricket World Cup",
+            "url": "https://en.wikipedia.org/wiki/Cricket_World_Cup",
+            "coordinates": null
+          },
+          {
+            "title": "One Day International",
+            "url": "https://en.wikipedia.org/wiki/One_Day_International",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1969,
+        "text": "In their only UK concert, the rock supergroup Blind Faith, featuring Eric Clapton, Steve Winwood and Ginger Baker, debuted in London's Hyde Park in front of 100,000 fans.",
+        "relatedPages": [
+          {
+            "title": "Blind Faith",
+            "url": "https://en.wikipedia.org/wiki/Blind_Faith",
+            "coordinates": null
+          },
+          {
+            "title": "Eric Clapton",
+            "url": "https://en.wikipedia.org/wiki/Eric_Clapton",
+            "coordinates": null
+          },
+          {
+            "title": "Steve Winwood",
+            "url": "https://en.wikipedia.org/wiki/Steve_Winwood",
+            "coordinates": null
+          },
+          {
+            "title": "Ginger Baker",
+            "url": "https://en.wikipedia.org/wiki/Ginger_Baker",
+            "coordinates": null
+          },
+          {
+            "title": "Hyde Park, London",
+            "url": "https://en.wikipedia.org/wiki/Hyde_Park%2C_London",
+            "coordinates": {
+              "lat": 51.50861111,
+              "lon": -0.16361111
+            }
+          }
+        ]
+      },
+      {
+        "year": 1965,
+        "text": "The U.S. Supreme Court ruled in Griswold v. Connecticut that a Connecticut law prohibiting the use of contraceptives violated the \"right to marital privacy\".",
+        "relatedPages": [
+          {
+            "title": "Supreme Court of the United States",
+            "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States",
+            "coordinates": {
+              "lat": 38.89055556,
+              "lon": -77.00444444
+            }
+          },
+          {
+            "title": "Griswold v. Connecticut",
+            "url": "https://en.wikipedia.org/wiki/Griswold_v._Connecticut",
+            "coordinates": null
+          },
+          {
+            "title": "Connecticut",
+            "url": "https://en.wikipedia.org/wiki/Connecticut",
+            "coordinates": {
+              "lat": 41.6,
+              "lon": -72.7
+            }
+          },
+          {
+            "title": "Birth control",
+            "url": "https://en.wikipedia.org/wiki/Birth_control",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1948,
+        "text": "In Shostakovich v. Twentieth Century-Fox Film Corp., a New York trial court declined to issue a permanent injunction in favor of several Soviet composers against the distribution of The Iron Curtain, the first anti-Soviet Hollywood film of the Cold War era.",
+        "relatedPages": [
+          {
+            "title": "Shostakovich v. Twentieth Century-Fox Film Corp.",
+            "url": "https://en.wikipedia.org/wiki/Shostakovich_v._Twentieth_Century-Fox_Film_Corp.",
+            "coordinates": null
+          },
+          {
+            "title": "New York Supreme Court",
+            "url": "https://en.wikipedia.org/wiki/New_York_Supreme_Court",
+            "coordinates": null
+          },
+          {
+            "title": "Injunction",
+            "url": "https://en.wikipedia.org/wiki/Injunction",
+            "coordinates": null
+          },
+          {
+            "title": "The Iron Curtain (film)",
+            "url": "https://en.wikipedia.org/wiki/The_Iron_Curtain_(film)",
+            "coordinates": null
+          },
+          {
+            "title": "Anti-Sovietism",
+            "url": "https://en.wikipedia.org/wiki/Anti-Sovietism",
+            "coordinates": null
+          },
+          {
+            "title": "Cinema of the United States",
+            "url": "https://en.wikipedia.org/wiki/Cinema_of_the_United_States",
+            "coordinates": null
+          },
+          {
+            "title": "Cold War (1947–1948)",
+            "url": "https://en.wikipedia.org/wiki/Cold_War_(1947%E2%80%931948)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1948,
+        "text": "Anti-Jewish riots broke out in the French protectorate in Morocco, during which 44 people were killed and 150 injured.",
+        "relatedPages": [
+          {
+            "title": "1948 anti-Jewish riots in Oujda and Jerada",
+            "url": "https://en.wikipedia.org/wiki/1948_anti-Jewish_riots_in_Oujda_and_Jerada",
+            "coordinates": null
+          },
+          {
+            "title": "French protectorate in Morocco",
+            "url": "https://en.wikipedia.org/wiki/French_protectorate_in_Morocco",
+            "coordinates": {
+              "lat": 32,
+              "lon": -6
+            }
+          }
+        ]
+      },
+      {
+        "year": 1917,
+        "text": "First World War: The British Army detonated 19 ammonal mines under German lines, killing perhaps 10,000 in the deadliest non-nuclear man-made explosion in history during the Battle of Messines.",
+        "relatedPages": [
+          {
+            "title": "World War I",
+            "url": "https://en.wikipedia.org/wiki/World_War_I",
+            "coordinates": null
+          },
+          {
+            "title": "British Army",
+            "url": "https://en.wikipedia.org/wiki/British_Army",
+            "coordinates": null
+          },
+          {
+            "title": "Mines in the Battle of Messines (1917)",
+            "url": "https://en.wikipedia.org/wiki/Mines_in_the_Battle_of_Messines_(1917)",
+            "coordinates": {
+              "lat": 50.78833333,
+              "lon": 2.86555556
+            }
+          },
+          {
+            "title": "Battle of Messines (1917)",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Messines_(1917)",
+            "coordinates": {
+              "lat": 50.7625,
+              "lon": 2.89527778
+            }
+          }
+        ]
+      },
+      {
+        "year": 1900,
+        "text": "American temperance activist Carrie Nation entered a saloon in Kiowa, Kansas, and destroyed its stock of alcoholic beverages with rocks.",
+        "relatedPages": [
+          {
+            "title": "Temperance movement in the United States",
+            "url": "https://en.wikipedia.org/wiki/Temperance_movement_in_the_United_States",
+            "coordinates": null
+          },
+          {
+            "title": "Carrie Nation",
+            "url": "https://en.wikipedia.org/wiki/Carrie_Nation",
+            "coordinates": null
+          },
+          {
+            "title": "Kiowa, Kansas",
+            "url": "https://en.wikipedia.org/wiki/Kiowa%2C_Kansas",
+            "coordinates": {
+              "lat": 37.0175,
+              "lon": -98.48472222
+            }
+          }
+        ]
+      },
+      {
+        "year": 1892,
+        "text": "Homer Plessy, a mixed-race man from New Orleans, was arrested for refusing to leave his seat in the \"whites-only\" car of a train; he lost the resulting court case, Plessy v. Ferguson.",
+        "relatedPages": [
+          {
+            "title": "Homer Plessy",
+            "url": "https://en.wikipedia.org/wiki/Homer_Plessy",
+            "coordinates": null
+          },
+          {
+            "title": "New Orleans",
+            "url": "https://en.wikipedia.org/wiki/New_Orleans",
+            "coordinates": {
+              "lat": 29.9761,
+              "lon": -90.0783
+            }
+          },
+          {
+            "title": "Plessy v. Ferguson",
+            "url": "https://en.wikipedia.org/wiki/Plessy_v._Ferguson",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1832,
+        "text": "The Reform Act, which is widely credited with launching modern democracy in the United Kingdom, received royal assent.",
+        "relatedPages": [
+          {
+            "title": "Reform Act 1832",
+            "url": "https://en.wikipedia.org/wiki/Reform_Act_1832",
+            "coordinates": null
+          },
+          {
+            "title": "Royal assent",
+            "url": "https://en.wikipedia.org/wiki/Royal_assent",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1810,
+        "text": "Journalist Mariano Moreno published Argentina's first newspaper, the Gazeta de Buenos-Ayres.",
+        "relatedPages": [
+          {
+            "title": "Mariano Moreno",
+            "url": "https://en.wikipedia.org/wiki/Mariano_Moreno",
+            "coordinates": null
+          },
+          {
+            "title": "Gazeta de Buenos-Ayres",
+            "url": "https://en.wikipedia.org/wiki/Gazeta_de_Buenos-Ayres",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1692,
+        "text": "An earthquake registering approximately 7.5 Mw caused Port Royal, Jamaica, to sink below sea level and killed approximately 5,000 people.",
+        "relatedPages": [
+          {
+            "title": "1692 Jamaica earthquake",
+            "url": "https://en.wikipedia.org/wiki/1692_Jamaica_earthquake",
+            "coordinates": {
+              "lat": 18,
+              "lon": -76.5
+            }
+          },
+          {
+            "title": "Moment magnitude scale",
+            "url": "https://en.wikipedia.org/wiki/Moment_magnitude_scale",
+            "coordinates": null
+          },
+          {
+            "title": "Port Royal",
+            "url": "https://en.wikipedia.org/wiki/Port_Royal",
+            "coordinates": {
+              "lat": 17.9375,
+              "lon": -76.84111111
+            }
+          }
+        ]
+      },
+      {
+        "year": 1628,
+        "text": "The Petition of Right, a major English constitutional document that set out specific liberties of individuals, received royal assent from King Charles I.",
+        "relatedPages": [
+          {
+            "title": "Petition of Right",
+            "url": "https://en.wikipedia.org/wiki/Petition_of_Right",
+            "coordinates": null
+          },
+          {
+            "title": "Fundamental Laws of England",
+            "url": "https://en.wikipedia.org/wiki/Fundamental_Laws_of_England",
+            "coordinates": null
+          },
+          {
+            "title": "Royal assent",
+            "url": "https://en.wikipedia.org/wiki/Royal_assent",
+            "coordinates": null
+          },
+          {
+            "title": "Charles I of England",
+            "url": "https://en.wikipedia.org/wiki/Charles_I_of_England",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 879,
+        "text": "Pope John VIII officially recognised Croatia as an independent state, and Branimir (monument pictured) as its duke.",
+        "relatedPages": [
+          {
+            "title": "Pope John VIII",
+            "url": "https://en.wikipedia.org/wiki/Pope_John_VIII",
+            "coordinates": null
+          },
+          {
+            "title": "Duchy of Croatia",
+            "url": "https://en.wikipedia.org/wiki/Duchy_of_Croatia",
+            "coordinates": null
+          },
+          {
+            "title": "Branimir, Duke of Croatia",
+            "url": "https://en.wikipedia.org/wiki/Branimir%2C_Duke_of_Croatia",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 421,
+        "text": "Roman emperor Theodosius II married Aelia Eudocia (pictured), who later helped to protect Greek pagans and Jews from persecution.",
+        "relatedPages": [
+          {
+            "title": "Theodosius II",
+            "url": "https://en.wikipedia.org/wiki/Theodosius_II",
+            "coordinates": null
+          },
+          {
+            "title": "Aelia Eudocia",
+            "url": "https://en.wikipedia.org/wiki/Aelia_Eudocia",
+            "coordinates": null
+          },
+          {
+            "title": "Ancient Greek religion",
+            "url": "https://en.wikipedia.org/wiki/Ancient_Greek_religion",
+            "coordinates": null
+          }
+        ]
+      }
+    ]
+  }
+}

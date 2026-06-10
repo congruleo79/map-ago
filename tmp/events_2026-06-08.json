@@ -1,0 +1,463 @@
+{
+  "date": "2026-06-08",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/08",
+  "sections": {
+    "selected": [
+      {
+        "year": 2009,
+        "text": "Two American journalists, having been arrested for illegal entry into North Korea, were sentenced to twelve years hard labor before being pardoned two months later.",
+        "relatedPages": [
+          {
+            "title": "2009 imprisonment of American journalists by North Korea",
+            "url": "https://en.wikipedia.org/wiki/2009_imprisonment_of_American_journalists_by_North_Korea",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "text": "A Japanese man drove a truck into a crowd of pedestrians in Akihabara, Tokyo, and proceeded to stab at least 12 people, killing 7 and wounding 10, before being apprehended.",
+        "relatedPages": [
+          {
+            "title": "2008 Akihabara massacre",
+            "url": "https://en.wikipedia.org/wiki/2008_Akihabara_massacre",
+            "coordinates": {
+              "lat": 35.69972222,
+              "lon": 139.77138889
+            }
+          },
+          {
+            "title": "Akihabara",
+            "url": "https://en.wikipedia.org/wiki/Akihabara",
+            "coordinates": {
+              "lat": 35.69833333,
+              "lon": 139.77305556
+            }
+          }
+        ]
+      },
+      {
+        "year": 2007,
+        "text": "A major storm caused the bulk carrier Pasha Bulker to run aground in New South Wales, Australia.",
+        "relatedPages": [
+          {
+            "title": "2007 New South Wales storms",
+            "url": "https://en.wikipedia.org/wiki/2007_New_South_Wales_storms",
+            "coordinates": {
+              "lat": -32.9,
+              "lon": 151.75
+            }
+          },
+          {
+            "title": "Bulk carrier",
+            "url": "https://en.wikipedia.org/wiki/Bulk_carrier",
+            "coordinates": null
+          },
+          {
+            "title": "Pasha Bulker",
+            "url": "https://en.wikipedia.org/wiki/Pasha_Bulker",
+            "coordinates": {
+              "lat": -32.9236,
+              "lon": 151.7978
+            }
+          },
+          {
+            "title": "New South Wales",
+            "url": "https://en.wikipedia.org/wiki/New_South_Wales",
+            "coordinates": {
+              "lat": -32,
+              "lon": 147
+            }
+          }
+        ]
+      },
+      {
+        "year": 1982,
+        "text": "Falklands War: The Argentine Air Force attacked British transport ships while unloading supplies off Bluff Cove in the Falkland Islands, killing 56 British servicemen and wounding 150 others.",
+        "relatedPages": [
+          {
+            "title": "Falklands War",
+            "url": "https://en.wikipedia.org/wiki/Falklands_War",
+            "coordinates": null
+          },
+          {
+            "title": "Argentine Air Force",
+            "url": "https://en.wikipedia.org/wiki/Argentine_Air_Force",
+            "coordinates": null
+          },
+          {
+            "title": "Bluff Cove air attacks",
+            "url": "https://en.wikipedia.org/wiki/Bluff_Cove_air_attacks",
+            "coordinates": {
+              "lat": -51.79916667,
+              "lon": -58.21888889
+            }
+          },
+          {
+            "title": "Bluff Cove",
+            "url": "https://en.wikipedia.org/wiki/Bluff_Cove",
+            "coordinates": {
+              "lat": -51.76666667,
+              "lon": -58.18333333
+            }
+          },
+          {
+            "title": "Falkland Islands",
+            "url": "https://en.wikipedia.org/wiki/Falkland_Islands",
+            "coordinates": {
+              "lat": -51.73,
+              "lon": -59.22
+            }
+          }
+        ]
+      },
+      {
+        "year": 1982,
+        "text": "Falklands War: The Argentine Air Force attacked the neutral oil tanker Hercules while she was traversing the South Atlantic.",
+        "relatedPages": [
+          {
+            "title": "Falklands War",
+            "url": "https://en.wikipedia.org/wiki/Falklands_War",
+            "coordinates": null
+          },
+          {
+            "title": "Argentine Air Force",
+            "url": "https://en.wikipedia.org/wiki/Argentine_Air_Force",
+            "coordinates": null
+          },
+          {
+            "title": "Hercules (1970 ship)",
+            "url": "https://en.wikipedia.org/wiki/Hercules_(1970_ship)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1972,
+        "text": "Vietnam War: Associated Press photographer Nick Ut took a Pulitzer Prize–winning photograph of a naked nine-year-old Phan Thi Kim Phuc fleeing after being burned by napalm.",
+        "relatedPages": [
+          {
+            "title": "Vietnam War",
+            "url": "https://en.wikipedia.org/wiki/Vietnam_War",
+            "coordinates": null
+          },
+          {
+            "title": "Associated Press",
+            "url": "https://en.wikipedia.org/wiki/Associated_Press",
+            "coordinates": null
+          },
+          {
+            "title": "Nick Ut",
+            "url": "https://en.wikipedia.org/wiki/Nick_Ut",
+            "coordinates": null
+          },
+          {
+            "title": "Pulitzer Prize for Breaking News Photography",
+            "url": "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Breaking_News_Photography",
+            "coordinates": null
+          },
+          {
+            "title": "Phan Thi Kim Phuc",
+            "url": "https://en.wikipedia.org/wiki/Phan_Thi_Kim_Phuc",
+            "coordinates": null
+          },
+          {
+            "title": "Napalm",
+            "url": "https://en.wikipedia.org/wiki/Napalm",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1967,
+        "text": "The Israeli Air Force attacked the U.S. Navy intelligence ship USS Liberty in international waters, killing 34 people and wounding 171 others.",
+        "relatedPages": [
+          {
+            "title": "Israeli Air Force",
+            "url": "https://en.wikipedia.org/wiki/Israeli_Air_Force",
+            "coordinates": null
+          },
+          {
+            "title": "USS Liberty incident",
+            "url": "https://en.wikipedia.org/wiki/USS_Liberty_incident",
+            "coordinates": {
+              "lat": 31.39,
+              "lon": 33.38
+            }
+          },
+          {
+            "title": "United States Navy",
+            "url": "https://en.wikipedia.org/wiki/United_States_Navy",
+            "coordinates": null
+          },
+          {
+            "title": "USS Liberty",
+            "url": "https://en.wikipedia.org/wiki/USS_Liberty",
+            "coordinates": null
+          },
+          {
+            "title": "International waters",
+            "url": "https://en.wikipedia.org/wiki/International_waters",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1953,
+        "text": "An F5 tornado struck Flint and Beecher, Michigan, causing 116 fatalities, 844 injuries and $19 million in damage during a larger tornado outbreak sequence.",
+        "relatedPages": [
+          {
+            "title": "1953 Flint–Beecher tornado",
+            "url": "https://en.wikipedia.org/wiki/1953_Flint%E2%80%93Beecher_tornado",
+            "coordinates": null
+          },
+          {
+            "title": "Flint, Michigan",
+            "url": "https://en.wikipedia.org/wiki/Flint%2C_Michigan",
+            "coordinates": {
+              "lat": 43.01888889,
+              "lon": -83.69333333
+            }
+          },
+          {
+            "title": "Beecher, Michigan",
+            "url": "https://en.wikipedia.org/wiki/Beecher%2C_Michigan",
+            "coordinates": {
+              "lat": 43.09,
+              "lon": -83.69444444
+            }
+          },
+          {
+            "title": "Tornado outbreak of June 7–9, 1953",
+            "url": "https://en.wikipedia.org/wiki/Tornado_outbreak_of_June_7%E2%80%939%2C_1953",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1950,
+        "text": "Thomas Blamey became the only Australian to attain the rank of field marshal.",
+        "relatedPages": [
+          {
+            "title": "Thomas Blamey",
+            "url": "https://en.wikipedia.org/wiki/Thomas_Blamey",
+            "coordinates": null
+          },
+          {
+            "title": "Field marshal (Australia)",
+            "url": "https://en.wikipedia.org/wiki/Field_marshal_(Australia)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1941,
+        "text": "World War II: The Allies commenced the Syria–Lebanon campaign against Vichy French possessions in the Levant.",
+        "relatedPages": [
+          {
+            "title": "World War II",
+            "url": "https://en.wikipedia.org/wiki/World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "Allies of World War II",
+            "url": "https://en.wikipedia.org/wiki/Allies_of_World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "Syria–Lebanon campaign",
+            "url": "https://en.wikipedia.org/wiki/Syria%E2%80%93Lebanon_campaign",
+            "coordinates": null
+          },
+          {
+            "title": "Vichy France",
+            "url": "https://en.wikipedia.org/wiki/Vichy_France",
+            "coordinates": null
+          },
+          {
+            "title": "Levant",
+            "url": "https://en.wikipedia.org/wiki/Levant",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1929,
+        "text": "Margaret Bondfield (pictured) became the first female member of the Cabinet of the United Kingdom when she was named Minister of Labour by Ramsay MacDonald.",
+        "relatedPages": [
+          {
+            "title": "Margaret Bondfield",
+            "url": "https://en.wikipedia.org/wiki/Margaret_Bondfield",
+            "coordinates": null
+          },
+          {
+            "title": "Cabinet of the United Kingdom",
+            "url": "https://en.wikipedia.org/wiki/Cabinet_of_the_United_Kingdom",
+            "coordinates": null
+          },
+          {
+            "title": "Secretary of State for Employment",
+            "url": "https://en.wikipedia.org/wiki/Secretary_of_State_for_Employment",
+            "coordinates": null
+          },
+          {
+            "title": "Ramsay MacDonald",
+            "url": "https://en.wikipedia.org/wiki/Ramsay_MacDonald",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1862,
+        "text": "American Civil War: The Confederate Army won a resounding victory at the Battle of Cross Keys, one of the two decisive battles in Jackson's Valley campaign.",
+        "relatedPages": [
+          {
+            "title": "American Civil War",
+            "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+            "coordinates": null
+          },
+          {
+            "title": "Confederate States Army",
+            "url": "https://en.wikipedia.org/wiki/Confederate_States_Army",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Cross Keys",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Cross_Keys",
+            "coordinates": {
+              "lat": 38.3579,
+              "lon": -78.8438
+            }
+          },
+          {
+            "title": "Jackson's Valley campaign",
+            "url": "https://en.wikipedia.org/wiki/Jackson's_Valley_campaign",
+            "coordinates": {
+              "lat": 38.65,
+              "lon": -78.67
+            }
+          }
+        ]
+      },
+      {
+        "year": 1826,
+        "text": "In York, Upper Canada, members of the Family Compact destroyed William Lyon Mackenzie's printing press in the Types Riot after Mackenzie accused them of corruption.",
+        "relatedPages": [
+          {
+            "title": "York, Upper Canada",
+            "url": "https://en.wikipedia.org/wiki/York%2C_Upper_Canada",
+            "coordinates": {
+              "lat": 43.65027778,
+              "lon": -79.37194444
+            }
+          },
+          {
+            "title": "Family Compact",
+            "url": "https://en.wikipedia.org/wiki/Family_Compact",
+            "coordinates": null
+          },
+          {
+            "title": "William Lyon Mackenzie",
+            "url": "https://en.wikipedia.org/wiki/William_Lyon_Mackenzie",
+            "coordinates": null
+          },
+          {
+            "title": "Types Riot",
+            "url": "https://en.wikipedia.org/wiki/Types_Riot",
+            "coordinates": {
+              "lat": 43.65022222,
+              "lon": -79.36905556
+            }
+          }
+        ]
+      },
+      {
+        "year": 1783,
+        "text": "Laki, a volcanic fissure in Iceland (pictured), began an eight-month eruption, triggering a major famine and causing widespread fluoride poisoning.",
+        "relatedPages": [
+          {
+            "title": "Laki",
+            "url": "https://en.wikipedia.org/wiki/Laki",
+            "coordinates": {
+              "lat": 64.06472222,
+              "lon": -18.22611111
+            }
+          },
+          {
+            "title": "Fissure vent",
+            "url": "https://en.wikipedia.org/wiki/Fissure_vent",
+            "coordinates": null
+          },
+          {
+            "title": "Fluoride toxicity",
+            "url": "https://en.wikipedia.org/wiki/Fluoride_toxicity",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1776,
+        "text": "American Revolutionary War: British forces defeated the Continental Army at the Battle of Trois-Rivières, the last battle of the American invasion of Quebec.",
+        "relatedPages": [
+          {
+            "title": "American Revolutionary War",
+            "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+            "coordinates": null
+          },
+          {
+            "title": "Continental Army",
+            "url": "https://en.wikipedia.org/wiki/Continental_Army",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Trois-Rivières",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Trois-Rivi%C3%A8res",
+            "coordinates": {
+              "lat": 46.35,
+              "lon": -72.55
+            }
+          },
+          {
+            "title": "Invasion of Quebec (1775)",
+            "url": "https://en.wikipedia.org/wiki/Invasion_of_Quebec_(1775)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 218,
+        "text": "Led by the inexperienced Gannys, Elagabalus's legions defeated the forces of Roman emperor Macrinus at the Battle of Antioch.",
+        "relatedPages": [
+          {
+            "title": "Gannys",
+            "url": "https://en.wikipedia.org/wiki/Gannys",
+            "coordinates": null
+          },
+          {
+            "title": "Elagabalus",
+            "url": "https://en.wikipedia.org/wiki/Elagabalus",
+            "coordinates": null
+          },
+          {
+            "title": "Roman legion",
+            "url": "https://en.wikipedia.org/wiki/Roman_legion",
+            "coordinates": null
+          },
+          {
+            "title": "Macrinus",
+            "url": "https://en.wikipedia.org/wiki/Macrinus",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Antioch (218)",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Antioch_(218)",
+            "coordinates": {
+              "lat": 36.2,
+              "lon": 36.15
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

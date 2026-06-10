@@ -1,0 +1,518 @@
+{
+  "date": "2026-06-11",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/11",
+  "sections": {
+    "selected": [
+      {
+        "year": 2012,
+        "text": "Two earthquakes struck northern Afghanistan, triggering a massive landslide that buried a village and killed 75 people.",
+        "relatedPages": [
+          {
+            "title": "2012 Afghanistan earthquakes",
+            "url": "https://en.wikipedia.org/wiki/2012_Afghanistan_earthquakes",
+            "coordinates": {
+              "lat": 36.023,
+              "lon": 69.351
+            }
+          }
+        ]
+      },
+      {
+        "year": 2011,
+        "text": "The semi-professional English football club Gedling Town F.C. withdrew from league football, shortly before its dissolution.",
+        "relatedPages": [
+          {
+            "title": "Semi-professional sports",
+            "url": "https://en.wikipedia.org/wiki/Semi-professional_sports",
+            "coordinates": null
+          },
+          {
+            "title": "Gedling Town F.C.",
+            "url": "https://en.wikipedia.org/wiki/Gedling_Town_F.C.",
+            "coordinates": {
+              "lat": 52.97222222,
+              "lon": -1.03777778
+            }
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "text": "Canadian prime minister Stephen Harper apologised to the First Nations for past governments' policies of forced assimilation.",
+        "relatedPages": [
+          {
+            "title": "Stephen Harper",
+            "url": "https://en.wikipedia.org/wiki/Stephen_Harper",
+            "coordinates": null
+          },
+          {
+            "title": "First Nations in Canada",
+            "url": "https://en.wikipedia.org/wiki/First_Nations_in_Canada",
+            "coordinates": null
+          },
+          {
+            "title": "Canadian Indian residential school system",
+            "url": "https://en.wikipedia.org/wiki/Canadian_Indian_residential_school_system",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 2007,
+        "text": "Mudslides caused by heavy monsoon rainfall and exacerbated by hill cutting killed at least 128 people in Chittagong, Bangladesh.",
+        "relatedPages": [
+          {
+            "title": "2007 Chittagong mudslides",
+            "url": "https://en.wikipedia.org/wiki/2007_Chittagong_mudslides",
+            "coordinates": null
+          },
+          {
+            "title": "Monsoon",
+            "url": "https://en.wikipedia.org/wiki/Monsoon",
+            "coordinates": null
+          },
+          {
+            "title": "Cut (earthworks)",
+            "url": "https://en.wikipedia.org/wiki/Cut_(earthworks)",
+            "coordinates": null
+          },
+          {
+            "title": "Chittagong",
+            "url": "https://en.wikipedia.org/wiki/Chittagong",
+            "coordinates": {
+              "lat": 22.335,
+              "lon": 91.8325
+            }
+          }
+        ]
+      },
+      {
+        "year": 2001,
+        "text": "Timothy McVeigh, detonator of a truck bomb in front of the Oklahoma federal building, was executed by lethal injection for using a weapon of mass destruction, among other charges.",
+        "relatedPages": [
+          {
+            "title": "Timothy McVeigh",
+            "url": "https://en.wikipedia.org/wiki/Timothy_McVeigh",
+            "coordinates": null
+          },
+          {
+            "title": "Oklahoma City bombing",
+            "url": "https://en.wikipedia.org/wiki/Oklahoma_City_bombing",
+            "coordinates": {
+              "lat": 35.47277778,
+              "lon": -97.51694444
+            }
+          }
+        ]
+      },
+      {
+        "year": 2001,
+        "text": "Robert Edward Dyer was sentenced to 16 years' imprisonment for conducting a six-month-long letter-bomb campaign against the British supermarket chain Tesco.",
+        "relatedPages": [
+          {
+            "title": "Tesco bomb campaign",
+            "url": "https://en.wikipedia.org/wiki/Tesco_bomb_campaign",
+            "coordinates": null
+          },
+          {
+            "title": "Tesco",
+            "url": "https://en.wikipedia.org/wiki/Tesco",
+            "coordinates": {
+              "lat": 51.70524722,
+              "lon": -0.02676944
+            }
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "text": "Vietnamese monk Thích Quảng Đức burned himself to death in Saigon to protest the persecution of Buddhists by Catholic South Vietnamese President Ngo Dinh Diem's administration.",
+        "relatedPages": [
+          {
+            "title": "Bhikkhu",
+            "url": "https://en.wikipedia.org/wiki/Bhikkhu",
+            "coordinates": null
+          },
+          {
+            "title": "Thích Quảng Đức",
+            "url": "https://en.wikipedia.org/wiki/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c",
+            "coordinates": null
+          },
+          {
+            "title": "Ho Chi Minh City",
+            "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City",
+            "coordinates": {
+              "lat": 10.77555556,
+              "lon": 106.70194444
+            }
+          },
+          {
+            "title": "Buddhism in Vietnam",
+            "url": "https://en.wikipedia.org/wiki/Buddhism_in_Vietnam",
+            "coordinates": null
+          },
+          {
+            "title": "Ngo Dinh Diem",
+            "url": "https://en.wikipedia.org/wiki/Ngo_Dinh_Diem",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "text": "The University of Alabama was desegregated as Governor George Wallace stepped aside after defiantly blocking the entrance to an auditorium (pictured).",
+        "relatedPages": [
+          {
+            "title": "University of Alabama",
+            "url": "https://en.wikipedia.org/wiki/University_of_Alabama",
+            "coordinates": {
+              "lat": 33.21083333,
+              "lon": -87.54611111
+            }
+          },
+          {
+            "title": "Racial segregation in the United States",
+            "url": "https://en.wikipedia.org/wiki/Racial_segregation_in_the_United_States",
+            "coordinates": null
+          },
+          {
+            "title": "George Wallace",
+            "url": "https://en.wikipedia.org/wiki/George_Wallace",
+            "coordinates": null
+          },
+          {
+            "title": "Stand in the Schoolhouse Door",
+            "url": "https://en.wikipedia.org/wiki/Stand_in_the_Schoolhouse_Door",
+            "coordinates": {
+              "lat": 33.20811,
+              "lon": -87.544
+            }
+          }
+        ]
+      },
+      {
+        "year": 1962,
+        "text": "American criminals Clarence Anglin, John Anglin and Frank Morris escaped from Alcatraz Island, one of the United States' most famous prisons.",
+        "relatedPages": [
+          {
+            "title": "June 1962 Alcatraz escape",
+            "url": "https://en.wikipedia.org/wiki/June_1962_Alcatraz_escape",
+            "coordinates": {
+              "lat": 37.82666667,
+              "lon": -122.42333333
+            }
+          },
+          {
+            "title": "Alcatraz Island",
+            "url": "https://en.wikipedia.org/wiki/Alcatraz_Island",
+            "coordinates": {
+              "lat": 37.82666667,
+              "lon": -122.42277778
+            }
+          }
+        ]
+      },
+      {
+        "year": 1923,
+        "text": "Kitosh, an African labourer, died after having been flogged by his British employer, in a case that eventually led to reform of the legal system of the Kenya Colony.",
+        "relatedPages": [
+          {
+            "title": "Jasper Abraham murder case",
+            "url": "https://en.wikipedia.org/wiki/Jasper_Abraham_murder_case",
+            "coordinates": null
+          },
+          {
+            "title": "Kenya Colony",
+            "url": "https://en.wikipedia.org/wiki/Kenya_Colony",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1920,
+        "text": "During their national convention in Chicago, Republican Party leaders gathered in negotiations at The Blackstone Hotel to select their presidential candidate, leading to the phrase \"smoke-filled room\".",
+        "relatedPages": [
+          {
+            "title": "1920 Republican National Convention",
+            "url": "https://en.wikipedia.org/wiki/1920_Republican_National_Convention",
+            "coordinates": null
+          },
+          {
+            "title": "Republican Party (United States)",
+            "url": "https://en.wikipedia.org/wiki/Republican_Party_(United_States)",
+            "coordinates": null
+          },
+          {
+            "title": "The Blackstone Hotel",
+            "url": "https://en.wikipedia.org/wiki/The_Blackstone_Hotel",
+            "coordinates": {
+              "lat": 41.87333333,
+              "lon": -87.62472222
+            }
+          },
+          {
+            "title": "Smoke-filled room",
+            "url": "https://en.wikipedia.org/wiki/Smoke-filled_room",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1917,
+        "text": "Alexander (pictured) was crowned King of Greece, succeeding his father Constantine I, who had abdicated.",
+        "relatedPages": [
+          {
+            "title": "Alexander of Greece",
+            "url": "https://en.wikipedia.org/wiki/Alexander_of_Greece",
+            "coordinates": null
+          },
+          {
+            "title": "List of kings of Greece",
+            "url": "https://en.wikipedia.org/wiki/List_of_kings_of_Greece",
+            "coordinates": null
+          },
+          {
+            "title": "Constantine I of Greece",
+            "url": "https://en.wikipedia.org/wiki/Constantine_I_of_Greece",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1914,
+        "text": "Around 2,000 members of European society attended a ball at Kenwood House, England, in one of the last major social events before the outbreak of the First World War.",
+        "relatedPages": [
+          {
+            "title": "1914 Kenwood House ball",
+            "url": "https://en.wikipedia.org/wiki/1914_Kenwood_House_ball",
+            "coordinates": null
+          },
+          {
+            "title": "Kenwood House",
+            "url": "https://en.wikipedia.org/wiki/Kenwood_House",
+            "coordinates": {
+              "lat": 51.5714,
+              "lon": -0.1675
+            }
+          },
+          {
+            "title": "World War I",
+            "url": "https://en.wikipedia.org/wiki/World_War_I",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1847,
+        "text": "Prince Afonso died at the age of two, leaving his father Pedro II, the last emperor of Brazil, without a male heir.",
+        "relatedPages": [
+          {
+            "title": "Afonso, Prince Imperial of Brazil",
+            "url": "https://en.wikipedia.org/wiki/Afonso%2C_Prince_Imperial_of_Brazil",
+            "coordinates": null
+          },
+          {
+            "title": "Pedro II of Brazil",
+            "url": "https://en.wikipedia.org/wiki/Pedro_II_of_Brazil",
+            "coordinates": null
+          },
+          {
+            "title": "List of monarchs of Brazil",
+            "url": "https://en.wikipedia.org/wiki/List_of_monarchs_of_Brazil",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1837,
+        "text": "Tensions between Yankees and Irish Americans in Boston, Massachusetts, erupted in the Broad Street Riot.",
+        "relatedPages": [
+          {
+            "title": "Yankee",
+            "url": "https://en.wikipedia.org/wiki/Yankee",
+            "coordinates": null
+          },
+          {
+            "title": "Irish Americans",
+            "url": "https://en.wikipedia.org/wiki/Irish_Americans",
+            "coordinates": null
+          },
+          {
+            "title": "Broad Street Riot",
+            "url": "https://en.wikipedia.org/wiki/Broad_Street_Riot",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1775,
+        "text": "The Battle of Machias, the first naval engagement of the American Revolutionary War, commenced in and around the port of Machias in what is now eastern Maine.",
+        "relatedPages": [
+          {
+            "title": "Battle of Machias",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Machias",
+            "coordinates": {
+              "lat": 44.68444444,
+              "lon": -67.38305556
+            }
+          },
+          {
+            "title": "American Revolutionary War",
+            "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+            "coordinates": null
+          },
+          {
+            "title": "Machias, Maine",
+            "url": "https://en.wikipedia.org/wiki/Machias%2C_Maine",
+            "coordinates": {
+              "lat": 44.70777778,
+              "lon": -67.48055556
+            }
+          },
+          {
+            "title": "Maine",
+            "url": "https://en.wikipedia.org/wiki/Maine",
+            "coordinates": {
+              "lat": 45,
+              "lon": -69
+            }
+          }
+        ]
+      },
+      {
+        "year": 1724,
+        "text": "J. S. Bach led his cantata O Ewigkeit, du Donnerwort, BWV 20, in Leipzig on the first Sunday after Trinity, beginning his chorale cantata cycle.",
+        "relatedPages": [
+          {
+            "title": "Johann Sebastian Bach",
+            "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+            "coordinates": null
+          },
+          {
+            "title": "O Ewigkeit, du Donnerwort, BWV 20",
+            "url": "https://en.wikipedia.org/wiki/O_Ewigkeit%2C_du_Donnerwort%2C_BWV_20",
+            "coordinates": null
+          },
+          {
+            "title": "Leipzig",
+            "url": "https://en.wikipedia.org/wiki/Leipzig",
+            "coordinates": {
+              "lat": 51.34,
+              "lon": 12.375
+            }
+          },
+          {
+            "title": "List of church cantatas by liturgical occasion",
+            "url": "https://en.wikipedia.org/wiki/List_of_church_cantatas_by_liturgical_occasion",
+            "coordinates": null
+          },
+          {
+            "title": "Chorale cantata cycle",
+            "url": "https://en.wikipedia.org/wiki/Chorale_cantata_cycle",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1594,
+        "text": "Philip II of Spain recognized the sovereign rights of the principalía, local Philippine nobles and chieftains who had converted to Catholicism.",
+        "relatedPages": [
+          {
+            "title": "Philip II of Spain",
+            "url": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
+            "coordinates": null
+          },
+          {
+            "title": "Principalía",
+            "url": "https://en.wikipedia.org/wiki/Principal%C3%ADa",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1509,
+        "text": "Catherine of Aragon (pictured) married King Henry VIII of England, becoming the first of his six wives.",
+        "relatedPages": [
+          {
+            "title": "Catherine of Aragon",
+            "url": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
+            "coordinates": null
+          },
+          {
+            "title": "Henry VIII",
+            "url": "https://en.wikipedia.org/wiki/Henry_VIII",
+            "coordinates": null
+          },
+          {
+            "title": "Wives of Henry VIII",
+            "url": "https://en.wikipedia.org/wiki/Wives_of_Henry_VIII",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1345,
+        "text": "Inspecting a new prison without being escorted by his bodyguard, the megas doux Alexios Apokaukos, chief minister of the Byzantine Empire, was lynched by the prisoners.",
+        "relatedPages": [
+          {
+            "title": "Megas doux",
+            "url": "https://en.wikipedia.org/wiki/Megas_doux",
+            "coordinates": null
+          },
+          {
+            "title": "Alexios Apokaukos",
+            "url": "https://en.wikipedia.org/wiki/Alexios_Apokaukos",
+            "coordinates": null
+          },
+          {
+            "title": "Byzantine Empire",
+            "url": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 806,
+        "text": "Arab–Byzantine wars: The Abbasid army departed Raqqa in northern Syria to begin an invasion of Byzantine-controlled Asia Minor.",
+        "relatedPages": [
+          {
+            "title": "Arab–Byzantine wars",
+            "url": "https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars",
+            "coordinates": null
+          },
+          {
+            "title": "Abbasid Caliphate",
+            "url": "https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+            "coordinates": null
+          },
+          {
+            "title": "Raqqa",
+            "url": "https://en.wikipedia.org/wiki/Raqqa",
+            "coordinates": {
+              "lat": 35.95,
+              "lon": 39.01
+            }
+          },
+          {
+            "title": "Abbasid invasion of Asia Minor (806)",
+            "url": "https://en.wikipedia.org/wiki/Abbasid_invasion_of_Asia_Minor_(806)",
+            "coordinates": null
+          },
+          {
+            "title": "Byzantine Empire",
+            "url": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+            "coordinates": null
+          },
+          {
+            "title": "Anatolia",
+            "url": "https://en.wikipedia.org/wiki/Anatolia",
+            "coordinates": {
+              "lat": 39,
+              "lon": 35
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

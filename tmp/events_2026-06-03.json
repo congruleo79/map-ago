@@ -1,0 +1,485 @@
+{
+  "date": "2026-06-03",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/03",
+  "sections": {
+    "selected": [
+      {
+        "year": 2025,
+        "text": "Prime minister of Mongolia Luvsannamsrain Oyun-Erdene (pictured) resigned after weeks of protests.",
+        "relatedPages": [
+          {
+            "title": "Prime Minister of Mongolia",
+            "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Mongolia",
+            "coordinates": null
+          },
+          {
+            "title": "Luvsannamsrain Oyun-Erdene",
+            "url": "https://en.wikipedia.org/wiki/Luvsannamsrain_Oyun-Erdene",
+            "coordinates": null
+          },
+          {
+            "title": "2025 Mongolian protests",
+            "url": "https://en.wikipedia.org/wiki/2025_Mongolian_protests",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1982,
+        "text": "A failed assassination attempt was made on Shlomo Argov, the Israeli ambassador to the United Kingdom, triggering an Israeli decision to invade Lebanon three days later.",
+        "relatedPages": [
+          {
+            "title": "Shlomo Argov",
+            "url": "https://en.wikipedia.org/wiki/Shlomo_Argov",
+            "coordinates": null
+          },
+          {
+            "title": "1982 Lebanon War",
+            "url": "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1979,
+        "text": "Having invaded Uganda and deposed President Idi Amin, Tanzanian forces secured Uganda's western border, ending a seven-month war.",
+        "relatedPages": [
+          {
+            "title": "Idi Amin",
+            "url": "https://en.wikipedia.org/wiki/Idi_Amin",
+            "coordinates": null
+          },
+          {
+            "title": "Tanzania People's Defence Force",
+            "url": "https://en.wikipedia.org/wiki/Tanzania_People's_Defence_Force",
+            "coordinates": null
+          },
+          {
+            "title": "Uganda–Tanzania War",
+            "url": "https://en.wikipedia.org/wiki/Uganda%E2%80%93Tanzania_War",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "text": "At the Paris Air Show, a Tupolev Tu-144 broke up in mid-air, killing all six members of its crew and eight bystanders on the ground.",
+        "relatedPages": [
+          {
+            "title": "Paris Air Show",
+            "url": "https://en.wikipedia.org/wiki/Paris_Air_Show",
+            "coordinates": {
+              "lat": 48.9555,
+              "lon": 2.4324
+            }
+          },
+          {
+            "title": "Tupolev Tu-144",
+            "url": "https://en.wikipedia.org/wiki/Tupolev_Tu-144",
+            "coordinates": null
+          },
+          {
+            "title": "1973 Paris Air Show Tupolev Tu-144 crash",
+            "url": "https://en.wikipedia.org/wiki/1973_Paris_Air_Show_Tupolev_Tu-144_crash",
+            "coordinates": {
+              "lat": 49.02583333,
+              "lon": 2.47444444
+            }
+          }
+        ]
+      },
+      {
+        "year": 1969,
+        "text": "During a SEATO exercise in the South China Sea, a collision between HMAS Melbourne and USS Frank E. Evans resulted in the latter vessel being cut in two and the deaths of 74 personnel.",
+        "relatedPages": [
+          {
+            "title": "Southeast Asia Treaty Organization",
+            "url": "https://en.wikipedia.org/wiki/Southeast_Asia_Treaty_Organization",
+            "coordinates": null
+          },
+          {
+            "title": "South China Sea",
+            "url": "https://en.wikipedia.org/wiki/South_China_Sea",
+            "coordinates": {
+              "lat": 12,
+              "lon": 113
+            }
+          },
+          {
+            "title": "Melbourne–Evans collision",
+            "url": "https://en.wikipedia.org/wiki/Melbourne%E2%80%93Evans_collision",
+            "coordinates": {
+              "lat": 8.98666667,
+              "lon": 110.795
+            }
+          },
+          {
+            "title": "HMAS Melbourne (R21)",
+            "url": "https://en.wikipedia.org/wiki/HMAS_Melbourne_(R21)",
+            "coordinates": null
+          },
+          {
+            "title": "USS Frank E. Evans",
+            "url": "https://en.wikipedia.org/wiki/USS_Frank_E._Evans",
+            "coordinates": {
+              "lat": 8.98666667,
+              "lon": 110.795
+            }
+          }
+        ]
+      },
+      {
+        "year": 1968,
+        "text": "American radical feminist Valerie Solanas shot and wounded visual artist Andy Warhol and two others at Warhol's New York City studio, The Factory.",
+        "relatedPages": [
+          {
+            "title": "Radical feminism",
+            "url": "https://en.wikipedia.org/wiki/Radical_feminism",
+            "coordinates": null
+          },
+          {
+            "title": "Valerie Solanas",
+            "url": "https://en.wikipedia.org/wiki/Valerie_Solanas",
+            "coordinates": null
+          },
+          {
+            "title": "Andy Warhol",
+            "url": "https://en.wikipedia.org/wiki/Andy_Warhol",
+            "coordinates": null
+          },
+          {
+            "title": "The Factory",
+            "url": "https://en.wikipedia.org/wiki/The_Factory",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "text": "Buddhist crisis: South Vietnamese soldiers attacked Buddhist protesters  in Huế with liquid chemicals from tear gas grenades, causing 67 people to be hospitalised.",
+        "relatedPages": [
+          {
+            "title": "Buddhist crisis",
+            "url": "https://en.wikipedia.org/wiki/Buddhist_crisis",
+            "coordinates": null
+          },
+          {
+            "title": "South Vietnam",
+            "url": "https://en.wikipedia.org/wiki/South_Vietnam",
+            "coordinates": {
+              "lat": 10.78,
+              "lon": 106.7
+            }
+          },
+          {
+            "title": "Huế chemical attacks",
+            "url": "https://en.wikipedia.org/wiki/Hu%E1%BA%BF_chemical_attacks",
+            "coordinates": null
+          },
+          {
+            "title": "Huế",
+            "url": "https://en.wikipedia.org/wiki/Hu%E1%BA%BF",
+            "coordinates": {
+              "lat": 16.4639,
+              "lon": 107.5867
+            }
+          },
+          {
+            "title": "Tear gas",
+            "url": "https://en.wikipedia.org/wiki/Tear_gas",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1950,
+        "text": "Maurice Herzog and Louis Lachenal, members of the French Annapurna expedition, became the first climbers to reach the summit of a peak higher than 8,000 metres (26,247 ft) above sea level.",
+        "relatedPages": [
+          {
+            "title": "Maurice Herzog",
+            "url": "https://en.wikipedia.org/wiki/Maurice_Herzog",
+            "coordinates": null
+          },
+          {
+            "title": "Louis Lachenal",
+            "url": "https://en.wikipedia.org/wiki/Louis_Lachenal",
+            "coordinates": null
+          },
+          {
+            "title": "1950 French Annapurna expedition",
+            "url": "https://en.wikipedia.org/wiki/1950_French_Annapurna_expedition",
+            "coordinates": {
+              "lat": 28.59527778,
+              "lon": 83.82555556
+            }
+          },
+          {
+            "title": "Eight-thousander",
+            "url": "https://en.wikipedia.org/wiki/Eight-thousander",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1940,
+        "text": "Franz Rademacher, a Nazi official, proposed that the island of Madagascar be made available as a destination for the resettlement of the Jewish population of Europe.",
+        "relatedPages": [
+          {
+            "title": "Franz Rademacher",
+            "url": "https://en.wikipedia.org/wiki/Franz_Rademacher",
+            "coordinates": null
+          },
+          {
+            "title": "Madagascar Plan",
+            "url": "https://en.wikipedia.org/wiki/Madagascar_Plan",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1937,
+        "text": "Half a year after abdicating the British throne, Edward, Duke of Windsor, married American socialite Wallis Simpson in a private ceremony in France.",
+        "relatedPages": [
+          {
+            "title": "Abdication of Edward VIII",
+            "url": "https://en.wikipedia.org/wiki/Abdication_of_Edward_VIII",
+            "coordinates": null
+          },
+          {
+            "title": "Edward VIII",
+            "url": "https://en.wikipedia.org/wiki/Edward_VIII",
+            "coordinates": null
+          },
+          {
+            "title": "Wallis Simpson",
+            "url": "https://en.wikipedia.org/wiki/Wallis_Simpson",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1921,
+        "text": "At his trial for the assassination of Talaat Pasha, viewed as the main orchestrator of the Armenian genocide, Soghomon Tehlirian was acquitted after arguing: \"I have killed a man, but I am not a murderer.\"",
+        "relatedPages": [
+          {
+            "title": "Assassination of Talaat Pasha",
+            "url": "https://en.wikipedia.org/wiki/Assassination_of_Talaat_Pasha",
+            "coordinates": {
+              "lat": 52.50583333,
+              "lon": 13.33277778
+            }
+          },
+          {
+            "title": "Armenian genocide",
+            "url": "https://en.wikipedia.org/wiki/Armenian_genocide",
+            "coordinates": null
+          },
+          {
+            "title": "Soghomon Tehlirian",
+            "url": "https://en.wikipedia.org/wiki/Soghomon_Tehlirian",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1917,
+        "text": "A socialist convention in Leeds, United Kingdom, called for an end to the First World War and the establishment of Workers' and Soldiers' Delegates across the country.",
+        "relatedPages": [
+          {
+            "title": "Leeds Convention",
+            "url": "https://en.wikipedia.org/wiki/Leeds_Convention",
+            "coordinates": null
+          },
+          {
+            "title": "World War I",
+            "url": "https://en.wikipedia.org/wiki/World_War_I",
+            "coordinates": null
+          },
+          {
+            "title": "Council of Workers' and Soldiers' Delegates",
+            "url": "https://en.wikipedia.org/wiki/Council_of_Workers'_and_Soldiers'_Delegates",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1892,
+        "text": "Liverpool F.C., one of England's most successful football clubs, was founded.",
+        "relatedPages": [
+          {
+            "title": "Liverpool F.C.",
+            "url": "https://en.wikipedia.org/wiki/Liverpool_F.C.",
+            "coordinates": null
+          },
+          {
+            "title": "Association football",
+            "url": "https://en.wikipedia.org/wiki/Association_football",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1882,
+        "text": "The British merchant ship Virago sank off Alderney with the loss of 26 crew.",
+        "relatedPages": [
+          {
+            "title": "SS Virago",
+            "url": "https://en.wikipedia.org/wiki/SS_Virago",
+            "coordinates": null
+          },
+          {
+            "title": "Alderney",
+            "url": "https://en.wikipedia.org/wiki/Alderney",
+            "coordinates": {
+              "lat": 49.71444444,
+              "lon": -2.20527778
+            }
+          }
+        ]
+      },
+      {
+        "year": 1844,
+        "text": "The last known pair of great auks (one pictured), the only modern species in the genus Pinguinus of flightless birds, were killed on Eldey, Iceland.",
+        "relatedPages": [
+          {
+            "title": "Great auk",
+            "url": "https://en.wikipedia.org/wiki/Great_auk",
+            "coordinates": null
+          },
+          {
+            "title": "Eldey",
+            "url": "https://en.wikipedia.org/wiki/Eldey",
+            "coordinates": {
+              "lat": 63.74088889,
+              "lon": -22.95755556
+            }
+          }
+        ]
+      },
+      {
+        "year": 1781,
+        "text": "American Revolutionary War: Jack Jouett (pictured) rode 40 miles (64 km) to warn Thomas Jefferson and the Virginia legislature of British cavalry who had been sent to capture them.",
+        "relatedPages": [
+          {
+            "title": "American Revolutionary War",
+            "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+            "coordinates": null
+          },
+          {
+            "title": "Jack Jouett",
+            "url": "https://en.wikipedia.org/wiki/Jack_Jouett",
+            "coordinates": null
+          },
+          {
+            "title": "Thomas Jefferson",
+            "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+            "coordinates": null
+          },
+          {
+            "title": "Virginia General Assembly",
+            "url": "https://en.wikipedia.org/wiki/Virginia_General_Assembly",
+            "coordinates": {
+              "lat": 37.53888889,
+              "lon": -77.43361111
+            }
+          }
+        ]
+      },
+      {
+        "year": 1770,
+        "text": "Mission San Carlos Borromeo de Carmelo, a historic Catholic mission church in present-day Carmel-by-the-Sea, California, and the site of the first Christian confirmation in Alta California, was established.",
+        "relatedPages": [
+          {
+            "title": "Mission San Carlos Borromeo de Carmelo",
+            "url": "https://en.wikipedia.org/wiki/Mission_San_Carlos_Borromeo_de_Carmelo",
+            "coordinates": {
+              "lat": 36.54277778,
+              "lon": -121.91916667
+            }
+          },
+          {
+            "title": "Spanish missions in California",
+            "url": "https://en.wikipedia.org/wiki/Spanish_missions_in_California",
+            "coordinates": null
+          },
+          {
+            "title": "Carmel-by-the-Sea, California",
+            "url": "https://en.wikipedia.org/wiki/Carmel-by-the-Sea%2C_California",
+            "coordinates": {
+              "lat": 36.55527778,
+              "lon": -121.92333333
+            }
+          },
+          {
+            "title": "Confirmation",
+            "url": "https://en.wikipedia.org/wiki/Confirmation",
+            "coordinates": null
+          },
+          {
+            "title": "Alta California",
+            "url": "https://en.wikipedia.org/wiki/Alta_California",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1658,
+        "text": "Pope Alexander VII appointed François de Laval as the first apostolic vicar of New France.",
+        "relatedPages": [
+          {
+            "title": "Pope Alexander VII",
+            "url": "https://en.wikipedia.org/wiki/Pope_Alexander_VII",
+            "coordinates": null
+          },
+          {
+            "title": "François de Laval",
+            "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_de_Laval",
+            "coordinates": null
+          },
+          {
+            "title": "Apostolic vicariate",
+            "url": "https://en.wikipedia.org/wiki/Apostolic_vicariate",
+            "coordinates": null
+          },
+          {
+            "title": "New France",
+            "url": "https://en.wikipedia.org/wiki/New_France",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1602,
+        "text": "Anglo-Spanish War: The English navy defeated a Spanish–Portuguese fleet off Sesimbra, Portugal, and captured a carrack.",
+        "relatedPages": [
+          {
+            "title": "Anglo-Spanish War (1585–1604)",
+            "url": "https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1585%E2%80%931604)",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Sesimbra Bay",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Sesimbra_Bay",
+            "coordinates": {
+              "lat": 38.4,
+              "lon": -9.1
+            }
+          },
+          {
+            "title": "Sesimbra",
+            "url": "https://en.wikipedia.org/wiki/Sesimbra",
+            "coordinates": {
+              "lat": 38.44372222,
+              "lon": -9.09963889
+            }
+          },
+          {
+            "title": "Carrack",
+            "url": "https://en.wikipedia.org/wiki/Carrack",
+            "coordinates": null
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "date": "2026-06-02",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/02",
+  "sections": {
+    "selected": [
+      {
+        "year": 2023,
+        "text": "A collision between two passenger trains and a parked freight train near the city of Balasore, Odisha, in eastern India resulted in 296 deaths and more than 1,200 people injured.",
+        "relatedPages": [
+          {
+            "title": "2023 Odisha train collision",
+            "url": "https://en.wikipedia.org/wiki/2023_Odisha_train_collision",
+            "coordinates": {
+              "lat": 21.3381,
+              "lon": 86.7644
+            }
+          },
+          {
+            "title": "Balasore",
+            "url": "https://en.wikipedia.org/wiki/Balasore",
+            "coordinates": {
+              "lat": 21.5033,
+              "lon": 86.925
+            }
+          },
+          {
+            "title": "Odisha",
+            "url": "https://en.wikipedia.org/wiki/Odisha",
+            "coordinates": {
+              "lat": 20.27,
+              "lon": 85.82
+            }
+          }
+        ]
+      },
+      {
+        "year": 2014,
+        "text": "The Indian state of Telangana was officially formed, with K. Chandrashekar Rao (pictured) becoming its first chief minister after his party, the Telangana Rashtra Samithi, secured a majority in the legislative assembly election.",
+        "relatedPages": [
+          {
+            "title": "Telangana",
+            "url": "https://en.wikipedia.org/wiki/Telangana",
+            "coordinates": {
+              "lat": 17.9,
+              "lon": 79.3
+            }
+          },
+          {
+            "title": "K. Chandrashekar Rao",
+            "url": "https://en.wikipedia.org/wiki/K._Chandrashekar_Rao",
+            "coordinates": null
+          },
+          {
+            "title": "Bharat Rashtra Samithi",
+            "url": "https://en.wikipedia.org/wiki/Bharat_Rashtra_Samithi",
+            "coordinates": null
+          },
+          {
+            "title": "2014 Andhra Pradesh Legislative Assembly election",
+            "url": "https://en.wikipedia.org/wiki/2014_Andhra_Pradesh_Legislative_Assembly_election",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 2010,
+        "text": "A gunman carried out a shooting spree in Cumbria, England, killing 12 people and injuring 11 others before committing suicide.",
+        "relatedPages": [
+          {
+            "title": "Cumbria shootings",
+            "url": "https://en.wikipedia.org/wiki/Cumbria_shootings",
+            "coordinates": null
+          },
+          {
+            "title": "Cumbria",
+            "url": "https://en.wikipedia.org/wiki/Cumbria",
+            "coordinates": {
+              "lat": 54.5,
+              "lon": -3.25
+            }
+          }
+        ]
+      },
+      {
+        "year": 1995,
+        "text": "Bosnian War: U.S. Air Force captain Scott O'Grady was shot down while patrolling the NATO no-fly zone over Bosnia, but ejected safely and was rescued six days later.",
+        "relatedPages": [
+          {
+            "title": "Bosnian War",
+            "url": "https://en.wikipedia.org/wiki/Bosnian_War",
+            "coordinates": null
+          },
+          {
+            "title": "United States Air Force",
+            "url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
+            "coordinates": null
+          },
+          {
+            "title": "Scott O'Grady",
+            "url": "https://en.wikipedia.org/wiki/Scott_O'Grady",
+            "coordinates": null
+          },
+          {
+            "title": "No-fly zone",
+            "url": "https://en.wikipedia.org/wiki/No-fly_zone",
+            "coordinates": null
+          },
+          {
+            "title": "Ejection seat",
+            "url": "https://en.wikipedia.org/wiki/Ejection_seat",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "text": "After an emergency landing due to an in-flight fire, 23 passengers aboard Air Canada Flight 797 were killed when a flashover occurred as the aircraft's doors opened.",
+        "relatedPages": [
+          {
+            "title": "Emergency landing",
+            "url": "https://en.wikipedia.org/wiki/Emergency_landing",
+            "coordinates": null
+          },
+          {
+            "title": "Air Canada Flight 797",
+            "url": "https://en.wikipedia.org/wiki/Air_Canada_Flight_797",
+            "coordinates": {
+              "lat": 39.0489,
+              "lon": -84.6678
+            }
+          },
+          {
+            "title": "Flashover",
+            "url": "https://en.wikipedia.org/wiki/Flashover",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "text": "Della Aleksander co-presented an episode of Open Door on transgender women's lives.",
+        "relatedPages": [
+          {
+            "title": "Della Aleksander",
+            "url": "https://en.wikipedia.org/wiki/Della_Aleksander",
+            "coordinates": null
+          },
+          {
+            "title": "Open Door (TV programme)",
+            "url": "https://en.wikipedia.org/wiki/Open_Door_(TV_programme)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1967,
+        "text": "Benno Ohnesorg, a German university student, was killed in West Berlin while protesting against the visit of Shah Mohammad Reza Pahlavi of Iran; the anarchist militant 2 June Movement was later named after the incident.",
+        "relatedPages": [
+          {
+            "title": "Killing of Benno Ohnesorg",
+            "url": "https://en.wikipedia.org/wiki/Killing_of_Benno_Ohnesorg",
+            "coordinates": {
+              "lat": 52.51061111,
+              "lon": 13.30961111
+            }
+          },
+          {
+            "title": "West Berlin",
+            "url": "https://en.wikipedia.org/wiki/West_Berlin",
+            "coordinates": {
+              "lat": 52.5,
+              "lon": 13.28
+            }
+          },
+          {
+            "title": "Mohammad Reza Pahlavi",
+            "url": "https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi",
+            "coordinates": null
+          },
+          {
+            "title": "2 June Movement",
+            "url": "https://en.wikipedia.org/wiki/2_June_Movement",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1955,
+        "text": "The USSR and Yugoslavia sign the Belgrade declaration, legitimising different interpretations of Marxism in non-Soviet countries.",
+        "relatedPages": [
+          {
+            "title": "Belgrade declaration",
+            "url": "https://en.wikipedia.org/wiki/Belgrade_declaration",
+            "coordinates": null
+          },
+          {
+            "title": "Marxism",
+            "url": "https://en.wikipedia.org/wiki/Marxism",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1953,
+        "text": "Queen Elizabeth II was crowned at Westminster Abbey in London.",
+        "relatedPages": [
+          {
+            "title": "Elizabeth II",
+            "url": "https://en.wikipedia.org/wiki/Elizabeth_II",
+            "coordinates": null
+          },
+          {
+            "title": "Coronation of Elizabeth II",
+            "url": "https://en.wikipedia.org/wiki/Coronation_of_Elizabeth_II",
+            "coordinates": null
+          },
+          {
+            "title": "Westminster Abbey",
+            "url": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+            "coordinates": {
+              "lat": 51.49944444,
+              "lon": -0.1275
+            }
+          }
+        ]
+      },
+      {
+        "year": 1919,
+        "text": "First Red Scare: The anarchist followers of Luigi Galleani (pictured) set off eight bombs in eight cities across the United States.",
+        "relatedPages": [
+          {
+            "title": "First Red Scare",
+            "url": "https://en.wikipedia.org/wiki/First_Red_Scare",
+            "coordinates": null
+          },
+          {
+            "title": "Anarchism",
+            "url": "https://en.wikipedia.org/wiki/Anarchism",
+            "coordinates": null
+          },
+          {
+            "title": "Luigi Galleani",
+            "url": "https://en.wikipedia.org/wiki/Luigi_Galleani",
+            "coordinates": null
+          },
+          {
+            "title": "1919 United States anarchist bombings",
+            "url": "https://en.wikipedia.org/wiki/1919_United_States_anarchist_bombings",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1886,
+        "text": "The wedding of Grover Cleveland and Frances Folsom took place in the White House, in the only time that a U.S. president has married in the building.",
+        "relatedPages": [
+          {
+            "title": "Wedding of Grover Cleveland and Frances Folsom",
+            "url": "https://en.wikipedia.org/wiki/Wedding_of_Grover_Cleveland_and_Frances_Folsom",
+            "coordinates": null
+          },
+          {
+            "title": "Grover Cleveland",
+            "url": "https://en.wikipedia.org/wiki/Grover_Cleveland",
+            "coordinates": null
+          },
+          {
+            "title": "Frances Cleveland",
+            "url": "https://en.wikipedia.org/wiki/Frances_Cleveland",
+            "coordinates": null
+          },
+          {
+            "title": "White House",
+            "url": "https://en.wikipedia.org/wiki/White_House",
+            "coordinates": {
+              "lat": 38.89777778,
+              "lon": -77.03638889
+            }
+          }
+        ]
+      },
+      {
+        "year": 1805,
+        "text": "Napoleonic Wars: A Franco-Spanish fleet recaptured the British-held Diamond Rock, an uninhabited island at the entrance to the bay leading to Fort-de-France, Martinique.",
+        "relatedPages": [
+          {
+            "title": "Napoleonic Wars",
+            "url": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Diamond Rock",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Diamond_Rock",
+            "coordinates": null
+          },
+          {
+            "title": "Diamond Rock",
+            "url": "https://en.wikipedia.org/wiki/Diamond_Rock",
+            "coordinates": {
+              "lat": 14.44333333,
+              "lon": -61.03916667
+            }
+          },
+          {
+            "title": "Fort-de-France",
+            "url": "https://en.wikipedia.org/wiki/Fort-de-France",
+            "coordinates": {
+              "lat": 14.6,
+              "lon": -61.06666667
+            }
+          }
+        ]
+      },
+      {
+        "year": 1802,
+        "text": "Henry Hacking killed the Aboriginal Australian resistance fighter Pemulwuy after Philip Gidley King ordered that he be brought in dead or alive.",
+        "relatedPages": [
+          {
+            "title": "Henry Hacking",
+            "url": "https://en.wikipedia.org/wiki/Henry_Hacking",
+            "coordinates": null
+          },
+          {
+            "title": "Aboriginal Australians",
+            "url": "https://en.wikipedia.org/wiki/Aboriginal_Australians",
+            "coordinates": null
+          },
+          {
+            "title": "Pemulwuy",
+            "url": "https://en.wikipedia.org/wiki/Pemulwuy",
+            "coordinates": null
+          },
+          {
+            "title": "Philip Gidley King",
+            "url": "https://en.wikipedia.org/wiki/Philip_Gidley_King",
+            "coordinates": null
+          }
+        ]
+      }
+    ]
+  }
+}

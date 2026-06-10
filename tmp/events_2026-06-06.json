@@ -1,0 +1,487 @@
+{
+  "date": "2026-06-06",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/06",
+  "sections": {
+    "selected": [
+      {
+        "year": 2021,
+        "text": "A man rammed a pickup truck into Muslim Pakistani Canadian pedestrians in Ontario, Canada, killing 4 members of the same family and injuring the family's nine year old son.",
+        "relatedPages": [
+          {
+            "title": "2021 London, Ontario, truck attack",
+            "url": "https://en.wikipedia.org/wiki/2021_London%2C_Ontario%2C_truck_attack",
+            "coordinates": null
+          },
+          {
+            "title": "Ontario",
+            "url": "https://en.wikipedia.org/wiki/Ontario",
+            "coordinates": {
+              "lat": 49.25,
+              "lon": -84.5
+            }
+          },
+          {
+            "title": "Canada",
+            "url": "https://en.wikipedia.org/wiki/Canada",
+            "coordinates": {
+              "lat": 60,
+              "lon": -110
+            }
+          }
+        ]
+      },
+      {
+        "year": 2017,
+        "text": "Syrian civil war: The Syrian Democratic Forces (soldiers pictured) opened the Second Battle of Raqqa, the final phase of the Raqqa campaign, capturing the de facto capital of the Islamic State four months later.",
+        "relatedPages": [
+          {
+            "title": "Syrian civil war",
+            "url": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+            "coordinates": null
+          },
+          {
+            "title": "Syrian Democratic Forces",
+            "url": "https://en.wikipedia.org/wiki/Syrian_Democratic_Forces",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Raqqa (2017)",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Raqqa_(2017)",
+            "coordinates": {
+              "lat": 35.95,
+              "lon": 39.0167
+            }
+          },
+          {
+            "title": "Raqqa campaign (2016–2017)",
+            "url": "https://en.wikipedia.org/wiki/Raqqa_campaign_(2016%E2%80%932017)",
+            "coordinates": {
+              "lat": 35.95,
+              "lon": 39.01
+            }
+          },
+          {
+            "title": "Islamic State",
+            "url": "https://en.wikipedia.org/wiki/Islamic_State",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1985,
+        "text": "The remains of Josef Mengele, a Nazi physician notorious for performing human experiments on Auschwitz inmates, were exhumed in Embu das Artes, Brazil.",
+        "relatedPages": [
+          {
+            "title": "Josef Mengele",
+            "url": "https://en.wikipedia.org/wiki/Josef_Mengele",
+            "coordinates": null
+          },
+          {
+            "title": "Nazi human experimentation",
+            "url": "https://en.wikipedia.org/wiki/Nazi_human_experimentation",
+            "coordinates": null
+          },
+          {
+            "title": "Auschwitz concentration camp",
+            "url": "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp",
+            "coordinates": {
+              "lat": 50.03583333,
+              "lon": 19.17833333
+            }
+          },
+          {
+            "title": "Embu das Artes",
+            "url": "https://en.wikipedia.org/wiki/Embu_das_Artes",
+            "coordinates": {
+              "lat": -23.64888889,
+              "lon": -46.85194444
+            }
+          }
+        ]
+      },
+      {
+        "year": 1982,
+        "text": "Falklands War: The Royal Navy destroyer HMS Cardiff engaged and destroyed a British Army helicopter in a friendly-fire incident.",
+        "relatedPages": [
+          {
+            "title": "Falklands War",
+            "url": "https://en.wikipedia.org/wiki/Falklands_War",
+            "coordinates": null
+          },
+          {
+            "title": "Royal Navy",
+            "url": "https://en.wikipedia.org/wiki/Royal_Navy",
+            "coordinates": null
+          },
+          {
+            "title": "HMS Cardiff (D108)",
+            "url": "https://en.wikipedia.org/wiki/HMS_Cardiff_(D108)",
+            "coordinates": null
+          },
+          {
+            "title": "1982 British Army Gazelle friendly fire incident",
+            "url": "https://en.wikipedia.org/wiki/1982_British_Army_Gazelle_friendly_fire_incident",
+            "coordinates": {
+              "lat": -51.78361111,
+              "lon": -58.46777778
+            }
+          }
+        ]
+      },
+      {
+        "year": 1971,
+        "text": "Hughes Airwest Flight 706 collided with a US Marine Corps jet near Duarte, California, killing 50 people.",
+        "relatedPages": [
+          {
+            "title": "Hughes Airwest Flight 706",
+            "url": "https://en.wikipedia.org/wiki/Hughes_Airwest_Flight_706",
+            "coordinates": {
+              "lat": 34.175,
+              "lon": -118
+            }
+          },
+          {
+            "title": "United States Marine Corps",
+            "url": "https://en.wikipedia.org/wiki/United_States_Marine_Corps",
+            "coordinates": null
+          },
+          {
+            "title": "Duarte, California",
+            "url": "https://en.wikipedia.org/wiki/Duarte%2C_California",
+            "coordinates": {
+              "lat": 34.14027778,
+              "lon": -117.96166667
+            }
+          }
+        ]
+      },
+      {
+        "year": 1971,
+        "text": "Vietnam War: Australian forces attacked a heavily fortified North Vietnamese base camp at the Battle of Long Khánh.",
+        "relatedPages": [
+          {
+            "title": "Vietnam War",
+            "url": "https://en.wikipedia.org/wiki/Vietnam_War",
+            "coordinates": null
+          },
+          {
+            "title": "North Vietnam",
+            "url": "https://en.wikipedia.org/wiki/North_Vietnam",
+            "coordinates": {
+              "lat": 21.02833333,
+              "lon": 105.85416667
+            }
+          },
+          {
+            "title": "Battle of Long Khánh",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Long_Kh%C3%A1nh",
+            "coordinates": {
+              "lat": 11.1103,
+              "lon": 107.1811
+            }
+          }
+        ]
+      },
+      {
+        "year": 1944,
+        "text": "World War II: Operation Overlord, the largest amphibious military operation in history, began with Allied troops landing on the beaches of Normandy in France.",
+        "relatedPages": [
+          {
+            "title": "World War II",
+            "url": "https://en.wikipedia.org/wiki/World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "Operation Overlord",
+            "url": "https://en.wikipedia.org/wiki/Operation_Overlord",
+            "coordinates": {
+              "lat": 49.34,
+              "lon": -0.6
+            }
+          },
+          {
+            "title": "Allies of World War II",
+            "url": "https://en.wikipedia.org/wiki/Allies_of_World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "Normandy landings",
+            "url": "https://en.wikipedia.org/wiki/Normandy_landings",
+            "coordinates": {
+              "lat": 49.34,
+              "lon": -0.6
+            }
+          }
+        ]
+      },
+      {
+        "year": 1912,
+        "text": "The largest volcanic eruption of the 20th century began, forming the volcano Novarupta in the Alaska Peninsula.",
+        "relatedPages": [
+          {
+            "title": "Novarupta",
+            "url": "https://en.wikipedia.org/wiki/Novarupta",
+            "coordinates": {
+              "lat": 58.26666667,
+              "lon": -155.15666667
+            }
+          },
+          {
+            "title": "Alaska Peninsula",
+            "url": "https://en.wikipedia.org/wiki/Alaska_Peninsula",
+            "coordinates": {
+              "lat": 56.5,
+              "lon": -158.75
+            }
+          }
+        ]
+      },
+      {
+        "year": 1894,
+        "text": "Governor Davis Hanson Waite ordered the Colorado state militia to protect and support miners engaged in a five-month strike in Cripple Creek.",
+        "relatedPages": [
+          {
+            "title": "Davis Hanson Waite",
+            "url": "https://en.wikipedia.org/wiki/Davis_Hanson_Waite",
+            "coordinates": null
+          },
+          {
+            "title": "Colorado Army National Guard",
+            "url": "https://en.wikipedia.org/wiki/Colorado_Army_National_Guard",
+            "coordinates": null
+          },
+          {
+            "title": "Cripple Creek miners' strike of 1894",
+            "url": "https://en.wikipedia.org/wiki/Cripple_Creek_miners'_strike_of_1894",
+            "coordinates": null
+          },
+          {
+            "title": "Cripple Creek, Colorado",
+            "url": "https://en.wikipedia.org/wiki/Cripple_Creek%2C_Colorado",
+            "coordinates": {
+              "lat": 38.7467,
+              "lon": -105.1783
+            }
+          }
+        ]
+      },
+      {
+        "year": 1882,
+        "text": "The Shewan army defeated Gojjame forces at the Battle of Embabo, an event that contributed to the supremacy of Shewa within the Ethiopian Empire.",
+        "relatedPages": [
+          {
+            "title": "Shewa",
+            "url": "https://en.wikipedia.org/wiki/Shewa",
+            "coordinates": {
+              "lat": 9,
+              "lon": 39
+            }
+          },
+          {
+            "title": "Gojjam",
+            "url": "https://en.wikipedia.org/wiki/Gojjam",
+            "coordinates": {
+              "lat": 11,
+              "lon": 37
+            }
+          },
+          {
+            "title": "Battle of Embabo",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Embabo",
+            "coordinates": {
+              "lat": 9.73472222,
+              "lon": 37.56527778
+            }
+          },
+          {
+            "title": "Ethiopian Empire",
+            "url": "https://en.wikipedia.org/wiki/Ethiopian_Empire",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1862,
+        "text": "American Civil War: The Union Army's victory in the First Battle of Memphis virtually eradicated the Confederate naval presence on the Mississippi River.",
+        "relatedPages": [
+          {
+            "title": "American Civil War",
+            "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+            "coordinates": null
+          },
+          {
+            "title": "Union army",
+            "url": "https://en.wikipedia.org/wiki/Union_army",
+            "coordinates": null
+          },
+          {
+            "title": "First Battle of Memphis",
+            "url": "https://en.wikipedia.org/wiki/First_Battle_of_Memphis",
+            "coordinates": {
+              "lat": 35.1291,
+              "lon": -90.1558
+            }
+          },
+          {
+            "title": "Confederate States Army",
+            "url": "https://en.wikipedia.org/wiki/Confederate_States_Army",
+            "coordinates": null
+          },
+          {
+            "title": "Mississippi River",
+            "url": "https://en.wikipedia.org/wiki/Mississippi_River",
+            "coordinates": {
+              "lat": 29.15111111,
+              "lon": -89.25333333
+            }
+          }
+        ]
+      },
+      {
+        "year": 1822,
+        "text": "Alexis St. Martin, a Canadian voyageur, was accidentally shot in the stomach; medical investigations of his injury led to a greater understanding of the processes of digestion.",
+        "relatedPages": [
+          {
+            "title": "Alexis St. Martin",
+            "url": "https://en.wikipedia.org/wiki/Alexis_St._Martin",
+            "coordinates": null
+          },
+          {
+            "title": "Coureur des bois",
+            "url": "https://en.wikipedia.org/wiki/Coureur_des_bois",
+            "coordinates": null
+          },
+          {
+            "title": "Digestion",
+            "url": "https://en.wikipedia.org/wiki/Digestion",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1813,
+        "text": "War of 1812: The British ambushed an American encampment near present-day Stoney Creek, Ontario, capturing two senior officers.",
+        "relatedPages": [
+          {
+            "title": "War of 1812",
+            "url": "https://en.wikipedia.org/wiki/War_of_1812",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Stoney Creek",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Stoney_Creek",
+            "coordinates": {
+              "lat": 43.21833333,
+              "lon": -79.76416667
+            }
+          },
+          {
+            "title": "Stoney Creek, Ontario",
+            "url": "https://en.wikipedia.org/wiki/Stoney_Creek%2C_Ontario",
+            "coordinates": {
+              "lat": 43.2164,
+              "lon": -79.755
+            }
+          }
+        ]
+      },
+      {
+        "year": 1749,
+        "text": "A plot by Muslim slaves in Malta to assassinate Manuel Pinto da Fonseca of the Knights Hospitaller was uncovered.",
+        "relatedPages": [
+          {
+            "title": "1749 Muslim slave revolt plot in Malta",
+            "url": "https://en.wikipedia.org/wiki/1749_Muslim_slave_revolt_plot_in_Malta",
+            "coordinates": {
+              "lat": 35.89861111,
+              "lon": 14.51416667
+            }
+          },
+          {
+            "title": "Manuel Pinto da Fonseca",
+            "url": "https://en.wikipedia.org/wiki/Manuel_Pinto_da_Fonseca",
+            "coordinates": null
+          },
+          {
+            "title": "Knights Hospitaller",
+            "url": "https://en.wikipedia.org/wiki/Knights_Hospitaller",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1674,
+        "text": "Shivaji (pictured), who led a resistance to free the Maratha from the Bijapur Sultanate and the Mughal Empire, was crowned the first chhatrapati of the Maratha Empire.",
+        "relatedPages": [
+          {
+            "title": "Shivaji",
+            "url": "https://en.wikipedia.org/wiki/Shivaji",
+            "coordinates": null
+          },
+          {
+            "title": "Maratha (caste)",
+            "url": "https://en.wikipedia.org/wiki/Maratha_(caste)",
+            "coordinates": null
+          },
+          {
+            "title": "Sultanate of Bijapur",
+            "url": "https://en.wikipedia.org/wiki/Sultanate_of_Bijapur",
+            "coordinates": null
+          },
+          {
+            "title": "Mughal Empire",
+            "url": "https://en.wikipedia.org/wiki/Mughal_Empire",
+            "coordinates": null
+          },
+          {
+            "title": "Chhatrapati",
+            "url": "https://en.wikipedia.org/wiki/Chhatrapati",
+            "coordinates": null
+          },
+          {
+            "title": "Maratha Empire",
+            "url": "https://en.wikipedia.org/wiki/Maratha_Empire",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1513,
+        "text": "War of the League of Cambrai: Milanese forces with Swiss mercenaries defeated the French in Novara, forcing them to withdraw from the Duchy of Milan and Italy.",
+        "relatedPages": [
+          {
+            "title": "War of the League of Cambrai",
+            "url": "https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai",
+            "coordinates": null
+          },
+          {
+            "title": "Swiss mercenaries",
+            "url": "https://en.wikipedia.org/wiki/Swiss_mercenaries",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Novara (1513)",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Novara_(1513)",
+            "coordinates": {
+              "lat": 45.435,
+              "lon": 8.72
+            }
+          },
+          {
+            "title": "Novara",
+            "url": "https://en.wikipedia.org/wiki/Novara",
+            "coordinates": {
+              "lat": 45.45,
+              "lon": 8.62
+            }
+          },
+          {
+            "title": "Duchy of Milan",
+            "url": "https://en.wikipedia.org/wiki/Duchy_of_Milan",
+            "coordinates": null
+          }
+        ]
+      }
+    ]
+  }
+}

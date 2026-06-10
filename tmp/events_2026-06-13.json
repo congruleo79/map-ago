@@ -1,0 +1,426 @@
+{
+  "date": "2026-06-13",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/13",
+  "sections": {
+    "selected": [
+      {
+        "year": 2013,
+        "text": "Some of the closest advisors and collaborators of Czech prime minister Petr Nečas were arrested for corruption.",
+        "relatedPages": [
+          {
+            "title": "Petr Nečas",
+            "url": "https://en.wikipedia.org/wiki/Petr_Ne%C4%8Das",
+            "coordinates": null
+          },
+          {
+            "title": "2013 Czech political corruption scandal",
+            "url": "https://en.wikipedia.org/wiki/2013_Czech_political_corruption_scandal",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 2011,
+        "text": "A 6.0 Mw earthquake caused up to NZ$6 billion of additional damage to Christchurch, New Zealand, which was still recovering from an earthquake four months earlier.",
+        "relatedPages": [
+          {
+            "title": "June 2011 Christchurch earthquake",
+            "url": "https://en.wikipedia.org/wiki/June_2011_Christchurch_earthquake",
+            "coordinates": {
+              "lat": -43.57,
+              "lon": 172.74
+            }
+          },
+          {
+            "title": "Christchurch",
+            "url": "https://en.wikipedia.org/wiki/Christchurch",
+            "coordinates": {
+              "lat": -43.5311,
+              "lon": 172.6361
+            }
+          },
+          {
+            "title": "2011 Christchurch earthquake",
+            "url": "https://en.wikipedia.org/wiki/2011_Christchurch_earthquake",
+            "coordinates": {
+              "lat": -43.583,
+              "lon": 172.68
+            }
+          }
+        ]
+      },
+      {
+        "year": 2007,
+        "text": "Insurgents carried out a second bombing at the al-Askari Mosque, one of the holiest sites in Shia Islam.",
+        "relatedPages": [
+          {
+            "title": "2007 al-Askari mosque bombing",
+            "url": "https://en.wikipedia.org/wiki/2007_al-Askari_mosque_bombing",
+            "coordinates": {
+              "lat": 34.19888889,
+              "lon": 43.87361111
+            }
+          },
+          {
+            "title": "Al-Askari Shrine",
+            "url": "https://en.wikipedia.org/wiki/Al-Askari_Shrine",
+            "coordinates": {
+              "lat": 34.1989,
+              "lon": 43.8735
+            }
+          },
+          {
+            "title": "Shia Islam",
+            "url": "https://en.wikipedia.org/wiki/Shia_Islam",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1983,
+        "text": "Pioneer 10 passed the orbit of Neptune, becoming the first man-made object to leave the proximity of the major planets of the Solar System.",
+        "relatedPages": [
+          {
+            "title": "Pioneer 10",
+            "url": "https://en.wikipedia.org/wiki/Pioneer_10",
+            "coordinates": null
+          },
+          {
+            "title": "Solar System",
+            "url": "https://en.wikipedia.org/wiki/Solar_System",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1981,
+        "text": "English teenager Marcus Sarjeant fired six blanks at Queen Elizabeth II as she rode down The Mall to the Trooping the Colour ceremony.",
+        "relatedPages": [
+          {
+            "title": "Marcus Sarjeant",
+            "url": "https://en.wikipedia.org/wiki/Marcus_Sarjeant",
+            "coordinates": null
+          },
+          {
+            "title": "Blank (cartridge)",
+            "url": "https://en.wikipedia.org/wiki/Blank_(cartridge)",
+            "coordinates": null
+          },
+          {
+            "title": "Elizabeth II",
+            "url": "https://en.wikipedia.org/wiki/Elizabeth_II",
+            "coordinates": null
+          },
+          {
+            "title": "The Mall, London",
+            "url": "https://en.wikipedia.org/wiki/The_Mall%2C_London",
+            "coordinates": {
+              "lat": 51.50416667,
+              "lon": -0.13527778
+            }
+          },
+          {
+            "title": "Trooping the Colour",
+            "url": "https://en.wikipedia.org/wiki/Trooping_the_Colour",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1971,
+        "text": "The New York Times published the first excerpts from the Pentagon Papers, a 7,000-page classified Department of Defense history of the United States' political and military involvement in the Vietnam War.",
+        "relatedPages": [
+          {
+            "title": "The New York Times",
+            "url": "https://en.wikipedia.org/wiki/The_New_York_Times",
+            "coordinates": null
+          },
+          {
+            "title": "Pentagon Papers",
+            "url": "https://en.wikipedia.org/wiki/Pentagon_Papers",
+            "coordinates": null
+          },
+          {
+            "title": "United States Department of Defense",
+            "url": "https://en.wikipedia.org/wiki/United_States_Department_of_Defense",
+            "coordinates": {
+              "lat": 38.87111111,
+              "lon": -77.05583333
+            }
+          },
+          {
+            "title": "Vietnam War",
+            "url": "https://en.wikipedia.org/wiki/Vietnam_War",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1970,
+        "text": "\"The Long and Winding Road\" became the Beatles' twentieth and final number-one single on the Billboard Hot 100 chart.",
+        "relatedPages": [
+          {
+            "title": "The Long and Winding Road",
+            "url": "https://en.wikipedia.org/wiki/The_Long_and_Winding_Road",
+            "coordinates": null
+          },
+          {
+            "title": "The Beatles",
+            "url": "https://en.wikipedia.org/wiki/The_Beatles",
+            "coordinates": null
+          },
+          {
+            "title": "Billboard Hot 100",
+            "url": "https://en.wikipedia.org/wiki/Billboard_Hot_100",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1969,
+        "text": "Preston Smith, Governor of Texas, signed a law converting a research arm of Texas Instruments into the University of Texas at Dallas.",
+        "relatedPages": [
+          {
+            "title": "Preston Smith (governor)",
+            "url": "https://en.wikipedia.org/wiki/Preston_Smith_(governor)",
+            "coordinates": null
+          },
+          {
+            "title": "Texas Instruments",
+            "url": "https://en.wikipedia.org/wiki/Texas_Instruments",
+            "coordinates": {
+              "lat": 32.911,
+              "lon": -96.7523
+            }
+          },
+          {
+            "title": "University of Texas at Dallas",
+            "url": "https://en.wikipedia.org/wiki/University_of_Texas_at_Dallas",
+            "coordinates": {
+              "lat": 32.985,
+              "lon": -96.75
+            }
+          }
+        ]
+      },
+      {
+        "year": 1952,
+        "text": "Soviet aircraft shot down a Swedish military plane carrying out signals-intelligence gathering operations, followed three days later by the shootdown of a second plane searching for the first one.",
+        "relatedPages": [
+          {
+            "title": "Catalina affair",
+            "url": "https://en.wikipedia.org/wiki/Catalina_affair",
+            "coordinates": {
+              "lat": 58.39194444,
+              "lon": 20.29111111
+            }
+          },
+          {
+            "title": "Signals intelligence",
+            "url": "https://en.wikipedia.org/wiki/Signals_intelligence",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1944,
+        "text": "Second World War: At the Battle of Villers-Bocage, German tank commander Michael Wittmann destroyed around 30 Allied vehicles in less than 15 minutes.",
+        "relatedPages": [
+          {
+            "title": "World War II",
+            "url": "https://en.wikipedia.org/wiki/World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Villers-Bocage",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Villers-Bocage",
+            "coordinates": {
+              "lat": 49.08055556,
+              "lon": -0.65611111
+            }
+          },
+          {
+            "title": "Michael Wittmann",
+            "url": "https://en.wikipedia.org/wiki/Michael_Wittmann",
+            "coordinates": null
+          },
+          {
+            "title": "Allies of World War II",
+            "url": "https://en.wikipedia.org/wiki/Allies_of_World_War_II",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1935,
+        "text": "In one of the biggest upsets in championship boxing, the underdog James J. Braddock defeated Max Baer to become the heavyweight champion of the world.",
+        "relatedPages": [
+          {
+            "title": "Boxing",
+            "url": "https://en.wikipedia.org/wiki/Boxing",
+            "coordinates": null
+          },
+          {
+            "title": "James J. Braddock",
+            "url": "https://en.wikipedia.org/wiki/James_J._Braddock",
+            "coordinates": null
+          },
+          {
+            "title": "Max Baer (boxer)",
+            "url": "https://en.wikipedia.org/wiki/Max_Baer_(boxer)",
+            "coordinates": null
+          },
+          {
+            "title": "List of world heavyweight boxing champions",
+            "url": "https://en.wikipedia.org/wiki/List_of_world_heavyweight_boxing_champions",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1916,
+        "text": "World War I: The Battle of Mont Sorrel in the Ypres Salient came to an end as a Canadian assault led German forces to withdraw to their original lines.",
+        "relatedPages": [
+          {
+            "title": "World War I",
+            "url": "https://en.wikipedia.org/wiki/World_War_I",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Mont Sorrel",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Mont_Sorrel",
+            "coordinates": {
+              "lat": 50.82722222,
+              "lon": 2.94194444
+            }
+          },
+          {
+            "title": "Ypres Salient",
+            "url": "https://en.wikipedia.org/wiki/Ypres_Salient",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1881,
+        "text": "The Jeannette expedition to reach the North Pole from the Pacific Ocean via the Bering Strait came to an end when the USS Jeannette (pictured), after having been trapped in ice for almost two years, was crushed and sank.",
+        "relatedPages": [
+          {
+            "title": "Jeannette expedition",
+            "url": "https://en.wikipedia.org/wiki/Jeannette_expedition",
+            "coordinates": null
+          },
+          {
+            "title": "Bering Strait",
+            "url": "https://en.wikipedia.org/wiki/Bering_Strait",
+            "coordinates": {
+              "lat": 65.75,
+              "lon": -168.97694444
+            }
+          },
+          {
+            "title": "USS Jeannette (1878)",
+            "url": "https://en.wikipedia.org/wiki/USS_Jeannette_(1878)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1850,
+        "text": "The American League of Colored Laborers, one of the first labor unions for African Americans, was established in New York City.",
+        "relatedPages": [
+          {
+            "title": "American League of Colored Laborers",
+            "url": "https://en.wikipedia.org/wiki/American_League_of_Colored_Laborers",
+            "coordinates": null
+          },
+          {
+            "title": "African Americans",
+            "url": "https://en.wikipedia.org/wiki/African_Americans",
+            "coordinates": null
+          },
+          {
+            "title": "New York City",
+            "url": "https://en.wikipedia.org/wiki/New_York_City",
+            "coordinates": {
+              "lat": 40.7128,
+              "lon": -74.0061
+            }
+          }
+        ]
+      },
+      {
+        "year": 1805,
+        "text": "Lewis and Clark Expedition: Meriwether Lewis became the first white American to sight the Great Falls of the Missouri River.",
+        "relatedPages": [
+          {
+            "title": "Lewis and Clark Expedition",
+            "url": "https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition",
+            "coordinates": null
+          },
+          {
+            "title": "Meriwether Lewis",
+            "url": "https://en.wikipedia.org/wiki/Meriwether_Lewis",
+            "coordinates": null
+          },
+          {
+            "title": "Great Falls (Missouri River)",
+            "url": "https://en.wikipedia.org/wiki/Great_Falls_(Missouri_River)",
+            "coordinates": {
+              "lat": 47.57,
+              "lon": -111.12305556
+            }
+          },
+          {
+            "title": "Missouri River",
+            "url": "https://en.wikipedia.org/wiki/Missouri_River",
+            "coordinates": {
+              "lat": 38.81361111,
+              "lon": -90.11972222
+            }
+          }
+        ]
+      },
+      {
+        "year": 1525,
+        "text": "Martin Luther married Katharina von Bora, beginning the practice of clerical marriage in Protestantism.",
+        "relatedPages": [
+          {
+            "title": "Martin Luther",
+            "url": "https://en.wikipedia.org/wiki/Martin_Luther",
+            "coordinates": null
+          },
+          {
+            "title": "Katharina von Bora",
+            "url": "https://en.wikipedia.org/wiki/Katharina_von_Bora",
+            "coordinates": null
+          },
+          {
+            "title": "Clerical marriage",
+            "url": "https://en.wikipedia.org/wiki/Clerical_marriage",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1514,
+        "text": "Henry Grace à Dieu, the largest warship ever built at the time, was launched from Woolwich Dockyard, England.",
+        "relatedPages": [
+          {
+            "title": "Henry Grace à Dieu",
+            "url": "https://en.wikipedia.org/wiki/Henry_Grace_%C3%A0_Dieu",
+            "coordinates": null
+          },
+          {
+            "title": "Woolwich Dockyard",
+            "url": "https://en.wikipedia.org/wiki/Woolwich_Dockyard",
+            "coordinates": {
+              "lat": 51.49444444,
+              "lon": 0.05611111
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

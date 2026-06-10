@@ -1,0 +1,462 @@
+{
+  "date": "2026-05-31",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/05/31",
+  "sections": {
+    "selected": [
+      {
+        "year": 2019,
+        "text": "A shooting at a municipal building in Virginia Beach, United States, left 13 people dead, including the gunman, and injured four others.",
+        "relatedPages": [
+          {
+            "title": "2019 Virginia Beach shooting",
+            "url": "https://en.wikipedia.org/wiki/2019_Virginia_Beach_shooting",
+            "coordinates": {
+              "lat": 36.7509,
+              "lon": -76.0575
+            }
+          },
+          {
+            "title": "Virginia Beach, Virginia",
+            "url": "https://en.wikipedia.org/wiki/Virginia_Beach%2C_Virginia",
+            "coordinates": {
+              "lat": 36.85,
+              "lon": -75.97777778
+            }
+          }
+        ]
+      },
+      {
+        "year": 2017,
+        "text": "A car bomb exploded near the German embassy in Kabul, Afghanistan, killing more than 90 people and injuring 463 others.",
+        "relatedPages": [
+          {
+            "title": "May 2017 Kabul bombing",
+            "url": "https://en.wikipedia.org/wiki/May_2017_Kabul_bombing",
+            "coordinates": null
+          },
+          {
+            "title": "Kabul",
+            "url": "https://en.wikipedia.org/wiki/Kabul",
+            "coordinates": {
+              "lat": 34.52527778,
+              "lon": 69.17833333
+            }
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "text": "An extremely large, powerful, and erratic tornado struck Central Oklahoma, killing eight people and injuring more than 150 others.",
+        "relatedPages": [
+          {
+            "title": "2013 El Reno tornado",
+            "url": "https://en.wikipedia.org/wiki/2013_El_Reno_tornado",
+            "coordinates": {
+              "lat": 35.4792,
+              "lon": -97.9
+            }
+          },
+          {
+            "title": "Central Oklahoma",
+            "url": "https://en.wikipedia.org/wiki/Central_Oklahoma",
+            "coordinates": {
+              "lat": 35.5,
+              "lon": -97.5
+            }
+          }
+        ]
+      },
+      {
+        "year": 2009,
+        "text": "American physician George Tiller, one of the few doctors in the country who performed late-term abortions, was shot and killed by Scott Roeder, an anti-abortion activist.",
+        "relatedPages": [
+          {
+            "title": "George Tiller",
+            "url": "https://en.wikipedia.org/wiki/George_Tiller",
+            "coordinates": null
+          },
+          {
+            "title": "Late termination of pregnancy",
+            "url": "https://en.wikipedia.org/wiki/Late_termination_of_pregnancy",
+            "coordinates": null
+          },
+          {
+            "title": "Murder of George Tiller",
+            "url": "https://en.wikipedia.org/wiki/Murder_of_George_Tiller",
+            "coordinates": {
+              "lat": 37.70784,
+              "lon": -97.24883
+            }
+          },
+          {
+            "title": "Anti-abortion movements",
+            "url": "https://en.wikipedia.org/wiki/Anti-abortion_movements",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1981,
+        "text": "An organized mob of police and government-sponsored Sinhalese paramilitary forces began three days of attacks that led to the burning of the Jaffna Public Library (renovated building pictured) in Sri Lanka, destroying more than 97,000 items in one of the most violent 20th-century examples of ethnic biblioclasm.",
+        "relatedPages": [
+          {
+            "title": "Sinhalese people",
+            "url": "https://en.wikipedia.org/wiki/Sinhalese_people",
+            "coordinates": null
+          },
+          {
+            "title": "Burning of the Jaffna Public Library",
+            "url": "https://en.wikipedia.org/wiki/Burning_of_the_Jaffna_Public_Library",
+            "coordinates": {
+              "lat": 9.6621,
+              "lon": 80.0118
+            }
+          },
+          {
+            "title": "Book burning",
+            "url": "https://en.wikipedia.org/wiki/Book_burning",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1941,
+        "text": "World War II: German forces dropped four bombs on neutral Ireland, killing 28 people and damaging Áras an Uachtaráin, the residence of the President of Ireland.",
+        "relatedPages": [
+          {
+            "title": "World War II",
+            "url": "https://en.wikipedia.org/wiki/World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "Bombing of Dublin in World War II",
+            "url": "https://en.wikipedia.org/wiki/Bombing_of_Dublin_in_World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "Áras an Uachtaráin",
+            "url": "https://en.wikipedia.org/wiki/%C3%81ras_an_Uachtar%C3%A1in",
+            "coordinates": null
+          },
+          {
+            "title": "President of Ireland",
+            "url": "https://en.wikipedia.org/wiki/President_of_Ireland",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1935,
+        "text": "A magnitude-7.7 earthquake struck Balochistan in British India, now part of Pakistan, killing between 30,000 and 60,000 people",
+        "relatedPages": [
+          {
+            "title": "1935 Quetta earthquake",
+            "url": "https://en.wikipedia.org/wiki/1935_Quetta_earthquake",
+            "coordinates": {
+              "lat": 29.5,
+              "lon": 66.8
+            }
+          },
+          {
+            "title": "Baluchistan (Chief Commissioner's Province)",
+            "url": "https://en.wikipedia.org/wiki/Baluchistan_(Chief_Commissioner's_Province)",
+            "coordinates": {
+              "lat": 28,
+              "lon": 66
+            }
+          },
+          {
+            "title": "British Raj",
+            "url": "https://en.wikipedia.org/wiki/British_Raj",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1902,
+        "text": "The Second Boer War came to an end with the signing of the Treaty of Vereeniging in Pretoria, South Africa.",
+        "relatedPages": [
+          {
+            "title": "Second Boer War",
+            "url": "https://en.wikipedia.org/wiki/Second_Boer_War",
+            "coordinates": null
+          },
+          {
+            "title": "Treaty of Vereeniging",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Vereeniging",
+            "coordinates": null
+          },
+          {
+            "title": "Pretoria",
+            "url": "https://en.wikipedia.org/wiki/Pretoria",
+            "coordinates": {
+              "lat": -25.74611111,
+              "lon": 28.18805556
+            }
+          }
+        ]
+      },
+      {
+        "year": 1890,
+        "text": "Ulm Minster, the world's tallest church building, was completed in Ulm, Germany.",
+        "relatedPages": [
+          {
+            "title": "Ulm Minster",
+            "url": "https://en.wikipedia.org/wiki/Ulm_Minster",
+            "coordinates": {
+              "lat": 48.39861111,
+              "lon": 9.9925
+            }
+          },
+          {
+            "title": "Ulm",
+            "url": "https://en.wikipedia.org/wiki/Ulm",
+            "coordinates": {
+              "lat": 48.4,
+              "lon": 9.98333333
+            }
+          }
+        ]
+      },
+      {
+        "year": 1862,
+        "text": "American Civil War: Confederate troops under Joseph E. Johnston and G. W. Smith engaged Union forces under George B. McClellan at the Battle of Seven Pines outside Richmond, Virginia.",
+        "relatedPages": [
+          {
+            "title": "American Civil War",
+            "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+            "coordinates": null
+          },
+          {
+            "title": "Confederate States of America",
+            "url": "https://en.wikipedia.org/wiki/Confederate_States_of_America",
+            "coordinates": null
+          },
+          {
+            "title": "Joseph E. Johnston",
+            "url": "https://en.wikipedia.org/wiki/Joseph_E._Johnston",
+            "coordinates": null
+          },
+          {
+            "title": "Gustavus Woodson Smith",
+            "url": "https://en.wikipedia.org/wiki/Gustavus_Woodson_Smith",
+            "coordinates": null
+          },
+          {
+            "title": "Union (American Civil War)",
+            "url": "https://en.wikipedia.org/wiki/Union_(American_Civil_War)",
+            "coordinates": null
+          },
+          {
+            "title": "George B. McClellan",
+            "url": "https://en.wikipedia.org/wiki/George_B._McClellan",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Seven Pines",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Seven_Pines",
+            "coordinates": {
+              "lat": 37.52055556,
+              "lon": -77.30194444
+            }
+          },
+          {
+            "title": "Richmond, Virginia",
+            "url": "https://en.wikipedia.org/wiki/Richmond%2C_Virginia",
+            "coordinates": {
+              "lat": 37.54083333,
+              "lon": -77.43666667
+            }
+          }
+        ]
+      },
+      {
+        "year": 1775,
+        "text": "American Revolution: The Committee of Safety of Mecklenburg County, North Carolina, adopted the Mecklenburg Resolves, which annulled and vacated all laws originating from the authority of the king or the Parliament of Great Britain.",
+        "relatedPages": [
+          {
+            "title": "American Revolution",
+            "url": "https://en.wikipedia.org/wiki/American_Revolution",
+            "coordinates": null
+          },
+          {
+            "title": "Committee of safety (American Revolution)",
+            "url": "https://en.wikipedia.org/wiki/Committee_of_safety_(American_Revolution)",
+            "coordinates": null
+          },
+          {
+            "title": "Mecklenburg County, North Carolina",
+            "url": "https://en.wikipedia.org/wiki/Mecklenburg_County%2C_North_Carolina",
+            "coordinates": {
+              "lat": 35.25,
+              "lon": -80.83
+            }
+          },
+          {
+            "title": "Mecklenburg Resolves",
+            "url": "https://en.wikipedia.org/wiki/Mecklenburg_Resolves",
+            "coordinates": null
+          },
+          {
+            "title": "Parliament of Great Britain",
+            "url": "https://en.wikipedia.org/wiki/Parliament_of_Great_Britain",
+            "coordinates": {
+              "lat": 51.49916667,
+              "lon": -0.12472222
+            }
+          }
+        ]
+      },
+      {
+        "year": 1468,
+        "text": "Cardinal Bessarion announced his donation of 746 Greek and Latin codices to the Republic of Venice, forming the Biblioteca Marciana.",
+        "relatedPages": [
+          {
+            "title": "Bessarion",
+            "url": "https://en.wikipedia.org/wiki/Bessarion",
+            "coordinates": null
+          },
+          {
+            "title": "Codex",
+            "url": "https://en.wikipedia.org/wiki/Codex",
+            "coordinates": null
+          },
+          {
+            "title": "Republic of Venice",
+            "url": "https://en.wikipedia.org/wiki/Republic_of_Venice",
+            "coordinates": null
+          },
+          {
+            "title": "Biblioteca Marciana",
+            "url": "https://en.wikipedia.org/wiki/Biblioteca_Marciana",
+            "coordinates": {
+              "lat": 45.43333333,
+              "lon": 12.33916667
+            }
+          }
+        ]
+      },
+      {
+        "year": 1293,
+        "text": "Majapahit forces under Raden Wijaya won a major victory in the Mongol invasion of Java, now considered to be the founding date of the Indonesian city of Surabaya.",
+        "relatedPages": [
+          {
+            "title": "Majapahit",
+            "url": "https://en.wikipedia.org/wiki/Majapahit",
+            "coordinates": null
+          },
+          {
+            "title": "Raden Wijaya",
+            "url": "https://en.wikipedia.org/wiki/Raden_Wijaya",
+            "coordinates": null
+          },
+          {
+            "title": "Mongol invasion of Java",
+            "url": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Java",
+            "coordinates": null
+          },
+          {
+            "title": "Surabaya",
+            "url": "https://en.wikipedia.org/wiki/Surabaya",
+            "coordinates": {
+              "lat": -7.24583333,
+              "lon": 112.73777778
+            }
+          }
+        ]
+      },
+      {
+        "year": 1223,
+        "text": "Mongol invasion of Kievan Rus': Mongol forces defeated a Kievan Rus' army at the Battle of the Kalka River in present-day Ukraine.",
+        "relatedPages": [
+          {
+            "title": "Mongol invasion of Kievan Rus'",
+            "url": "https://en.wikipedia.org/wiki/Mongol_invasion_of_Kievan_Rus'",
+            "coordinates": null
+          },
+          {
+            "title": "Mongol Empire",
+            "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+            "coordinates": null
+          },
+          {
+            "title": "Kievan Rus'",
+            "url": "https://en.wikipedia.org/wiki/Kievan_Rus'",
+            "coordinates": {
+              "lat": 50.45,
+              "lon": 30.525
+            }
+          },
+          {
+            "title": "Battle of the Kalka River",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_the_Kalka_River",
+            "coordinates": {
+              "lat": 47.25083333,
+              "lon": 37.49555556
+            }
+          }
+        ]
+      },
+      {
+        "year": 1215,
+        "text": "A Mongol army under Genghis Khan captured Zhongdu (modern Beijing), the capital of the Jin dynasty of China.",
+        "relatedPages": [
+          {
+            "title": "Mongol Empire",
+            "url": "https://en.wikipedia.org/wiki/Mongol_Empire",
+            "coordinates": null
+          },
+          {
+            "title": "Genghis Khan",
+            "url": "https://en.wikipedia.org/wiki/Genghis_Khan",
+            "coordinates": null
+          },
+          {
+            "title": "Zhongdu",
+            "url": "https://en.wikipedia.org/wiki/Zhongdu",
+            "coordinates": null
+          },
+          {
+            "title": "Beijing",
+            "url": "https://en.wikipedia.org/wiki/Beijing",
+            "coordinates": {
+              "lat": 39.90666667,
+              "lon": 116.3975
+            }
+          },
+          {
+            "title": "Jin dynasty (1115–1234)",
+            "url": "https://en.wikipedia.org/wiki/Jin_dynasty_(1115%E2%80%931234)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 455,
+        "text": "Petronius Maximus, the ruler of the Western Roman Empire, was stoned to death by a mob as he fled Rome ahead of the arrival of a Vandal force that sacked the city.",
+        "relatedPages": [
+          {
+            "title": "Petronius Maximus",
+            "url": "https://en.wikipedia.org/wiki/Petronius_Maximus",
+            "coordinates": null
+          },
+          {
+            "title": "Western Roman Empire",
+            "url": "https://en.wikipedia.org/wiki/Western_Roman_Empire",
+            "coordinates": null
+          },
+          {
+            "title": "Vandals",
+            "url": "https://en.wikipedia.org/wiki/Vandals",
+            "coordinates": null
+          },
+          {
+            "title": "Sack of Rome (455)",
+            "url": "https://en.wikipedia.org/wiki/Sack_of_Rome_(455)",
+            "coordinates": null
+          }
+        ]
+      }
+    ]
+  }
+}

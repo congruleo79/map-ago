@@ -1,0 +1,443 @@
+{
+  "date": "2026-06-09",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/09",
+  "sections": {
+    "selected": [
+      {
+        "year": 2019,
+        "text": "Dominican-American retired baseball player David Ortiz  was shot and severely wounded while at a bar in Santo Domingo.",
+        "relatedPages": [
+          {
+            "title": "David Ortiz",
+            "url": "https://en.wikipedia.org/wiki/David_Ortiz",
+            "coordinates": null
+          },
+          {
+            "title": "Shooting of David Ortiz",
+            "url": "https://en.wikipedia.org/wiki/Shooting_of_David_Ortiz",
+            "coordinates": {
+              "lat": 18.488452,
+              "lon": -69.869243
+            }
+          },
+          {
+            "title": "Santo Domingo",
+            "url": "https://en.wikipedia.org/wiki/Santo_Domingo",
+            "coordinates": {
+              "lat": 18.4625,
+              "lon": -69.9361
+            }
+          }
+        ]
+      },
+      {
+        "year": 2010,
+        "text": "A child suicide bomber attacked a wedding in Nadahan, Afghanistan, killing at least 40 people and injuring at least 70 others.",
+        "relatedPages": [
+          {
+            "title": "Nadahan wedding bombing",
+            "url": "https://en.wikipedia.org/wiki/Nadahan_wedding_bombing",
+            "coordinates": {
+              "lat": 31.64666667,
+              "lon": 65.58638889
+            }
+          }
+        ]
+      },
+      {
+        "year": 1999,
+        "text": "Yugoslav Wars: The Kumanovo Agreement was signed, bringing an end to the Kosovo War the next day.",
+        "relatedPages": [
+          {
+            "title": "Yugoslav Wars",
+            "url": "https://en.wikipedia.org/wiki/Yugoslav_Wars",
+            "coordinates": null
+          },
+          {
+            "title": "Kumanovo Agreement",
+            "url": "https://en.wikipedia.org/wiki/Kumanovo_Agreement",
+            "coordinates": null
+          },
+          {
+            "title": "Kosovo War",
+            "url": "https://en.wikipedia.org/wiki/Kosovo_War",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1982,
+        "text": "Lebanon War: The Israeli Air Force carried out Operation Mole Cricket 19, successfully suppressing Syrian air defenses in the Beqaa Valley, Lebanon.",
+        "relatedPages": [
+          {
+            "title": "1982 Lebanon War",
+            "url": "https://en.wikipedia.org/wiki/1982_Lebanon_War",
+            "coordinates": null
+          },
+          {
+            "title": "Israeli Air Force",
+            "url": "https://en.wikipedia.org/wiki/Israeli_Air_Force",
+            "coordinates": null
+          },
+          {
+            "title": "Operation Mole Cricket 19",
+            "url": "https://en.wikipedia.org/wiki/Operation_Mole_Cricket_19",
+            "coordinates": null
+          },
+          {
+            "title": "Beqaa Valley",
+            "url": "https://en.wikipedia.org/wiki/Beqaa_Valley",
+            "coordinates": {
+              "lat": 34.00888889,
+              "lon": 36.14527778
+            }
+          }
+        ]
+      },
+      {
+        "year": 1973,
+        "text": "The racehorse Secretariat, of Meadow Stables (racing colors pictured), won the Belmont Stakes by 31 lengths, achieving the first American Triple Crown victory in a quarter of a century.",
+        "relatedPages": [
+          {
+            "title": "Secretariat (horse)",
+            "url": "https://en.wikipedia.org/wiki/Secretariat_(horse)",
+            "coordinates": null
+          },
+          {
+            "title": "1973 Belmont Stakes",
+            "url": "https://en.wikipedia.org/wiki/1973_Belmont_Stakes",
+            "coordinates": null
+          },
+          {
+            "title": "Horse length",
+            "url": "https://en.wikipedia.org/wiki/Horse_length",
+            "coordinates": null
+          },
+          {
+            "title": "Triple Crown of Thoroughbred Racing (United States)",
+            "url": "https://en.wikipedia.org/wiki/Triple_Crown_of_Thoroughbred_Racing_(United_States)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1965,
+        "text": "Fighting began between the Viet Cong and the Army of the Republic of Vietnam in the Battle of Đồng Xoài, one of the largest battles in the Vietnam War.",
+        "relatedPages": [
+          {
+            "title": "Viet Cong",
+            "url": "https://en.wikipedia.org/wiki/Viet_Cong",
+            "coordinates": null
+          },
+          {
+            "title": "Army of the Republic of Vietnam",
+            "url": "https://en.wikipedia.org/wiki/Army_of_the_Republic_of_Vietnam",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Đồng Xoài",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_%C4%90%E1%BB%93ng_Xo%C3%A0i",
+            "coordinates": null
+          },
+          {
+            "title": "Vietnam War",
+            "url": "https://en.wikipedia.org/wiki/Vietnam_War",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1954,
+        "text": "During hearings investigating conflicting accusations between the United States Army and Senator Joseph McCarthy, Army lawyer Joseph N. Welch asked McCarthy: \"At long last, have you left no sense of decency?\"",
+        "relatedPages": [
+          {
+            "title": "United States Army",
+            "url": "https://en.wikipedia.org/wiki/United_States_Army",
+            "coordinates": null
+          },
+          {
+            "title": "Joseph McCarthy",
+            "url": "https://en.wikipedia.org/wiki/Joseph_McCarthy",
+            "coordinates": null
+          },
+          {
+            "title": "Joseph N. Welch",
+            "url": "https://en.wikipedia.org/wiki/Joseph_N._Welch",
+            "coordinates": null
+          },
+          {
+            "title": "Army–McCarthy hearings",
+            "url": "https://en.wikipedia.org/wiki/Army%E2%80%93McCarthy_hearings",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1928,
+        "text": "Australian aviator Charles Kingsford Smith and his crew landed the Southern Cross in Brisbane, completing the first transpacific flight.",
+        "relatedPages": [
+          {
+            "title": "Charles Kingsford Smith",
+            "url": "https://en.wikipedia.org/wiki/Charles_Kingsford_Smith",
+            "coordinates": null
+          },
+          {
+            "title": "Southern Cross (aircraft)",
+            "url": "https://en.wikipedia.org/wiki/Southern_Cross_(aircraft)",
+            "coordinates": null
+          },
+          {
+            "title": "Brisbane",
+            "url": "https://en.wikipedia.org/wiki/Brisbane",
+            "coordinates": {
+              "lat": -27.46777778,
+              "lon": 153.02805556
+            }
+          },
+          {
+            "title": "Transpacific flight",
+            "url": "https://en.wikipedia.org/wiki/Transpacific_flight",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1920,
+        "text": "The courtesan Wang Lianying (pictured) was murdered in Shanghai, leading to months of media and literary coverage.",
+        "relatedPages": [
+          {
+            "title": "Murder of Wang Lianying",
+            "url": "https://en.wikipedia.org/wiki/Murder_of_Wang_Lianying",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1915,
+        "text": "Unhappy with U.S. president Woodrow Wilson's handling of the RMS Lusitania sinking, William Jennings Bryan resigned as Secretary of State.",
+        "relatedPages": [
+          {
+            "title": "Woodrow Wilson",
+            "url": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
+            "coordinates": null
+          },
+          {
+            "title": "RMS Lusitania",
+            "url": "https://en.wikipedia.org/wiki/RMS_Lusitania",
+            "coordinates": {
+              "lat": 51.4125,
+              "lon": -8.54777778
+            }
+          },
+          {
+            "title": "William Jennings Bryan",
+            "url": "https://en.wikipedia.org/wiki/William_Jennings_Bryan",
+            "coordinates": null
+          },
+          {
+            "title": "United States Secretary of State",
+            "url": "https://en.wikipedia.org/wiki/United_States_Secretary_of_State",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1863,
+        "text": "American Civil War: Union and Confederate forces fought the Battle of Brandy Station, the largest cavalry engagement to take place on American soil.",
+        "relatedPages": [
+          {
+            "title": "American Civil War",
+            "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+            "coordinates": null
+          },
+          {
+            "title": "Union army",
+            "url": "https://en.wikipedia.org/wiki/Union_army",
+            "coordinates": null
+          },
+          {
+            "title": "Confederate States Army",
+            "url": "https://en.wikipedia.org/wiki/Confederate_States_Army",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Brandy Station",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Brandy_Station",
+            "coordinates": {
+              "lat": 38.5075,
+              "lon": -77.88
+            }
+          },
+          {
+            "title": "Cavalry",
+            "url": "https://en.wikipedia.org/wiki/Cavalry",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1862,
+        "text": "American Civil War: Confederate General Stonewall Jackson concluded his successful Shenandoah Valley campaign with a victory in the Battle of Port Republic.",
+        "relatedPages": [
+          {
+            "title": "American Civil War",
+            "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+            "coordinates": null
+          },
+          {
+            "title": "Confederate States Army",
+            "url": "https://en.wikipedia.org/wiki/Confederate_States_Army",
+            "coordinates": null
+          },
+          {
+            "title": "Stonewall Jackson",
+            "url": "https://en.wikipedia.org/wiki/Stonewall_Jackson",
+            "coordinates": null
+          },
+          {
+            "title": "Jackson's Valley campaign",
+            "url": "https://en.wikipedia.org/wiki/Jackson's_Valley_campaign",
+            "coordinates": {
+              "lat": 38.65,
+              "lon": -78.67
+            }
+          },
+          {
+            "title": "Battle of Port Republic",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Port_Republic",
+            "coordinates": {
+              "lat": 38.3002,
+              "lon": -78.7933
+            }
+          }
+        ]
+      },
+      {
+        "year": 1856,
+        "text": "The first company of Mormon handcart pioneers left Iowa City for Salt Lake City, Utah.",
+        "relatedPages": [
+          {
+            "title": "Mormon handcart pioneers",
+            "url": "https://en.wikipedia.org/wiki/Mormon_handcart_pioneers",
+            "coordinates": null
+          },
+          {
+            "title": "Iowa City, Iowa",
+            "url": "https://en.wikipedia.org/wiki/Iowa_City%2C_Iowa",
+            "coordinates": {
+              "lat": 41.62083333,
+              "lon": -91.49472222
+            }
+          },
+          {
+            "title": "Salt Lake City",
+            "url": "https://en.wikipedia.org/wiki/Salt_Lake_City",
+            "coordinates": {
+              "lat": 40.76083333,
+              "lon": -111.89111111
+            }
+          }
+        ]
+      },
+      {
+        "year": 1772,
+        "text": "In an act of defiance against the Navigation Acts, American colonists led by Abraham Whipple (pictured) attacked and burned the British schooner Gaspee.",
+        "relatedPages": [
+          {
+            "title": "Navigation Acts",
+            "url": "https://en.wikipedia.org/wiki/Navigation_Acts",
+            "coordinates": null
+          },
+          {
+            "title": "Abraham Whipple",
+            "url": "https://en.wikipedia.org/wiki/Abraham_Whipple",
+            "coordinates": null
+          },
+          {
+            "title": "Schooner",
+            "url": "https://en.wikipedia.org/wiki/Schooner",
+            "coordinates": null
+          },
+          {
+            "title": "Gaspee affair",
+            "url": "https://en.wikipedia.org/wiki/Gaspee_affair",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1549,
+        "text": "The first Book of Common Prayer was legally mandated by Parliament, introducing a fully vernacular Protestant liturgy to the Church of England.",
+        "relatedPages": [
+          {
+            "title": "Book of Common Prayer (1549)",
+            "url": "https://en.wikipedia.org/wiki/Book_of_Common_Prayer_(1549)",
+            "coordinates": null
+          },
+          {
+            "title": "Protestant liturgy",
+            "url": "https://en.wikipedia.org/wiki/Protestant_liturgy",
+            "coordinates": null
+          },
+          {
+            "title": "Church of England",
+            "url": "https://en.wikipedia.org/wiki/Church_of_England",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1523,
+        "text": "Parisian printer Simon de Colines was fined for printing biblical commentary by Jacques Lefèvre d'Étaples without obtaining prior approval from theologians.",
+        "relatedPages": [
+          {
+            "title": "Simon de Colines",
+            "url": "https://en.wikipedia.org/wiki/Simon_de_Colines",
+            "coordinates": null
+          },
+          {
+            "title": "Jacques Lefèvre d'Étaples",
+            "url": "https://en.wikipedia.org/wiki/Jacques_Lef%C3%A8vre_d'%C3%89taples",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 747,
+        "text": "Abu Muslim initiated an open revolt against Umayyad rule, eventually leading to the establishment of the Abbasid Caliphate under the Black Standard.",
+        "relatedPages": [
+          {
+            "title": "AD 747",
+            "url": "https://en.wikipedia.org/wiki/AD_747",
+            "coordinates": null
+          },
+          {
+            "title": "Abu Muslim",
+            "url": "https://en.wikipedia.org/wiki/Abu_Muslim",
+            "coordinates": null
+          },
+          {
+            "title": "Abbasid revolution",
+            "url": "https://en.wikipedia.org/wiki/Abbasid_revolution",
+            "coordinates": null
+          },
+          {
+            "title": "Umayyad Caliphate",
+            "url": "https://en.wikipedia.org/wiki/Umayyad_Caliphate",
+            "coordinates": null
+          },
+          {
+            "title": "Abbasid Caliphate",
+            "url": "https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+            "coordinates": null
+          },
+          {
+            "title": "Black Standard",
+            "url": "https://en.wikipedia.org/wiki/Black_Standard",
+            "coordinates": null
+          }
+        ]
+      }
+    ]
+  }
+}

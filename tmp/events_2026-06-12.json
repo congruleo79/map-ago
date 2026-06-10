@@ -1,0 +1,512 @@
+{
+  "date": "2026-06-12",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/12",
+  "sections": {
+    "selected": [
+      {
+        "year": 2025,
+        "text": "Air India Flight 171 crashes shortly after take-off in Ahmedabad, India, killing 260 people.",
+        "relatedPages": [
+          {
+            "title": "Air India Flight 171",
+            "url": "https://en.wikipedia.org/wiki/Air_India_Flight_171",
+            "coordinates": {
+              "lat": 23.05494444,
+              "lon": 72.61211111
+            }
+          },
+          {
+            "title": "Ahmedabad",
+            "url": "https://en.wikipedia.org/wiki/Ahmedabad",
+            "coordinates": {
+              "lat": 23.0225,
+              "lon": 72.57138889
+            }
+          }
+        ]
+      },
+      {
+        "year": 2016,
+        "text": "An Islamic terrorist killed 49 people in a mass shooting at the gay nightclub Pulse in Orlando, Florida.",
+        "relatedPages": [
+          {
+            "title": "Pulse nightclub shooting",
+            "url": "https://en.wikipedia.org/wiki/Pulse_nightclub_shooting",
+            "coordinates": {
+              "lat": 28.51958333,
+              "lon": -81.37680556
+            }
+          },
+          {
+            "title": "Pulse (nightclub)",
+            "url": "https://en.wikipedia.org/wiki/Pulse_(nightclub)",
+            "coordinates": {
+              "lat": 28.51944444,
+              "lon": -81.37694444
+            }
+          },
+          {
+            "title": "Orlando, Florida",
+            "url": "https://en.wikipedia.org/wiki/Orlando%2C_Florida",
+            "coordinates": {
+              "lat": 28.54,
+              "lon": -81.38
+            }
+          }
+        ]
+      },
+      {
+        "year": 2010,
+        "text": "Sixteen-year-old Abby Sunderland was rescued after her boat was dismasted in the Indian Ocean while trying to become the youngest sailor around the world.",
+        "relatedPages": [
+          {
+            "title": "Abby Sunderland",
+            "url": "https://en.wikipedia.org/wiki/Abby_Sunderland",
+            "coordinates": null
+          },
+          {
+            "title": "Indian Ocean",
+            "url": "https://en.wikipedia.org/wiki/Indian_Ocean",
+            "coordinates": {
+              "lat": -20,
+              "lon": 80
+            }
+          }
+        ]
+      },
+      {
+        "year": 1999,
+        "text": "In the aftermath of the bombing of Yugoslavia and the Kosovo War, the NATO-led Kosovo Force entered Kosovo with a mandate of establishing a secure environment in the territory.",
+        "relatedPages": [
+          {
+            "title": "NATO bombing of Yugoslavia",
+            "url": "https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia",
+            "coordinates": null
+          },
+          {
+            "title": "Kosovo War",
+            "url": "https://en.wikipedia.org/wiki/Kosovo_War",
+            "coordinates": null
+          },
+          {
+            "title": "NATO",
+            "url": "https://en.wikipedia.org/wiki/NATO",
+            "coordinates": null
+          },
+          {
+            "title": "Kosovo Force",
+            "url": "https://en.wikipedia.org/wiki/Kosovo_Force",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1994,
+        "text": "The Boeing 777, the world's largest twinjet, made its maiden flight.",
+        "relatedPages": [
+          {
+            "title": "Boeing 777",
+            "url": "https://en.wikipedia.org/wiki/Boeing_777",
+            "coordinates": null
+          },
+          {
+            "title": "Twinjet",
+            "url": "https://en.wikipedia.org/wiki/Twinjet",
+            "coordinates": null
+          },
+          {
+            "title": "Maiden flight",
+            "url": "https://en.wikipedia.org/wiki/Maiden_flight",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1991,
+        "text": "More than 150 Sri Lankan Tamil civilians were massacred by members of the military in the village of Kokkadichcholai.",
+        "relatedPages": [
+          {
+            "title": "Sri Lankan Tamils",
+            "url": "https://en.wikipedia.org/wiki/Sri_Lankan_Tamils",
+            "coordinates": null
+          },
+          {
+            "title": "1991 Kokkadichcholai massacre",
+            "url": "https://en.wikipedia.org/wiki/1991_Kokkadichcholai_massacre",
+            "coordinates": {
+              "lat": 7.62388889,
+              "lon": 81.71694444
+            }
+          },
+          {
+            "title": "Kokkadichcholai",
+            "url": "https://en.wikipedia.org/wiki/Kokkadichcholai",
+            "coordinates": {
+              "lat": 7.61416667,
+              "lon": 81.71305556
+            }
+          }
+        ]
+      },
+      {
+        "year": 1987,
+        "text": "Cold War: During a speech at the Brandenburg Gate by the Berlin Wall, US president Ronald Reagan challenged Soviet leader Mikhail Gorbachev to \"tear down this wall!\" (speech featured).",
+        "relatedPages": [
+          {
+            "title": "Cold War",
+            "url": "https://en.wikipedia.org/wiki/Cold_War",
+            "coordinates": null
+          },
+          {
+            "title": "Brandenburg Gate",
+            "url": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+            "coordinates": {
+              "lat": 52.5163,
+              "lon": 13.3777
+            }
+          },
+          {
+            "title": "Berlin Wall",
+            "url": "https://en.wikipedia.org/wiki/Berlin_Wall",
+            "coordinates": {
+              "lat": 52.50444444,
+              "lon": 13.44111111
+            }
+          },
+          {
+            "title": "Ronald Reagan",
+            "url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+            "coordinates": null
+          },
+          {
+            "title": "Mikhail Gorbachev",
+            "url": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev",
+            "coordinates": null
+          },
+          {
+            "title": "Tear down this wall!",
+            "url": "https://en.wikipedia.org/wiki/Tear_down_this_wall!",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1981,
+        "text": "Raiders of the Lost Ark, the first film to star Harrison Ford as Indiana Jones, was released.",
+        "relatedPages": [
+          {
+            "title": "Raiders of the Lost Ark",
+            "url": "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark",
+            "coordinates": null
+          },
+          {
+            "title": "Harrison Ford",
+            "url": "https://en.wikipedia.org/wiki/Harrison_Ford",
+            "coordinates": null
+          },
+          {
+            "title": "Indiana Jones (character)",
+            "url": "https://en.wikipedia.org/wiki/Indiana_Jones_(character)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1978,
+        "text": "American serial killer David Berkowitz, popularly known as the \"Son of Sam\", was sentenced to 25-years-to-life in prison for each of six killings.",
+        "relatedPages": [
+          {
+            "title": "David Berkowitz",
+            "url": "https://en.wikipedia.org/wiki/David_Berkowitz",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1967,
+        "text": "The U.S. Supreme Court struck down laws restricting interracial marriage in the landmark civil rights case Loving v. Virginia.",
+        "relatedPages": [
+          {
+            "title": "Supreme Court of the United States",
+            "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States",
+            "coordinates": {
+              "lat": 38.89055556,
+              "lon": -77.00444444
+            }
+          },
+          {
+            "title": "Anti-miscegenation laws in the United States",
+            "url": "https://en.wikipedia.org/wiki/Anti-miscegenation_laws_in_the_United_States",
+            "coordinates": null
+          },
+          {
+            "title": "Civil rights movement",
+            "url": "https://en.wikipedia.org/wiki/Civil_rights_movement",
+            "coordinates": null
+          },
+          {
+            "title": "Loving v. Virginia",
+            "url": "https://en.wikipedia.org/wiki/Loving_v._Virginia",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1963,
+        "text": "The premiere was held in New York of the historical drama film Cleopatra, the most expensive film made to that point.",
+        "relatedPages": [
+          {
+            "title": "Cleopatra (1963 film)",
+            "url": "https://en.wikipedia.org/wiki/Cleopatra_(1963_film)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1954,
+        "text": "Dominic Savio, who was 14 years old at his death in 1857, was canonized by Pope Pius XII, making him one of the youngest non-martyred saints in the Catholic Church.",
+        "relatedPages": [
+          {
+            "title": "Dominic Savio",
+            "url": "https://en.wikipedia.org/wiki/Dominic_Savio",
+            "coordinates": null
+          },
+          {
+            "title": "Canonization",
+            "url": "https://en.wikipedia.org/wiki/Canonization",
+            "coordinates": null
+          },
+          {
+            "title": "Pope Pius XII",
+            "url": "https://en.wikipedia.org/wiki/Pope_Pius_XII",
+            "coordinates": null
+          },
+          {
+            "title": "Christian martyr",
+            "url": "https://en.wikipedia.org/wiki/Christian_martyr",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1942,
+        "text": "On her thirteenth birthday, Anne Frank (pictured) began keeping a diary during the Nazi occupation of the Netherlands in World War II.",
+        "relatedPages": [
+          {
+            "title": "Anne Frank",
+            "url": "https://en.wikipedia.org/wiki/Anne_Frank",
+            "coordinates": null
+          },
+          {
+            "title": "The Diary of a Young Girl",
+            "url": "https://en.wikipedia.org/wiki/The_Diary_of_a_Young_Girl",
+            "coordinates": null
+          },
+          {
+            "title": "Netherlands in World War II",
+            "url": "https://en.wikipedia.org/wiki/Netherlands_in_World_War_II",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1921,
+        "text": "Soviet politician Vladimir Antonov-Ovseenko authorised the use of chemical weapons against a peasant rebellion in the Tambov Governorate.",
+        "relatedPages": [
+          {
+            "title": "Vladimir Antonov-Ovseenko",
+            "url": "https://en.wikipedia.org/wiki/Vladimir_Antonov-Ovseenko",
+            "coordinates": null
+          },
+          {
+            "title": "Tambov Rebellion",
+            "url": "https://en.wikipedia.org/wiki/Tambov_Rebellion",
+            "coordinates": {
+              "lat": 52.5,
+              "lon": 41.8
+            }
+          },
+          {
+            "title": "Tambov Governorate",
+            "url": "https://en.wikipedia.org/wiki/Tambov_Governorate",
+            "coordinates": {
+              "lat": 52.72083333,
+              "lon": 41.45222222
+            }
+          }
+        ]
+      },
+      {
+        "year": 1914,
+        "text": "As part of the Ottoman Empire's policies of ethnic cleansing, Turkish irregulars began a six-day massacre in the predominantly Greek town of Phocaea.",
+        "relatedPages": [
+          {
+            "title": "Ottoman Empire",
+            "url": "https://en.wikipedia.org/wiki/Ottoman_Empire",
+            "coordinates": null
+          },
+          {
+            "title": "Ethnic cleansing",
+            "url": "https://en.wikipedia.org/wiki/Ethnic_cleansing",
+            "coordinates": null
+          },
+          {
+            "title": "Massacre of Phocaea",
+            "url": "https://en.wikipedia.org/wiki/Massacre_of_Phocaea",
+            "coordinates": {
+              "lat": 38.66666667,
+              "lon": 26.76666667
+            }
+          },
+          {
+            "title": "Foça",
+            "url": "https://en.wikipedia.org/wiki/Fo%C3%A7a",
+            "coordinates": {
+              "lat": 38.66666667,
+              "lon": 26.76666667
+            }
+          }
+        ]
+      },
+      {
+        "year": 1864,
+        "text": "Union general Ulysses S. Grant pulled his troops out of the Battle of Cold Harbor in Hanover County, Virginia, ending one of the bloodiest, most lopsided battles in the American Civil War.",
+        "relatedPages": [
+          {
+            "title": "Union (American Civil War)",
+            "url": "https://en.wikipedia.org/wiki/Union_(American_Civil_War)",
+            "coordinates": null
+          },
+          {
+            "title": "Ulysses S. Grant",
+            "url": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Cold Harbor",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Cold_Harbor",
+            "coordinates": {
+              "lat": 37.59,
+              "lon": -77.29
+            }
+          },
+          {
+            "title": "Hanover County, Virginia",
+            "url": "https://en.wikipedia.org/wiki/Hanover_County%2C_Virginia",
+            "coordinates": {
+              "lat": 37.76,
+              "lon": -77.49
+            }
+          },
+          {
+            "title": "American Civil War",
+            "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1798,
+        "text": "Following the successful French invasion of Malta, the Knights Hospitaller surrendered Malta to Napoleon, initiating two years of occupation.",
+        "relatedPages": [
+          {
+            "title": "French invasion of Malta",
+            "url": "https://en.wikipedia.org/wiki/French_invasion_of_Malta",
+            "coordinates": {
+              "lat": 35.9,
+              "lon": 14.45
+            }
+          },
+          {
+            "title": "Knights Hospitaller",
+            "url": "https://en.wikipedia.org/wiki/Knights_Hospitaller",
+            "coordinates": null
+          },
+          {
+            "title": "Napoleon",
+            "url": "https://en.wikipedia.org/wiki/Napoleon",
+            "coordinates": null
+          },
+          {
+            "title": "French occupation of Malta",
+            "url": "https://en.wikipedia.org/wiki/French_occupation_of_Malta",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1776,
+        "text": "The Fifth Virginia Convention adopted a declaration of rights, an influential document that proclaimed the inherent rights of men.",
+        "relatedPages": [
+          {
+            "title": "Fifth Virginia Convention",
+            "url": "https://en.wikipedia.org/wiki/Fifth_Virginia_Convention",
+            "coordinates": null
+          },
+          {
+            "title": "Virginia Declaration of Rights",
+            "url": "https://en.wikipedia.org/wiki/Virginia_Declaration_of_Rights",
+            "coordinates": null
+          },
+          {
+            "title": "Natural rights and legal rights",
+            "url": "https://en.wikipedia.org/wiki/Natural_rights_and_legal_rights",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1775,
+        "text": "Thomas Gage, the governor of the Province of Massachusetts Bay, offered a general pardon to colonists who remained loyal to Britain.",
+        "relatedPages": [
+          {
+            "title": "Thomas Gage",
+            "url": "https://en.wikipedia.org/wiki/Thomas_Gage",
+            "coordinates": null
+          },
+          {
+            "title": "Province of Massachusetts Bay",
+            "url": "https://en.wikipedia.org/wiki/Province_of_Massachusetts_Bay",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1240,
+        "text": "The Disputation of Paris, in which four rabbis defended the Talmud against Nicholas Donin's accusations of blasphemy, began in the court of King Louis IX.",
+        "relatedPages": [
+          {
+            "title": "Disputation of Paris",
+            "url": "https://en.wikipedia.org/wiki/Disputation_of_Paris",
+            "coordinates": null
+          },
+          {
+            "title": "Rabbi",
+            "url": "https://en.wikipedia.org/wiki/Rabbi",
+            "coordinates": null
+          },
+          {
+            "title": "Talmud",
+            "url": "https://en.wikipedia.org/wiki/Talmud",
+            "coordinates": null
+          },
+          {
+            "title": "Nicholas Donin",
+            "url": "https://en.wikipedia.org/wiki/Nicholas_Donin",
+            "coordinates": null
+          },
+          {
+            "title": "Blasphemy",
+            "url": "https://en.wikipedia.org/wiki/Blasphemy",
+            "coordinates": null
+          },
+          {
+            "title": "Louis IX of France",
+            "url": "https://en.wikipedia.org/wiki/Louis_IX_of_France",
+            "coordinates": null
+          }
+        ]
+      }
+    ]
+  }
+}

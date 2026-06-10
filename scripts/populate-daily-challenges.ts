@@ -241,7 +241,7 @@ async function fetchEntities(candidateIds: string[], query: string) {
 
   const entityResponse = await throttledFetch(entityUrl, {
     headers: {
-      "user-agent": "MapAgo/0.0.0 (local helper script)",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 MapAgoHelpers/0.1.0 (local helper script)",
     },
   })
 
@@ -269,7 +269,7 @@ async function resolveLocation(name: string, region: string): Promise<ResolvedLo
 
     const searchResponse = await throttledFetch(searchUrl, {
       headers: {
-        "user-agent": "MapAgo/0.0.0 (local helper script)",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 MapAgoHelpers/0.1.0 (local helper script)",
       },
     })
 
@@ -393,7 +393,7 @@ function getRange(monthCount: number, endYear: number, endMonth: number) {
 
   return {
     start: `${startYear}${startMonth}0100`,
-    end: `${finalYear}${finalMonth}3100`,
+    end: `${finalYear}${finalMonth}${String(new Date(Date.UTC(finalYear, end.getUTCMonth() + 1, 0)).getUTCDate()).padStart(2, '0')}00`,
   }
 }
 
@@ -413,7 +413,7 @@ async function resolveWikipediaArticleTitle(articleInput: string) {
 
   const response = await throttledFetch(queryUrl, {
     headers: {
-      "user-agent": "MapAgo/0.0.0 (local helper script)",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 MapAgoHelpers/0.1.0 (local helper script)",
     },
   })
 
@@ -441,7 +441,7 @@ async function fetchViews(articleInput: string, months: number, endMonth: { year
     `https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/${encodeURIComponent(article)}/monthly/${range.start}/${range.end}`,
     {
       headers: {
-        "user-agent": "MapAgo/0.0.0 (local helper script)",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 MapAgoHelpers/0.1.0 (local helper script)",
       },
     },
   )

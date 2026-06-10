@@ -1,8 +1,9 @@
 MapAgo is a daily guessing game, where you guess 5 locations on a map that somehow, maybe even loosely relate thematically to the current date. Locations can be places where something happened on that day, a city, monument or natural formation related to these events, birthplaces, etc. or maybe even only relate to a theme, e.g. February 14, Valentines day could feature locations associated with Love, like Paris.
 
-I want you to curate a list of 5 interesting locations for each day between May 2 and May 9 and output them into the JSON file at `src/dailyChallenges.json`.
+I want you to curate a list of 5 interesting locations for each day between May 31 and June 15 and output them into the JSON file at `src/dailyChallenges.json`.
 
 All Locations need to be NEW locations, that have never been used before.
+All Locations need to be associated with a single point (lat/lon) (nothing larger than a city)
 
 1. Use `npm run ai:used-locations -- --format prompt` to see which locations have already been used, so you don't duplicate locations
 
@@ -13,8 +14,8 @@ All Locations need to be NEW locations, that have never been used before.
 
 3. Use
 
-- `npm run ai:coordinates` to get the coordinates for a location
-- `npm run ai:views` to get the views for a location. This returns how many wikipedia page views a certain location (e.g. city) has an thus how well known / difiicult to gues it is
+- `npm run ai:coordinates` to populate the coordinates for a location
+- `npm run ai:views` to populate the views for a location. This returns how many wikipedia page views a certain location (e.g. city) has an thus how well known / difiicult to gues it is
 
 Requirements:
 
@@ -40,9 +41,9 @@ Requirements:
 - Locations can be cities or other specific point locations, NOT vague regions.
 
 - Keep the set globally and thematicaly diverse:
-  - no country more than twice per day
+  - no country more than once per day
   - avoid anglo-american-centric view on the world
-  - Avoid specific events that occur too often already like plane crashes
+  - Avoid tragic events that lack broader meaning like: plane crashes, bombings, etc.
   - at least 4 continents represented per day
   - varied domains such as politics, science, war, culture, sport, disasters, exploration, religion, or technology
 - Do not re-use locations already present in the used-locations list.

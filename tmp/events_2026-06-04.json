@@ -1,0 +1,473 @@
+{
+  "date": "2026-06-04",
+  "source": "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/all/06/04",
+  "sections": {
+    "selected": [
+      {
+        "year": 2004,
+        "text": "In Granby, Colorado, U.S., Marvin Heemeyer went on a rampage with a modified bulldozer over a zoning dispute, destroying several buildings before committing suicide.",
+        "relatedPages": [
+          {
+            "title": "Granby, Colorado",
+            "url": "https://en.wikipedia.org/wiki/Granby%2C_Colorado",
+            "coordinates": {
+              "lat": 40.06472222,
+              "lon": -105.91944444
+            }
+          },
+          {
+            "title": "Marvin Heemeyer",
+            "url": "https://en.wikipedia.org/wiki/Marvin_Heemeyer",
+            "coordinates": null
+          },
+          {
+            "title": "Bulldozer",
+            "url": "https://en.wikipedia.org/wiki/Bulldozer",
+            "coordinates": null
+          },
+          {
+            "title": "Zoning",
+            "url": "https://en.wikipedia.org/wiki/Zoning",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1998,
+        "text": "Terry Nichols was sentenced to life in prison for his role in the Oklahoma City bombing.",
+        "relatedPages": [
+          {
+            "title": "Terry Nichols",
+            "url": "https://en.wikipedia.org/wiki/Terry_Nichols",
+            "coordinates": null
+          },
+          {
+            "title": "Life imprisonment",
+            "url": "https://en.wikipedia.org/wiki/Life_imprisonment",
+            "coordinates": null
+          },
+          {
+            "title": "Oklahoma City bombing",
+            "url": "https://en.wikipedia.org/wiki/Oklahoma_City_bombing",
+            "coordinates": {
+              "lat": 35.47277778,
+              "lon": -97.51694444
+            }
+          }
+        ]
+      },
+      {
+        "year": 1989,
+        "text": "The People's Liberation Army suppressed the Tiananmen Square protests in Beijing, leaving hundreds of people dead and wounded.",
+        "relatedPages": [
+          {
+            "title": "People's Liberation Army",
+            "url": "https://en.wikipedia.org/wiki/People's_Liberation_Army",
+            "coordinates": null
+          },
+          {
+            "title": "People's Liberation Army at the 1989 Tiananmen Square protests and massacre",
+            "url": "https://en.wikipedia.org/wiki/People's_Liberation_Army_at_the_1989_Tiananmen_Square_protests_and_massacre",
+            "coordinates": null
+          },
+          {
+            "title": "1989 Tiananmen Square protests and massacre",
+            "url": "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre",
+            "coordinates": {
+              "lat": 39.90333333,
+              "lon": 116.39166667
+            }
+          },
+          {
+            "title": "Beijing",
+            "url": "https://en.wikipedia.org/wiki/Beijing",
+            "coordinates": {
+              "lat": 39.90666667,
+              "lon": 116.3975
+            }
+          }
+        ]
+      },
+      {
+        "year": 1989,
+        "text": "Following the death of Ruhollah Khomeini, the Assembly of Experts elected Ali Khamenei to be Supreme Leader of Iran.",
+        "relatedPages": [
+          {
+            "title": "Ruhollah Khomeini",
+            "url": "https://en.wikipedia.org/wiki/Ruhollah_Khomeini",
+            "coordinates": null
+          },
+          {
+            "title": "Assembly of Experts",
+            "url": "https://en.wikipedia.org/wiki/Assembly_of_Experts",
+            "coordinates": {
+              "lat": 35.68805556,
+              "lon": 51.39972222
+            }
+          },
+          {
+            "title": "Ali Khamenei",
+            "url": "https://en.wikipedia.org/wiki/Ali_Khamenei",
+            "coordinates": null
+          },
+          {
+            "title": "Supreme Leader of Iran",
+            "url": "https://en.wikipedia.org/wiki/Supreme_Leader_of_Iran",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1987,
+        "text": "American intelligence analyst Jonathan Pollard pleaded guilty to charges of spying for Israel.",
+        "relatedPages": [
+          {
+            "title": "Intelligence assessment",
+            "url": "https://en.wikipedia.org/wiki/Intelligence_assessment",
+            "coordinates": null
+          },
+          {
+            "title": "Jonathan Pollard",
+            "url": "https://en.wikipedia.org/wiki/Jonathan_Pollard",
+            "coordinates": null
+          },
+          {
+            "title": "Espionage",
+            "url": "https://en.wikipedia.org/wiki/Espionage",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1979,
+        "text": "Jerry Rawlings came to power in Ghana as chairman of the Armed Forces Revolutionary Council.",
+        "relatedPages": [
+          {
+            "title": "Jerry Rawlings",
+            "url": "https://en.wikipedia.org/wiki/Jerry_Rawlings",
+            "coordinates": null
+          },
+          {
+            "title": "Armed Forces Revolutionary Council (Ghana)",
+            "url": "https://en.wikipedia.org/wiki/Armed_Forces_Revolutionary_Council_(Ghana)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1977,
+        "text": "The Humboldt Park riot began in Chicago, resulting in three deaths, three cars in the Humboldt Park lagoon, and increased tension between the Chicago Police Department and the Puerto Rican community.",
+        "relatedPages": [
+          {
+            "title": "Humboldt Park riot",
+            "url": "https://en.wikipedia.org/wiki/Humboldt_Park_riot",
+            "coordinates": null
+          },
+          {
+            "title": "Humboldt Park (Chicago park)",
+            "url": "https://en.wikipedia.org/wiki/Humboldt_Park_(Chicago_park)",
+            "coordinates": {
+              "lat": 41.906,
+              "lon": -87.702
+            }
+          }
+        ]
+      },
+      {
+        "year": 1975,
+        "text": "Governor Jerry Brown signed the California Agricultural Labor Relations Act, one of the first laws in the United States guaranteeing collective bargaining rights to farmworkers.",
+        "relatedPages": [
+          {
+            "title": "Jerry Brown",
+            "url": "https://en.wikipedia.org/wiki/Jerry_Brown",
+            "coordinates": null
+          },
+          {
+            "title": "California Agricultural Labor Relations Act of 1975",
+            "url": "https://en.wikipedia.org/wiki/California_Agricultural_Labor_Relations_Act_of_1975",
+            "coordinates": null
+          },
+          {
+            "title": "Collective bargaining",
+            "url": "https://en.wikipedia.org/wiki/Collective_bargaining",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1974,
+        "text": "Major League Baseball's Cleveland Indians hosted Ten Cent Beer Night, but had to forfeit the game to the Texas Rangers due to rioting by drunken fans.",
+        "relatedPages": [
+          {
+            "title": "Major League Baseball",
+            "url": "https://en.wikipedia.org/wiki/Major_League_Baseball",
+            "coordinates": null
+          },
+          {
+            "title": "Cleveland Guardians",
+            "url": "https://en.wikipedia.org/wiki/Cleveland_Guardians",
+            "coordinates": null
+          },
+          {
+            "title": "Ten-Cent Beer Night",
+            "url": "https://en.wikipedia.org/wiki/Ten-Cent_Beer_Night",
+            "coordinates": {
+              "lat": 41.5058,
+              "lon": -81.7
+            }
+          },
+          {
+            "title": "Texas Rangers (baseball)",
+            "url": "https://en.wikipedia.org/wiki/Texas_Rangers_(baseball)",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1967,
+        "text": "A chartered British Midland Airways aircraft crashed near Stockport, England, killing 72 of the 84 people on board.",
+        "relatedPages": [
+          {
+            "title": "British Midland International",
+            "url": "https://en.wikipedia.org/wiki/British_Midland_International",
+            "coordinates": null
+          },
+          {
+            "title": "Stockport air disaster",
+            "url": "https://en.wikipedia.org/wiki/Stockport_air_disaster",
+            "coordinates": {
+              "lat": 53.407563,
+              "lon": -2.153138
+            }
+          },
+          {
+            "title": "Stockport",
+            "url": "https://en.wikipedia.org/wiki/Stockport",
+            "coordinates": {
+              "lat": 53.4083,
+              "lon": -2.1494
+            }
+          }
+        ]
+      },
+      {
+        "year": 1944,
+        "text": "World War II: A United States Navy task group captured German submarine U-505 (pictured).",
+        "relatedPages": [
+          {
+            "title": "World War II",
+            "url": "https://en.wikipedia.org/wiki/World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "United States Navy",
+            "url": "https://en.wikipedia.org/wiki/United_States_Navy",
+            "coordinates": null
+          },
+          {
+            "title": "German submarine U-505",
+            "url": "https://en.wikipedia.org/wiki/German_submarine_U-505",
+            "coordinates": {
+              "lat": 41.79166667,
+              "lon": -87.58138889
+            }
+          }
+        ]
+      },
+      {
+        "year": 1942,
+        "text": "World War II: The Battle of Midway, a major battle of the Pacific War, began with a massive Japanese offensive on American forces on Midway Atoll.",
+        "relatedPages": [
+          {
+            "title": "World War II",
+            "url": "https://en.wikipedia.org/wiki/World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "Battle of Midway",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Midway",
+            "coordinates": {
+              "lat": 30,
+              "lon": -178
+            }
+          },
+          {
+            "title": "Pacific War",
+            "url": "https://en.wikipedia.org/wiki/Pacific_War",
+            "coordinates": null
+          },
+          {
+            "title": "Midway Atoll",
+            "url": "https://en.wikipedia.org/wiki/Midway_Atoll",
+            "coordinates": {
+              "lat": 28.2075,
+              "lon": -177.35
+            }
+          }
+        ]
+      },
+      {
+        "year": 1940,
+        "text": "Second World War: The remaining Allied forces protecting the Dunkirk evacuation surrendered, ending the Battle of Dunkirk; in response, British prime minister Winston Churchill gave a speech in which he declared \"We shall fight on the beaches\".",
+        "relatedPages": [
+          {
+            "title": "World War II",
+            "url": "https://en.wikipedia.org/wiki/World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "Allies of World War II",
+            "url": "https://en.wikipedia.org/wiki/Allies_of_World_War_II",
+            "coordinates": null
+          },
+          {
+            "title": "Dunkirk evacuation",
+            "url": "https://en.wikipedia.org/wiki/Dunkirk_evacuation",
+            "coordinates": {
+              "lat": 51.0575,
+              "lon": 2.3575
+            }
+          },
+          {
+            "title": "Battle of Dunkirk",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Dunkirk",
+            "coordinates": {
+              "lat": 51.04839,
+              "lon": 2.38089
+            }
+          },
+          {
+            "title": "Winston Churchill",
+            "url": "https://en.wikipedia.org/wiki/Winston_Churchill",
+            "coordinates": null
+          },
+          {
+            "title": "We shall fight on the beaches",
+            "url": "https://en.wikipedia.org/wiki/We_shall_fight_on_the_beaches",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1920,
+        "text": "The Kingdom of Hungary lost 72 percent of its territory and 64 percent of its population with the signing of the Treaty of Trianon in Paris.",
+        "relatedPages": [
+          {
+            "title": "Kingdom of Hungary",
+            "url": "https://en.wikipedia.org/wiki/Kingdom_of_Hungary",
+            "coordinates": {
+              "lat": 47.49611111,
+              "lon": 19.03944444
+            }
+          },
+          {
+            "title": "Treaty of Trianon",
+            "url": "https://en.wikipedia.org/wiki/Treaty_of_Trianon",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1916,
+        "text": "World War I: Russian forces began their successful Brusilov offensive against the Central Powers.",
+        "relatedPages": [
+          {
+            "title": "World War I",
+            "url": "https://en.wikipedia.org/wiki/World_War_I",
+            "coordinates": null
+          },
+          {
+            "title": "Brusilov offensive",
+            "url": "https://en.wikipedia.org/wiki/Brusilov_offensive",
+            "coordinates": null
+          },
+          {
+            "title": "Central Powers",
+            "url": "https://en.wikipedia.org/wiki/Central_Powers",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1913,
+        "text": "Emily Davison (pictured), an activist for women's suffrage in the United Kingdom, was fatally injured after being trampled by a horse owned by King George V at the Epsom Derby.",
+        "relatedPages": [
+          {
+            "title": "Emily Davison",
+            "url": "https://en.wikipedia.org/wiki/Emily_Davison",
+            "coordinates": null
+          },
+          {
+            "title": "Women's suffrage in the United Kingdom",
+            "url": "https://en.wikipedia.org/wiki/Women's_suffrage_in_the_United_Kingdom",
+            "coordinates": null
+          },
+          {
+            "title": "George V",
+            "url": "https://en.wikipedia.org/wiki/George_V",
+            "coordinates": null
+          },
+          {
+            "title": "Epsom Derby",
+            "url": "https://en.wikipedia.org/wiki/Epsom_Derby",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1792,
+        "text": "Captain George Vancouver of the Royal Navy claimed the land around Puget Sound in the Pacific Northwest for Great Britain.",
+        "relatedPages": [
+          {
+            "title": "George Vancouver",
+            "url": "https://en.wikipedia.org/wiki/George_Vancouver",
+            "coordinates": null
+          },
+          {
+            "title": "Royal Navy",
+            "url": "https://en.wikipedia.org/wiki/Royal_Navy",
+            "coordinates": null
+          },
+          {
+            "title": "Puget Sound",
+            "url": "https://en.wikipedia.org/wiki/Puget_Sound",
+            "coordinates": {
+              "lat": 47.6,
+              "lon": -122.4
+            }
+          },
+          {
+            "title": "Pacific Northwest",
+            "url": "https://en.wikipedia.org/wiki/Pacific_Northwest",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1784,
+        "text": "Élisabeth Thible became the first woman to fly in an untethered hot air balloon, covering a distance of 4 km (2.5 mi) and reaching an estimated altitude of 1,500 m (4,900 ft).",
+        "relatedPages": [
+          {
+            "title": "Élisabeth Thible",
+            "url": "https://en.wikipedia.org/wiki/%C3%89lisabeth_Thible",
+            "coordinates": null
+          }
+        ]
+      },
+      {
+        "year": 1561,
+        "text": "The spire of Old St Paul's Cathedral in London was destroyed by fire.",
+        "relatedPages": [
+          {
+            "title": "Old St Paul's Cathedral",
+            "url": "https://en.wikipedia.org/wiki/Old_St_Paul's_Cathedral",
+            "coordinates": {
+              "lat": 51.51361111,
+              "lon": -0.09833333
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
