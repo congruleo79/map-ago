@@ -63,7 +63,21 @@ type MapGuessLine = {
   key: string
   color: string
   position: LatLngLiteral
+  target: LatLngLiteral
   weight: number
+}
+
+type SummaryGuessMarker = {
+  key: string
+  label: string
+  points: number
+  distanceKm: number
+  position: LatLngLiteral
+  avatarLabel: string
+  avatarColor: string
+  target: LatLngLiteral
+  targetName: string
+  lineWeight: number
 }
 
 type PlayerTableRow = {
@@ -518,8 +532,8 @@ function UserPanel({
           <span className="account-panel__avatar" aria-hidden="true" style={{ backgroundColor: userAvatarColor }}>
             {userAvatarLabel}
           </span>
-          <strong className="account-panel__handle">{user.handle}</strong>
           <span className="account-panel__name">{user.displayName}</span>
+          <strong className="account-panel__handle">@{user.handle}</strong>
         </div>
 
         {warning ? <p className="account-panel__warning">{warning}</p> : null}
@@ -572,7 +586,6 @@ function UserPanel({
               {follows.map((followedUser) => (
                 <li key={followedUser.publicId} className="account-panel__list-item">
                   <div className="account-panel__list-copy">
-                    <span className="account-panel__list-handle">{followedUser.handle}</span>
                     <span className="account-panel__list-name">{followedUser.displayName}</span>
                   </div>
                   <button
@@ -672,9 +685,9 @@ function GeodesicConnection({ guesses, revealTarget, target }: { guesses: MapGue
     }
 
     const geodesics = guesses.flatMap((entry) => {
-      const wrappedGuess = wrapPositionNearReference(target.lng, entry.position)
+      const wrappedGuess = wrapPositionNearReference(entry.target.lng, entry.position)
 
-      return getWrappedGuessTargetPairs(wrappedGuess, target).map(({ guess: guessCopy, target: targetCopy }) => {
+      return getWrappedGuessTargetPairs(wrappedGuess, entry.target).map(({ guess: guessCopy, target: targetCopy }) => {
         return new GeodesicLine([guessCopy, targetCopy], {
           color: entry.color,
           opacity: 0.88,
@@ -693,6 +706,143 @@ function GeodesicConnection({ guesses, revealTarget, target }: { guesses: MapGue
   }, [guesses, map, revealTarget, target])
 
   return null
+}
+
+function SummaryMap({ guessMarkers }: { guessMarkers: SummaryGuessMarker[] }) {
+  const map = useMap()
+  const [activeGuessLabelKey, setActiveGuessLabelKey] = useState<string | null>(null)
+  const guessLabelTimeoutRef = useRef<number | null>(null)
+
+  const guessLines = useMemo(
+    () =>
+      guessMarkers.map((marker) => ({
+        key: marker.key,
+        color: marker.avatarColor,
+        position: marker.position,
+        target: marker.target,
+        weight: marker.lineWeight,
+      })),
+    [guessMarkers],
+  )
+
+  const uniqueTargets = useMemo(() => {
+    const seen = new Set<string>()
+
+    return guessMarkers.filter((marker) => {
+      const key = `${marker.targetName}-${marker.target.lat}-${marker.target.lng}`
+
+      if (seen.has(key)) {
+        return false
+      }
+
+      seen.add(key)
+      return true
+    })
+  }, [guessMarkers])
+
+  useEffect(() => {
+    return () => {
+      if (guessLabelTimeoutRef.current !== null) {
+        window.clearTimeout(guessLabelTimeoutRef.current)
+      }
+    }
+  }, [])
+
+  useEffect(() => {
+    if (guessMarkers.length === 0) {
+      return
+    }
+
+    const points = [...guessMarkers.map((marker) => marker.position), ...uniqueTargets.map((marker) => marker.target)]
+
+    map.fitBounds(
+      points.map((point) => [point.lat, point.lng] as [number, number]),
+      {
+        animate: true,
+        duration: 0.45,
+        paddingTopLeft: [48, 120],
+        paddingBottomRight: [48, 48],
+        maxZoom: 3,
+      },
+    )
+  }, [guessMarkers, map, uniqueTargets])
+
+  function showGuessLabel(labelKey: string) {
+    if (guessLabelTimeoutRef.current !== null) {
+      window.clearTimeout(guessLabelTimeoutRef.current)
+    }
+
+    setActiveGuessLabelKey(labelKey)
+    guessLabelTimeoutRef.current = window.setTimeout(() => {
+      setActiveGuessLabelKey(null)
+      guessLabelTimeoutRef.current = null
+    }, 3000)
+  }
+
+  useMapEvents({
+    click() {
+      setActiveGuessLabelKey(null)
+    },
+    mousedown() {
+      setActiveGuessLabelKey(null)
+    },
+    dragstart() {
+      setActiveGuessLabelKey(null)
+    },
+  })
+
+  return (
+    <>
+      {guessMarkers.flatMap((marker) =>
+        getWrappedCopies(wrapPositionNearReference(marker.target.lng, marker.position)).map((guessCopy, index) => {
+          const markerKey = `${marker.key}-${index}`
+
+          return (
+            <Marker
+              key={markerKey}
+              position={guessCopy}
+              icon={createPinIcon("map-pin map-pin--friend", {
+                avatar: {
+                  label: marker.avatarLabel,
+                  backgroundColor: marker.avatarColor,
+                },
+                bodyColor: marker.avatarColor,
+                innerColor: "rgba(15, 16, 18, 0.78)",
+              })}
+              eventHandlers={{
+                click() {
+                  showGuessLabel(markerKey)
+                },
+              }}
+            >
+              {activeGuessLabelKey === markerKey ? (
+                <Tooltip direction="top" offset={[0, -28]} className="map-label map-label--friend" opacity={1} permanent>
+                  <span className="map-label__stack">
+                    <strong className="map-label__title">{marker.label}</strong>
+                    <span className="map-label__meta">
+                      {marker.points} pts · {formatDistance(marker.distanceKm)} km
+                    </span>
+                  </span>
+                </Tooltip>
+              ) : null}
+            </Marker>
+          )
+        }),
+      )}
+
+      {uniqueTargets.map((marker) => (
+        <Marker key={`target-${marker.targetName}`} position={marker.target} icon={createTargetPinIcon()}>
+          <Tooltip direction="top" offset={[0, -28]} className="map-label map-label--target" opacity={1} permanent>
+            <span className="map-label__stack">
+              <strong className="map-label__title">{marker.targetName}</strong>
+            </span>
+          </Tooltip>
+        </Marker>
+      ))}
+
+      <GeodesicConnection guesses={guessLines} revealTarget={true} target={defaultCenter as unknown as LatLngLiteral} />
+    </>
+  )
 }
 
 function GameMap({
@@ -751,6 +901,7 @@ function GameMap({
         key: "current-user",
         color: currentUserAvatarColor,
         position: guess,
+        target: displayedTarget,
         weight: 5,
       })
     }
@@ -760,6 +911,7 @@ function GameMap({
         key: friendGuess.key,
         color: friendGuess.avatarColor,
         position: friendGuess.position,
+        target: displayedTarget,
         weight: 3,
       })),
     )
@@ -905,6 +1057,7 @@ function App() {
   const [hasInteractedWithMap, setHasInteractedWithMap] = useState(false)
   const [isChallengeTextExpanded, setIsChallengeTextExpanded] = useState(true)
   const [showFinalResults, setShowFinalResults] = useState(false)
+  const [showSummaryMap, setShowSummaryMap] = useState(false)
   const [shareMessage, setShareMessage] = useState<string | null>(null)
   const [isUserPanelOpen, setIsUserPanelOpen] = useState(false)
   const [createAccountHandle, setCreateAccountHandle] = useState("")
@@ -1238,6 +1391,54 @@ function App() {
       }),
     [leaderboardRows, targets.length],
   )
+  const summaryGuessMarkers = useMemo(() => {
+    if (!user) {
+      return [] as SummaryGuessMarker[]
+    }
+
+    const currentUserMarkers = results.map((result) => ({
+      key: `current-${result.ordinal}`,
+      label: user.displayName,
+      points: result.points,
+      distanceKm: result.distanceKm,
+      position: result.guess,
+      avatarLabel: userAvatarLabel,
+      avatarColor: userAvatarColor,
+      target: result.target.coordinates,
+      targetName: result.target.name,
+      lineWeight: 5,
+    }))
+
+    const socialMarkers = appState.data.socialPlays.flatMap((socialPlay) =>
+      socialPlay.guesses
+        .map((entry) => {
+          const target = targets[entry.ordinal - 1]
+
+          if (!target) {
+            return null
+          }
+
+          return {
+            key: `${socialPlay.user.publicId}-${entry.ordinal}`,
+            label: socialPlay.user.displayName,
+            points: getDisplayPoints(entry.score),
+            distanceKm: entry.distanceMeters / 1000,
+            position: {
+              lat: entry.latitude,
+              lng: entry.longitude,
+            },
+            avatarLabel: getHandleAvatarLabel(socialPlay.user.handle),
+            avatarColor: getSeededAvatarColor(socialPlay.user.handle),
+            target: target.coordinates,
+            targetName: target.name,
+            lineWeight: 3,
+          }
+        })
+        .filter((marker): marker is SummaryGuessMarker => marker !== null),
+    )
+
+    return [...currentUserMarkers, ...socialMarkers]
+  }, [appState.data.socialPlays, results, targets, user, userAvatarColor, userAvatarLabel])
 
   const shareText = useMemo(() => {
     const perRound = results
@@ -1317,6 +1518,7 @@ function App() {
 
         setGuess(null)
         setShowFinalResults(false)
+        setShowSummaryMap(false)
 
         return null
       })
@@ -1333,6 +1535,7 @@ function App() {
     setHasInteractedWithMap(false)
     setIsChallengeTextExpanded(true)
     setShareMessage(null)
+    setShowSummaryMap(false)
   }
 
   function openFinalResults() {
@@ -1342,6 +1545,7 @@ function App() {
 
     setShowFinalResults(true)
     setShareMessage(null)
+    setShowSummaryMap(false)
   }
 
   async function shareScore() {
@@ -1387,6 +1591,7 @@ function App() {
             token,
             body: {
               ...(nextHandle && nextHandle !== user.handle ? { handle: nextHandle } : {}),
+              ...(createAccountHandle.trim() && createAccountHandle.trim() !== user.displayName ? { displayName: createAccountHandle.trim() } : {}),
               password: createAccountPassword,
             },
           }),
@@ -1510,8 +1715,21 @@ function App() {
               }
             }}
           />
+        ) : isFinished && showSummaryMap ? (
+          <SummaryMap guessMarkers={summaryGuessMarkers} />
         ) : null}
       </MapContainer>
+
+      {isFinished && showSummaryMap ? (
+        <section className="overlay overlay--top overlay--summary-map" aria-label="Summary map controls">
+          <div className="summary-map-toolbar">
+            <button type="button" className="button button--primary summary-map-toolbar__back" onClick={() => setShowSummaryMap(false)}>
+              <span className="summary-map-toolbar__caret" aria-hidden="true" />
+              <span>Back to Summary</span>
+            </button>
+          </div>
+        </section>
+      ) : null}
 
       {!isFinished ? (
         <section className="overlay overlay--top" aria-label="Round information">
@@ -1685,7 +1903,7 @@ function App() {
         />
       ) : null}
 
-      {isFinished ? (
+      {isFinished && !showSummaryMap ? (
         <section className="overlay overlay--finish" aria-label="Final score">
           <div className="finish-card">
             <div className="panel-header panel-header--finish">
@@ -1716,9 +1934,12 @@ function App() {
             <div className="finish-verdict">
               <p>Check back tomorrow for a fresh set of locations.</p>
             </div>
-            <div className="finish-actions">
+            <div className="finish-actions finish-actions--stacked">
               <button type="button" className="button button--primary" onClick={shareScore}>
                 Challenge your friends
+              </button>
+              <button type="button" className="button button--ghost" onClick={() => setShowSummaryMap(true)}>
+                Show on Map
               </button>
             </div>
             {activeError ? <p className="error-banner">{activeError}</p> : null}

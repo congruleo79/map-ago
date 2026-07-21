@@ -39,6 +39,32 @@
   top: 0;
 }
 
+.overlay--summary-map {
+  align-items: start;
+}
+
+.summary-map-toolbar {
+  pointer-events: auto;
+}
+
+.summary-map-toolbar__back {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  padding: 0.65rem 1rem;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.32);
+}
+
+.summary-map-toolbar__caret {
+  display: inline-block;
+  width: 0.6rem;
+  height: 0.6rem;
+  margin-left: 0.1rem;
+  border-left: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(45deg);
+}
+
 .hud-card,
 .finish-card {
   pointer-events: auto;
@@ -293,15 +319,22 @@
     0 16px 32px rgba(0, 0, 0, 0.28);
 }
 
-.account-panel__handle {
-  font-size: 1.15rem;
+.account-panel__name {
+  font-size: 1.2rem;
+  font-weight: 700;
   color: var(--heading);
 }
 
-.account-panel__name,
+.account-panel__handle,
 .account-panel__copy,
 .account-panel__list-name {
   color: var(--muted);
+}
+
+.account-panel__handle {
+  font-size: 0.92rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
 }
 
 .account-panel__warning,
@@ -791,6 +824,11 @@
 
 .finish-actions {
   margin: 1.25rem 0;
+}
+
+.finish-actions--stacked {
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .friends-board {
