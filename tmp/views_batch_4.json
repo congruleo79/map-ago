@@ -1,0 +1,253 @@
+
+> mapago@0.0.0 ai:views
+> tsx scripts/get-wikipedia-views.ts
+
+{
+  "range": {
+    "startMonth": "2025-07",
+    "endMonth": "2026-06",
+    "months": 12
+  },
+  "results": [
+    {
+      "query": "https://en.wikipedia.org/wiki/Entebbe_raid",
+      "article": "Entebbe_raid",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Entebbe_raid/monthly/2025070100/2026063000",
+      "totalViews": 486171,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 53338
+        },
+        {
+          "month": "2025-08",
+          "views": 35841
+        },
+        {
+          "month": "2025-09",
+          "views": 37433
+        },
+        {
+          "month": "2025-10",
+          "views": 37245
+        },
+        {
+          "month": "2025-11",
+          "views": 24888
+        },
+        {
+          "month": "2025-12",
+          "views": 31117
+        },
+        {
+          "month": "2026-01",
+          "views": 30484
+        },
+        {
+          "month": "2026-02",
+          "views": 33159
+        },
+        {
+          "month": "2026-03",
+          "views": 88735
+        },
+        {
+          "month": "2026-04",
+          "views": 42220
+        },
+        {
+          "month": "2026-05",
+          "views": 27974
+        },
+        {
+          "month": "2026-06",
+          "views": 43737
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/1943_Gibraltar_Liberator_AL523_crash",
+      "article": "1943_Gibraltar_Liberator_AL523_crash",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/1943_Gibraltar_Liberator_AL523_crash/monthly/2025070100/2026063000",
+      "totalViews": 9763,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 1214
+        },
+        {
+          "month": "2025-08",
+          "views": 913
+        },
+        {
+          "month": "2025-09",
+          "views": 800
+        },
+        {
+          "month": "2025-10",
+          "views": 917
+        },
+        {
+          "month": "2025-11",
+          "views": 763
+        },
+        {
+          "month": "2025-12",
+          "views": 777
+        },
+        {
+          "month": "2026-01",
+          "views": 835
+        },
+        {
+          "month": "2026-02",
+          "views": 637
+        },
+        {
+          "month": "2026-03",
+          "views": 658
+        },
+        {
+          "month": "2026-04",
+          "views": 677
+        },
+        {
+          "month": "2026-05",
+          "views": 737
+        },
+        {
+          "month": "2026-06",
+          "views": 835
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Massacre_of_Lw%C3%B3w_professors",
+      "article": "Massacre_of_Lwów_professors",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Massacre_of_Lw%C3%B3w_professors/monthly/2025070100/2026063000",
+      "totalViews": 20169,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 8788
+        },
+        {
+          "month": "2025-08",
+          "views": 1324
+        },
+        {
+          "month": "2025-09",
+          "views": 1122
+        },
+        {
+          "month": "2025-10",
+          "views": 1082
+        },
+        {
+          "month": "2025-11",
+          "views": 1220
+        },
+        {
+          "month": "2025-12",
+          "views": 1175
+        },
+        {
+          "month": "2026-01",
+          "views": 1224
+        },
+        {
+          "month": "2026-02",
+          "views": 786
+        },
+        {
+          "month": "2026-03",
+          "views": 736
+        },
+        {
+          "month": "2026-04",
+          "views": 884
+        },
+        {
+          "month": "2026-05",
+          "views": 950
+        },
+        {
+          "month": "2026-06",
+          "views": 878
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Godstow",
+      "article": "Godstow",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Godstow/monthly/2025070100/2026063000",
+      "totalViews": 7569,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 741
+        },
+        {
+          "month": "2025-08",
+          "views": 794
+        },
+        {
+          "month": "2025-09",
+          "views": 545
+        },
+        {
+          "month": "2025-10",
+          "views": 722
+        },
+        {
+          "month": "2025-11",
+          "views": 540
+        },
+        {
+          "month": "2025-12",
+          "views": 514
+        },
+        {
+          "month": "2026-01",
+          "views": 597
+        },
+        {
+          "month": "2026-02",
+          "views": 457
+        },
+        {
+          "month": "2026-03",
+          "views": 536
+        },
+        {
+          "month": "2026-04",
+          "views": 654
+        },
+        {
+          "month": "2026-05",
+          "views": 743
+        },
+        {
+          "month": "2026-06",
+          "views": 726
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Battle_of_Burton_Bridge_(1643)",
+      "article": "Battle_of_Burton_Bridge_(1643)",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Battle_of_Burton_Bridge_(1643)/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+
+> mapago@0.0.0 ai:views
+> tsx scripts/get-wikipedia-views.ts https://en.wikipedia.org/wiki/Battle_of_Poltava
+
+{
+  "range": {
+    "startMonth": "2025-07",
+    "endMonth": "2026-06",
+    "months": 12
+  },
+  "results": [
+    {
+      "query": "https://en.wikipedia.org/wiki/Battle_of_Poltava",
+      "article": "Battle_of_Poltava",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Battle_of_Poltava/monthly/2025070100/2026063000",
+      "totalViews": 150951,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 14530
+        },
+        {
+          "month": "2025-08",
+          "views": 12477
+        },
+        {
+          "month": "2025-09",
+          "views": 11775
+        },
+        {
+          "month": "2025-10",
+          "views": 17320
+        },
+        {
+          "month": "2025-11",
+          "views": 14295
+        },
+        {
+          "month": "2025-12",
+          "views": 14657
+        },
+        {
+          "month": "2026-01",
+          "views": 11928
+        },
+        {
+          "month": "2026-02",
+          "views": 10333
+        },
+        {
+          "month": "2026-03",
+          "views": 9784
+        },
+        {
+          "month": "2026-04",
+          "views": 10022
+        },
+        {
+          "month": "2026-05",
+          "views": 10759
+        },
+        {
+          "month": "2026-06",
+          "views": 13071
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Navaly_church_bombing",
+      "article": "Navaly_church_bombing",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Navaly_church_bombing/monthly/2025070100/2026063000",
+      "totalViews": 10226,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 7688
+        },
+        {
+          "month": "2025-08",
+          "views": 236
+        },
+        {
+          "month": "2025-09",
+          "views": 246
+        },
+        {
+          "month": "2025-10",
+          "views": 179
+        },
+        {
+          "month": "2025-11",
+          "views": 204
+        },
+        {
+          "month": "2025-12",
+          "views": 215
+        },
+        {
+          "month": "2026-01",
+          "views": 189
+        },
+        {
+          "month": "2026-02",
+          "views": 163
+        },
+        {
+          "month": "2026-03",
+          "views": 196
+        },
+        {
+          "month": "2026-04",
+          "views": 229
+        },
+        {
+          "month": "2026-05",
+          "views": 313
+        },
+        {
+          "month": "2026-06",
+          "views": 368
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Michael_Fagan_(intruder)",
+      "article": "Michael_Fagan_(intruder)",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Michael_Fagan_(intruder)/monthly/2025070100/2026063000",
+      "totalViews": 9134,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 664
+        },
+        {
+          "month": "2025-08",
+          "views": 719
+        },
+        {
+          "month": "2025-09",
+          "views": 701
+        },
+        {
+          "month": "2025-10",
+          "views": 1382
+        },
+        {
+          "month": "2025-11",
+          "views": 980
+        },
+        {
+          "month": "2025-12",
+          "views": 725
+        },
+        {
+          "month": "2026-01",
+          "views": 872
+        },
+        {
+          "month": "2026-02",
+          "views": 614
+        },
+        {
+          "month": "2026-03",
+          "views": 651
+        },
+        {
+          "month": "2026-04",
+          "views": 623
+        },
+        {
+          "month": "2026-05",
+          "views": 670
+        },
+        {
+          "month": "2026-06",
+          "views": 533
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Nintendo",
+      "article": "Nintendo",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Nintendo/monthly/2025070100/2026063000",
+      "totalViews": 1270156,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 111593
+        },
+        {
+          "month": "2025-08",
+          "views": 103496
+        },
+        {
+          "month": "2025-09",
+          "views": 117527
+        },
+        {
+          "month": "2025-10",
+          "views": 104270
+        },
+        {
+          "month": "2025-11",
+          "views": 102666
+        },
+        {
+          "month": "2025-12",
+          "views": 109987
+        },
+        {
+          "month": "2026-01",
+          "views": 111735
+        },
+        {
+          "month": "2026-02",
+          "views": 95365
+        },
+        {
+          "month": "2026-03",
+          "views": 102866
+        },
+        {
+          "month": "2026-04",
+          "views": 110496
+        },
+        {
+          "month": "2026-05",
+          "views": 106772
+        },
+        {
+          "month": "2026-06",
+          "views": 93383
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Campbell%27s_Soup_Cans",
+      "article": "Campbell's_Soup_Cans",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Campbell's_Soup_Cans/monthly/2025070100/2026063000",
+      "totalViews": 196950,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 13139
+        },
+        {
+          "month": "2025-08",
+          "views": 15063
+        },
+        {
+          "month": "2025-09",
+          "views": 15068
+        },
+        {
+          "month": "2025-10",
+          "views": 16996
+        },
+        {
+          "month": "2025-11",
+          "views": 19433
+        },
+        {
+          "month": "2025-12",
+          "views": 12093
+        },
+        {
+          "month": "2026-01",
+          "views": 16673
+        },
+        {
+          "month": "2026-02",
+          "views": 15243
+        },
+        {
+          "month": "2026-03",
+          "views": 17819
+        },
+        {
+          "month": "2026-04",
+          "views": 18128
+        },
+        {
+          "month": "2026-05",
+          "views": 19104
+        },
+        {
+          "month": "2026-06",
+          "views": 18191
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/551_Beirut_earthquake",
+      "article": "551_Beirut_earthquake",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/551_Beirut_earthquake/monthly/2025070100/2026063000",
+      "totalViews": 9942,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 1301
+        },
+        {
+          "month": "2025-08",
+          "views": 818
+        },
+        {
+          "month": "2025-09",
+          "views": 751
+        },
+        {
+          "month": "2025-10",
+          "views": 778
+        },
+        {
+          "month": "2025-11",
+          "views": 803
+        },
+        {
+          "month": "2025-12",
+          "views": 697
+        },
+        {
+          "month": "2026-01",
+          "views": 1551
+        },
+        {
+          "month": "2026-02",
+          "views": 616
+        },
+        {
+          "month": "2026-03",
+          "views": 611
+        },
+        {
+          "month": "2026-04",
+          "views": 674
+        },
+        {
+          "month": "2026-05",
+          "views": 514
+        },
+        {
+          "month": "2026-06",
+          "views": 828
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Tham_Luang_cave_rescue",
+      "article": "Tham_Luang_cave_rescue",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Tham_Luang_cave_rescue/monthly/2025070100/2026063000",
+      "totalViews": 739439,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 68628
+        },
+        {
+          "month": "2025-08",
+          "views": 56215
+        },
+        {
+          "month": "2025-09",
+          "views": 57777
+        },
+        {
+          "month": "2025-10",
+          "views": 46961
+        },
+        {
+          "month": "2025-11",
+          "views": 41417
+        },
+        {
+          "month": "2025-12",
+          "views": 46004
+        },
+        {
+          "month": "2026-01",
+          "views": 46359
+        },
+        {
+          "month": "2026-02",
+          "views": 95127
+        },
+        {
+          "month": "2026-03",
+          "views": 44080
+        },
+        {
+          "month": "2026-04",
+          "views": 53064
+        },
+        {
+          "month": "2026-05",
+          "views": 125496
+        },
+        {
+          "month": "2026-06",
+          "views": 58311
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/1945_Katsuyama_killing_incident",
+      "article": "1945_Katsuyama_killing_incident",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/1945_Katsuyama_killing_incident/monthly/2025070100/2026063000",
+      "totalViews": 28091,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 1777
+        },
+        {
+          "month": "2025-08",
+          "views": 1792
+        },
+        {
+          "month": "2025-09",
+          "views": 1542
+        },
+        {
+          "month": "2025-10",
+          "views": 2289
+        },
+        {
+          "month": "2025-11",
+          "views": 1984
+        },
+        {
+          "month": "2025-12",
+          "views": 4367
+        },
+        {
+          "month": "2026-01",
+          "views": 1848
+        },
+        {
+          "month": "2026-02",
+          "views": 1710
+        },
+        {
+          "month": "2026-03",
+          "views": 2131
+        },
+        {
+          "month": "2026-04",
+          "views": 3799
+        },
+        {
+          "month": "2026-05",
+          "views": 2547
+        },
+        {
+          "month": "2026-06",
+          "views": 2305
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Jedwabne_pogrom",
+      "article": "Jedwabne_pogrom",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Jedwabne_pogrom/monthly/2025070100/2026063000",
+      "totalViews": 42934,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 6616
+        },
+        {
+          "month": "2025-08",
+          "views": 4059
+        },
+        {
+          "month": "2025-09",
+          "views": 3548
+        },
+        {
+          "month": "2025-10",
+          "views": 3516
+        },
+        {
+          "month": "2025-11",
+          "views": 3315
+        },
+        {
+          "month": "2025-12",
+          "views": 3372
+        },
+        {
+          "month": "2026-01",
+          "views": 3552
+        },
+        {
+          "month": "2026-02",
+          "views": 2733
+        },
+        {
+          "month": "2026-03",
+          "views": 2873
+        },
+        {
+          "month": "2026-04",
+          "views": 3161
+        },
+        {
+          "month": "2026-05",
+          "views": 2846
+        },
+        {
+          "month": "2026-06",
+          "views": 3343
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Vellore_Mutiny",
+      "article": "Vellore_Mutiny",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Vellore_Mutiny/monthly/2025070100/2026063000",
+      "totalViews": 33433,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 4239
+        },
+        {
+          "month": "2025-08",
+          "views": 3742
+        },
+        {
+          "month": "2025-09",
+          "views": 3089
+        },
+        {
+          "month": "2025-10",
+          "views": 2965
+        },
+        {
+          "month": "2025-11",
+          "views": 3017
+        },
+        {
+          "month": "2025-12",
+          "views": 2765
+        },
+        {
+          "month": "2026-01",
+          "views": 2395
+        },
+        {
+          "month": "2026-02",
+          "views": 2378
+        },
+        {
+          "month": "2026-03",
+          "views": 2336
+        },
+        {
+          "month": "2026-04",
+          "views": 2124
+        },
+        {
+          "month": "2026-05",
+          "views": 2221
+        },
+        {
+          "month": "2026-06",
+          "views": 2162
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Henry_Morgan%27s_raid_on_Porto_Bello",
+      "article": "Henry_Morgan's_raid_on_Porto_Bello",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Henry_Morgan's_raid_on_Porto_Bello/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    }
+  ]
+}
+
+===END===

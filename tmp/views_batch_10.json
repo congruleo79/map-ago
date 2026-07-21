@@ -1,0 +1,53 @@
+
+> mapago@0.0.0 ai:views
+> tsx scripts/get-wikipedia-views.ts
+
+{
+  "range": {
+    "startMonth": "2025-07",
+    "endMonth": "2026-06",
+    "months": 12
+  },
+  "results": [
+    {
+      "query": "https://en.wikipedia.org/wiki/Tham_Luang_cave_rescue",
+      "article": "Tham_Luang_cave_rescue",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Tham_Luang_cave_rescue/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/1945_Katsuyama_killing_incident",
+      "article": "1945_Katsuyama_killing_incident",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/1945_Katsuyama_killing_incident/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Jedwabne_pogrom",
+      "article": "Jedwabne_pogrom",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Jedwabne_pogrom/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Vellore_Mutiny",
+      "article": "Vellore_Mutiny",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Vellore_Mutiny/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Henry_Morgan%27s_raid_on_Porto_Bello",
+      "article": "Henry_Morgan's_raid_on_Porto_Bello",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Henry_Morgan's_raid_on_Porto_Bello/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    }
+  ]
+}

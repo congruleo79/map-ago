@@ -23,6 +23,8 @@ npm run ai:used-locations -- --format prompt
   Searches Wikidata for each location, resolves the best-matching entity, and returns the exact `P625` coordinates from the entity data when available.
 - `npm run ai:populate -- --input <ideas.json> --output src/dailyChallenges.json`
   Reads a curated JSON file of challenge ideas, resolves Wikidata coordinates for each location, fetches Wikipedia pageviews for each linked article, and writes a fully populated `dailyChallenges.json` without using an LLM.
+- `npm run ai:push-games -- --base-url <api-base-url>`
+  Reads `src/dailyChallenges.json`, converts entries into the backend seed payload, loads `.env` automatically, and uploads games through `POST /admin/games/:date/seed`. By default it uploads all future dates in the file using `ADMIN_SEED_TOKEN` from `.env`, but you can narrow it with `--date`, `--from`, and `--through`.
 - `npm run ai:views -- <article-title-or-wikipedia-url...>`
   Returns monthly Wikipedia pageview counts for each article, defaulting to the last 12 complete months. Plain location names like `Houston` are resolved through Wikidata to the canonical English Wikipedia article first. You can also pass `--months N` and `--end YYYY-MM`.
 - `npm run ai:used-locations -- --format json|prompt`

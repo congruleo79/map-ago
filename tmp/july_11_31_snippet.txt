@@ -1,0 +1,1344 @@
+  "2026-07-11": {
+    "locations": [
+      {
+        "name": "Srebrenica",
+        "region": "Bosnia and Herzegovina",
+        "text": "July 11 is marked internationally in memory of the Srebrenica genocide after the fall of the enclave in 1995. Srebrenica matters because the town became one of the clearest and most painful symbols of the Bosnian war's worst atrocity.",
+        "link": "https://en.wikipedia.org/wiki/Srebrenica_massacre",
+        "views": 727353,
+        "coordinates": {
+          "lat": 44.10416667,
+          "lng": 19.29722222
+        },
+        "isoCountryCode": "BA"
+      },
+      {
+        "name": "Jeddah",
+        "region": "Saudi Arabia",
+        "text": "On July 11, 1991, Nigeria Airways Flight 2120 departed Jeddah before crashing after takeoff, killing everyone aboard. Jeddah matters because one of the deadliest aviation disasters tied to the hajj travel corridor began there.",
+        "link": "https://en.wikipedia.org/wiki/Jeddah",
+        "views": 441627,
+        "coordinates": {
+          "lat": 21.54333333,
+          "lng": 39.17277778
+        },
+        "isoCountryCode": "SA"
+      },
+      {
+        "name": "Kortrijk",
+        "region": "Belgium",
+        "text": "On July 11, 1302, the Battle of the Golden Spurs was fought near Kortrijk, becoming one of medieval Flanders's defining victories. Kortrijk matters because the battle stayed central to Flemish historical identity long after the armor was cleared away.",
+        "link": "https://en.wikipedia.org/wiki/Kortrijk",
+        "views": 61526,
+        "coordinates": {
+          "lat": 50.8275,
+          "lng": 3.26583333
+        },
+        "isoCountryCode": "BE"
+      },
+      {
+        "name": "Evangelos Florakis Naval Base",
+        "region": "Cyprus",
+        "text": "On July 11, 2011, a blast at Evangelos Florakis Naval Base killed 13 people and triggered one of the worst peacetime crises in modern Cyprus. The base matters because a military storage failure there rippled into national outrage, political fallout, and a major power shortage.",
+        "link": "https://en.wikipedia.org/wiki/Evangelos_Florakis_Naval_Base",
+        "views": 3657,
+        "coordinates": {
+          "lat": 34.725,
+          "lng": 33.282
+        },
+        "isoCountryCode": "CY"
+      },
+      {
+        "name": "Assembly Rooms, Belfast",
+        "region": "United Kingdom",
+        "text": "On July 11, 1792, the Belfast Harp Festival opened at the Assembly Rooms and became a landmark moment in preserving Irish musical traditions. The venue matters because a local gathering there helped shape later ideas of cultural memory and revival.",
+        "link": "https://en.wikipedia.org/wiki/Belfast_Harp_Festival",
+        "views": 2769,
+        "coordinates": {
+          "lat": 54.60088889,
+          "lng": -5.92808333
+        },
+        "isoCountryCode": "GB"
+      }
+    ]
+  },
+  "2026-07-12": {
+    "locations": [
+      {
+        "name": "Saint Basil's Cathedral",
+        "region": "Russia",
+        "text": "On July 12, 1561, Saint Basil's Cathedral was consecrated in Moscow. The cathedral matters because its silhouette became one of the most recognizable architectural emblems of Russian power and religion.",
+        "link": "https://en.wikipedia.org/wiki/Saint_Basil%27s_Cathedral",
+        "views": 277197,
+        "coordinates": {
+          "lat": 55.7525,
+          "lng": 37.62305556
+        },
+        "isoCountryCode": "RU"
+      },
+      {
+        "name": "Lod",
+        "region": "Israel",
+        "text": "On July 12, 1948, expulsions from Lydda, now Lod, became one of the most disputed episodes of the 1948 Arab-Israeli war. Lod matters because the city's story remains central to arguments about displacement, memory, and statehood.",
+        "link": "https://en.wikipedia.org/wiki/Lod",
+        "views": 97988,
+        "coordinates": {
+          "lat": 31.95194444,
+          "lng": 34.88805556
+        },
+        "isoCountryCode": "IL"
+      },
+      {
+        "name": "Vidin",
+        "region": "Bulgaria",
+        "text": "On July 12, 1396, the siege of Vidin began during the Ottoman expansion into the Balkans. Vidin matters because frontier strongholds like it marked the slow political transformation of southeastern Europe.",
+        "link": "https://en.wikipedia.org/wiki/Vidin",
+        "views": 41990,
+        "coordinates": {
+          "lat": 43.99305556,
+          "lng": 22.87222222
+        },
+        "isoCountryCode": "BG"
+      },
+      {
+        "name": "Woodstock, New Brunswick",
+        "region": "Canada",
+        "text": "On July 12, 1847, riots broke out in Woodstock amid sectarian tensions in New Brunswick. Woodstock matters because a small town briefly exposed how imported imperial conflicts could harden into local violence.",
+        "link": "https://en.wikipedia.org/wiki/Woodstock,_New_Brunswick",
+        "views": 16388,
+        "coordinates": {
+          "lat": 46.152222,
+          "lng": -67.598333
+        },
+        "isoCountryCode": "CA"
+      },
+      {
+        "name": "Fort Souville",
+        "region": "France",
+        "text": "On July 12, 1916, German forces launched a major attack toward Fort Souville during the Battle of Verdun. The fort matters because holding it helped prevent the battlefield from tipping irreversibly against the French.",
+        "link": "https://en.wikipedia.org/wiki/Fort_Souville",
+        "views": 3962,
+        "coordinates": {
+          "lat": 49.188,
+          "lng": 5.4389
+        },
+        "isoCountryCode": "FR"
+      }
+    ]
+  },
+  "2026-07-13": {
+    "locations": [
+      {
+        "name": "Taiwan",
+        "region": "Taiwan",
+        "text": "On July 13, 2013, Typhoon Soulik made landfall in Taiwan and caused widespread disruption. Taiwan matters because the island repeatedly turns major weather events into stories of exposure, infrastructure, and resilience.",
+        "link": "https://en.wikipedia.org/wiki/Taiwan",
+        "views": 3949325,
+        "coordinates": {
+          "lat": 24,
+          "lng": 121
+        },
+        "isoCountryCode": "TW"
+      },
+      {
+        "name": "Dubrovnik",
+        "region": "Croatia",
+        "text": "On July 13, 1992, Operation Tiger ended with Croatian forces pushing the front back from Dubrovnik's hinterland. Dubrovnik matters because the city's survival became one of the most visible stakes of the Croatian war.",
+        "link": "https://en.wikipedia.org/wiki/Dubrovnik",
+        "views": 403815,
+        "coordinates": {
+          "lat": 42.64027778,
+          "lng": 18.10833333
+        },
+        "isoCountryCode": "HR"
+      },
+      {
+        "name": "Lake Piru",
+        "region": "United States",
+        "text": "On July 13, 2020, the body of actor Naya Rivera was recovered from Lake Piru after a widely followed search. Lake Piru matters because a recreation site turned into a national scene of grief and attention.",
+        "link": "https://en.wikipedia.org/wiki/Lake_Piru",
+        "views": 57042,
+        "coordinates": {
+          "lat": 34.4775,
+          "lng": -118.755
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "Devizes",
+        "region": "United Kingdom",
+        "text": "On July 13, 1643, the Battle of Roundway Down was fought near Devizes during the English Civil War. Devizes matters because a town under pressure suddenly sat beside one of the war's most dramatic royalist victories.",
+        "link": "https://en.wikipedia.org/wiki/Devizes",
+        "views": 48199,
+        "coordinates": {
+          "lat": 51.35277778,
+          "lng": -1.99583333
+        },
+        "isoCountryCode": "GB"
+      },
+      {
+        "name": "Durbe",
+        "region": "Latvia",
+        "text": "On July 13, 1260, the Battle of Durbe dealt the Teutonic Order one of its sharpest defeats. Durbe matters because a relatively small Baltic battlefield helped shift the regional balance of power.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Durbe",
+        "views": 17766,
+        "coordinates": {
+          "lat": 56.58888889,
+          "lng": 21.36944444
+        },
+        "isoCountryCode": "LV"
+      }
+    ]
+  },
+  "2026-07-14": {
+    "locations": [
+      {
+        "name": "Matterhorn",
+        "region": "Switzerland",
+        "text": "On July 14, 1865, the Matterhorn was first climbed, though the achievement was immediately shadowed by a fatal descent. The Matterhorn matters because mountaineering triumph and disaster arrived there together.",
+        "link": "https://en.wikipedia.org/wiki/Matterhorn",
+        "views": 540140,
+        "coordinates": {
+          "lat": 45.97638889,
+          "lng": 7.65861111
+        },
+        "isoCountryCode": "CH"
+      },
+      {
+        "name": "Nice",
+        "region": "France",
+        "text": "On July 14, 2016, a truck attack on the Promenade des Anglais in Nice killed dozens during Bastille Day celebrations. Nice matters because a festive national holiday there became the site of one of France's most traumatic recent attacks.",
+        "link": "https://en.wikipedia.org/wiki/Nice",
+        "views": 530005,
+        "coordinates": {
+          "lat": 43.7034,
+          "lng": 7.2663
+        },
+        "isoCountryCode": "FR"
+      },
+      {
+        "name": "Daejeon",
+        "region": "South Korea",
+        "text": "On July 14, 1950, fighting intensified around Daejeon during one of the Korean War's most important early battles. Daejeon matters because the city's fall showed how quickly the war's front could collapse southward.",
+        "link": "https://en.wikipedia.org/wiki/Daejeon",
+        "views": 133780,
+        "coordinates": {
+          "lat": 36.35,
+          "lng": 127.385
+        },
+        "isoCountryCode": "KR"
+      },
+      {
+        "name": "Polillo Island",
+        "region": "Philippines",
+        "text": "On July 14, 1948, Northwest Orient Flight 1-11 ditched off Polillo Island after an engine fire. Polillo Island matters because an otherwise peripheral island entered aviation history through a rare and dramatic sea landing.",
+        "link": "https://en.wikipedia.org/wiki/Polillo_Island",
+        "views": 13879,
+        "coordinates": {
+          "lat": 14.84277778,
+          "lng": 121.92916667
+        },
+        "isoCountryCode": "PH"
+      },
+      {
+        "name": "Delville Wood",
+        "region": "France",
+        "text": "On July 14, 1916, the struggle for Delville Wood began as part of the Somme offensive. Delville Wood matters because the small forest became synonymous with attrition, sacrifice, and battlefield devastation.",
+        "link": "https://en.wikipedia.org/wiki/Delville_Wood",
+        "views": 3796,
+        "coordinates": {
+          "lat": 50.02583333,
+          "lng": 2.80888889
+        },
+        "isoCountryCode": "FR"
+      }
+    ]
+  },
+  "2026-07-15": {
+    "locations": [
+      {
+        "name": "Manitoba",
+        "region": "Canada",
+        "text": "On July 15, 1870, Manitoba entered Confederation as a new Canadian province. Manitoba matters because its creation sat at the intersection of expansion, settlement, and the Red River resistance.",
+        "link": "https://en.wikipedia.org/wiki/Manitoba",
+        "views": 523437,
+        "coordinates": {
+          "lat": 55,
+          "lng": -97
+        },
+        "isoCountryCode": "CA"
+      },
+      {
+        "name": "Palermo",
+        "region": "Italy",
+        "text": "July 15 is the feast of Saint Rosalia, when Palermo centers one of Sicily's most important civic and religious festivals. Palermo matters because the city folds plague memory, devotion, and spectacle into one annual ritual.",
+        "link": "https://en.wikipedia.org/wiki/Palermo",
+        "views": 440204,
+        "coordinates": {
+          "lat": 38.11111111,
+          "lng": 13.35166667
+        },
+        "isoCountryCode": "IT"
+      },
+      {
+        "name": "Grunwald",
+        "region": "Poland",
+        "text": "On July 15, 1410, the Battle of Grunwald ended in a devastating defeat for the Teutonic Order. Grunwald matters because the field still anchors Polish and Lithuanian historical memory of a decisive medieval victory.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Grunwald",
+        "views": 254287,
+        "coordinates": {
+          "lat": 53.48611111,
+          "lng": 20.12472222
+        },
+        "isoCountryCode": "PL"
+      },
+      {
+        "name": "Fiordland",
+        "region": "New Zealand",
+        "text": "On July 15, 2009, a major earthquake struck the Fiordland region in New Zealand. Fiordland matters because its dramatic remoteness does not insulate it from the raw tectonic forces that shape the country.",
+        "link": "https://en.wikipedia.org/wiki/Fiordland",
+        "views": 31160,
+        "coordinates": {
+          "lat": -45.4,
+          "lng": 167.2
+        },
+        "isoCountryCode": "NZ"
+      },
+      {
+        "name": "Fort Julien",
+        "region": "Egypt",
+        "text": "On July 15, 1799, the Rosetta Stone was discovered at Fort Julien during Napoleon's Egyptian campaign. Fort Julien matters because one military site accidentally opened a path to deciphering ancient Egyptian writing.",
+        "link": "https://en.wikipedia.org/wiki/Fort_Julien",
+        "views": 12630,
+        "coordinates": {
+          "lat": 31.43972222,
+          "lng": 30.38944444
+        },
+        "isoCountryCode": "EG"
+      }
+    ]
+  },
+  "2026-07-16": {
+    "locations": [
+      {
+        "name": "Bihar",
+        "region": "India",
+        "text": "On July 16, 2013, a school meal poisoning in Bihar killed children and shocked the country. Bihar matters because the tragedy turned a basic welfare program into a stark story about safety, trust, and governance.",
+        "link": "https://en.wikipedia.org/wiki/Bihar",
+        "views": 841687,
+        "coordinates": {
+          "lat": 25.4,
+          "lng": 85.1
+        },
+        "isoCountryCode": "IN"
+      },
+      {
+        "name": "Luzon",
+        "region": "Philippines",
+        "text": "On July 16, 1990, a devastating earthquake struck Luzon and killed more than a thousand people. Luzon matters because the disaster reshaped how the Philippines thought about seismic risk, urban vulnerability, and preparedness.",
+        "link": "https://en.wikipedia.org/wiki/Luzon",
+        "views": 212696,
+        "coordinates": {
+          "lat": 16,
+          "lng": 121
+        },
+        "isoCountryCode": "PH"
+      },
+      {
+        "name": "Kashiwazaki-Kariwa Nuclear Power Plant",
+        "region": "Japan",
+        "text": "On July 16, 2007, an earthquake affected the Kashiwazaki-Kariwa Nuclear Power Plant and triggered serious concern about reactor safety. The plant matters because it exposed how natural hazards and nuclear infrastructure can collide.",
+        "link": "https://en.wikipedia.org/wiki/Kashiwazaki-Kariwa_Nuclear_Power_Plant",
+        "views": 98717,
+        "coordinates": {
+          "lat": 37.42833333,
+          "lng": 138.60166667
+        },
+        "isoCountryCode": "JP"
+      },
+      {
+        "name": "Arjona",
+        "region": "Spain",
+        "text": "On July 16, 1232, Muhammad ibn Yusuf was proclaimed ruler in Arjona, beginning the Nasrid rise in al-Andalus. Arjona matters because a small Andalusian town briefly stood at the start of a dynasty with long regional consequences.",
+        "link": "https://en.wikipedia.org/wiki/Arjona,_Spain",
+        "views": 3965,
+        "coordinates": {
+          "lat": 37.935,
+          "lng": -4.05694444
+        },
+        "isoCountryCode": "ES"
+      },
+      {
+        "name": "Maracana Stadium",
+        "region": "Brazil",
+        "text": "On July 16, 1950, Uruguay stunned Brazil in the World Cup final at Maracana Stadium. The stadium matters because one result there became one of football's most enduring national traumas.",
+        "link": "https://en.wikipedia.org/wiki/Maracana_Stadium",
+        "views": 1819,
+        "coordinates": {
+          "lat": -22.9121,
+          "lng": -43.2302
+        },
+        "isoCountryCode": "BR"
+      }
+    ]
+  },
+  "2026-07-17": {
+    "locations": [
+      {
+        "name": "Yekaterinburg",
+        "region": "Russia",
+        "text": "On July 17, 1918, the Romanov family were executed in Yekaterinburg. Yekaterinburg matters because the city became inseparable from the violent end of imperial Russia.",
+        "link": "https://en.wikipedia.org/wiki/Yekaterinburg",
+        "views": 444428,
+        "coordinates": {
+          "lat": 56.83555556,
+          "lng": 60.61277778
+        },
+        "isoCountryCode": "RU"
+      },
+      {
+        "name": "Olympia",
+        "region": "Greece",
+        "text": "On July 17, 1948, the first modern Olympic torch relay for a summer Games began in Olympia before heading toward London. Olympia matters because the ancient site keeps being repurposed as a stage for modern ritual and continuity.",
+        "link": "https://en.wikipedia.org/wiki/Olympia,_Greece",
+        "views": 172063,
+        "coordinates": {
+          "lat": 37.63833333,
+          "lng": 21.63
+        },
+        "isoCountryCode": "GR"
+      },
+      {
+        "name": "Yasaka Shrine",
+        "region": "Japan",
+        "text": "July 17 is the centerpiece of Kyoto's Gion Matsuri, anchored at Yasaka Shrine. The shrine matters because one of Japan's most famous festivals radiates from it through processions, ritual, and urban choreography.",
+        "link": "https://en.wikipedia.org/wiki/Yasaka_Shrine",
+        "views": 33809,
+        "coordinates": {
+          "lat": 35.00361111,
+          "lng": 135.77861111
+        },
+        "isoCountryCode": "JP"
+      },
+      {
+        "name": "Coppermine River",
+        "region": "Canada",
+        "text": "On July 17, 1771, the Bloody Falls massacre took place on the Coppermine River during Samuel Hearne's northern expedition. The river matters because an exploration route there also preserves a history of violence and encounter.",
+        "link": "https://en.wikipedia.org/wiki/Coppermine_River",
+        "views": 8956,
+        "coordinates": {
+          "lat": 67.81194444,
+          "lng": -115.08472222
+        },
+        "isoCountryCode": "CA"
+      },
+      {
+        "name": "Port Chicago Naval Magazine National Memorial",
+        "region": "United States",
+        "text": "On July 17, 1944, an explosion at Port Chicago killed 320 people and exposed racial inequities in the wartime U.S. Navy. The memorial matters because the site links disaster history directly to the struggle over military segregation.",
+        "link": "https://en.wikipedia.org/wiki/Port_Chicago_Naval_Magazine_National_Memorial",
+        "views": 4293,
+        "coordinates": {
+          "lat": 38.05694444,
+          "lng": -122.03083333
+        },
+        "isoCountryCode": "US"
+      }
+    ]
+  },
+  "2026-07-18": {
+    "locations": [
+      {
+        "name": "Treblinka extermination camp",
+        "region": "Poland",
+        "text": "On July 18, 1942, gas chambers at Treblinka began operating during one of the deadliest phases of the Holocaust. Treblinka matters because the camp stands as one of the clearest place-names of industrialized murder.",
+        "link": "https://en.wikipedia.org/wiki/Treblinka_extermination_camp",
+        "views": 369780,
+        "coordinates": {
+          "lat": 52.63111111,
+          "lng": 22.05305556
+        },
+        "isoCountryCode": "PL"
+      },
+      {
+        "name": "Long Island City",
+        "region": "United States",
+        "text": "On July 18, 1899, the newsboys' strike began in Long Island City before spreading more widely through New York. Long Island City matters because a localized labor dispute there became a broader fight over press distribution and child workers.",
+        "link": "https://en.wikipedia.org/wiki/Long_Island_City",
+        "views": 126643,
+        "coordinates": {
+          "lat": 40.7509,
+          "lng": -73.9411
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "Birgu",
+        "region": "Malta",
+        "text": "On July 18, 1806, a gunpowder magazine exploded in Birgu and devastated part of the old Maltese city. Birgu matters because its dense urban fabric turned one accident into a disaster with lasting local memory.",
+        "link": "https://en.wikipedia.org/wiki/Birgu",
+        "views": 39124,
+        "coordinates": {
+          "lat": 35.88805556,
+          "lng": 14.5225
+        },
+        "isoCountryCode": "MT"
+      },
+      {
+        "name": "Burgas Airport",
+        "region": "Bulgaria",
+        "text": "On July 18, 2012, a bombing at Burgas Airport killed Israeli tourists and a Bulgarian driver. The airport matters because an ordinary arrival point became a site of international terror and diplomatic fallout.",
+        "link": "https://en.wikipedia.org/wiki/Burgas_Airport",
+        "views": 32532,
+        "coordinates": {
+          "lat": 42.56958333,
+          "lng": 27.51527778
+        },
+        "isoCountryCode": "BG"
+      },
+      {
+        "name": "Hough",
+        "region": "United States",
+        "text": "On July 18, 1966, the Hough riots began in Cleveland after years of racial inequality and police tension. Hough matters because the neighborhood became a concentrated expression of urban unrest in the United States.",
+        "link": "https://en.wikipedia.org/wiki/Hough,_Cleveland",
+        "views": 5638,
+        "coordinates": {
+          "lat": 41.512334,
+          "lng": -81.635213
+        },
+        "isoCountryCode": "US"
+      }
+    ]
+  },
+  "2026-07-19": {
+    "locations": [
+      {
+        "name": "Bunbury",
+        "region": "Australia",
+        "text": "On July 19, 1976, a bomb damaged facilities at Bunbury Harbour in Western Australia. Bunbury matters because a port city better known for trade briefly entered national attention through political violence.",
+        "link": "https://en.wikipedia.org/wiki/Bunbury,_Western_Australia",
+        "views": 61383,
+        "coordinates": {
+          "lat": -33.32722222,
+          "lng": 115.63694444
+        },
+        "isoCountryCode": "AU"
+      },
+      {
+        "name": "Via D'Amelio",
+        "region": "Italy",
+        "text": "On July 19, 1992, judge Paolo Borsellino was assassinated in the Via D'Amelio bombing in Palermo. The street matters because anti-mafia history in Italy is permanently tied to that one explosion.",
+        "link": "https://en.wikipedia.org/wiki/Via_D%27Amelio_bombing",
+        "views": 22071,
+        "coordinates": {
+          "lat": 38.1753,
+          "lng": 13.3286
+        },
+        "isoCountryCode": "IT"
+      },
+      {
+        "name": "Kliszow",
+        "region": "Poland",
+        "text": "On July 19, 1702, Swedish forces won the Battle of Kliszow during the Great Northern War. Kliszow matters because one relatively obscure field became part of a war that reordered the Baltic world.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Kliszow",
+        "views": 18457,
+        "coordinates": {
+          "lat": 50.61666667,
+          "lng": 20.52583333
+        },
+        "isoCountryCode": "PL"
+      },
+      {
+        "name": "Fromelles",
+        "region": "France",
+        "text": "On July 19, 1916, the Battle of Fromelles began and became one of Australia's worst days of the First World War. Fromelles matters because a small French village became a byword for futile slaughter.",
+        "link": "https://en.wikipedia.org/wiki/Fromelles",
+        "views": 2139,
+        "coordinates": {
+          "lat": 50.6069,
+          "lng": 2.8558
+        },
+        "isoCountryCode": "FR"
+      },
+      {
+        "name": "Farafra",
+        "region": "Egypt",
+        "text": "On July 19, 2014, militants killed soldiers in the Farafra oasis region in Egypt's Western Desert. Farafra matters because an isolated outpost there highlighted the reach of insecurity far from Cairo.",
+        "link": "https://en.wikipedia.org/wiki/2014_Farafra_ambush",
+        "views": 2082,
+        "coordinates": {
+          "lat": 27.05833333,
+          "lng": 27.97
+        },
+        "isoCountryCode": "EG"
+      }
+    ]
+  },
+  "2026-07-20": {
+    "locations": [
+      {
+        "name": "Genoa",
+        "region": "Italy",
+        "text": "On July 20, 2001, protests at the G8 summit in Genoa turned deadly with the killing of Carlo Giuliani. Genoa matters because the city became shorthand for the clash between anti-globalization protest and state force.",
+        "link": "https://en.wikipedia.org/wiki/Genoa",
+        "views": 617194,
+        "coordinates": {
+          "lat": 44.41111111,
+          "lng": 8.93277778
+        },
+        "isoCountryCode": "IT"
+      },
+      {
+        "name": "Berwick-upon-Tweed",
+        "region": "United Kingdom",
+        "text": "On July 20, 1333, Berwick fell after a major siege during the Second War of Scottish Independence. Berwick-upon-Tweed matters because its border position kept making it strategically important far beyond its size.",
+        "link": "https://en.wikipedia.org/wiki/Berwick-upon-Tweed",
+        "views": 211417,
+        "coordinates": {
+          "lat": 55.76916667,
+          "lng": -2.0025
+        },
+        "isoCountryCode": "GB"
+      },
+      {
+        "name": "Bella Coola",
+        "region": "Canada",
+        "text": "On July 20, 1793, Alexander Mackenzie reached the Pacific near Bella Coola, completing a transcontinental overland journey. Bella Coola matters because an inlet on the central coast briefly marked the edge of imperial geographic ambition.",
+        "link": "https://en.wikipedia.org/wiki/Bella_Coola,_British_Columbia",
+        "views": 66683,
+        "coordinates": {
+          "lat": 52.36666667,
+          "lng": -126.75
+        },
+        "isoCountryCode": "CA"
+      },
+      {
+        "name": "Inverkeithing",
+        "region": "United Kingdom",
+        "text": "On July 20, 1651, the Battle of Inverkeithing opened the way for Cromwellian control in Scotland. Inverkeithing matters because one Fife town became a turning point in the Wars of the Three Kingdoms.",
+        "link": "https://en.wikipedia.org/wiki/Inverkeithing",
+        "views": 18505,
+        "coordinates": {
+          "lat": 56.03194444,
+          "lng": -3.39694444
+        },
+        "isoCountryCode": "GB"
+      },
+      {
+        "name": "Suruc",
+        "region": "Turkey",
+        "text": "On July 20, 2015, a suicide bombing in Suruc killed young activists preparing to help rebuild Kobani. Suruc matters because the border town became a focal point of the Syrian war's spillover into Turkey.",
+        "link": "https://en.wikipedia.org/wiki/Suru%C3%A7",
+        "views": 8608,
+        "coordinates": {
+          "lat": 36.975,
+          "lng": 38.42444444
+        },
+        "isoCountryCode": "TR"
+      }
+    ]
+  },
+  "2026-07-21": {
+    "locations": [
+      {
+        "name": "Crete",
+        "region": "Greece",
+        "text": "On July 21, 365, a massive earthquake near Crete sent destructive tsunami waves across the eastern Mediterranean. Crete matters because one tectonic event there reverberated through a much larger ancient world.",
+        "link": "https://en.wikipedia.org/wiki/Crete",
+        "views": 787048,
+        "coordinates": {
+          "lat": 35.21,
+          "lng": 24.91
+        },
+        "isoCountryCode": "GR"
+      },
+      {
+        "name": "Belfast",
+        "region": "United Kingdom",
+        "text": "On July 21, 1972, Bloody Friday bombings struck central Belfast during the Troubles. Belfast matters because the city repeatedly compressed sectarian conflict, security policy, and civilian fear into a single urban space.",
+        "link": "https://en.wikipedia.org/wiki/Belfast",
+        "views": 749995,
+        "coordinates": {
+          "lat": 54.5967,
+          "lng": -5.93
+        },
+        "isoCountryCode": "GB"
+      },
+      {
+        "name": "Florence",
+        "region": "Italy",
+        "text": "On July 21, 1378, the Ciompi Revolt seized control in Florence and briefly upended the city's political order. Florence matters because labor unrest there cut straight into one of medieval Europe's richest republics.",
+        "link": "https://en.wikipedia.org/wiki/Florence",
+        "views": 742320,
+        "coordinates": {
+          "lat": 43.77138889,
+          "lng": 11.25416667
+        },
+        "isoCountryCode": "IT"
+      },
+      {
+        "name": "Yuen Long",
+        "region": "Hong Kong",
+        "text": "On July 21, 2019, men in white shirts attacked commuters and protesters inside Yuen Long station and nearby streets. Yuen Long matters because the district became one of the most notorious symbols of the Hong Kong protest crisis.",
+        "link": "https://en.wikipedia.org/wiki/Yuen_Long",
+        "views": 15372,
+        "coordinates": {
+          "lat": 22.44444444,
+          "lng": 114.02583333
+        },
+        "isoCountryCode": "HK"
+      },
+      {
+        "name": "Sallum",
+        "region": "Egypt",
+        "text": "On July 21, 1977, clashes around Sallum helped trigger the brief Egypt-Libya War. Sallum matters because a border town there became the hinge between rhetorical hostility and actual interstate fighting.",
+        "link": "https://en.wikipedia.org/wiki/Sallum",
+        "views": 12410,
+        "coordinates": {
+          "lat": 31.55,
+          "lng": 25.16
+        },
+        "isoCountryCode": "EG"
+      }
+    ]
+  },
+  "2026-07-22": {
+    "locations": [
+      {
+        "name": "Hanoi",
+        "region": "Vietnam",
+        "text": "On July 22, 1802, Gia Long took Hanoi as he consolidated rule over a unified Vietnam. Hanoi matters because control of the city kept serving as a marker of political legitimacy in Vietnamese history.",
+        "link": "https://en.wikipedia.org/wiki/Hanoi",
+        "views": 554833,
+        "coordinates": {
+          "lat": 21,
+          "lng": 105.85
+        },
+        "isoCountryCode": "VN"
+      },
+      {
+        "name": "Sarawak",
+        "region": "Malaysia",
+        "text": "July 22 is celebrated as Sarawak Day, marking the territory's attainment of self-government in 1963. Sarawak matters because the date remains central to how the state narrates autonomy, federation, and identity.",
+        "link": "https://en.wikipedia.org/wiki/Sarawak",
+        "views": 278236,
+        "coordinates": {
+          "lat": 2.5,
+          "lng": 113
+        },
+        "isoCountryCode": "MY"
+      },
+      {
+        "name": "Beziers",
+        "region": "France",
+        "text": "On July 22, 1209, crusaders sacked Beziers in one of the defining atrocities of the Albigensian Crusade. Beziers matters because the city's fall became shorthand for indiscriminate violence carried out in the name of orthodoxy.",
+        "link": "https://en.wikipedia.org/wiki/B%C3%A9ziers",
+        "views": 93480,
+        "coordinates": {
+          "lat": 43.3475,
+          "lng": 3.21888889
+        },
+        "isoCountryCode": "FR"
+      },
+      {
+        "name": "Kapustin Yar",
+        "region": "Russia",
+        "text": "On July 22, 1951, Soviet dogs Dezik and Tsygan were launched from Kapustin Yar and returned alive, marking an early milestone in spaceflight biology. Kapustin Yar matters because so much Cold War experimentation began in remote testing grounds like this one.",
+        "link": "https://en.wikipedia.org/wiki/Kapustin_Yar",
+        "views": 61565,
+        "coordinates": {
+          "lat": 48.59,
+          "lng": 45.72
+        },
+        "isoCountryCode": "RU"
+      },
+      {
+        "name": "Aughrim",
+        "region": "Ireland",
+        "text": "On July 22, 1691, the Battle of Aughrim ended in a crushing Jacobite defeat. Aughrim matters because the field became one of the most decisive and deadly sites in the Williamite war in Ireland.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Aughrim",
+        "views": 38609,
+        "coordinates": {
+          "lat": 53.295,
+          "lng": -8.312
+        },
+        "isoCountryCode": "IE"
+      }
+    ]
+  },
+  "2026-07-23": {
+    "locations": [
+      {
+        "name": "Valencia, Santa Clarita",
+        "region": "United States",
+        "text": "On July 23, 1982, a helicopter crash during filming in Valencia killed actor Vic Morrow and two children. Valencia, Santa Clarita matters because one production site became central to later debates over film safety and liability.",
+        "link": "https://en.wikipedia.org/wiki/Twilight_Zone_accident",
+        "views": 699549,
+        "coordinates": {
+          "lat": 34.42,
+          "lng": -118.56
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "Lewes",
+        "region": "United Kingdom",
+        "text": "On July 23, 1958, the trial over the killing of Ruth Ellis's lover opened in Lewes after a violent seaside encounter had drawn national attention. Lewes matters because a provincial court there became part of a much larger public fascination with crime and punishment.",
+        "link": "https://en.wikipedia.org/wiki/Lewes",
+        "views": 99994,
+        "coordinates": {
+          "lat": 50.87472222,
+          "lng": 0.01166667
+        },
+        "isoCountryCode": "GB"
+      },
+      {
+        "name": "Kronstadt",
+        "region": "Russia",
+        "text": "On July 23, 1891, a French naval visit to Kronstadt helped signal the coming Franco-Russian alliance. Kronstadt matters because a naval base in the Gulf of Finland briefly became a stage for European realignment.",
+        "link": "https://en.wikipedia.org/wiki/Kronstadt",
+        "views": 98513,
+        "coordinates": {
+          "lat": 59.99083333,
+          "lng": 29.77472222
+        },
+        "isoCountryCode": "RU"
+      },
+      {
+        "name": "Site of the First National Congress of the Chinese Communist Party",
+        "region": "China",
+        "text": "On July 23, 1921, delegates met in Shanghai for the First National Congress of the Chinese Communist Party. The site matters because one modest meeting place became foundational to the political history of modern China.",
+        "link": "https://en.wikipedia.org/wiki/Site_of_the_First_National_Congress_of_the_Chinese_Communist_Party",
+        "views": 17945,
+        "coordinates": {
+          "lat": 31.2221,
+          "lng": 121.4707
+        },
+        "isoCountryCode": "CN"
+      },
+      {
+        "name": "Tulia",
+        "region": "United States",
+        "text": "On July 23, 1999, mass drug arrests in Tulia began a case that later became notorious for wrongful convictions and racial bias. Tulia matters because a small Texas town turned into a national example of fabricated justice.",
+        "link": "https://en.wikipedia.org/wiki/Tulia,_Texas",
+        "views": 13828,
+        "coordinates": {
+          "lat": 34.53583333,
+          "lng": -101.75861111
+        },
+        "isoCountryCode": "US"
+      }
+    ]
+  },
+  "2026-07-24": {
+    "locations": [
+      {
+        "name": "Montreal",
+        "region": "Canada",
+        "text": "On July 24, 1987, a cloudburst flood overwhelmed Montreal and paralyzed parts of the city. Montreal matters because a modern metropolis there was abruptly reminded how exposed infrastructure can be to extreme rain.",
+        "link": "https://en.wikipedia.org/wiki/Montreal",
+        "views": 1213393,
+        "coordinates": {
+          "lat": 45.50888889,
+          "lng": -73.55416667
+        },
+        "isoCountryCode": "CA"
+      },
+      {
+        "name": "Ouagadougou",
+        "region": "Burkina Faso",
+        "text": "On July 24, 2014, Air Algerie Flight 5017 departed from Ouagadougou before crashing in Mali. Ouagadougou matters because a major West African hub briefly became the beginning of a tragic trans-Sahel journey.",
+        "link": "https://en.wikipedia.org/wiki/Ouagadougou",
+        "views": 248083,
+        "coordinates": {
+          "lat": 12.36861111,
+          "lng": -1.5275
+        },
+        "isoCountryCode": "BF"
+      },
+      {
+        "name": "Shkoder",
+        "region": "Albania",
+        "text": "On July 24, 1910, Ottoman forces captured Shkoder during the Albanian revolt. Shkoder matters because the city repeatedly sat at the intersection of imperial decline, rebellion, and Balkan state formation.",
+        "link": "https://en.wikipedia.org/wiki/Shkod%C3%ABr",
+        "views": 119418,
+        "coordinates": {
+          "lat": 42.06805556,
+          "lng": 19.51194444
+        },
+        "isoCountryCode": "AL"
+      },
+      {
+        "name": "Maysalun",
+        "region": "Syria",
+        "text": "On July 24, 1920, French forces defeated Syrian troops at Maysalun and advanced on Damascus. Maysalun matters because the battlefield became a lasting symbol of anticolonial sacrifice in Syrian memory.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Maysalun",
+        "views": 28767,
+        "coordinates": {
+          "lat": 33.59555556,
+          "lng": 36.06472222
+        },
+        "isoCountryCode": "SY"
+      },
+      {
+        "name": "Inverurie",
+        "region": "United Kingdom",
+        "text": "On July 24, 1411, the Battle of Harlaw was fought near Inverurie in northeastern Scotland. Inverurie matters because the encounter remained embedded in Scottish memory as a conflict over power, succession, and region.",
+        "link": "https://en.wikipedia.org/wiki/Inverurie",
+        "views": 20350,
+        "coordinates": {
+          "lat": 57.2842,
+          "lng": -2.3747
+        },
+        "isoCountryCode": "GB"
+      }
+    ]
+  },
+  "2026-07-25": {
+    "locations": [
+      {
+        "name": "Osaka",
+        "region": "Japan",
+        "text": "July 25 is one of the main days of Tenjin Matsuri in Osaka, among Japan's most famous urban festivals. Osaka matters because the city channels commerce, devotion, and spectacle into a celebration with deep local continuity.",
+        "link": "https://en.wikipedia.org/wiki/Osaka",
+        "views": 660265,
+        "coordinates": {
+          "lat": 34.69388889,
+          "lng": 135.50222222
+        },
+        "isoCountryCode": "JP"
+      },
+      {
+        "name": "Corinth Canal",
+        "region": "Greece",
+        "text": "On July 25, 1893, the Corinth Canal was formally opened after decades of engineering ambition. The canal matters because it turned an ancient geographical shortcut into a modern infrastructural statement.",
+        "link": "https://en.wikipedia.org/wiki/Corinth_Canal",
+        "views": 187947,
+        "coordinates": {
+          "lat": 37.93472222,
+          "lng": 22.98388889
+        },
+        "isoCountryCode": "GR"
+      },
+      {
+        "name": "Reims Cathedral",
+        "region": "France",
+        "text": "On July 25, 1547, Henry II of France was crowned at Reims Cathedral. The cathedral matters because so much of French royal legitimacy was ceremonially concentrated in that one building.",
+        "link": "https://en.wikipedia.org/wiki/Reims_Cathedral",
+        "views": 146215,
+        "coordinates": {
+          "lat": 49.25388889,
+          "lng": 4.03416667
+        },
+        "isoCountryCode": "FR"
+      },
+      {
+        "name": "Gonesse",
+        "region": "France",
+        "text": "On July 25, 2000, Air France Flight 4590 crashed near Gonesse shortly after takeoff from Paris. Gonesse matters because the town became forever linked to the Concorde's only fatal accident.",
+        "link": "https://en.wikipedia.org/wiki/Gonesse",
+        "views": 24657,
+        "coordinates": {
+          "lat": 48.9875,
+          "lng": 2.4494
+        },
+        "isoCountryCode": "FR"
+      },
+      {
+        "name": "Knodsenburg",
+        "region": "Netherlands",
+        "text": "On July 25, 1591, relief of the siege of Knodsenburg marked a Dutch success in the Eighty Years' War. Knodsenburg matters because small fortified points like it often carried strategic weight beyond their size.",
+        "link": "https://en.wikipedia.org/wiki/Siege_of_Knodsenburg",
+        "views": 1815,
+        "coordinates": {
+          "lat": 51.8549,
+          "lng": 5.8641
+        },
+        "isoCountryCode": "NL"
+      }
+    ]
+  },
+  "2026-07-26": {
+    "locations": [
+      {
+        "name": "Vimy Memorial",
+        "region": "France",
+        "text": "On July 26, 1936, the Canadian National Vimy Memorial was unveiled in France. The memorial matters because it transformed one battlefield into a national site of grief, sacrifice, and identity.",
+        "link": "https://en.wikipedia.org/wiki/Canadian_National_Vimy_Memorial",
+        "views": 45590,
+        "coordinates": {
+          "lat": 50.37944444,
+          "lng": 2.77388889
+        },
+        "isoCountryCode": "FR"
+      },
+      {
+        "name": "Cittadella (Gozo)",
+        "region": "Malta",
+        "text": "On July 26, 1551, the Cittadella on Gozo surrendered during an Ottoman raid that devastated the island. The citadel matters because its fall condensed the vulnerability of Mediterranean island societies to imperial attack.",
+        "link": "https://en.wikipedia.org/wiki/Cittadella_(Gozo)",
+        "views": 36538,
+        "coordinates": {
+          "lat": 36.04638889,
+          "lng": 14.23944444
+        },
+        "isoCountryCode": "MT"
+      },
+      {
+        "name": "Stellaland",
+        "region": "South Africa",
+        "text": "On July 26, 1882, the Boer republic of Stellaland was established in southern Africa. Stellaland matters because ephemeral states like it reveal how fluid frontiers and authority could be during settler expansion.",
+        "link": "https://en.wikipedia.org/wiki/Stellaland",
+        "views": 17508,
+        "coordinates": {
+          "lat": -26.95,
+          "lng": 24.73
+        },
+        "isoCountryCode": "ZA"
+      },
+      {
+        "name": "Pryazovia",
+        "region": "Ukraine",
+        "text": "On July 26, 1778, the Russian Empire ordered the resettlement of Crimean Greeks to Pryazovia. Pryazovia matters because the region became a destination for forced demographic engineering with long historical consequences.",
+        "link": "https://en.wikipedia.org/wiki/Pryazovia",
+        "views": 14260,
+        "coordinates": {
+          "lat": 47,
+          "lng": 36.6
+        },
+        "isoCountryCode": "UA"
+      },
+      {
+        "name": "Mokpo Air Base",
+        "region": "South Korea",
+        "text": "On July 26, 1993, Asiana Airlines Flight 733 crashed during approach to Mokpo Air Base in poor weather. The air base matters because a military-linked runway became central to one of South Korea's deadliest air disasters.",
+        "link": "https://en.wikipedia.org/wiki/Mokpo_Air_Base",
+        "views": 1712,
+        "coordinates": {
+          "lat": 34.75888889,
+          "lng": 126.37972222
+        },
+        "isoCountryCode": "KR"
+      }
+    ]
+  },
+  "2026-07-27": {
+    "locations": [
+      {
+        "name": "Phoenix",
+        "region": "United States",
+        "text": "On July 27, 2007, two television news helicopters collided over Phoenix during a live police chase broadcast. Phoenix matters because the city became the backdrop for one of the most surreal media-era air disasters.",
+        "link": "https://en.wikipedia.org/wiki/Phoenix,_Arizona",
+        "views": 914741,
+        "coordinates": {
+          "lat": 33.44833333,
+          "lng": -112.07388889
+        },
+        "isoCountryCode": "US"
+      },
+      {
+        "name": "Thessaloniki",
+        "region": "Greece",
+        "text": "On July 27, 586, a major siege of Thessaloniki by the Sclaveni came to an end. Thessaloniki matters because the city kept functioning as one of the eastern Mediterranean's most resilient urban strongholds.",
+        "link": "https://en.wikipedia.org/wiki/Thessaloniki",
+        "views": 677608,
+        "coordinates": {
+          "lat": 40.6403,
+          "lng": 22.9356
+        },
+        "isoCountryCode": "GR"
+      },
+      {
+        "name": "Bruges",
+        "region": "Belgium",
+        "text": "On July 27, 1916, British captain Charles Fryatt was executed in Bruges by German authorities. Bruges matters because a city better known for its medieval calm became entangled in the harsh symbolism of wartime justice.",
+        "link": "https://en.wikipedia.org/wiki/Bruges",
+        "views": 394581,
+        "coordinates": {
+          "lat": 51.20888889,
+          "lng": 3.22416667
+        },
+        "isoCountryCode": "BE"
+      },
+      {
+        "name": "El Alamein",
+        "region": "Egypt",
+        "text": "On July 27, 1942, the First Battle of El Alamein ended with the Axis advance checked in Egypt. El Alamein matters because the name became synonymous with one of the Second World War's crucial turning points in North Africa.",
+        "link": "https://en.wikipedia.org/wiki/First_Battle_of_El_Alamein",
+        "views": 109163,
+        "coordinates": {
+          "lat": 30.83333333,
+          "lng": 28.95
+        },
+        "isoCountryCode": "EG"
+      },
+      {
+        "name": "Visby Cathedral",
+        "region": "Sweden",
+        "text": "On July 27, 1225, Visby Cathedral was consecrated on Gotland. The cathedral matters because it reflects how a Hanseatic trading town expressed its status through monumental religion.",
+        "link": "https://en.wikipedia.org/wiki/Visby_Cathedral",
+        "views": 6227,
+        "coordinates": {
+          "lat": 57.64166667,
+          "lng": 18.29777778
+        },
+        "isoCountryCode": "SE"
+      }
+    ]
+  },
+  "2026-07-28": {
+    "locations": [
+      {
+        "name": "San Marino",
+        "region": "San Marino",
+        "text": "July 28 is celebrated as Liberation Day in San Marino, commemorating the end of Fascist rule. San Marino matters because even one of Europe's smallest states carries a sharply remembered political chronology.",
+        "link": "https://en.wikipedia.org/wiki/San_Marino",
+        "views": 1176349,
+        "coordinates": {
+          "lat": 43.93333333,
+          "lng": 12.43333333
+        },
+        "isoCountryCode": "SM"
+      },
+      {
+        "name": "Fukuoka",
+        "region": "Japan",
+        "text": "On July 28, 2001, Ian Thorpe completed his six-gold performance at the world swimming championships in Fukuoka. Fukuoka matters because the city briefly hosted one of the defining meets of modern swimming.",
+        "link": "https://en.wikipedia.org/wiki/Fukuoka",
+        "views": 311788,
+        "coordinates": {
+          "lat": 33.59,
+          "lng": 130.40166667
+        },
+        "isoCountryCode": "JP"
+      },
+      {
+        "name": "Sutton Hoo",
+        "region": "United Kingdom",
+        "text": "On July 28, 1939, the famous Sutton Hoo helmet was uncovered during the excavation of the Anglo-Saxon ship burial. Sutton Hoo matters because one archaeological site there transformed understanding of early medieval England.",
+        "link": "https://en.wikipedia.org/wiki/Sutton_Hoo",
+        "views": 254051,
+        "coordinates": {
+          "lat": 52.0897,
+          "lng": 1.3389
+        },
+        "isoCountryCode": "GB"
+      },
+      {
+        "name": "Margalla Hills",
+        "region": "Pakistan",
+        "text": "On July 28, 2010, Airblue Flight 202 crashed in the Margalla Hills during approach to Islamabad. The hills matter because a landscape beside the capital became associated with one of Pakistan's deadliest air disasters.",
+        "link": "https://en.wikipedia.org/wiki/Margalla_Hills",
+        "views": 38908,
+        "coordinates": {
+          "lat": 33.74444444,
+          "lng": 73.04166667
+        },
+        "isoCountryCode": "PK"
+      },
+      {
+        "name": "Tangshan",
+        "region": "China",
+        "text": "On July 28, 1976, the Tangshan earthquake killed vast numbers of people in one of the twentieth century's deadliest disasters. Tangshan matters because the city's name remains almost inseparable from catastrophic urban destruction.",
+        "link": "https://en.wikipedia.org/wiki/Tangshan",
+        "views": 34562,
+        "coordinates": {
+          "lat": 39.62944444,
+          "lng": 118.17388889
+        },
+        "isoCountryCode": "CN"
+      }
+    ]
+  },
+  "2026-07-29": {
+    "locations": [
+      {
+        "name": "St Paul's Cathedral",
+        "region": "United Kingdom",
+        "text": "On July 29, 1981, the wedding of Charles and Diana took place at St Paul's Cathedral. The cathedral matters because a single ceremony there became one of the most globally watched royal spectacles of the twentieth century.",
+        "link": "https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral",
+        "views": 530456,
+        "coordinates": {
+          "lat": 51.5138,
+          "lng": -0.0983
+        },
+        "isoCountryCode": "GB"
+      },
+      {
+        "name": "Stirling",
+        "region": "United Kingdom",
+        "text": "On July 29, 1567, James VI of Scotland was crowned at Stirling. Stirling matters because the city and its castle long served as a compact stage for Scottish monarchy, crisis, and continuity.",
+        "link": "https://en.wikipedia.org/wiki/Stirling",
+        "views": 156166,
+        "coordinates": {
+          "lat": 56.1166,
+          "lng": -3.9369
+        },
+        "isoCountryCode": "GB"
+      },
+      {
+        "name": "Monza",
+        "region": "Italy",
+        "text": "On July 29, 1900, King Umberto I of Italy was assassinated in Monza. Monza matters because the city unexpectedly became the scene of a dramatic rupture in Italian political life.",
+        "link": "https://en.wikipedia.org/wiki/Monza",
+        "views": 105361,
+        "coordinates": {
+          "lat": 45.58361111,
+          "lng": 9.27361111
+        },
+        "isoCountryCode": "IT"
+      },
+      {
+        "name": "Klyuch",
+        "region": "Bulgaria",
+        "text": "On July 29, 1014, the Battle of Kleidion was fought near Klyuch and helped break Bulgarian resistance to Byzantium. Klyuch matters because one valley battlefield carried major consequences for medieval Balkan power.",
+        "link": "https://en.wikipedia.org/wiki/Battle_of_Kleidion",
+        "views": 44290,
+        "coordinates": {
+          "lat": 41.3625,
+          "lng": 23.0175
+        },
+        "isoCountryCode": "BG"
+      },
+      {
+        "name": "Neerwinden",
+        "region": "Belgium",
+        "text": "On July 29, 1693, the Battle of Landen was fought around Neerwinden during the Nine Years' War. Neerwinden matters because seemingly quiet Flemish villages were often pulled into Europe's dynastic wars.",
+        "link": "https://en.wikipedia.org/wiki/Neerwinden",
+        "views": 1369,
+        "coordinates": {
+          "lat": 50.76583333,
+          "lng": 5.03833333
+        },
+        "isoCountryCode": "BE"
+      }
+    ]
+  },
+  "2026-07-30": {
+    "locations": [
+      {
+        "name": "Lodz",
+        "region": "Poland",
+        "text": "On July 30, 1981, hunger demonstrations in Lodz drew attention to shortages and social strain in late communist Poland. Lodz matters because an industrial city there helped make economic breakdown politically visible.",
+        "link": "https://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA",
+        "views": 240047,
+        "coordinates": {
+          "lat": 51.77694444,
+          "lng": 19.45472222
+        },
+        "isoCountryCode": "PL"
+      },
+      {
+        "name": "Chihuahua City",
+        "region": "Mexico",
+        "text": "On July 30, 1811, Miguel Hidalgo was executed in Chihuahua City during the Mexican War of Independence. Chihuahua City matters because one northern city became part of the founding martyrdom of the Mexican nation.",
+        "link": "https://en.wikipedia.org/wiki/Chihuahua_City",
+        "views": 79434,
+        "coordinates": {
+          "lat": 28.63694444,
+          "lng": -106.07694444
+        },
+        "isoCountryCode": "MX"
+      },
+      {
+        "name": "Qana",
+        "region": "Lebanon",
+        "text": "On July 30, 2006, an airstrike near Qana killed civilians sheltering during the Lebanon war. Qana matters because the village's name had already become deeply associated with earlier wartime trauma.",
+        "link": "https://en.wikipedia.org/wiki/Qana",
+        "views": 16063,
+        "coordinates": {
+          "lat": 33.20916667,
+          "lng": 35.29916667
+        },
+        "isoCountryCode": "LB"
+      },
+      {
+        "name": "Grace-Berleur",
+        "region": "Belgium",
+        "text": "On July 30, 1950, police opened fire in Grace-Berleur during the crisis over King Leopold III. Grace-Berleur matters because a local confrontation there captured the intensity of Belgium's postwar royal question.",
+        "link": "https://en.wikipedia.org/wiki/Gr%C3%A2ce-Hollogne",
+        "views": 14567,
+        "coordinates": {
+          "lat": 50.6322,
+          "lng": 5.4483
+        },
+        "isoCountryCode": "BE"
+      },
+      {
+        "name": "Malin",
+        "region": "India",
+        "text": "On July 30, 2014, a landslide buried much of the village of Malin in Maharashtra. Malin matters because the disaster turned a small settlement into a national warning about terrain, rain, and rural vulnerability.",
+        "link": "https://en.wikipedia.org/wiki/2014_Malin_landslide",
+        "views": 6517,
+        "coordinates": {
+          "lat": 19.16111111111111,
+          "lng": 73.68833333333333
+        },
+        "isoCountryCode": "IN"
+      }
+    ]
+  },
+  "2026-07-31": {
+    "locations": [
+      {
+        "name": "K2",
+        "region": "Pakistan",
+        "text": "On July 31, 1954, climbers first reached the summit of K2, one of the world's most difficult mountains. K2 matters because success there still signifies a harsher and more dangerous mountaineering benchmark than Everest-style fame.",
+        "link": "https://en.wikipedia.org/wiki/K2",
+        "views": 1128247,
+        "coordinates": {
+          "lat": 35.8825,
+          "lng": 76.51333333
+        },
+        "isoCountryCode": "PK"
+      },
+      {
+        "name": "Ypres",
+        "region": "Belgium",
+        "text": "On July 31, 1917, the Battle of Passchendaele began near Ypres. Ypres matters because the city remained one of the Western Front's most concentrated landscapes of mud, artillery, and attrition.",
+        "link": "https://en.wikipedia.org/wiki/Ypres",
+        "views": 150941,
+        "coordinates": {
+          "lat": 50.85083333,
+          "lng": 2.885
+        },
+        "isoCountryCode": "BE"
+      },
+      {
+        "name": "Ten Thousand Buddhas Monastery",
+        "region": "Hong Kong",
+        "text": "On July 31, 2000, the Ten Thousand Buddhas Monastery fully reopened after restoration. The monastery matters because it shows how a highly recognizable religious site can become a cultural landmark beyond its devotional role.",
+        "link": "https://en.wikipedia.org/wiki/Ten_Thousand_Buddhas_Monastery",
+        "views": 14783,
+        "coordinates": {
+          "lat": 22.3875,
+          "lng": 114.19583333
+        },
+        "isoCountryCode": "HK"
+      },
+      {
+        "name": "Claudy",
+        "region": "United Kingdom",
+        "text": "On July 31, 1972, coordinated car bombs killed civilians in Claudy during the Troubles. Claudy matters because the village shows how violence in Northern Ireland repeatedly reached places far smaller than the better-known cities.",
+        "link": "https://en.wikipedia.org/wiki/Claudy_bombing",
+        "views": 9557,
+        "coordinates": {
+          "lat": 54.91138888888889,
+          "lng": -7.154722222222222
+        },
+        "isoCountryCode": "GB"
+      },
+      {
+        "name": "Medininkai",
+        "region": "Lithuania",
+        "text": "On July 31, 1991, Lithuanian customs officials were killed at Medininkai during the violent last phase of Soviet collapse. Medininkai matters because a border post there became a stark symbol of independence achieved under pressure.",
+        "link": "https://en.wikipedia.org/wiki/Medininkai",
+        "views": 4864,
+        "coordinates": {
+          "lat": 54.53888889,
+          "lng": 25.65
+        },
+        "isoCountryCode": "LT"
+      }
+    ]
+  }

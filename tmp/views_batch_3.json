@@ -1,0 +1,303 @@
+
+> mapago@0.0.0 ai:views
+> tsx scripts/get-wikipedia-views.ts
+
+{
+  "range": {
+    "startMonth": "2025-07",
+    "endMonth": "2026-06",
+    "months": 12
+  },
+  "results": [
+    {
+      "query": "https://en.wikipedia.org/wiki/Dan-Air_Flight_1903",
+      "article": "Dan-Air_Flight_1903",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Dan-Air_Flight_1903/monthly/2025070100/2026063000",
+      "totalViews": 15899,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 4394
+        },
+        {
+          "month": "2025-08",
+          "views": 1439
+        },
+        {
+          "month": "2025-09",
+          "views": 858
+        },
+        {
+          "month": "2025-10",
+          "views": 801
+        },
+        {
+          "month": "2025-11",
+          "views": 988
+        },
+        {
+          "month": "2025-12",
+          "views": 1011
+        },
+        {
+          "month": "2026-01",
+          "views": 1193
+        },
+        {
+          "month": "2026-02",
+          "views": 1017
+        },
+        {
+          "month": "2026-03",
+          "views": 933
+        },
+        {
+          "month": "2026-04",
+          "views": 975
+        },
+        {
+          "month": "2026-05",
+          "views": 1260
+        },
+        {
+          "month": "2026-06",
+          "views": 1030
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Attack_on_Mers-el-K%C3%A9bir",
+      "article": "Attack_on_Mers-el-Kébir",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Attack_on_Mers-el-K%C3%A9bir/monthly/2025070100/2026063000",
+      "totalViews": 175388,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 16749
+        },
+        {
+          "month": "2025-08",
+          "views": 14515
+        },
+        {
+          "month": "2025-09",
+          "views": 12194
+        },
+        {
+          "month": "2025-10",
+          "views": 12633
+        },
+        {
+          "month": "2025-11",
+          "views": 13060
+        },
+        {
+          "month": "2025-12",
+          "views": 15909
+        },
+        {
+          "month": "2026-01",
+          "views": 17835
+        },
+        {
+          "month": "2026-02",
+          "views": 13200
+        },
+        {
+          "month": "2026-03",
+          "views": 12864
+        },
+        {
+          "month": "2026-04",
+          "views": 12644
+        },
+        {
+          "month": "2026-05",
+          "views": 11603
+        },
+        {
+          "month": "2026-06",
+          "views": 22182
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Action_of_3_July_1810",
+      "article": "Action_of_3_July_1810",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Action_of_3_July_1810/monthly/2025070100/2026063000",
+      "totalViews": 5155,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 3759
+        },
+        {
+          "month": "2025-08",
+          "views": 121
+        },
+        {
+          "month": "2025-09",
+          "views": 112
+        },
+        {
+          "month": "2025-10",
+          "views": 94
+        },
+        {
+          "month": "2025-11",
+          "views": 132
+        },
+        {
+          "month": "2025-12",
+          "views": 114
+        },
+        {
+          "month": "2026-01",
+          "views": 161
+        },
+        {
+          "month": "2026-02",
+          "views": 113
+        },
+        {
+          "month": "2026-03",
+          "views": 141
+        },
+        {
+          "month": "2026-04",
+          "views": 125
+        },
+        {
+          "month": "2026-05",
+          "views": 170
+        },
+        {
+          "month": "2026-06",
+          "views": 113
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Battle_of_Hamel",
+      "article": "Battle_of_Hamel",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Battle_of_Hamel/monthly/2025070100/2026063000",
+      "totalViews": 38815,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 11552
+        },
+        {
+          "month": "2025-08",
+          "views": 4830
+        },
+        {
+          "month": "2025-09",
+          "views": 2723
+        },
+        {
+          "month": "2025-10",
+          "views": 2069
+        },
+        {
+          "month": "2025-11",
+          "views": 2111
+        },
+        {
+          "month": "2025-12",
+          "views": 1939
+        },
+        {
+          "month": "2026-01",
+          "views": 2309
+        },
+        {
+          "month": "2026-02",
+          "views": 1804
+        },
+        {
+          "month": "2026-03",
+          "views": 2234
+        },
+        {
+          "month": "2026-04",
+          "views": 2334
+        },
+        {
+          "month": "2026-05",
+          "views": 2910
+        },
+        {
+          "month": "2026-06",
+          "views": 2000
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Battle_of_Adrianople_(324)",
+      "article": "Battle_of_Adrianople_(324)",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Battle_of_Adrianople_(324)/monthly/2025070100/2026063000",
+      "totalViews": 9907,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 1934
+        },
+        {
+          "month": "2025-08",
+          "views": 676
+        },
+        {
+          "month": "2025-09",
+          "views": 1256
+        },
+        {
+          "month": "2025-10",
+          "views": 665
+        },
+        {
+          "month": "2025-11",
+          "views": 580
+        },
+        {
+          "month": "2025-12",
+          "views": 685
+        },
+        {
+          "month": "2026-01",
+          "views": 594
+        },
+        {
+          "month": "2026-02",
+          "views": 508
+        },
+        {
+          "month": "2026-03",
+          "views": 694
+        },
+        {
+          "month": "2026-04",
+          "views": 958
+        },
+        {
+          "month": "2026-05",
+          "views": 756
+        },
+        {
+          "month": "2026-06",
+          "views": 601
+        }
+      ]
+    }
+  ]
+}

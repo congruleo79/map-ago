@@ -1,0 +1,53 @@
+
+> mapago@0.0.0 ai:views
+> tsx scripts/get-wikipedia-views.ts
+
+{
+  "range": {
+    "startMonth": "2025-07",
+    "endMonth": "2026-06",
+    "months": 12
+  },
+  "results": [
+    {
+      "query": "https://en.wikipedia.org/wiki/Disappearance_of_Lars_Mittank",
+      "article": "Disappearance_of_Lars_Mittank",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Disappearance_of_Lars_Mittank/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Brazil_v_Germany_(2014_FIFA_World_Cup)",
+      "article": "Brazil_v_Germany_(2014_FIFA_World_Cup)",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Brazil_v_Germany_(2014_FIFA_World_Cup)/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Sudan_Airways_Flight_139",
+      "article": "Sudan_Airways_Flight_139",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Sudan_Airways_Flight_139/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Canadian_Pacific_Air_Lines_Flight_21",
+      "article": "Canadian_Pacific_Air_Lines_Flight_21",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Canadian_Pacific_Air_Lines_Flight_21/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Battle_of_Poltava",
+      "article": "Battle_of_Poltava",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Battle_of_Poltava/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    }
+  ]
+}

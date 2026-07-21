@@ -1,0 +1,166 @@
+[
+  { "date": "2026-07-01", "name": "Drogheda", "region": "Ireland", "isoCountryCode": "IE", "article": "https://en.wikipedia.org/wiki/Battle_of_the_Boyne", "coordQuery": "Drogheda" },
+  {
+    "date": "2026-07-01",
+    "name": "Überlingen",
+    "region": "Germany",
+    "isoCountryCode": "DE",
+    "article": "https://en.wikipedia.org/wiki/2002_%C3%9Cberlingen_mid-air_collision",
+    "coordQuery": "Überlingen"
+  },
+  {
+    "date": "2026-07-01",
+    "name": "Scottish Parliament",
+    "region": "United Kingdom",
+    "isoCountryCode": "GB",
+    "article": "https://en.wikipedia.org/wiki/Scottish_Parliament",
+    "coordQuery": "Scottish Parliament"
+  },
+  { "date": "2026-07-01", "name": "Fouta Djallon", "region": "Guinea", "isoCountryCode": "GN", "article": "https://en.wikipedia.org/wiki/Fouta_Djallon", "coordQuery": "Fouta Djallon" },
+  {
+    "date": "2026-07-01",
+    "name": "Lunenburg",
+    "region": "Canada",
+    "isoCountryCode": "CA",
+    "article": "https://en.wikipedia.org/wiki/Raid_on_Lunenburg,_Nova_Scotia_(1782)",
+    "coordQuery": "Lunenburg, Nova Scotia"
+  },
+
+  { "date": "2026-07-02", "name": "Hpakant", "region": "Myanmar", "isoCountryCode": "MM", "article": "https://en.wikipedia.org/wiki/2020_Hpakant_jade_mine_disaster", "coordQuery": "Hpakant" },
+  { "date": "2026-07-02", "name": "Ponary", "region": "Lithuania", "isoCountryCode": "LT", "article": "https://en.wikipedia.org/wiki/Ponary_massacre", "coordQuery": "Ponary" },
+  {
+    "date": "2026-07-02",
+    "name": "St. George's",
+    "region": "Grenada",
+    "isoCountryCode": "GD",
+    "article": "https://en.wikipedia.org/wiki/Capture_of_Grenada_(1779)",
+    "coordQuery": "St. George's, Grenada"
+  },
+  { "date": "2026-07-02", "name": "Qianling Mausoleum", "region": "China", "isoCountryCode": "CN", "article": "https://en.wikipedia.org/wiki/Qianling_Mausoleum", "coordQuery": "Qianling Mausoleum" },
+  { "date": "2026-07-02", "name": "Marston Moor", "region": "United Kingdom", "isoCountryCode": "GB", "article": "https://en.wikipedia.org/wiki/Battle_of_Marston_Moor", "coordQuery": "Marston Moor" },
+
+  { "date": "2026-07-03", "name": "Montseny Massif", "region": "Spain", "isoCountryCode": "ES", "article": "https://en.wikipedia.org/wiki/Dan-Air_Flight_1903", "coordQuery": "Montseny Massif" },
+  {
+    "date": "2026-07-03",
+    "name": "Mers El Kébir",
+    "region": "Algeria",
+    "isoCountryCode": "DZ",
+    "article": "https://en.wikipedia.org/wiki/Attack_on_Mers-el-K%C3%A9bir",
+    "coordQuery": "Mers El Kébir"
+  },
+  { "date": "2026-07-03", "name": "Comoro Islands", "region": "Comoros", "isoCountryCode": "KM", "article": "https://en.wikipedia.org/wiki/Action_of_3_July_1810", "coordQuery": "Comoro Islands" },
+  { "date": "2026-07-03", "name": "Hamel", "region": "France", "isoCountryCode": "FR", "article": "https://en.wikipedia.org/wiki/Battle_of_Hamel", "coordQuery": "Hamel, Somme" },
+  { "date": "2026-07-03", "name": "Adrianople", "region": "Turkey", "isoCountryCode": "TR", "article": "https://en.wikipedia.org/wiki/Battle_of_Adrianople_(324)", "coordQuery": "Edirne" },
+
+  {
+    "date": "2026-07-04",
+    "name": "Entebbe International Airport",
+    "region": "Uganda",
+    "isoCountryCode": "UG",
+    "article": "https://en.wikipedia.org/wiki/Entebbe_raid",
+    "coordQuery": "Entebbe International Airport"
+  },
+  {
+    "date": "2026-07-04",
+    "name": "Gibraltar",
+    "region": "Gibraltar",
+    "isoCountryCode": "GI",
+    "article": "https://en.wikipedia.org/wiki/1943_Gibraltar_Liberator_AL523_crash",
+    "coordQuery": "Gibraltar"
+  },
+  { "date": "2026-07-04", "name": "Lviv", "region": "Ukraine", "isoCountryCode": "UA", "article": "https://en.wikipedia.org/wiki/Massacre_of_Lw%C3%B3w_professors", "coordQuery": "Lviv" },
+  { "date": "2026-07-04", "name": "Godstow", "region": "United Kingdom", "isoCountryCode": "GB", "article": "https://en.wikipedia.org/wiki/Godstow", "coordQuery": "Godstow" },
+  {
+    "date": "2026-07-04",
+    "name": "Burton Bridge",
+    "region": "United Kingdom",
+    "isoCountryCode": "GB",
+    "article": "https://en.wikipedia.org/wiki/Battle_of_Burton_Bridge_(1643)",
+    "coordQuery": "Burton upon Trent"
+  },
+
+  { "date": "2026-07-05", "name": "The Shard", "region": "United Kingdom", "isoCountryCode": "GB", "article": "https://en.wikipedia.org/wiki/The_Shard", "coordQuery": "The Shard" },
+  { "date": "2026-07-05", "name": "Carpiquet", "region": "France", "isoCountryCode": "FR", "article": "https://en.wikipedia.org/wiki/Operation_Windsor", "coordQuery": "Carpiquet" },
+  { "date": "2026-07-05", "name": "Hammerwich", "region": "United Kingdom", "isoCountryCode": "GB", "article": "https://en.wikipedia.org/wiki/Staffordshire_Hoard", "coordQuery": "Hammerwich" },
+  { "date": "2026-07-05", "name": "Fort Copacabana", "region": "Brazil", "isoCountryCode": "BR", "article": "https://en.wikipedia.org/wiki/Copacabana_Fort_revolt", "coordQuery": "Fort Copacabana" },
+  {
+    "date": "2026-07-05",
+    "name": "Hyde Park",
+    "region": "United Kingdom",
+    "isoCountryCode": "GB",
+    "article": "https://en.wikipedia.org/wiki/The_Stones_in_the_Park",
+    "coordQuery": "Hyde Park, London"
+  },
+
+  { "date": "2026-07-06", "name": "Mamudo", "region": "Nigeria", "isoCountryCode": "NG", "article": "https://en.wikipedia.org/wiki/Mamudo_school_massacre", "coordQuery": "Mamudo" },
+  { "date": "2026-07-06", "name": "Saïo", "region": "Ethiopia", "isoCountryCode": "ET", "article": "https://en.wikipedia.org/wiki/Siege_of_Sa%C3%AFo", "coordQuery": "Dembidolo" },
+  { "date": "2026-07-06", "name": "Wagram", "region": "Austria", "isoCountryCode": "AT", "article": "https://en.wikipedia.org/wiki/Battle_of_Wagram", "coordQuery": "Wagram" },
+  { "date": "2026-07-06", "name": "Algeciras", "region": "Spain", "isoCountryCode": "ES", "article": "https://en.wikipedia.org/wiki/First_Battle_of_Algeciras", "coordQuery": "Algeciras" },
+  { "date": "2026-07-06", "name": "Pamplona", "region": "Spain", "isoCountryCode": "ES", "article": "https://en.wikipedia.org/wiki/Festival_of_San_Ferm%C3%ADn", "coordQuery": "Pamplona" },
+
+  { "date": "2026-07-07", "name": "Brijuni", "region": "Croatia", "isoCountryCode": "HR", "article": "https://en.wikipedia.org/wiki/Brioni_Agreement", "coordQuery": "Brijuni" },
+  {
+    "date": "2026-07-07",
+    "name": "Olympiastadion",
+    "region": "Germany",
+    "isoCountryCode": "DE",
+    "article": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_final",
+    "coordQuery": "Olympiastadion (Munich)"
+  },
+  { "date": "2026-07-07", "name": "Dunkirk", "region": "France", "isoCountryCode": "FR", "article": "https://en.wikipedia.org/wiki/Raid_on_Dunkirk_(1800)", "coordQuery": "Dunkirk" },
+  { "date": "2026-07-07", "name": "Hubbardton", "region": "United States", "isoCountryCode": "US", "article": "https://en.wikipedia.org/wiki/Battle_of_Hubbardton", "coordQuery": "Hubbardton" },
+  { "date": "2026-07-07", "name": "Redeswire", "region": "United Kingdom", "isoCountryCode": "GB", "article": "https://en.wikipedia.org/wiki/Raid_of_the_Redeswire", "coordQuery": "Redeswire" },
+
+  {
+    "date": "2026-07-08",
+    "name": "Varna Airport",
+    "region": "Bulgaria",
+    "isoCountryCode": "BG",
+    "article": "https://en.wikipedia.org/wiki/Disappearance_of_Lars_Mittank",
+    "coordQuery": "Varna Airport"
+  },
+  { "date": "2026-07-08", "name": "Mineirão", "region": "Brazil", "isoCountryCode": "BR", "article": "https://en.wikipedia.org/wiki/Brazil_v_Germany_(2014_FIFA_World_Cup)", "coordQuery": "Mineirão" },
+  { "date": "2026-07-08", "name": "Port Sudan", "region": "Sudan", "isoCountryCode": "SD", "article": "https://en.wikipedia.org/wiki/Sudan_Airways_Flight_139", "coordQuery": "Port Sudan" },
+  {
+    "date": "2026-07-08",
+    "name": "100 Mile House",
+    "region": "Canada",
+    "isoCountryCode": "CA",
+    "article": "https://en.wikipedia.org/wiki/Canadian_Pacific_Air_Lines_Flight_21",
+    "coordQuery": "100 Mile House"
+  },
+  { "date": "2026-07-08", "name": "Poltava", "region": "Ukraine", "isoCountryCode": "UA", "article": "https://en.wikipedia.org/wiki/Battle_of_Poltava", "coordQuery": "Poltava" },
+
+  { "date": "2026-07-09", "name": "Navaly", "region": "Sri Lanka", "isoCountryCode": "LK", "article": "https://en.wikipedia.org/wiki/Navaly_church_bombing", "coordQuery": "Navaly" },
+  {
+    "date": "2026-07-09",
+    "name": "Buckingham Palace",
+    "region": "United Kingdom",
+    "isoCountryCode": "GB",
+    "article": "https://en.wikipedia.org/wiki/Michael_Fagan_(intruder)",
+    "coordQuery": "Buckingham Palace"
+  },
+  { "date": "2026-07-09", "name": "Nintendo", "region": "Japan", "isoCountryCode": "JP", "article": "https://en.wikipedia.org/wiki/Nintendo", "coordQuery": "Nintendo" },
+  {
+    "date": "2026-07-09",
+    "name": "Ferus Gallery",
+    "region": "United States",
+    "isoCountryCode": "US",
+    "article": "https://en.wikipedia.org/wiki/Campbell%27s_Soup_Cans",
+    "coordQuery": "Ferus Gallery"
+  },
+  { "date": "2026-07-09", "name": "Beirut", "region": "Lebanon", "isoCountryCode": "LB", "article": "https://en.wikipedia.org/wiki/551_Beirut_earthquake", "coordQuery": "Beirut" },
+
+  {
+    "date": "2026-07-10",
+    "name": "Tham Luang Nang Non",
+    "region": "Thailand",
+    "isoCountryCode": "TH",
+    "article": "https://en.wikipedia.org/wiki/Tham_Luang_cave_rescue",
+    "coordQuery": "Tham Luang Nang Non"
+  },
+  { "date": "2026-07-10", "name": "Nago", "region": "Japan", "isoCountryCode": "JP", "article": "https://en.wikipedia.org/wiki/1945_Katsuyama_killing_incident", "coordQuery": "Nago, Okinawa" },
+  { "date": "2026-07-10", "name": "Jedwabne", "region": "Poland", "isoCountryCode": "PL", "article": "https://en.wikipedia.org/wiki/Jedwabne_pogrom", "coordQuery": "Jedwabne" },
+  { "date": "2026-07-10", "name": "Vellore Fort", "region": "India", "isoCountryCode": "IN", "article": "https://en.wikipedia.org/wiki/Vellore_Mutiny", "coordQuery": "Vellore Fort" },
+  { "date": "2026-07-10", "name": "Portobelo", "region": "Panama", "isoCountryCode": "PA", "article": "https://en.wikipedia.org/wiki/Henry_Morgan%27s_raid_on_Porto_Bello", "coordQuery": "Portobelo" }
+]

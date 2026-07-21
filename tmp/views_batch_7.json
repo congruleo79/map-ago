@@ -1,0 +1,303 @@
+
+> mapago@0.0.0 ai:views
+> tsx scripts/get-wikipedia-views.ts
+
+{
+  "range": {
+    "startMonth": "2025-07",
+    "endMonth": "2026-06",
+    "months": 12
+  },
+  "results": [
+    {
+      "query": "https://en.wikipedia.org/wiki/Brioni_Agreement",
+      "article": "Brioni_Agreement",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Brioni_Agreement/monthly/2025070100/2026063000",
+      "totalViews": 19755,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 2193
+        },
+        {
+          "month": "2025-08",
+          "views": 2145
+        },
+        {
+          "month": "2025-09",
+          "views": 1628
+        },
+        {
+          "month": "2025-10",
+          "views": 1809
+        },
+        {
+          "month": "2025-11",
+          "views": 1564
+        },
+        {
+          "month": "2025-12",
+          "views": 1787
+        },
+        {
+          "month": "2026-01",
+          "views": 1474
+        },
+        {
+          "month": "2026-02",
+          "views": 1154
+        },
+        {
+          "month": "2026-03",
+          "views": 1423
+        },
+        {
+          "month": "2026-04",
+          "views": 1512
+        },
+        {
+          "month": "2026-05",
+          "views": 1555
+        },
+        {
+          "month": "2026-06",
+          "views": 1511
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_final",
+      "article": "1974_FIFA_World_Cup_final",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/1974_FIFA_World_Cup_final/monthly/2025070100/2026063000",
+      "totalViews": 138438,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 7396
+        },
+        {
+          "month": "2025-08",
+          "views": 6271
+        },
+        {
+          "month": "2025-09",
+          "views": 5902
+        },
+        {
+          "month": "2025-10",
+          "views": 7486
+        },
+        {
+          "month": "2025-11",
+          "views": 8827
+        },
+        {
+          "month": "2025-12",
+          "views": 17628
+        },
+        {
+          "month": "2026-01",
+          "views": 6439
+        },
+        {
+          "month": "2026-02",
+          "views": 6532
+        },
+        {
+          "month": "2026-03",
+          "views": 7414
+        },
+        {
+          "month": "2026-04",
+          "views": 8272
+        },
+        {
+          "month": "2026-05",
+          "views": 10497
+        },
+        {
+          "month": "2026-06",
+          "views": 45774
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Raid_on_Dunkirk_(1800)",
+      "article": "Raid_on_Dunkirk_(1800)",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Raid_on_Dunkirk_(1800)/monthly/2025070100/2026063000",
+      "totalViews": 8799,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 7615
+        },
+        {
+          "month": "2025-08",
+          "views": 134
+        },
+        {
+          "month": "2025-09",
+          "views": 111
+        },
+        {
+          "month": "2025-10",
+          "views": 116
+        },
+        {
+          "month": "2025-11",
+          "views": 130
+        },
+        {
+          "month": "2025-12",
+          "views": 107
+        },
+        {
+          "month": "2026-01",
+          "views": 122
+        },
+        {
+          "month": "2026-02",
+          "views": 70
+        },
+        {
+          "month": "2026-03",
+          "views": 104
+        },
+        {
+          "month": "2026-04",
+          "views": 101
+        },
+        {
+          "month": "2026-05",
+          "views": 97
+        },
+        {
+          "month": "2026-06",
+          "views": 92
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Battle_of_Hubbardton",
+      "article": "Battle_of_Hubbardton",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Battle_of_Hubbardton/monthly/2025070100/2026063000",
+      "totalViews": 17396,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 2547
+        },
+        {
+          "month": "2025-08",
+          "views": 1374
+        },
+        {
+          "month": "2025-09",
+          "views": 1089
+        },
+        {
+          "month": "2025-10",
+          "views": 1004
+        },
+        {
+          "month": "2025-11",
+          "views": 1701
+        },
+        {
+          "month": "2025-12",
+          "views": 1200
+        },
+        {
+          "month": "2026-01",
+          "views": 1133
+        },
+        {
+          "month": "2026-02",
+          "views": 874
+        },
+        {
+          "month": "2026-03",
+          "views": 780
+        },
+        {
+          "month": "2026-04",
+          "views": 1892
+        },
+        {
+          "month": "2026-05",
+          "views": 1822
+        },
+        {
+          "month": "2026-06",
+          "views": 1980
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Raid_of_the_Redeswire",
+      "article": "Raid_of_the_Redeswire",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Raid_of_the_Redeswire/monthly/2025070100/2026063000",
+      "totalViews": 11191,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 8115
+        },
+        {
+          "month": "2025-08",
+          "views": 327
+        },
+        {
+          "month": "2025-09",
+          "views": 317
+        },
+        {
+          "month": "2025-10",
+          "views": 275
+        },
+        {
+          "month": "2025-11",
+          "views": 317
+        },
+        {
+          "month": "2025-12",
+          "views": 280
+        },
+        {
+          "month": "2026-01",
+          "views": 289
+        },
+        {
+          "month": "2026-02",
+          "views": 259
+        },
+        {
+          "month": "2026-03",
+          "views": 215
+        },
+        {
+          "month": "2026-04",
+          "views": 255
+        },
+        {
+          "month": "2026-05",
+          "views": 246
+        },
+        {
+          "month": "2026-06",
+          "views": 296
+        }
+      ]
+    }
+  ]
+}

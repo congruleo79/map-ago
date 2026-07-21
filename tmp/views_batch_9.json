@@ -1,0 +1,53 @@
+
+> mapago@0.0.0 ai:views
+> tsx scripts/get-wikipedia-views.ts
+
+{
+  "range": {
+    "startMonth": "2025-07",
+    "endMonth": "2026-06",
+    "months": 12
+  },
+  "results": [
+    {
+      "query": "https://en.wikipedia.org/wiki/Navaly_church_bombing",
+      "article": "Navaly_church_bombing",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Navaly_church_bombing/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Michael_Fagan_(intruder)",
+      "article": "Michael_Fagan_(intruder)",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Michael_Fagan_(intruder)/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Nintendo",
+      "article": "Nintendo",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Nintendo/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Campbell%27s_Soup_Cans",
+      "article": "Campbell's_Soup_Cans",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Campbell's_Soup_Cans/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/551_Beirut_earthquake",
+      "article": "551_Beirut_earthquake",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/551_Beirut_earthquake/monthly/2025070100/2026063000",
+      "error": "Pageviews request failed with 429 Too Many Requests"
+    }
+  ]
+}

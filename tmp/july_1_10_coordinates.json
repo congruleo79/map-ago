@@ -1,0 +1,4 @@
+
+> mapago@0.0.0 ai:coordinates
+> tsx scripts/get-wikidata-coordinates.ts
+

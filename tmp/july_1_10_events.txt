@@ -1,0 +1,730 @@
+=== 2026-07-01 ===
+[selected]
+- 2008: Rioting erupted in Ulaanbaatar, Mongolia, over allegations of fraud surrounding the recent legislative election.
+  pages: 2008 riot in Mongolia | Ulaanbaatar @47.92194444,106.91527778 | 2008 Mongolian parliamentary election
+- 2002: Bashkirian Airlines Flight 2937 and DHL Flight 611 collided in mid-air over Überlingen, Germany, killing all 71 people aboard both aircraft.
+  pages: 2002 Überlingen mid-air collision @47.77833333,9.17388889 | Überlingen @47.76666667,9.165
+- 1999: Legislative powers in Scotland were first devolved from the Scottish Office in London to the Scottish Parliament in Edinburgh.
+  pages: Devolution in the United Kingdom | Scottish Office | Scottish Parliament @55.9522,-3.1747
+- 1983: A North Korean Ilyushin Il-62M jet crashed into the Fouta Djallon mountains in Guinea, killing all 23 people on board.
+  pages: Ilyushin Il-62 | 1983 CAAK Ilyushin Il-62 crash @11.32,-12.3 | Fouta Djallon @11.315,-12.2975
+- 1979: Sony introduced the Walkman, a portable audio player that changed listening habits by offering users the ability to play one's own choice of music.
+  pages: Sony | Walkman
+- 1970: The Belfast Banking Company, which issued banknotes in Northern Ireland, merged with its rival Northern Bank.
+  pages: Belfast Banking Company | Banknotes of Northern Ireland | Danske Bank (Northern Ireland)
+- 1960: Ghana became a republic, with Kwame Nkrumah as its first president.
+  pages: Kwame Nkrumah | President of Ghana
+- 1959: B. Anthony Stewart is credited with the first image on the cover of National Geographic featuring the 49-star flag of the United States after Alaska's admission to the Union as a U.S. state.
+  pages: B. Anthony Stewart | List of National Geographic cover stories (1959 and 1960s) | Flag of the United States | Alaska @64,-152 | U.S. state
+- 1948: The first flight departed New York City's John F. Kennedy International Airport, then known as New York International Airport.
+  pages: John F. Kennedy International Airport @40.63972222,-73.77888889
+- 1940: Second World War: The Grand Quartier Général of the French Army was disbanded, following the French surrender.
+  pages: World War II | Grand Quartier Général (1939–1940) | French Army
+- 1935: The first Grant Park Music Festival was held in Chicago's Grant Park.
+  pages: Grant Park Music Festival | Grant Park (Chicago) @41.87583333,-87.61888889
+- 1927: The Singapore Improvement Trust was founded to oversee the construction of public housing in Singapore, where more than three quarters of residents live.
+  pages: Singapore Improvement Trust | Public housing in Singapore
+- 1922: Seven of the sixteen American railroad labor organizations staged a nationwide strike (striking workers pictured) that lasted two months.
+  pages: List of American railway unions | Great Railroad Strike of 1922
+- 1921: Yan Ruisheng (advertisement pictured), the first full-length Chinese film, is released in Shanghai.
+  pages: Yan Ruisheng
+- 1916: First World War: The first day of the Battle of Albert, the opening phase of the Battle of the Somme, became the bloodiest day in the British Army's history, with 57,470 casualties, including 19,240 deaths.
+  pages: World War I | First day on the Somme @50.01555556,2.6975 | Battle of Albert (1916) @50.00277778,2.65277778 | Battle of the Somme @50.01555556,2.6975 | British Army
+- 1874: The Remington No. 1, the first commercially successful typewriter, went on sale.
+  pages: Sholes and Glidden typewriter | Typewriter
+- 1862: American Civil War: Confederate general Robert E. Lee launched a series of disjointed and ultimately unsuccessful assaults on the nearly impregnable Union position on Malvern Hill in Henrico County, Virginia.
+  pages: American Civil War | Confederate States Army | Robert E. Lee | Battle of Malvern Hill @37.4125,-77.25 | Union army | Henrico County, Virginia @37.55,-77.4
+- 1849: Belgium introduced its first series of postage stamps, known as epaulettes (example pictured).
+  pages: Epaulettes (stamp)
+- 1841: Thomas Lempriere and James Clark Ross carved a sandstone marker on Tasmania's Isle of the Dead, one of the oldest benchmarks for measuring sea level rise.
+  pages: Thomas Lempriere | James Clark Ross | Isle of the Dead (Tasmania) @-43.14916667,147.8675 | Sea level rise
+- 1782: American Revolutionary War: Five American privateer vessels raided the British settlement at Lunenburg, Nova Scotia (depicted).
+  pages: American Revolutionary War | Privateer | Raid on Lunenburg, Nova Scotia (1782) @44.3778,-64.3094 | Lunenburg, Nova Scotia @44.3778,-64.3094
+- 1690: Williamite forces defeated the Jacobites at the Battle of the Boyne near Drogheda, marking a turning point in the Williamite War in Ireland.
+  pages: Williamite | Jacobitism | Battle of the Boyne @53.72305556,-6.42361111 | Drogheda @53.715,-6.3525 | Williamite War in Ireland
+- 1643: The Westminster Assembly of Divines first assembled to restructure the Church of England.
+  pages: Westminster Assembly @51.4994,-0.1286 | Church of England
+- 1523: Jan van Essen and Hendrik Vos were burnt at the stake in Brussels (pictured), becoming the first Lutherans executed by the Council of Brabant.
+  pages: Jan van Essen and Hendrik Vos | Lutheranism | Council of Brabant
+- 692: Berhtwald was elected Archbishop of Canterbury.
+  pages: Berhtwald | Archbishop of Canterbury
+[holidays]
+- Christian feast day: / Aaron (Catholic Church and Syriac Christianity)
+  pages: Aaron | Catholic Church | Syriac Christianity
+- Christian feast day: / Blessed Antonio Rosmini-Serbati
+  pages: Beatification | Antonio Rosmini
+- Christian feast day: / Junípero Serra
+  pages: Junípero Serra
+- Christian feast day: / Julius and Aaron
+  pages: Julius and Aaron
+- Christian feast day: / Leontius of Autun
+  pages: Leontius of Autun
+- Christian feast day: / Oliver Plunkett
+  pages: Oliver Plunkett
+- Christian feast day: / Servanus
+  pages: Saint Serf
+- Christian feast day: / Veep
+  pages: Saint Veep
+- Christian feast day: / July 1 (Eastern Orthodox liturgics)
+  pages: July 1 (Eastern Orthodox liturgics)
+- Christian feast day: / Feast of the Most Precious Blood of Our Lord Jesus Christ (removed from official Roman Catholic calendar since 1969)
+  pages: Feast of the Most Precious Blood | Catholic Church
+- Armed Forces Day (Singapore)
+  pages: Armed Forces Day
+- Bobby Bonilla Day (United States)
+  pages: Bobby Bonilla
+- Canada Day, formerly Dominion Day (Canada)
+  pages: Canada Day | Dominion Day
+- Children's Day (Pakistan)
+  pages: Children's Day
+- Chinese Communist Party Founding Day (China)
+  pages: Chinese Communist Party
+- Day of Officials and Civil Servants (Hungary)
+  pages: Day of Officials and Civil Servants | Hungary @47,20
+- Doctors' Day (India)
+  pages: National Doctors' Day
+- Emancipation Day (Sint Maarten and Sint Eustatius)
+  pages: Emancipation Day | Sint Maarten @18.02388889,-63.04583333 | Sint Eustatius @17.48333333,-62.96666667
+- Engineer's Day (Bahrain, Mexico)
+  pages: Engineer's Day | Bahrain @26.07638889,50.55347222 | Mexico @23,-102
+- Hong Kong Special Administrative Region Establishment Day (Hong Kong, China)
+  pages: Hong Kong Special Administrative Region Establishment Day | Hong Kong @22.3,114.2
+- Independence Day (Burundi), celebrates the independence of Burundi from Belgium in 1962.
+  pages: Public holidays in Burundi | Burundi @-3.38333333,29.83333333
+- Independence Day (Rwanda)
+  pages: Public holidays in Rwanda
+- Independence Day (Somalia)
+  pages: Independence Day (Somalia)
+- International Tartan Day
+  pages: Tartan Day
+- July Morning (Bulgaria)
+  pages: July Morning | Bulgaria @43,25
+- Keti Koti (Emancipation Day) (Suriname)
+  pages: Ketikoti | Emancipation Day | Suriname @4,-56
+- Madeira Day (Madeira, Portugal)
+  pages: Madeira Day | Madeira @32.75,-17
+- Moving Day (Quebec) (Canada)
+  pages: Moving Day (Quebec)
+- Newfoundland and Labrador Memorial Day
+  pages: Memorial Day (Newfoundland and Labrador)
+- Republic Day (Ghana)
+  pages: Public holidays in Ghana
+- RONPhos Handover Day (Nauru)
+  pages: Republic of Nauru Phosphate Corporation | Nauru @-0.5275,166.935
+- Sir Seretse Khama Day (Botswana)
+  pages: Public holidays in Botswana | Botswana @-24.65833333,25.90833333
+- Territory Day (British Virgin Islands)
+  pages: Public holidays in the British Virgin Islands
+- Territory Day (Northern Territory, Australia)
+  pages: Territory Day
+- The first day of Van Mahotsav, celebrated until July 7. (India)
+  pages: Van Mahotsav
+=== 2026-07-02 ===
+[selected]
+- 2020: A landslide at a jade mine in Hpakant killed 175–200 miners, the deadliest mining accident in Burmese history.
+  pages: 2020 Hpakant jade mine disaster @25.61277778,98.31138889 | Hpakant @25.61277778,96.31138889
+- 2013: In the Indonesian province of Aceh on the northern end of Sumatra, a Mw 6.1 strike-slip earthquake killed at least 35 people and injured 276 others.
+  pages: Aceh @5.55694444,95.32611111 | Sumatra @0,102 | 2013 Aceh earthquake @4.698,96.687
+- 2013: The International Astronomical Union announced that the fourth and fifth moons of Pluto to be discovered would be named Kerberos and Styx, respectively.
+  pages: International Astronomical Union | Moons of Pluto | Kerberos (moon) | Styx (moon)
+- 1998: Harry Potter and the Chamber of Secrets by J. K. Rowling, the second novel of the Harry Potter series, was published.
+  pages: Harry Potter and the Chamber of Secrets | J. K. Rowling | Harry Potter
+- 1990: Singing Revolution: The Soviet economic blockade of Lithuania (pictured) was lifted when the Lithuanian parliament agreed to suspend the effects of their act to re-establish Lithuania as a state.
+  pages: Singing Revolution | Soviet economic blockade of Lithuania | Act of the Re-Establishment of the State of Lithuania
+- 1976: More than a year after the end of the Vietnam War, North and South Vietnam officially merged under communist rule to form the Socialist Republic of Vietnam.
+  pages: Vietnam War | North Vietnam @21.02833333,105.85416667 | South Vietnam @10.78,106.7 | Communist Party of Vietnam | Vietnam @16,108
+- 1964: The Civil Rights Act was signed into law, outlawing segregation in schools, at the workplace, and other facilities that served the general public in the United States.
+  pages: Civil Rights Act of 1964 | Racial segregation in the United States
+- 1941: A German SS unit arrived in Vilnius, Lithuania, and began the systematic execution of up to 100,000 people over the next three years.
+  pages: Schutzstaffel | Vilnius @54.68722222,25.28 | Ponary massacre @54.6264,25.1612
+- 1881: U.S. president James A. Garfield (pictured) was fatally shot by Charles J. Guiteau at the Baltimore and Potomac Railroad station in Washington, D.C.
+  pages: James A. Garfield | Assassination of James A. Garfield @38.89194444,-77.02027778 | Charles J. Guiteau | Baltimore and Potomac Railroad
+- 1816: The French frigate Méduse ran aground off the coast of present-day Mauritania, with the survivors escaping on a makeshift raft, depicted in Théodore Géricault's painting The Raft of the Medusa.
+  pages: French frigate Méduse (1810) @20.0475,-16.809 | Théodore Géricault | The Raft of the Medusa
+- 1779: American Revolutionary War: French troops landed near St. George's, Grenada, and began their capture of the island.
+  pages: American Revolutionary War | St. George's, Grenada @12.0525,-61.75305556 | Capture of Grenada (1779) @12.05,-61.75
+- 1724: On the Feast of the Visitation, Bach led the first performance of his Meine Seel erhebt den Herren, BWV 10, based on the German Magnificat.
+  pages: Visitation (Christianity) | Johann Sebastian Bach | Meine Seel erhebt den Herren, BWV 10 | Meine Seele erhebt den Herren
+- 1644: First English Civil War: The combined forces of Scottish Covenanters and English Parliamentarians defeated Royalist troops at the Battle of Marston Moor.
+  pages: First English Civil War | Covenanters | Roundhead | Cavalier | Battle of Marston Moor @53.9623,-1.2542
+- 706: The bodies of Emperor Gaozong of Tang and Empress Wu Zetian were interred in the Qianling Mausoleum.
+  pages: Emperor Gaozong of Tang | Wu Zetian | Qianling Mausoleum @34.57444444,108.21416667
+- 626: Li Shimin (pictured) led his forces to assassinate his rival brothers in a coup for the imperial throne of Tang China.
+  pages: Emperor Taizong of Tang | Xuanwu Gate Incident | Tang dynasty
+[holidays]
+- Christian feast day: / Aberoh and Atom (Coptic Church)
+  pages: Aberoh and Atom | Coptic Orthodox Church
+- Christian feast day: / Bernardino Realino
+  pages: Bernardino Realino
+- Christian feast day: / Blessed Eugénie Joubert
+  pages: Eugénie Joubert
+- Christian feast day: / Feast of the Visitation (Anglicanism; Levoča at Mariánska hora)
+  pages: Visitation (Christianity) | Anglicanism | Levoča @49.03,20.59 | Basilica of the Visitation of the Blessed Virgin Mary, Levoča @49.043056,20.597222
+- Christian feast day: / Monegundis
+  pages: Monegundis
+- Christian feast day: / Oudoceus
+  pages: Oudoceus
+- Christian feast day: / Martinian and Processus
+  pages: Martinian and Processus
+- Christian feast day: / Pishoy (Coptic Church)
+  pages: Pishoy
+- Christian feast day: / Stephen III of Moldavia (Romanian Orthodox Church)
+  pages: Stephen the Great | Romanian Orthodox Church
+- Christian feast day: / July 2 (Eastern Orthodox liturgics)
+  pages: July 2 (Eastern Orthodox liturgics)
+- Flag Day (Curaçao)
+  pages: Flag Day
+- Palio di Provenzano (Siena, Italy)
+  pages: Palio di Siena @43.31833333,11.33138889 | Siena @43.31861111,11.33055556
+- Police Day (Azerbaijan)
+  pages: Public holidays in Azerbaijan
+=== 2026-07-03 ===
+[selected]
+- 2017: In Arizona, the Boundary Fire (pictured) burned out after 32 days, burning 17,788 acres (7,199 ha) of the Coconino and Kaibab National Forests.
+  pages: Boundary Fire (2017) @35.432,-111.831 | Coconino National Forest @34.7575,-111.76444444 | Kaibab National Forest @36.4125,-112.135
+- 2013: General Abdel Fattah el-Sisi led a coalition to depose President Mohamed Morsi in a coup d'état in Cairo, suspending the Egyptian Constitution of 2012.
+  pages: Abdel Fattah el-Sisi | Mohamed Morsi | 2013 Egyptian coup d'état | Egyptian Constitution of 2012
+- 2005: Same-sex marriage became legal in Spain with the coming into effect of a law passed by the Cortes Generales.
+  pages: Same-sex marriage | Same-sex marriage in Spain | Cortes Generales
+- 1988: The US Navy warship Vincennes shot down Iran Air Flight 655 over the Persian Gulf, killing all 290 people aboard.
+  pages: United States Navy | USS Vincennes (CG-49) | Iran Air Flight 655 @26.66833333,56.04472222 | Persian Gulf @26,52
+- 1979: US president Jimmy Carter signed a presidential finding, authorizing covert operations to aid the mujahideen against the Soviet-backed Democratic Republic of Afghanistan.
+  pages: Jimmy Carter | Presidential finding | Operation Cyclone | Mujahideen | Democratic Republic of Afghanistan
+- 1973: British singer David Bowie retired his stage persona Ziggy Stardust in a surprise announcement on the last day of a 17-month tour.
+  pages: David Bowie | Ziggy Stardust (character) | Ziggy Stardust Tour
+- 1970: Dan-Air Flight 1903 crashed into the slopes of the Montseny Massif in Catalonia, Spain, killing all 112 people aboard.
+  pages: Dan-Air Flight 1903 @41.79583333,2.45944444 | Montseny Massif @41.79333333,2.40305556 | Catalonia @41.85,1.56666667
+- 1970: The Troubles: The British Army began the Falls Curfew in Belfast, Northern Ireland, which resulted in greater Irish republican resistance.
+  pages: The Troubles | British Army | Falls Curfew | Belfast @54.5967,-5.93 | Irish republicanism
+- 1952: SS United States (pictured) departed New York Harbor on her maiden voyage, on which completion she became the fastest ocean liner to cross the Atlantic.
+  pages: SS United States | New York Harbor @40.66833333,-74.04555556 | Blue Riband
+- 1940: Second World War: The Royal Navy attacked the French fleet at Mers El Kébir (pictured), fearing that the ships would fall into Axis hands after the French–German armistice.
+  pages: World War II | Royal Navy | Attack on Mers-el-Kébir @35.71944444,-0.68888889 | Mers El Kébir @35.72861111,-0.70694444 | Axis powers | Armistice of 22 June 1940 @49.4275,2.90611111
+- 1938: On the 75th anniversary of the end of the Battle of Gettysburg, U.S. President Franklin D. Roosevelt dedicated the Eternal Light Peace Memorial.
+  pages: 1938 Gettysburg reunion @39.8395,-77.2366 | Battle of Gettysburg @39.81138889,-77.22583333 | Franklin D. Roosevelt | Eternal Light Peace Memorial @39.84845,-77.24345
+- 1863: Confederate forces were defeated by the Union Army on the last day of the Battle of Gettysburg (pictured), a turning point in the American Civil War.
+  pages: Confederate States Army | Union army | Battle of Gettysburg @39.81138889,-77.22583333 | American Civil War
+- 1810: Mauritius campaign of 1809–1811: A French frigate squadron under Guy-Victor Duperré defeated a convoy of three British East Indiamen near the Comoro Islands.
+  pages: Mauritius campaign of 1809–1811 | Guy-Victor Duperré | Action of 3 July 1810 | East Indiaman | Comoro Islands @-12.2,44.25
+- 1778: American Revolutionary War: Loyalists and Iroquois killed over 300 Patriots at the Battle of Wyoming in Pennsylvania.
+  pages: American Revolutionary War | Loyalist (American Revolution) | Haudenosaunee | Patriot (American Revolution) | Battle of Wyoming @41.32055556,-75.81888889
+- 1754: French and Indian War: George Washington surrendered Fort Necessity in Pennsylvania, the only military surrender in his career.
+  pages: French and Indian War | George Washington | Fort Necessity National Battlefield @39.81527778,-79.58944444 | Battle of Fort Necessity @39.81416667,-79.58722222
+- 324: Civil wars of the Tetrarchy: Roman emperor Constantine the Great defeated his former colleague Licinius at the Battle of Adrianople.
+  pages: Civil wars of the Tetrarchy | Constantine the Great | Licinius | Battle of Adrianople (324) @41.67,26.525
+[holidays]
+- Christian feast day: / Anatolius of Constantinople
+  pages: Anatolius of Constantinople
+- Christian feast day: / Anatolius of Laodicea
+  pages: Anatolius of Laodicea
+- Christian feast day: / Dathus
+  pages: Dathus
+- Christian feast day: / Germanus of Man
+  pages: Germanus of Man
+- Christian feast day: / Gurthiern
+  pages: Gurthiern
+- Christian feast day: / Heliodorus of Altino
+  pages: Heliodorus of Altino
+- Christian feast day: / Mucian
+  pages: Mucian
+- Christian feast day: / Peregrina Mogas Fontcuberta
+  pages: Peregrina Mogas Fontcuberta
+- Christian feast day: / Pope Leo II
+  pages: Pope Leo II
+- Christian feast day: / Thomas the Apostle
+  pages: Thomas the Apostle
+- Christian feast day: / July 3 (Eastern Orthodox liturgics)
+  pages: July 3 (Eastern Orthodox liturgics)
+- Emancipation Day (United States Virgin Islands)
+  pages: Emancipation Day
+- Independence Day, celebrates the liberation of Minsk from Nazi occupation by Soviet troops in 1944 (Belarus)
+  pages: Independence Day (Belarus) | Minsk @53.90055556,27.55861111 | Nazi Germany @52.52,13.37 | Belarus @53,27
+- The start of the Dog Days according to the Old Farmer's Almanac but not according to established meaning in most European cultures
+  pages: Dog days | Old Farmer's Almanac
+- Women's Day (Myanmar)
+  pages: Myanmar @22,96
+=== 2026-07-04 ===
+[selected]
+- 2024: Keir Starmer leads the Labour Party to a landslide victory in the United Kingdom general election, ending fourteen years of Conservative rule.
+  pages: Keir Starmer | Labour Party (UK) | 2024 United Kingdom general election | Conservative Party (UK)
+- 1998: The monster movie Pulgasari, the most-widely-seen North Korean film ever made, premiered in Tokyo, Japan.
+  pages: Monster movie | Pulgasari
+- 1988: Kylie Minogue's first album, Kylie, was released, and went on to top the charts in the UK and New Zealand.
+  pages: Kylie Minogue | Kylie (album)
+- 1982: Four Iranian diplomats were kidnapped after they were stopped at a checkpoint in northern Lebanon by Lebanese Phalange forces; their fates remain unknown.
+  pages: 1982 kidnapping of Iranian diplomats | Kataeb Party
+- 1976: Israeli forces raided Uganda's Entebbe International Airport to free hostages taken by hijackers on Air France Flight 139.
+  pages: Israel Defense Forces | Entebbe raid @0.04527778,32.45361111 | Entebbe International Airport @0.04472222,32.44305556
+- 1954: In what is known as "The Miracle of Bern", West Germany defeated Hungary 3–2 to win the FIFA World Cup.
+  pages: 1954 FIFA World Cup final | Germany national football team | Hungary national football team | 1954 FIFA World Cup
+- 1951: William Shockley announced the invention of the junction transistor, for which he, John Bardeen, and Walter Houser Brattain later won the Nobel Prize in Physics.
+  pages: William Shockley | Bipolar junction transistor | John Bardeen | Walter Brattain | Nobel Prize in Physics
+- 1945: The Brazilian cruiser Bahia (pictured) was accidentally sunk by one of its own crewmen, killing more than 300 people.
+  pages: Brazilian cruiser Bahia
+- 1943: The aircraft carrying Władysław Sikorski, prime minister of the Polish government-in-exile, crashed off Gibraltar, killing him and fifteen others and leading to several conspiracy theories.
+  pages: Władysław Sikorski | Polish government-in-exile | 1943 Gibraltar Liberator AL523 crash @36.1525,-5.33 | Władysław Sikorski's death controversy
+- 1941: The Holocaust: During the German occupation of Latvia, a number of synagogues in Riga were set on fire, killing many Jews who were confined within.
+  pages: The Holocaust | German occupation of Latvia during World War II | Burning of the Riga synagogues
+- 1941: German AB-Aktion in Poland: After capturing Lwów, the Nazis executed professors of the University of Lwów along with their families.
+  pages: Aktion AB | Lviv @49.8425,24.03222222 | Massacre of Lwów professors @49.8285,24.0135 | University of Lviv @49.84055556,24.02222222
+- 1918: World War I: Allied forces led by the Australian general John Monash won the Battle of Hamel, demonstrating the effectiveness of combined-arms techniques in trench warfare.
+  pages: World War I | Allies of World War I | John Monash | Battle of Hamel @49.89861111,2.58138889 | Combined arms | Trench warfare
+- 1863: American Civil War: Confederate forces failed in an attempt to recapture the Union-occupied Helena, Arkansas.
+  pages: American Civil War | Confederate States Army | Battle of Helena @34.52611111,-90.59694444 | Union army | Helena, Arkansas @34.52916667,-90.58611111
+- 1862: In a boat on the River Thames from Oxford to Godstow, author Lewis Carroll told Alice Liddell (pictured) and her sisters a story that later formed the basis for his book Alice's Adventures in Wonderland.
+  pages: River Thames | Oxford @51.75194444,-1.25777778 | Godstow @51.7784,-1.2997 | Lewis Carroll | Alice Liddell | Alice's Adventures in Wonderland
+- 1837: The Grand Junction Railway, the world's first long-distance railway with steam traction, opened between Birmingham and Newton Junction.
+  pages: Grand Junction Railway | Traction engine | Birmingham @52.48,-1.9025 | Earlestown railway station @53.451,-2.638
+- 1776: In Philadelphia, the Continental Congress adopted the Declaration of Independence (signing pictured), announcing that the thirteen American colonies were no longer a part of the British Empire.
+  pages: Second Continental Congress | United States Declaration of Independence | Thirteen Colonies | British Empire
+- 1643: First English Civil War: Royalist forces defeated the Parliamentarians at the Battle of Burton Bridge, securing a crossing of the River Trent for a convoy of supplies travelling with Queen Henrietta Maria.
+  pages: First English Civil War | Battle of Burton Bridge (1643) @52.8067,-1.6238 | River Trent @53.7,-0.7 | Henrietta Maria of France
+- 1054: Chinese astronomers recorded the sudden appearance of a "guest star", later identified as the supernova that created the Crab Nebula (pictured).
+  pages: Chinese astronomy | Guest star (astronomy) | SN 1054 | Crab Nebula
+- 414: Byzantine emperor Theodosius II proclaimed his elder sister Aelia Pulcheria as Augusta.
+  pages: Theodosius II | Pulcheria | List of Augustae
+[holidays]
+- Christian feast day: / Antoine Daniel
+  pages: Antoine Daniel
+- Christian feast day: / Andrew of Crete
+  pages: Andrew of Crete
+- Christian feast day: / Bertha of Artois
+  pages: Bertha of Artois
+- Christian feast day: / Blessed Catherine Jarrige
+  pages: Catherine Jarrige
+- Christian feast day: / Blessed Józef Kowalski
+  pages: Józef Kowalski (priest)
+- Christian feast day: / Pier Giorgio Frassati
+  pages: Pier Giorgio Frassati
+- Christian feast day: / Elizabeth of Aragon (or of Portugal)
+  pages: Elizabeth of Portugal
+- Christian feast day: / Oda of Canterbury
+  pages: Oda of Canterbury
+- Christian feast day: / Ulrich of Augsburg
+  pages: Ulrich of Augsburg
+- Christian feast day: / July 4 (Eastern Orthodox liturgics)
+  pages: July 4 (Eastern Orthodox liturgics)
+- CARICOM Day
+  pages: Treaty of Chaguaramas
+- The first evening of Dree Festival, celebrated until July 7 (Apatani people, Arunachal Pradesh, India)
+  pages: Dree Festival | Apatani people | Arunachal Pradesh @27.06,93.37
+- Independence Day (United States)
+  pages: Independence Day (United States) | United States @40,-100
+- Liberation Day (Northern Mariana Islands)
+  pages: Liberation Day | Northern Mariana Islands @16.705,145.78
+- Liberation Day (Rwanda)
+  pages: Liberation Day (Rwanda) | Rwanda @-2,30
+- Republic Day (Philippines)
+  pages: Republic Day (Philippines) | Philippines @13,122
+=== 2026-07-05 ===
+[selected]
+- 2012: The Shard (pictured) in London was inaugurated as the tallest building in Europe, with a height of 310 m (1,020 ft), but was surpassed by Moscow's Mercury City Tower four months later.
+  pages: The Shard @51.5045,-0.0865 | List of tallest buildings in Europe | Mercury City Tower @55.75055556,37.53944444
+- 2009: A series of violent riots broke out in Ürümqi, the capital city of Xinjiang in China.
+  pages: July 2009 Ürümqi riots | Ürümqi @43.8225,87.6125 | Xinjiang @41,85
+- 2009: The Staffordshire Hoard, the largest collection of Anglo-Saxon gold ever discovered, consisting of more than 1,500 items (examples pictured), was found near Hammerwich in Staffordshire.
+  pages: Staffordshire Hoard @52.65527778,-1.90666667 | Anglo-Saxons | Hammerwich @52.6667,-1.9011 | Staffordshire @52.80694444,-2.11611111
+- 2006: The United Nations Security Council held an emergency meeting hours after North Korea reportedly tested at least seven ballistic missiles.
+  pages: United Nations Security Council | 2006 North Korean missile test | Ballistic missile
+- 2004: Indonesia held its first direct presidential elections, which resulted in the election of Susilo Bambang Yudhoyono as President of Indonesia after the second round on September 20.
+  pages: 2004 Indonesian presidential election | Susilo Bambang Yudhoyono | President of Indonesia
+- 1990: An explosion at a petrochemical plant in Channelview, Texas, killed 17 people and injured five others.
+  pages: 1990 ARCO explosion @29.81805556,-95.12222222 | Channelview, Texas @29.78666667,-95.12222222
+- 1989: United States National Security Council member Oliver North was given a suspended sentence, probation, and community service for his part in the Iran–Contra affair.
+  pages: United States National Security Council | Oliver North | Suspended sentence | Probation | Community service | Iran–Contra affair
+- 1973: Juvénal Habyarimana (pictured) orchestrated a bloodless coup d'état of the Rwandan government and began a totalitarian dictatorship.
+  pages: Juvénal Habyarimana | 1973 Rwandan coup d'état | Totalitarianism
+- 1969: Two days after the death of their founder Brian Jones, the Rolling Stones performed at a free festival in Hyde Park, London, in front of more than a quarter of a million fans.
+  pages: Brian Jones | The Rolling Stones | The Stones in the Park @51.5064,-0.1689 | Hyde Park, London @51.50861111,-0.16361111
+- 1954: Elvis Presley recorded his first single, "That's All Right", at Sun Records in Memphis, Tennessee.
+  pages: Elvis Presley | That's All Right | Sun Records
+- 1950: Korean War: In the first encounter between North Korean and American forces, an unprepared and undisciplined U.S. Army task force was routed at the Battle of Osan.
+  pages: Korean War | United States Army | Battle of Osan @37.185,127.05277778
+- 1946: Named after Bikini Atoll, the site of the nuclear-weapons test Operation Crossroads in the Marshall Islands, the modern bikini was introduced at a fashion show in Paris.
+  pages: Bikini Atoll @11.6,165.4 | Nuclear weapon | Operation Crossroads | Bikini
+- 1944: Second World War: Canadian troops defeated the last German counterattacks against Carpiquet, Normandy, France.
+  pages: World War II | Operation Windsor @49.185,-0.445 | Carpiquet @49.1864,-0.4433
+- 1937: The Hormel Foods Corporation introduced Spam, the canned precooked meat product that would eventually enter into pop culture, folklore, and urban legend.
+  pages: Hormel Foods | Spam (food) | Canning
+- 1922: Brazilian Army rebels took over Fort Copacabana and launched a rebellion in Rio de Janeiro against President Epitácio Pessoa and President-elect Artur Bernardes.
+  pages: Tenentism | Fort Copacabana @-22.9858,-43.1853 | Copacabana Fort revolt | Rio de Janeiro @-22.91111111,-43.20555556 | Epitácio Pessoa | Artur Bernardes
+- 1841: Thomas Cook, the founder of the British travel company Thomas Cook & Son, organised his first excursion, escorting about 500 people from Leicester to Loughborough.
+  pages: Thomas Cook | Thomas Cook & Son | Leicester @52.6361,-1.1331 | Loughborough @52.7725,-1.20777778
+- 1830: Algiers surrendered to French invaders, ending the Regency of Algiers (coat of arms pictured).
+  pages: Invasion of Algiers (1830) | Regency of Algiers @36.785,3.0625
+[holidays]
+- Bloody Thursday (International Longshore and Warehouse Union)
+  pages: 1934 West Coast waterfront strike | International Longshore and Warehouse Union
+- Christian feast day: / Anthony Maria Zaccaria, priest (died 1539)
+  pages: Anthony Zaccaria
+- Christian feast day: / Cyril and Methodius (a public holiday in Czech Republic and Slovakia)
+  pages: Cyril and Methodius | Czech Republic @49.75,15.5 | Slovakia @48.7,19.7
+- Christian feast day: / Martha, mother of Simeon Stylites the Younger
+  pages: Martha, mother of Simeon Stylites the Younger
+- Christian feast day: / Wexford Martyrs (Roman Catholic Church)
+  pages: Wexford Martyrs | Catholic Church
+- Christian feast day: / Zoe of Rome (Roman Catholic Church)
+  pages: Zoe of Rome | Catholic Church
+- Christian feast day: / July 5 (Eastern Orthodox liturgics)
+  pages: July 5 (Eastern Orthodox liturgics)
+- Fifth of July (New York), historic celebration of the abolition of slavery in New York in 1827.
+  pages: Fifth of July (New York) | New York (state) @43,-76
+- Independence Day (Algeria), celebrating the independence of Algeria from France in 1962.
+  pages: Independence Day (Algeria) | Algeria @28,2
+- Independence Day (Cape Verde), celebrating the independence of Cape Verde from Portugal in 1975.
+  pages: Public holidays in Cape Verde | Cape Verde @15.3,-23.7
+- Independence Day (Venezuela), celebrating the independence of Venezuela from Spain in 1811; also National Armed Forces Day.
+  pages: Independence Day (Venezuela) | Venezuela @7,-65
+- Tynwald Day, if July 5 is on a weekend, the holiday is the following Monday. (Isle of Man)
+  pages: Tynwald Day | Isle of Man @54.235,-4.525
+=== 2026-07-06 ===
+[selected]
+- 2013: Gunmen attacked a secondary school in Mamudo, Yobe State, Nigeria, killing 42 people, mostly students.
+  pages: Mamudo school massacre @11.68916667,11.18111111 | Yobe State @12,11.5
+- 2013: In the first fatal accident involving a Boeing 777 airliner, Asiana Airlines Flight 214 (wreckage pictured) crashed on final approach to San Francisco International Airport, resulting in three deaths.
+  pages: Boeing 777 | Asiana Airlines Flight 214 @37.61333333,-122.36444444 | Final approach | San Francisco International Airport @37.61888889,-122.375
+- 2009: Jadranka Kosor became the first female prime minister of Croatia.
+  pages: Jadranka Kosor | Prime Minister of Croatia
+- 2006: A gunman killed an 18-year-old man and injured six other people in a mass shooting on Cabildo Avenue in Buenos Aires, Argentina.
+  pages: Martín Ríos (murderer) | Mass shooting | Buenos Aires @-34.60388889,-58.38138889
+- 1997: The Troubles: In response to the Drumcree conflict, five days of unrest began in nationalist districts of Northern Ireland.
+  pages: The Troubles | Drumcree conflict | 1997 Northern Ireland riots | Irish nationalism
+- 1989: A Palestinian Islamic Jihad member carried out a suicide attack by hijacking a bus and forcing it into a ravine near Kiryat Ye'arim, Israel.
+  pages: Palestinian Islamic Jihad | Suicide attack | 1989 Tel Aviv–Jerusalem bus attack @31.80083333,35.09444444 | Kiryat Ye'arim @31.80333333,35.1
+- 1971: After visiting several Asian communist countries, Romanian leader Nicolae Ceaușescu (pictured) gave a speech on a number of neo-Stalinist and socialist-realist ideals, which became known as the July Theses.
+  pages: Nicolae Ceaușescu | Neo-Stalinism | Socialist realism | July Theses
+- 1941: Second World War: After a three-month siege, the Italian garrison of Saïo (in modern-day Ethiopia) surrendered to Belgian, British and Ethiopian troops.
+  pages: World War II | Siege of Saïo @8.53,34.8 | Dembidolo @8.53527778,34.80027778
+- 1940: The Story Bridge in Brisbane, the longest cantilever bridge in Australia, was opened by Sir Leslie Wilson, Governor of Queensland.
+  pages: Story Bridge @-27.4635,153.0358 | Brisbane @-27.46777778,153.02805556 | List of longest cantilever bridge spans | Leslie Wilson (politician)
+- 1936: A major breach of the Manchester Bolton & Bury Canal in England sent millions of gallons of water cascading 300 feet (90 m) into the River Irwell.
+  pages: Manchester, Bolton and Bury Canal @53.5082,-2.2959 | River Irwell
+- 1916: First World War: Russian troops won a victory in the Battle of Kostiuchnówka, with the Polish Legions playing a key role on the Austro-Hungarian side.
+  pages: World War I | Battle of Kostiuchnówka @51.34305556,25.75972222 | Polish Legions in World War I
+- 1915: First World War: The British and French prime ministers, H. H. Asquith and René Viviani, met at Calais to discuss future offensives including the Gallipoli campaign.
+  pages: World War I | H. H. Asquith | René Viviani | Calais Conference (July 1915) | Gallipoli campaign @40.2375,26.2775
+- 1809: Napoleon's French forces defeated Archduke Charles' Austrian army at the Battle of Wagram, the decisive confrontation of the War of the Fifth Coalition.
+  pages: Napoleon | Archduke Charles, Duke of Teschen | Battle of Wagram @48.2956,16.5578 | War of the Fifth Coalition
+- 1801: French Revolutionary Wars: A Royal Navy squadron failed to eliminate a smaller French Navy squadron at Algeciras before they could join their Spanish allies.
+  pages: French Revolutionary Wars | Royal Navy | First Battle of Algeciras @36.13333333,-5.42916667 | French Navy | Algeciras @36.1275,-5.45388889
+- 1777: American Revolutionary War: American troops at Fort Ticonderoga in New York completed a retreat from advancing British forces, causing an uproar among the American public.
+  pages: American Revolutionary War | Fort Ticonderoga @43.84166667,-73.3875 | Siege of Fort Ticonderoga (1777) @43.84138889,-73.38805556
+- 1685: Troops loyal to James II of England defeated those of James Scott, 1st Duke of Monmouth at the Battle of Sedgemoor, the final battle of the Monmouth Rebellion.
+  pages: James II of England | James Scott, Duke of Monmouth | Battle of Sedgemoor @51.11555556,-2.92833333 | Monmouth Rebellion
+- 1614: The Ottoman Empire made a final attempt to conquer the island of Malta, but were repulsed by the Knights Hospitaller.
+  pages: Ottoman Empire | Raid on Żejtun | Knights Hospitaller
+- 1483: The last monarch of the House of York and the Plantagenet dynasty, Richard III, was crowned King of England.
+  pages: House of York | House of Plantagenet | Richard III of England | List of English monarchs
+[holidays]
+- The first day of the Festival of San Fermín, which lasts until July 14. (Pamplona)
+  pages: Festival of San Fermín | Pamplona @42.81666667,-1.65
+- Christian feast day: / Goar of Aquitaine
+  pages: Goar of Aquitaine
+- Christian feast day: / Maria Goretti
+  pages: Maria Goretti
+- Christian feast day: / Blessed Mary Theresa Ledóchowska
+  pages: Beatification | Mary Theresa Ledóchowska
+- Christian feast day: / Moninne
+  pages: Moninne
+- Christian feast day: / Blessed Nazaria Ignacia March Mesa
+  pages: Beatification | Nazaria Ignacia March Mesa
+- Christian feast day: / Romulus of Fiesole
+  pages: Romulus of Fiesole
+- Christian feast day: / Thomas More
+  pages: Thomas More
+- Christian feast day: / July 6 (Eastern Orthodox liturgics)
+  pages: July 6 (Eastern Orthodox liturgics)
+- Constitution Day (Cayman Islands)
+  pages: Constitution Day | Cayman Islands @19.32,-81.229
+- Day of the Capital (Kazakhstan)
+  pages: Kazakhstan
+- Independence Day (Comoros), celebrates the independence of the Comoros from France in 1975.
+  pages: Public holidays in the Comoros | Comoros @-12.3,43.7
+- Independence Day (Malawi), celebrates the independence of Malawi from United Kingdom in 1964.
+  pages: Public holidays in Malawi | Malawi @-13.5,34
+- International Kissing Day (informally observed)
+  pages: International Kissing Day
+- Jan Hus Day (Czech Republic)
+  pages: Public holidays in the Czech Republic | Czech Republic @49.75,15.5
+- Kupala Night (Poland, Russia, Belarus and Ukraine)
+  pages: Kupala Night | Poland @52,20 | Russia @66,94 | Belarus @53,27 | Ukraine @50.45,30.51666667
+- Statehood Day (Lithuania)
+  pages: Statehood Day (Lithuania)
+- Teachers' Day (Peru)
+  pages: List of Teachers' Days
+=== 2026-07-07 ===
+[selected]
+- 2016: A U.S. Army Reserve veteran ambushed and shot at police officers (memorial service pictured) in Dallas, killing five of them and injuring nine others, before being killed by a bomb attached to a police robot.
+  pages: United States Army Reserve | 2016 shooting of Dallas police officers @32.77955556,-96.80427778 | Dallas @32.77916667,-96.80888889
+- 1991: Yugoslav Wars: The signing of the Brioni Agreement ended the Ten-Day War between SFR Yugoslavia and Slovenia.
+  pages: Yugoslav Wars | Brioni Agreement | Ten-Day War | Socialist Federal Republic of Yugoslavia @44.82,20.4275
+- 1983: After writing a letter to Soviet premier Yuri Andropov, American schoolgirl Samantha Smith visited the Soviet Union as Andropov's personal guest, becoming known as "America's Youngest Ambassador".
+  pages: Yuri Andropov | Samantha Smith
+- 1974: West Germany won the FIFA World Cup final against the Netherlands at the Munich Olympiastadion.
+  pages: Germany national football team | 1974 FIFA World Cup final | Netherlands national football team | Olympiastadion (Munich) @48.17305556,11.54666667
+- 1963: The secret police of Ngô Đình Nhu, brother and chief political adviser of South Vietnamese president Ngô Đình Diệm, attacked a group of American journalists who were covering a protest during the Buddhist crisis.
+  pages: Ngô Đình Nhu | South Vietnam @10.78,106.7 | Ngo Dinh Diem | Double Seven Day scuffle | Buddhist crisis
+- 1937: The Peel Commission published a report stating that the League of Nations' Mandate for Palestine had become unworkable and recommended the partition of British-administered Mandatory Palestine into two states.
+  pages: Peel Commission | League of Nations | Mandate for Palestine | Mandatory Palestine @31.75444444,35.23666667
+- 1911: Four countries signed the North Pacific Fur Seal Convention, which banned the hunting of seals in the pelagic zone.
+  pages: North Pacific Fur Seal Convention of 1911 | Seal hunting | Pelagic zone
+- 1907: Inspired by the Folies Bergère of Paris, American impresario Florenz Ziegfeld Jr. (pictured) staged the first of his Ziegfeld Follies.
+  pages: Folies Bergère @48.8742,2.3449 | Impresario | Florenz Ziegfeld Jr. | Ziegfeld Follies
+- 1898: US president William McKinley signed the Newlands Resolution, annexing Hawaii as a territory of the United States.
+  pages: William McKinley | Newlands Resolution | Republic of Hawaii @21.31138889,-157.79638889 | Territory of Hawaii @21.3,-157.8
+- 1800: War of the Second Coalition: The British Royal Navy force attacked the well-defended French anchorage of Dunkirk (depicted), capturing a French frigate.
+  pages: War of the Second Coalition | Royal Navy | Raid on Dunkirk (1800) @51.05694444,2.3525 | Frigate
+- 1798: Outraged by the XYZ Affair, the United States rescinded its treaties with France, resulting in the undeclared Quasi-War, fought entirely at sea.
+  pages: XYZ Affair | Undeclared war | Quasi-War
+- 1777: American Revolutionary War: British forces caught up with American troops withdrawing from Ticonderoga, capturing more than 200 men at the Battle of Hubbardton.
+  pages: American Revolutionary War | Siege of Fort Ticonderoga (1777) @43.84138889,-73.38805556 | Battle of Hubbardton @43.69527778,-73.13861111
+- 1575: Anglo-Scottish Wars: A dispute between Sir John Forster and Sir John Carmichael led to a Scottish raid on Northumberland, England, in which 27 men were killed.
+  pages: Anglo-Scottish Wars | John Forster (soldier) | Sir John Carmichael | Raid of the Redeswire @55.35638889,-2.47583333
+- 1456: Joan of Arc was declared innocent of heresy in a retrial twenty-five years after her death.
+  pages: Joan of Arc | Rehabilitation trial of Joan of Arc
+[holidays]
+- Christian feast day: / Æthelburh of Faremoutiers
+  pages: Æthelburh of Faremoutiers
+- Christian feast day: / Felix of Nantes
+  pages: Felix of Nantes
+- Christian feast day: / Illidius
+  pages: Illidius
+- Christian feast day: / Job of Manyava (Ukrainian Orthodox Church)
+  pages: Job of Manyava | Ukrainian Orthodox Church (Moscow Patriarchate)
+- Christian feast day: / Blessed María Romero Meneses
+  pages: Beatification | María Romero Meneses
+- Christian feast day: / Pantaenus
+  pages: Pantaenus
+- Christian feast day: / Peter To Rot
+  pages: Peter To Rot
+- Christian feast day: / Blesseds Józef and Wiktoria Ulma with seven children (Catholic Church)
+  pages: Beatification | Ulma family | Catholic Church
+- Christian feast day: / Willibald (Catholic Church)
+  pages: Willibald | Catholic Church
+- Christian feast day: / July 7 (Eastern Orthodox liturgics)
+  pages: July 7 (Eastern Orthodox liturgics)
+- Independence Day, celebrates the independence of Solomon Islands from the United Kingdom in 1978.
+  pages: List of national independence days | Solomon Islands @-8,159
+- Ivan Kupala Day (Belarus, Poland, Russia, Ukraine)
+  pages: Kupala Night | Belarus @53,27 | Poland @52,20 | Russia @66,94 | Ukraine @50.45,30.51666667
+- Saba Saba Day (Tanzania)
+  pages: Saba Saba Day | Tanzania @-6,35
+- Tanabata (Japan)
+  pages: Tanabata | Japan @36,138
+- World Chocolate Day
+  pages: World Chocolate Day
+=== 2026-07-08 ===
+[selected]
+- 2022: Former Japanese prime minister Shinzo Abe (pictured) was assassinated with an improvised firearm due to resentment against the Unification Church.
+  pages: Shinzo Abe | Assassination of Shinzo Abe @34.69405556,135.78394444 | Improvised firearm | Unification Church
+- 2021: Head of a Bear (pictured) sold at auction in London for a total of £8.8 million, a record for a drawing by Leonardo da Vinci.
+  pages: Head of a Bear | Leonardo da Vinci
+- 2014: German citizen Lars Mittank disappeared from Varna Airport, Bulgaria; his last known movements were widely watched on YouTube.
+  pages: Disappearance of Lars Mittank | Varna Airport @43.23194444,27.82527778 | YouTube
+- 2014: In the 2014 FIFA World Cup semi-final at the Mineirão, Germany defeated Brazil 7–1 (players pictured), breaking several tournament records.
+  pages: 2014 FIFA World Cup | Mineirão @-19.86583333,-43.97083333 | Brazil v Germany (2014 FIFA World Cup)
+- 2003: Sudan Airways Flight 139 crashed near Port Sudan Airport during an emergency landing attempt, killing 116 of the 117 people on board.
+  pages: Sudan Airways Flight 139 @19.62,37.21666667 | Port Sudan New International Airport @19.43361111,37.23416667 | Emergency landing
+- 1990: West Germany won the FIFA World Cup final against defending champions Argentina, with Andreas Brehme scoring the game's only goal.
+  pages: Germany national football team | 1990 FIFA World Cup final | Argentina national football team | Andreas Brehme
+- 1980: Aeroflot Flight 4225 crashed near Almaty International Airport in the Kazakh Soviet Socialist Republic (present day Kazakhstan) killing all 166 people on board.
+  pages: Aeroflot Flight 4225 @43.32833333,76.98861111 | Almaty International Airport @43.35527778,77.04472222 | Kazakh Soviet Socialist Republic @48,68 | Kazakhstan
+- 1966: King Mwambutsa IV of Burundi was deposed in a coup d'état by his son, Prince Charles Ndizi.
+  pages: Mwambutsa IV of Burundi | July 1966 Burundian coup d'état | Ntare V of Burundi
+- 1965: Canadian Pacific Air Lines Flight 21 was destroyed by a bomb near 100 Mile House, Canada, killing 52.
+  pages: Canadian Pacific Air Lines Flight 21 @51.59611111,-121.76361111 | 100 Mile House @51.6425,-121.2975
+- 1962: Following student protests at Rangoon University, Burmese general Ne Win ordered the demolition of the historic students' union building.
+  pages: 1962 Rangoon University protests | University of Yangon @16.83,96.135 | Ne Win
+- 1950: Korean War: American troops withdrew from Cheonan, in modern-day South Korea, after suffering heavy casualties from a North Korean attack.
+  pages: Korean War | Cheonan @36.81,127.1475 | Battle of Chonan @36.81,127.1475
+- 1947: Following reports of the capture of a "flying disc" by U.S. Army Air Forces personnel near Roswell, New Mexico, the military stated that the crashed object was a conventional weather balloon.
+  pages: Roswell incident @33.95027778,-105.31416667 | United States Army Air Forces | Roswell, New Mexico @33.3942,-104.5228 | Weather balloon
+- 1874: Members of the North-West Mounted Police at Fort Dufferin began their March West, their first journey to the Canadian Prairies.
+  pages: North-West Mounted Police | Fort Dufferin @49.0306,-97.2022 | March West | Canadian Prairies
+- 1776: The United States Declaration of Independence received its first formal public reading, in Philadelphia.
+  pages: United States Declaration of Independence | Philadelphia @39.9528,-75.1636
+- 1758: French and Indian War: French forces defeated the British at Fort Carillon in the British colony of New York.
+  pages: French and Indian War | Battle of Carillon @43.84166667,-73.3875 | Fort Carillon @43.8417,-73.3875 | Province of New York
+- 1709: Great Northern War: Swedish forces under Charles XII were defeated by Russian troops led by Peter the Great at the Battle of Poltava.
+  pages: Great Northern War | Charles XII of Sweden | Peter the Great | Battle of Poltava @49.63138889,34.55277778
+- 1663: Baptist minister John Clarke (pictured) was granted the Rhode Island Royal Charter, described as the "grandest instrument of human liberty ever constructed".
+  pages: Baptists | John Clarke (Baptist minister) | Rhode Island Royal Charter
+[holidays]
+- Christian Feast Day: / Abda and Sabas
+  pages: Abda and Sabas
+- Christian Feast Day: / Auspicius of Trier
+  pages: Auspicius of Trier
+- Christian Feast Day: / Grimbald
+  pages: Grimbald of Saint-Bertin
+- Christian Feast Day: / Landrada
+  pages: Landrada
+- Christian Feast Day: / Kilian and Totnan
+  pages: Saint Kilian @53.81355556,-6.98108333 | Saint Totnan
+- Christian Feast Day: / Saints Peter and Fevronia Day (Russian Orthodox)
+  pages: Peter and Fevronia Day | Russian Orthodox Church
+- Christian Feast Day: / Priscilla and Aquila
+  pages: Priscilla and Aquila
+- Christian Feast Day: / Procopius of Scythopolis
+  pages: Procopius of Scythopolis
+- Christian Feast Day: / Sunniva and companions
+  pages: Sunniva
+- Christian Feast Day: / July 8 (Eastern Orthodox liturgics)
+  pages: July 8 (Eastern Orthodox liturgics)
+- Air Force and Air Defense Forces Day (Ukraine)
+  pages: Armed Forces Day | Ukraine @50.45,30.51666667
+=== 2026-07-09 ===
+[selected]
+- 2008: Under the belief that Israel and the United States were planning to attack its nuclear program, Iran conducted the Great Prophet III missile test and war games exercise.
+  pages: Nuclear program of Iran | Great Prophet III | Military simulation
+- 2006: Italy won their fourth World Cup title, defeating France 5–3 on penalties following a 1–1 draw after extra time (players pictured).
+  pages: Italy national football team | FIFA World Cup | France national football team | 2006 FIFA World Cup final
+- 1995: Sri Lankan civil war: After advising civilians to take shelter in places of worship, the Sri Lanka Air Force bombed a church in Navaly, killing at least 147 people.
+  pages: Sri Lankan civil war | Sri Lanka Air Force | Navaly church bombing @9.71111111,79.98777778 | Navaly @9.71527778,79.98472222
+- 1982: A British man named Michael Fagan broke into Buckingham Palace and entered Queen Elizabeth II's bedroom when she was asleep.
+  pages: Michael Fagan | Buckingham Palace @51.50083333,-0.14194444 | Elizabeth II
+- 1981: Nintendo released the arcade game Donkey Kong, which featured the debut of Mario, one of the most famous characters in video-game history.
+  pages: Nintendo @34.96972222,135.75619444 | Donkey Kong (1981 video game) | Mario
+- 1962: The United States conducted the Starfish Prime high-altitude nuclear test, the largest nuclear explosion in outer space.
+  pages: Starfish Prime @16.46666667,-169.63333333 | High-altitude nuclear explosion | Nuclear explosion
+- 1962: In a seminal moment for pop art, Andy Warhol's Campbell's Soup Cans exhibition opened at the Ferus Gallery in Los Angeles.
+  pages: Pop art | Andy Warhol | Campbell's Soup Cans | Ferus Gallery @34.08466667,-118.37625
+- 1958: An earthquake struck Lituya Bay, Alaska; the subsequent megatsunami, the largest in modern times, reached an elevation of 1,720 ft (524 m).
+  pages: 1958 Lituya Bay earthquake and megatsunami @58.6425,-137.565 | Lituya Bay @58.63694444,-137.57305556 | Megatsunami
+- 1955: Albert Einstein, Bertrand Russell (pictured) and nine other preeminent intellectuals and scientists issued the Russell–Einstein Manifesto, calling for a conference to assess the dangers posed by weapons of mass destruction.
+  pages: Albert Einstein | Bertrand Russell | Russell–Einstein Manifesto | Pugwash Conferences on Science and World Affairs | Weapon of mass destruction
+- 1943: World War II: The Battle of Saipan concluded after a mass Japanese suicide attack was repelled by American forces.
+  pages: World War II | Battle of Saipan @15.18333333,145.75 | Banzai charge
+- 1937: Nitrate film being stored in a 20th Century Fox facility spontaneously combusted, destroying more than 40,000 reels of negatives and film prints.
+  pages: Nitrocellulose | 20th Century Studios | 1937 Fox vault fire @40.855,-74.0475 | Negative (photography) | Release print
+- 1896: Politician William Jennings Bryan made his Cross of Gold speech advocating bimetallism, considered one of the greatest political speeches in American history.
+  pages: William Jennings Bryan | Cross of Gold speech | Bimetallism
+- 1877: The inaugural Wimbledon Championship, the world's oldest tennis tournament, began in London.
+  pages: 1877 Wimbledon Championship | Wimbledon Championships
+- 1868: The Fourteenth Amendment to the United States Constitution, including the Citizenship Clause and the Equal Protection Clause, was ratified by the minimum required twenty-eight states.
+  pages: Fourteenth Amendment to the United States Constitution | Constitution of the United States | Citizenship Clause | Equal Protection Clause
+- 1850: Following Zachary Taylor's death, Millard Fillmore (pictured) became president of the United States, the last member of the Whig Party to hold that office.
+  pages: Zachary Taylor | Millard Fillmore | Whig Party (United States)
+- 1811: British explorer David Thompson posted a notice at the confluence of the Columbia and Snake Rivers (in modern Washington state, U.S.), claiming the area for Great Britain.
+  pages: David Thompson (explorer) | Columbia River @46.24416667,-124.05805556 | Snake River @46.18611111,-119.02861111 | Washington (state) @47,-120
+- 1790: Russo-Swedish War: During the Battle of Svensksund in the Baltic Sea, the Swedish Navy captured a third of the Russian fleet.
+  pages: Russo-Swedish War (1788–1790) | Battle of Svensksund @60.43333333,26.95833333 | Baltic Sea @58,20 | Swedish Navy | Russian Navy
+- 1763: The Mozart family grand tour began, presenting child prodigies Maria Anna and Wolfgang in Western Europe.
+  pages: Mozart family grand tour | Maria Anna Mozart | Wolfgang Amadeus Mozart
+- 1745: War of the Austrian Succession: French victory at the Battle of Melle enabled their subsequent capture of Ghent from the Austrian Netherlands.
+  pages: War of the Austrian Succession | Battle of Melle @51,3.8075 | Ghent @51.05361111,3.72527778 | Austrian Netherlands
+- 1640: The Virginia Governor's Council made John Punch the first legally recognized slave in England's North American colonies.
+  pages: Virginia Governor's Council | John Punch (slave) | Thirteen Colonies
+- 551: An estimated 30,000 people died when a massive earthquake struck the Roman province of Phoenice.
+  pages: 551 Beirut earthquake @33.9,35.5 | Phoenice (Roman province)
+[holidays]
+- Arbor Day (Cambodia)
+  pages: Arbor Day | Cambodia @12.5,105
+- Christian Feast Day: / Amandina of Schakkebroek (one of Martyrs of Southern Hunan)
+  pages: Amandina of Schakkebroek | Martyr Saints of China
+- Christian Feast Day: / Blessed Marija Petković
+  pages: Beatification | Marija Petković
+- Christian Feast Day: / Everilda
+  pages: Everilda
+- Christian Feast Day: / Blessed Giovanna Scopelli
+  pages: Beatification | Giovanna Scopelli
+- Christian Feast Day: / Gregorio Grassi (one of Martyrs of Shanxi)
+  pages: Gregorio Grassi | Martyr Saints of China
+- Christian Feast Day: / Martyr Saints of China
+  pages: Martyr Saints of China
+- Christian Feast Day: / Martyrs of Gorkum
+  pages: Martyrs of Gorkum
+- Christian Feast Day: / Our Lady of Itatí
+  pages: Our Lady of Itatí
+- Christian Feast Day: / Our Lady of Peace, Octave of the Visitation
+  pages: Our Lady of Peace | Visitation (Christianity)
+- Christian Feast Day: / Our Lady of the Rosary of Chiquinquirá
+  pages: Our Lady of the Rosary of Chiquinquirá
+- Christian Feast Day: / Pauline of the Agonizing Heart of Jesus
+  pages: Pauline of the Agonizing Heart of Jesus
+- Christian Feast Day: / Stephen Langton, Archbishop of Canterbury (Anglican commemoration)
+  pages: Stephen Langton
+- Christian Feast Day: / Veronica Giuliani
+  pages: Veronica Giuliani
+- Christian Feast Day: / July 9 (Eastern Orthodox liturgics)
+  pages: July 9 (Eastern Orthodox liturgics)
+- Constitution Day (Australia)
+  pages: Constitution Day
+- Constitution Day (Palau)
+  pages: Public holidays in Palau
+- Constitutionalist Revolution Day (São Paulo)
+  pages: Constitutionalist Revolution | São Paulo (state) @-22.07,-48.4336
+- Day of the Employees of the Diplomatic Service (Azerbaijan)
+  pages: Public holidays in Azerbaijan | Azerbaijan @40.3,47.7
+- Independence Day, celebrates the declaration of independence of the United Provinces of South America by the Congress of Tucumán in 1816. (Argentina)
+  pages: Argentina Independence Day | United Provinces of the Río de la Plata @-34.6667,-58.4 | Congress of Tucumán | Argentina @-34,-64
+- Independence Day, celebrates the independence of South Sudan from Sudan in 2011.
+  pages: Public holidays in South Sudan | South Sudan @8,30 | Sudan @15,32
+- Nunavut Day (Nunavut)
+  pages: Nunavut Day | Nunavut @70.16666667,-90.73333333
+=== 2026-07-10 ===
+[selected]
+- 2018: The last members of a junior association football team and their coach were rescued from Tham Luang Nang Non, a flooded cave in northern Thailand.
+  pages: Association football | Tham Luang cave rescue @20.38166667,99.86833333 | Tham Luang Nang Non @20.38166667,99.86833333
+- 2011: The last edition of the British tabloid News of the World was published, closing due to allegations that it hacked the voicemails of murdered schoolgirl Milly Dowler, victims of the 7/7 attacks and relatives of deceased British soldiers.
+  pages: Tabloid journalism | News of the World | News International phone hacking scandal | Murder of Milly Dowler | 7 July 2005 London bombings
+- 2011: The Russian river cruise liner Bulgaria was caught in a storm in Tatarstan on the Volga River and sank in several minutes, resulting in 122 deaths.
+  pages: Bulgaria (disambiguation) | Tatarstan @55.55,50.93333333 | Volga @45.695,47.8975
+- 2006: Typhoon Ewiniar made landfall in South Korea, causing damages across the country amounting to 2.06 trillion won (US$1.4 billion).
+  pages: Typhoon Ewiniar (2006) | South Korean won
+- 1999: The United States defeated China in the final match of the third FIFA Women's World Cup, setting records in both attendance and television ratings for women's sports.
+  pages: United States women's national soccer team | China women's national football team | 1999 FIFA Women's World Cup final | 1999 FIFA Women's World Cup
+- 1978: Moktar Ould Daddah, the first president of Mauritania, was ousted in a coup d'état led by Mustafa Ould Salek.
+  pages: Moktar Ould Daddah | List of heads of state of Mauritania | 1978 Mauritanian coup d'état | Mustafa Ould Salek
+- 1973: John Paul Getty III, a grandson of the American oil magnate J. Paul Getty, was kidnapped in Rome.
+  pages: John Paul Getty III | J. Paul Getty
+- 1966: Martin Luther King Jr. (pictured) led a rally in support of the Chicago Freedom Movement, one of the most ambitious civil-rights campaigns in the northern United States.
+  pages: Martin Luther King Jr. | Chicago Freedom Movement | Civil rights movement
+- 1945: Three African-American United States Marines who repeatedly raped local women in Katsuyama near Nago, Okinawa were killed by the residents and had their bodies hidden in a nearby cave for over 50 years.
+  pages: United States Marine Corps | Nago @26.59166667,127.9775 | Okinawa Prefecture @26.5,128 | 1945 Katsuyama killing incident @26.5917,127.9775
+- 1942: A downed Japanese Mitsubishi A6M Zero was discovered on Akutan Island, Alaska; it was later rebuilt and flown to devise tactics against the aircraft during World War II.
+  pages: Akutan Zero | Akutan Island @54.12805556,-165.91805556
+- 1941: The Holocaust: Ethnic Poles murdered at least 340 Jewish residents of Jedwabne in German-occupied Poland.
+  pages: The Holocaust | Jedwabne pogrom | Jedwabne @53.28666667,22.30222222 | Occupation of Poland (1939–1945)
+- 1925: Indian mystic and spiritual master Meher Baba began his silence until his death in 1969, only communicating by means of an alphabet board or by unique hand gestures.
+  pages: Guru | Meher Baba
+- 1921: Irish War of Independence: One day after a truce was agreed between the Irish Republican Army and British forces, violence broke out between Catholics and Protestants in Belfast.
+  pages: Irish War of Independence | Irish Republican Army | Bloody Sunday (1921) | Belfast @54.5967,-5.93
+- 1913: The air temperature in Furnace Creek, California, reached 134 °F (56.7 °C), recognized by the World Meteorological Organization as the highest recorded on Earth.
+  pages: Furnace Creek, California @36.45805556,-116.87083333 | World Meteorological Organization | Highest temperature recorded on Earth
+- 1806: Indian sepoys mutinied against the East India Company at Vellore Fort.
+  pages: Sepoy | Vellore Mutiny | East India Company | Vellore Fort @12.9208333,79.1283333
+- 1668: Anglo-Spanish War (1654–1660): Henry Morgan with an English privateer force landed at Porto Bello (in modern-day Panama) in an attempt to capture the Spanish city.
+  pages: Anglo-Spanish War (1654–1660) | Henry Morgan | Privateer | Portobelo @9.55444444,-79.655 | Henry Morgan's raid on Porto Bello @9.55444444,-79.655
+- 1645: English Civil War: The Parliamentarians destroyed the last Royalist field army at the Battle of Langport, ultimately giving Parliament control of the west of England.
+  pages: English Civil War | Roundhead | Cavalier | Battle of Langport @51.04194444,-2.80111111 | Parliament of England
+- 1553: Lady Jane Grey (pictured) was proclaimed the successor to King Edward VI of England, beginning her disputed reign as the "Nine Days' Queen".
+  pages: Lady Jane Grey | Edward VI
+- 1519: Zhu Chenhao declared Ming emperor Zhengde to be a usurper, beginning the Prince of Ning rebellion.
+  pages: Zhu Chenhao | Ming dynasty | Zhengde Emperor | Prince of Ning rebellion
+- 1372: The Treaty of Tagilde was signed between Ferdinand I of Portugal and representatives of John of Gaunt of England, marking the beginning of the Anglo-Portuguese Alliance, which remains in effect today.
+  pages: Treaty of Tagilde | Ferdinand I of Portugal | John of Gaunt | Anglo-Portuguese Alliance
+- 645: In a plot to eliminate the Japanese Soga clan, Prince Naka no Ōe assassinated Soga no Iruka (depicted), beginning the Isshi incident.
+  pages: Soga clan | Emperor Tenji | Soga no Iruka | Isshi incident @34.4734,135.821
+[holidays]
+- Armed Forces Day (Mauritania)
+  pages: Armed Forces Day
+- Christian feast day: / Amalberga of Maubeuge
+  pages: Amalberga of Maubeuge
+- Christian feast day: / Canute IV of Denmark
+  pages: Canute IV of Denmark
+- Christian feast day: / Martyrs of Damascus
+  pages: Martyrs of Damascus
+- Christian feast day: / Rufina and Secunda
+  pages: Rufina and Secunda
+- Christian feast day: / Seven Brothers
+  pages: Felicitas of Rome
+- Christian feast day: / Victoria, Anatolia, and Audax
+  pages: Victoria, Anatolia, and Audax
+- Christian feast day: / July 10 (Eastern Orthodox liturgics)
+  pages: July 10 (Eastern Orthodox liturgics)
+- Independence Day (Bahamas), celebrates the independence of the Bahamas from the United Kingdom in 1973.
+  pages: Public holidays in the Bahamas | The Bahamas @25,-77.4
+- Nikola Tesla Day
+  pages: Nikola Tesla in popular culture
+- Statehood Day (Wyoming)
+  pages: List of U.S. states by date of admission to the Union

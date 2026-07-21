@@ -1,0 +1,303 @@
+
+> mapago@0.0.0 ai:views
+> tsx scripts/get-wikipedia-views.ts
+
+{
+  "range": {
+    "startMonth": "2025-07",
+    "endMonth": "2026-06",
+    "months": 12
+  },
+  "results": [
+    {
+      "query": "https://en.wikipedia.org/wiki/2020_Hpakant_jade_mine_disaster",
+      "article": "2020_Hpakant_jade_mine_disaster",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/2020_Hpakant_jade_mine_disaster/monthly/2025070100/2026063000",
+      "totalViews": 10479,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 6480
+        },
+        {
+          "month": "2025-08",
+          "views": 300
+        },
+        {
+          "month": "2025-09",
+          "views": 365
+        },
+        {
+          "month": "2025-10",
+          "views": 326
+        },
+        {
+          "month": "2025-11",
+          "views": 1136
+        },
+        {
+          "month": "2025-12",
+          "views": 248
+        },
+        {
+          "month": "2026-01",
+          "views": 316
+        },
+        {
+          "month": "2026-02",
+          "views": 322
+        },
+        {
+          "month": "2026-03",
+          "views": 217
+        },
+        {
+          "month": "2026-04",
+          "views": 249
+        },
+        {
+          "month": "2026-05",
+          "views": 256
+        },
+        {
+          "month": "2026-06",
+          "views": 264
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Ponary_massacre",
+      "article": "Ponary_massacre",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Ponary_massacre/monthly/2025070100/2026063000",
+      "totalViews": 42208,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 3018
+        },
+        {
+          "month": "2025-08",
+          "views": 3148
+        },
+        {
+          "month": "2025-09",
+          "views": 3487
+        },
+        {
+          "month": "2025-10",
+          "views": 3439
+        },
+        {
+          "month": "2025-11",
+          "views": 4317
+        },
+        {
+          "month": "2025-12",
+          "views": 4802
+        },
+        {
+          "month": "2026-01",
+          "views": 5951
+        },
+        {
+          "month": "2026-02",
+          "views": 3059
+        },
+        {
+          "month": "2026-03",
+          "views": 2531
+        },
+        {
+          "month": "2026-04",
+          "views": 2865
+        },
+        {
+          "month": "2026-05",
+          "views": 2749
+        },
+        {
+          "month": "2026-06",
+          "views": 2842
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Capture_of_Grenada_(1779)",
+      "article": "Capture_of_Grenada_(1779)",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Capture_of_Grenada_(1779)/monthly/2025070100/2026063000",
+      "totalViews": 13200,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 8199
+        },
+        {
+          "month": "2025-08",
+          "views": 435
+        },
+        {
+          "month": "2025-09",
+          "views": 451
+        },
+        {
+          "month": "2025-10",
+          "views": 458
+        },
+        {
+          "month": "2025-11",
+          "views": 573
+        },
+        {
+          "month": "2025-12",
+          "views": 483
+        },
+        {
+          "month": "2026-01",
+          "views": 604
+        },
+        {
+          "month": "2026-02",
+          "views": 381
+        },
+        {
+          "month": "2026-03",
+          "views": 417
+        },
+        {
+          "month": "2026-04",
+          "views": 385
+        },
+        {
+          "month": "2026-05",
+          "views": 412
+        },
+        {
+          "month": "2026-06",
+          "views": 402
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Qianling_Mausoleum",
+      "article": "Qianling_Mausoleum",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Qianling_Mausoleum/monthly/2025070100/2026063000",
+      "totalViews": 28657,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 2418
+        },
+        {
+          "month": "2025-08",
+          "views": 2058
+        },
+        {
+          "month": "2025-09",
+          "views": 2242
+        },
+        {
+          "month": "2025-10",
+          "views": 2849
+        },
+        {
+          "month": "2025-11",
+          "views": 2829
+        },
+        {
+          "month": "2025-12",
+          "views": 2395
+        },
+        {
+          "month": "2026-01",
+          "views": 2477
+        },
+        {
+          "month": "2026-02",
+          "views": 2154
+        },
+        {
+          "month": "2026-03",
+          "views": 2124
+        },
+        {
+          "month": "2026-04",
+          "views": 2527
+        },
+        {
+          "month": "2026-05",
+          "views": 2269
+        },
+        {
+          "month": "2026-06",
+          "views": 2315
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Battle_of_Marston_Moor",
+      "article": "Battle_of_Marston_Moor",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Battle_of_Marston_Moor/monthly/2025070100/2026063000",
+      "totalViews": 66509,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 6132
+        },
+        {
+          "month": "2025-08",
+          "views": 5718
+        },
+        {
+          "month": "2025-09",
+          "views": 5503
+        },
+        {
+          "month": "2025-10",
+          "views": 6058
+        },
+        {
+          "month": "2025-11",
+          "views": 6311
+        },
+        {
+          "month": "2025-12",
+          "views": 4894
+        },
+        {
+          "month": "2026-01",
+          "views": 5497
+        },
+        {
+          "month": "2026-02",
+          "views": 5509
+        },
+        {
+          "month": "2026-03",
+          "views": 5716
+        },
+        {
+          "month": "2026-04",
+          "views": 5089
+        },
+        {
+          "month": "2026-05",
+          "views": 5176
+        },
+        {
+          "month": "2026-06",
+          "views": 4906
+        }
+      ]
+    }
+  ]
+}

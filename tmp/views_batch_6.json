@@ -1,0 +1,303 @@
+
+> mapago@0.0.0 ai:views
+> tsx scripts/get-wikipedia-views.ts
+
+{
+  "range": {
+    "startMonth": "2025-07",
+    "endMonth": "2026-06",
+    "months": 12
+  },
+  "results": [
+    {
+      "query": "https://en.wikipedia.org/wiki/Mamudo_school_massacre",
+      "article": "Mamudo_school_massacre",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Mamudo_school_massacre/monthly/2025070100/2026063000",
+      "totalViews": 3287,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 425
+        },
+        {
+          "month": "2025-08",
+          "views": 181
+        },
+        {
+          "month": "2025-09",
+          "views": 209
+        },
+        {
+          "month": "2025-10",
+          "views": 168
+        },
+        {
+          "month": "2025-11",
+          "views": 273
+        },
+        {
+          "month": "2025-12",
+          "views": 254
+        },
+        {
+          "month": "2026-01",
+          "views": 189
+        },
+        {
+          "month": "2026-02",
+          "views": 171
+        },
+        {
+          "month": "2026-03",
+          "views": 194
+        },
+        {
+          "month": "2026-04",
+          "views": 487
+        },
+        {
+          "month": "2026-05",
+          "views": 312
+        },
+        {
+          "month": "2026-06",
+          "views": 424
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Siege_of_Sa%C3%AFo",
+      "article": "Siege_of_Saïo",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Siege_of_Sa%C3%AFo/monthly/2025070100/2026063000",
+      "totalViews": 5324,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 409
+        },
+        {
+          "month": "2025-08",
+          "views": 480
+        },
+        {
+          "month": "2025-09",
+          "views": 526
+        },
+        {
+          "month": "2025-10",
+          "views": 461
+        },
+        {
+          "month": "2025-11",
+          "views": 476
+        },
+        {
+          "month": "2025-12",
+          "views": 417
+        },
+        {
+          "month": "2026-01",
+          "views": 470
+        },
+        {
+          "month": "2026-02",
+          "views": 369
+        },
+        {
+          "month": "2026-03",
+          "views": 388
+        },
+        {
+          "month": "2026-04",
+          "views": 414
+        },
+        {
+          "month": "2026-05",
+          "views": 488
+        },
+        {
+          "month": "2026-06",
+          "views": 426
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Battle_of_Wagram",
+      "article": "Battle_of_Wagram",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Battle_of_Wagram/monthly/2025070100/2026063000",
+      "totalViews": 103137,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 9765
+        },
+        {
+          "month": "2025-08",
+          "views": 8906
+        },
+        {
+          "month": "2025-09",
+          "views": 8490
+        },
+        {
+          "month": "2025-10",
+          "views": 9610
+        },
+        {
+          "month": "2025-11",
+          "views": 10489
+        },
+        {
+          "month": "2025-12",
+          "views": 9150
+        },
+        {
+          "month": "2026-01",
+          "views": 8416
+        },
+        {
+          "month": "2026-02",
+          "views": 7204
+        },
+        {
+          "month": "2026-03",
+          "views": 7311
+        },
+        {
+          "month": "2026-04",
+          "views": 8052
+        },
+        {
+          "month": "2026-05",
+          "views": 8590
+        },
+        {
+          "month": "2026-06",
+          "views": 7154
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/First_Battle_of_Algeciras",
+      "article": "First_Battle_of_Algeciras",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/First_Battle_of_Algeciras/monthly/2025070100/2026063000",
+      "totalViews": 8391,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 1056
+        },
+        {
+          "month": "2025-08",
+          "views": 759
+        },
+        {
+          "month": "2025-09",
+          "views": 710
+        },
+        {
+          "month": "2025-10",
+          "views": 678
+        },
+        {
+          "month": "2025-11",
+          "views": 671
+        },
+        {
+          "month": "2025-12",
+          "views": 682
+        },
+        {
+          "month": "2026-01",
+          "views": 687
+        },
+        {
+          "month": "2026-02",
+          "views": 529
+        },
+        {
+          "month": "2026-03",
+          "views": 553
+        },
+        {
+          "month": "2026-04",
+          "views": 589
+        },
+        {
+          "month": "2026-05",
+          "views": 782
+        },
+        {
+          "month": "2026-06",
+          "views": 695
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Festival_of_San_Ferm%C3%ADn",
+      "article": "Festival_of_San_Fermín",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Festival_of_San_Ferm%C3%ADn/monthly/2025070100/2026063000",
+      "totalViews": 82379,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 29506
+        },
+        {
+          "month": "2025-08",
+          "views": 5873
+        },
+        {
+          "month": "2025-09",
+          "views": 7054
+        },
+        {
+          "month": "2025-10",
+          "views": 5082
+        },
+        {
+          "month": "2025-11",
+          "views": 4214
+        },
+        {
+          "month": "2025-12",
+          "views": 3570
+        },
+        {
+          "month": "2026-01",
+          "views": 3981
+        },
+        {
+          "month": "2026-02",
+          "views": 4030
+        },
+        {
+          "month": "2026-03",
+          "views": 4592
+        },
+        {
+          "month": "2026-04",
+          "views": 4303
+        },
+        {
+          "month": "2026-05",
+          "views": 5109
+        },
+        {
+          "month": "2026-06",
+          "views": 5065
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+
+> mapago@0.0.0 ai:views
+> tsx scripts/get-wikipedia-views.ts
+
+{
+  "range": {
+    "startMonth": "2025-07",
+    "endMonth": "2026-06",
+    "months": 12
+  },
+  "results": [
+    {
+      "query": "https://en.wikipedia.org/wiki/Battle_of_the_Boyne",
+      "article": "Battle_of_the_Boyne",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Battle_of_the_Boyne/monthly/2025070100/2026063000",
+      "totalViews": 298257,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 89988
+        },
+        {
+          "month": "2025-08",
+          "views": 21064
+        },
+        {
+          "month": "2025-09",
+          "views": 17979
+        },
+        {
+          "month": "2025-10",
+          "views": 18277
+        },
+        {
+          "month": "2025-11",
+          "views": 16662
+        },
+        {
+          "month": "2025-12",
+          "views": 14551
+        },
+        {
+          "month": "2026-01",
+          "views": 16686
+        },
+        {
+          "month": "2026-02",
+          "views": 16577
+        },
+        {
+          "month": "2026-03",
+          "views": 20102
+        },
+        {
+          "month": "2026-04",
+          "views": 17912
+        },
+        {
+          "month": "2026-05",
+          "views": 20997
+        },
+        {
+          "month": "2026-06",
+          "views": 27462
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/2002_%C3%9Cberlingen_mid-air_collision",
+      "article": "2002_Überlingen_mid-air_collision",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/2002_%C3%9Cberlingen_mid-air_collision/monthly/2025070100/2026063000",
+      "totalViews": 319020,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 59285
+        },
+        {
+          "month": "2025-08",
+          "views": 31208
+        },
+        {
+          "month": "2025-09",
+          "views": 20697
+        },
+        {
+          "month": "2025-10",
+          "views": 19087
+        },
+        {
+          "month": "2025-11",
+          "views": 23624
+        },
+        {
+          "month": "2025-12",
+          "views": 19608
+        },
+        {
+          "month": "2026-01",
+          "views": 23051
+        },
+        {
+          "month": "2026-02",
+          "views": 21857
+        },
+        {
+          "month": "2026-03",
+          "views": 29488
+        },
+        {
+          "month": "2026-04",
+          "views": 25508
+        },
+        {
+          "month": "2026-05",
+          "views": 21501
+        },
+        {
+          "month": "2026-06",
+          "views": 24106
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Scottish_Parliament",
+      "article": "Scottish_Parliament",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Scottish_Parliament/monthly/2025070100/2026063000",
+      "totalViews": 327215,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 17132
+        },
+        {
+          "month": "2025-08",
+          "views": 21123
+        },
+        {
+          "month": "2025-09",
+          "views": 22416
+        },
+        {
+          "month": "2025-10",
+          "views": 21684
+        },
+        {
+          "month": "2025-11",
+          "views": 17231
+        },
+        {
+          "month": "2025-12",
+          "views": 15912
+        },
+        {
+          "month": "2026-01",
+          "views": 19562
+        },
+        {
+          "month": "2026-02",
+          "views": 22213
+        },
+        {
+          "month": "2026-03",
+          "views": 20980
+        },
+        {
+          "month": "2026-04",
+          "views": 27255
+        },
+        {
+          "month": "2026-05",
+          "views": 94778
+        },
+        {
+          "month": "2026-06",
+          "views": 26929
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Fouta_Djallon",
+      "article": "Fouta_Djallon",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Fouta_Djallon/monthly/2025070100/2026063000",
+      "totalViews": 24084,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 1811
+        },
+        {
+          "month": "2025-08",
+          "views": 1887
+        },
+        {
+          "month": "2025-09",
+          "views": 1853
+        },
+        {
+          "month": "2025-10",
+          "views": 2295
+        },
+        {
+          "month": "2025-11",
+          "views": 2183
+        },
+        {
+          "month": "2025-12",
+          "views": 2218
+        },
+        {
+          "month": "2026-01",
+          "views": 2452
+        },
+        {
+          "month": "2026-02",
+          "views": 1757
+        },
+        {
+          "month": "2026-03",
+          "views": 1854
+        },
+        {
+          "month": "2026-04",
+          "views": 1825
+        },
+        {
+          "month": "2026-05",
+          "views": 1964
+        },
+        {
+          "month": "2026-06",
+          "views": 1985
+        }
+      ]
+    },
+    {
+      "query": "https://en.wikipedia.org/wiki/Raid_on_Lunenburg,_Nova_Scotia_(1782)",
+      "article": "Raid_on_Lunenburg,_Nova_Scotia_(1782)",
+      "resolvedBy": "url",
+      "wikidata": null,
+      "source": "https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Raid_on_Lunenburg%2C_Nova_Scotia_(1782)/monthly/2025070100/2026063000",
+      "totalViews": 13135,
+      "monthlyViews": [
+        {
+          "month": "2025-07",
+          "views": 8774
+        },
+        {
+          "month": "2025-08",
+          "views": 474
+        },
+        {
+          "month": "2025-09",
+          "views": 349
+        },
+        {
+          "month": "2025-10",
+          "views": 440
+        },
+        {
+          "month": "2025-11",
+          "views": 449
+        },
+        {
+          "month": "2025-12",
+          "views": 402
+        },
+        {
+          "month": "2026-01",
+          "views": 351
+        },
+        {
+          "month": "2026-02",
+          "views": 328
+        },
+        {
+          "month": "2026-03",
+          "views": 319
+        },
+        {
+          "month": "2026-04",
+          "views": 283
+        },
+        {
+          "month": "2026-05",
+          "views": 332
+        },
+        {
+          "month": "2026-06",
+          "views": 634
+        }
+      ]
+    }
+  ]
+}
