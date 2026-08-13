@@ -2,7 +2,7 @@ import { useState } from "react"
 
 export const API_BASE_URL = "https://mapago-backend.map-ago.workers.dev"
 export const SESSION_TOKEN_COOKIE = "mapago_session_token"
-export const MAX_ROUND_SCORE = 5000
+export const MAX_ROUND_SCORE = 100
 
 type RequestMethod = "GET" | "POST" | "PATCH" | "DELETE"
 

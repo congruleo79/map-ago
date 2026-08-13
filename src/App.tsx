@@ -108,9 +108,20 @@ const initialAppData: AppData = {
 }
 
 const mapAttribution = "&copy; Esri, Maxar, Earthstar Geographics, and the GIS User Community"
+const imageryTileUrl = "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+const referenceOverlayTileUrl = "https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}"
 const defaultCenter: [number, number] = [18, 11]
 const defaultZoom = 2
 const worldOffsets = [-360, 0, 360]
+
+function BaseMapLayers({ showReferenceOverlay = false }: { showReferenceOverlay?: boolean }) {
+  return (
+    <>
+      <TileLayer attribution={mapAttribution} url={imageryTileUrl} />
+      {showReferenceOverlay ? <TileLayer attribution={mapAttribution} opacity={0.9} url={referenceOverlayTileUrl} zIndex={400} /> : null}
+    </>
+  )
+}
 
 function createPinIcon(className: string, options?: { avatar?: { label: string; backgroundColor: string }; bodyColor?: string; innerColor?: string }): DivIcon {
   return divIcon({
@@ -1199,6 +1210,7 @@ function App() {
   const isRoundResolved = Boolean(currentRoundResult)
   const isAllRoundsScored = targets.length > 0 && results.length === targets.length
   const isFinished = isAllRoundsScored && showFinalResults
+  const isShowingSummaryMap = isFinished && (showSummaryMap || !isMobileViewport)
   const currentRound = Math.min(roundIndex + 1, Math.max(targets.length, 1))
   const maxPoints = targets.length * 100
   const totalPoints = useMemo(() => results.reduce((sum, result) => sum + result.points, 0), [results])
@@ -1645,7 +1657,7 @@ function App() {
     return (
       <main className="game-shell">
         <MapContainer center={defaultCenter} className="game-map" worldCopyJump zoom={defaultZoom} zoomControl={false} minZoom={2} maxZoom={7}>
-          <TileLayer attribution={mapAttribution} url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" />
+          <BaseMapLayers />
         </MapContainer>
         <LoadingCard message="Loading today’s game and your player session..." />
       </main>
@@ -1659,7 +1671,7 @@ function App() {
       return (
         <main className="game-shell">
           <MapContainer center={defaultCenter} className="game-map" worldCopyJump zoom={defaultZoom} zoomControl={false} minZoom={2} maxZoom={7}>
-            <TileLayer attribution={mapAttribution} url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" />
+            <BaseMapLayers />
           </MapContainer>
           <LoadingCard message="Loading today’s game and your player session..." />
         </main>
@@ -1669,7 +1681,7 @@ function App() {
     return (
       <main className="game-shell">
         <MapContainer center={defaultCenter} className="game-map" worldCopyJump zoom={defaultZoom} zoomControl={false} minZoom={2} maxZoom={7}>
-          <TileLayer attribution={mapAttribution} url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" />
+          <BaseMapLayers />
         </MapContainer>
         <section className="overlay overlay--top" aria-label="Game status">
           <div className="hud-card hud-card--top hud-card--status">
@@ -1685,7 +1697,7 @@ function App() {
   return (
     <main className="game-shell">
       <MapContainer center={defaultCenter} className="game-map" worldCopyJump zoom={defaultZoom} zoomControl={false} minZoom={2} maxZoom={7}>
-        <TileLayer attribution={mapAttribution} url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" />
+        <BaseMapLayers showReferenceOverlay={isRoundResolved || isShowingSummaryMap} />
         {!isFinished && currentTarget ? (
           <GameMap
             currentUserAvatarColor={userAvatarColor}
@@ -1715,12 +1727,12 @@ function App() {
               }
             }}
           />
-        ) : isFinished && showSummaryMap ? (
+        ) : isShowingSummaryMap ? (
           <SummaryMap guessMarkers={summaryGuessMarkers} />
         ) : null}
       </MapContainer>
 
-      {isFinished && showSummaryMap ? (
+      {isFinished && showSummaryMap && isMobileViewport ? (
         <section className="overlay overlay--top overlay--summary-map" aria-label="Summary map controls">
           <div className="summary-map-toolbar">
             <button type="button" className="button button--primary summary-map-toolbar__back" onClick={() => setShowSummaryMap(false)}>
@@ -1938,9 +1950,11 @@ function App() {
               <button type="button" className="button button--primary" onClick={shareScore}>
                 Challenge your friends
               </button>
-              <button type="button" className="button button--ghost" onClick={() => setShowSummaryMap(true)}>
-                Show on Map
-              </button>
+              {isMobileViewport ? (
+                <button type="button" className="button button--ghost" onClick={() => setShowSummaryMap(true)}>
+                  Show on Map
+                </button>
+              ) : null}
             </div>
             {activeError ? <p className="error-banner">{activeError}</p> : null}
             {shareMessage ? <p className="share-message">{shareMessage}</p> : null}

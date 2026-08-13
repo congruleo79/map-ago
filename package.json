@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "blacklist": "tsx scripts/build-blacklist.ts",
     "dev": "vite --host",
     "build": "tsc -b && vite build",
     "ai:events": "tsx scripts/get-on-this-day.ts",
